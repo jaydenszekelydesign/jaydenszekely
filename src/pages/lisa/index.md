@@ -1,13 +1,13 @@
 ---
 templateKey: about-page
 title: Jayden Szekely
-full_image: /img/jayden.jpg
-leftBackground: /img/jayden.jpg
-leftTitle: View All Our Resources
-leftLink: '/resources'
+full_image: /img/me_rocks_photography.jpg
+leftBackground: /img/me_rocks_photography.jpg
+leftTitle: View my Portfolio
+leftLink: /portfolio
 rightTitle: My CV
 rightDescription: Download
-rightUrl: '/cv.pdf'
+rightUrl: /cv.pdf
 ---
 Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\
 \
