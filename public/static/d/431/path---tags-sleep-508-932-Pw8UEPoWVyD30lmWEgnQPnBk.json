@@ -1,1 +1,0 @@
-{"data":{"site":{"siteMetadata":{"title":"Gatsby + Netlify CMS Starter"}},"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/blog/sleep/"},"frontmatter":{"title":"Sleep"}}},{"node":{"fields":{"slug":"/resources/why-we-sleep/"},"frontmatter":{"title":"Why We Sleep"}}}]}},"pageContext":{"tag":"Sleep"}}

@@ -1,15 +1,15 @@
 ---
 templateKey: about-page
-title: Dr Lisa Dawson
-full_image: /img/lisa-2-.jpg
-leftBackground: /img/lisa-2-.jpg
+title: Jayden Szekely
+full_image: /img/jayden.jpg
+leftBackground: /img/jayden.jpg
 leftTitle: View All Our Resources
-leftLink: 'https://www.whatthecancer.com/resources'
-rightTitle: What The Cancer?
-rightDescription: Resources
-rightUrl: 'https://www.prekure.com/'
+leftLink: '/resources'
+rightTitle: My CV
+rightDescription: Download
+rightUrl: '/cv.pdf'
 ---
-Lisa is a Medical Oncologist working in Northland New Zealand. She practices in both the public hospital and for Canopy Cancer Care in private practice. She started the Cancer and blood services in Northland in 2014 and was clinical director for 3 years.   Under her leadership the Cancer and blood services won the DHB award for 'Outstanding Model of Care'. Lisa has a particular interest in breast cancer.\
+Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\
 \
 Lisa is a member of the Society of Integrative Oncology whose mission it is to advance evidence-based, comprehensive, integrative healthcare to improve the lives of people affected by cancer.  
 

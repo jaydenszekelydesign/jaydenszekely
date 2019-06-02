@@ -1,9 +1,9 @@
 ---
 templateKey: home
-title: What Can I Do?
+title: Jayden Szekely
 image: /img/home.jpg
-announcementBlurb: Read our Blog
+announcementBlurb: View all our Projects
 announcementLink: /blog
 announcementImage: img/anthony-intraversato-455600-unsplash.jpg
 ---
-This site in not currently active
+Hi!  I'm Jayden Szekely
