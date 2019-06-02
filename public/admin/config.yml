@@ -1,0 +1,115 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "src/pages/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Header Image", name: "header", widget: "file"}
+      - {label: "Give a brief overview of what you will cover", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Recommended Article Title", name: "recommendedName", widget: "string"}
+      - {label: "Recommended Article Image", name: "recommendedImage", widget: "file"}
+      - {label: "Recommended Article URL (Link)", name: "recommendedLink", widget: "string"}
+      - {label: "Tags - These are seperated by commas, Featured tags on all articles are: Food, Exercise, Sleep, Spirituality", name: "tags", widget: "list"}
+
+  - name: "resources"
+    label: "Resources"
+    folder: "src/pages/resources"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "resource"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: Header Image, name: "image", widget: file}
+      - {label: Description, name: "description", widget: string}
+      - {label: Title, name: title, widget: string}
+      - {label: Resource Name, name: resourceName, widget: string}
+      - {label: Resource Description, name: resourceDescription, widget: string}
+      - {label: Resource Image, name: resourceImage, widget: image}
+      - {label: Resource Price, name: resourcePrice, widget: string}
+      - {label: Resource Download or Purchase URL, name: resourceLink, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/index.md"
+        label: "Home Page"
+        name: "home"
+        create: true
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home"}
+          - {label: Banner Slogan, name: title, widget: string}
+          - {label: Header Image, name: "image", widget: file}
+          - {label: Thin Strip (Announcement Bar) Title / Blurb, name: "announcementBlurb", widget: string}
+          - {label: Thin Strip (Announcement Bar) Title / Blurb Link, name: "announcementLink", widget: string}
+          - {label: Thin Strip (Announcement Bar) Image, name: "announcementImage", widget: file}
+          - {label: "Body Content", name: "body", widget: "markdown"}
+
+      - file: "src/pages/about/index.md"
+        label: "About"
+        name: "about-page"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Wide Image", name: "full_image", widget: file}
+          - {label: "Bottom Split Bar / Left Background", name: "leftBackground", widget: file}
+          - {label: "Bottom Split Bar / Left Second Line", name: "leftTitle", widget: string}
+          - {label: "Bottom Split Bar / Left Link", name: "leftLink", widget: string}
+          - {label: "Bottom Split Bar / Right Title", name: "rightTitle", widget: string}
+          - {label: "Bottom Split Bar / Right Description (Second Line)", name: "rightDescription", widget: string}
+          - {label: "Bottom Split Bar / Right Link", name: "rightUrl", widget: string}
+
+
+
+      - file: "src/pages/jargon/index.md"
+        label: "Jargon"
+        name: "jargon"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Wide Image", name: "full_image", widget: file}
+
+      - file: "src/pages/resources/index.md"
+        label: "All Resources Home Page"
+        name: "resource-page"
+        create: true
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "resource-page"}
+          - {label: Title, name: "title", widget: string}
+          - {label: Header Image, name: "image", widget: file}
+          - {label: Description, name: "description", widget: string}
+          - {label: Full Image, name: "fullImage", widget: file}
+      
+      - file: "src/pages/lisa/index.md"
+        label: "Lisa Profile"
+        name: "lisa"
+        create: true
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page"}
+          - {label: "Name", name: "title", widget: string}
+          - {label: "Wide Image", name: "full_image", widget: file}
+          - {label: "Bottom Split Bar / Left Background", name: "leftBackground", widget: file}
+          - {label: "Bottom Split Bar / Left Second Line", name: "leftTitle", widget: string}
+          - {label: "Bottom Split Bar / Left Link", name: "leftLink", widget: string}
+          - {label: "Bottom Split Bar / Right Title", name: "rightTitle", widget: string}
+          - {label: "Bottom Split Bar / Right Description (Second Line)", name: "rightDescription", widget: string}
+          - {label: "Bottom Split Bar / Right Link", name: "rightUrl", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      
+  
+
+  
