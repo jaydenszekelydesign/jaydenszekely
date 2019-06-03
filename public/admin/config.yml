@@ -95,9 +95,9 @@ collections:
           - {label: Description, name: "description", widget: string}
           - {label: Full Image, name: "fullImage", widget: file}
       
-      - file: "src/pages/lisa/index.md"
-        label: "Lisa Profile"
-        name: "lisa"
+      - file: "src/pages/jayden/index.md"
+        label: "Meet Jayden Szekely"
+        name: "jayden"
         create: true
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page"}

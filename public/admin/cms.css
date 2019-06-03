@@ -1,4 +1,6 @@
-.green {
+body{
+  background-color: #1d1d1d;
+}.green {
   color: #0C403B; }
 
 .greenLink a {

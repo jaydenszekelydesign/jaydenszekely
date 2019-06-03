@@ -23,7 +23,7 @@ export const BlogPostTemplate = ({
     <div>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>{title} - Dr Lisa Dawson - What The Cancer</title>
+        <title>{title} - Jayden Szekey - Creative Media</title>
         <meta name="description" content={description}/>
       </Helmet>
       <Banner background={header}>{title}</Banner>
