@@ -1,5 +1,5 @@
 ---
-templateKey: resource
+templateKey: portfolio
 date: 2018-12-18T06:43:47.603Z
 image: /img/4-pillar-plan.jpg
 description: >-

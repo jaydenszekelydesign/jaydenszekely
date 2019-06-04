@@ -23,9 +23,9 @@ collections:
       - {label: "Recommended Article URL (Link)", name: "recommendedLink", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
 
-  - name: "resources"
-    label: "Resources"
-    folder: "src/pages/resources"
+  - name: "portfolio"
+    label: "Portfolio"
+    folder: "src/pages/portfolio"
     create: true
     slug: "{{slug}}"
     fields:
@@ -84,9 +84,9 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Wide Image", name: "full_image", widget: file}
 
-      - file: "src/pages/resources/index.md"
+      - file: "src/pages/portfolio/index.md"
         label: "All Resources Home Page"
-        name: "resource-page"
+        name: "portfolio-page"
         create: true
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "resource-page"}
