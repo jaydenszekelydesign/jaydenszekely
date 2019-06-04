@@ -26,6 +26,9 @@ const Home = ({children}) => (
     <Link to="/blog">
       <section>
         <header className="half" style={{backgroundImage: 'url("/img/home.jpg")'}}>
+        <svg viewbox="0 0 10 2" className="full-svg">
+  <text x="5" y="1" text-anchor="middle" font-size="1" fill="none" stroke-width=".015" stroke="#fff" font-family="sans-serif">Text stroke</text>
+</svg>
           <h1 className="half-bannerTitle">Read the Blog.</h1>
         </header>
       </section>

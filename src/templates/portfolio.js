@@ -27,12 +27,29 @@ export const PortfolioPostTemplate = ({
       <Banner background={portfolioImage}>{portfolioName}</Banner>
       <div className="article">
         <div class="left-portfolio">
-          <h4>{jobDate}</h4>
+          <h4>DEC – 2018</h4>
+          <a>Graphic Design</a><br />
+          <a>Branding</a><br />
+          <a>Video</a>
         </div>
-        <p>{portfolioDescription}</p><br /><br />
-        <PostContent content={content} />
+        <div class="right-portfolio">
+          <p>{portfolioDescription}</p>
+          <img src="../../img/listen.jpg" className="full"/><br /><br />
+        </div>
       </div>
-      <Split background="/img/portfolio-splash.jpg" recommendedTitle="View All Our Portfolios" link="https://www.whatthecancer.com/portfolios" authorName={portfolioPrice} authorBio="Download / Purchase this portfolio portfolio here" rightLink={portfolioLink} />
+      <img src="../../img/home.jpg" className="full"/>
+      <PostContent content={content} />
+      
+      <Link to="/cv">
+      <section>
+        <header className="half" style={{backgroundImage: 'url("/img/home.jpg")'}}>
+          <h1 className="trans-out">MY CV</h1>
+          <h1 className="half-bannerTitle">My CV.</h1>
+        </header>
+      </section>
+    </Link>
+      
+      
     </div>
   )
 }

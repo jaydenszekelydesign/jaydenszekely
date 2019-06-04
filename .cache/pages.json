@@ -75,6 +75,11 @@
         "path": "/portfolio/the-4-pillar-plan/"
     },
     {
+        "componentChunkName": "component---src-templates-portfolio-js",
+        "jsonName": "portfolio-what-the-cancer-4c7",
+        "path": "/portfolio/what-the-cancer/"
+    },
+    {
         "componentChunkName": "component---src-pages-tags-index-js",
         "jsonName": "tags-275",
         "path": "/tags/"

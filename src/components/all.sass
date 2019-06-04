@@ -35,6 +35,11 @@ h3
   color: inherit
   line-height: 1.2em
 
+h4 
+  font-size: 1.75em
+  font-weight: bold
+  color: $black
+
 a 
   font-weight: 400
   font-size: inherit
@@ -209,19 +214,53 @@ header
   h1 
     color: #fff
 
+  .trans-out
+    color: black
+    -webkit-text-fill-color: black
+    -webkit-text-stroke-width: 2px
+    -webkit-text-stroke-color: white
+    font-size: 7.5em
+
 
 .article
-  width: 45%
-  margin-left: 27.5%
+  width: 65%
+  margin-left: 17.5%
   margin-top: 75px
   margin-bottom: 100px
   position: relative
   z-index: 0
   align-content: center
 
+  .left-portfolio
+    width: 25%
+    padding-right: 0%
+    float: left
+    display: inline-block
+
+  .right-portfolio
+    width: 75%
+    padding-left: 5%
+    float: right
+    display: inline-block
+    font-size: 1.25em
+    color: $black
+    
+    p 
+      padding: 0
+
+
   img 
     padding-top: 2em
     padding-bottom: 2em
+    
+.full 
+  width: 100%
+  padding-top: 1em
+  padding-bottom: 1em
+  margin-bottom: 2em
+  margin-top: 1em
+
+
 
 @media screen and (max-width: $break-small) 
   .article
