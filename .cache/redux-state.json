@@ -1375,12 +1375,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-06-04T01:30:31.726Z",
+      "buildTime": "2019-06-04T02:03:16.808Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "dbde890c26d7fe3cf3d4ab20ae47c83d",
+        "contentDigest": "c760af1a480b29ed6052a5cfd700f152",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1390,7 +1390,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1240d234168701443049709af9ba5880",
+        "contentDigest": "c7edc1627f44d515e431d288e5bd6064",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1401,9 +1401,9 @@
       "extension": "",
       "size": 352,
       "prettySize": "352 B",
-      "modifiedTime": "2019-06-03T20:34:35.314Z",
-      "accessTime": "2019-06-04T01:30:35.549Z",
-      "changeTime": "2019-06-03T20:34:35.314Z",
+      "modifiedTime": "2019-06-04T01:47:05.211Z",
+      "accessTime": "2019-06-04T02:03:19.958Z",
+      "changeTime": "2019-06-04T01:47:05.211Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src",
@@ -1420,13 +1420,13 @@
       "blksize": 4194304,
       "ino": 21954363,
       "blocks": 0,
-      "atimeMs": 1559611835549.0625,
-      "mtimeMs": 1559594075314.4934,
-      "ctimeMs": 1559594075314.4934,
+      "atimeMs": 1559613799958.186,
+      "mtimeMs": 1559612825210.9175,
+      "ctimeMs": 1559612825210.9175,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:35.549Z",
-      "mtime": "2019-06-03T20:34:35.314Z",
-      "ctime": "2019-06-03T20:34:35.314Z",
+      "atime": "2019-06-04T02:03:19.958Z",
+      "mtime": "2019-06-04T01:47:05.211Z",
+      "ctime": "2019-06-04T01:47:05.211Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "f49b3d41-8450-5332-977a-6487361b7694": {
@@ -1434,7 +1434,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "77641cbc8be5a6c033217a498da346ab",
+        "contentDigest": "6e6adde3467ce8b9dc17343c1f5f7c49",
         "type": "Directory",
         "description": "Directory \"src/pages/about\"",
         "owner": "gatsby-source-filesystem"
@@ -1446,7 +1446,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:30:35.553Z",
+      "accessTime": "2019-06-04T02:03:19.962Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1464,11 +1464,11 @@
       "blksize": 4194304,
       "ino": 21954365,
       "blocks": 0,
-      "atimeMs": 1559611835552.5317,
+      "atimeMs": 1559613799962.0664,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.965,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:35.553Z",
+      "atime": "2019-06-04T02:03:19.962Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1478,7 +1478,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d3c89ebbe2aeb1fdc51135d6152ae261",
+        "contentDigest": "cc57131c83d941627cfaa99fa41eb719",
         "type": "Directory",
         "description": "Directory \"src/pages/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -1490,7 +1490,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:30:35.553Z",
+      "accessTime": "2019-06-04T02:03:19.962Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1508,11 +1508,11 @@
       "blksize": 4194304,
       "ino": 21954367,
       "blocks": 0,
-      "atimeMs": 1559611835552.5537,
+      "atimeMs": 1559613799962.0974,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.0347,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:35.553Z",
+      "atime": "2019-06-04T02:03:19.962Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1522,7 +1522,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d7591425dc72e07cdf409c8746509df5",
+        "contentDigest": "26b99365be845b6cd22f01b0ee714bf4",
         "type": "Directory",
         "description": "Directory \"src/pages/jargon\"",
         "owner": "gatsby-source-filesystem"
@@ -1534,7 +1534,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:30:35.553Z",
+      "accessTime": "2019-06-04T02:03:19.962Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1552,11 +1552,11 @@
       "blksize": 4194304,
       "ino": 21954374,
       "blocks": 0,
-      "atimeMs": 1559611835552.5825,
+      "atimeMs": 1559613799962.0522,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.5466,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:35.553Z",
+      "atime": "2019-06-04T02:03:19.962Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1566,7 +1566,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7f9c3e36c076c4e4b6d0dca91f69cf11",
+        "contentDigest": "4faed209c860656ae1c86d115c387c02",
         "type": "Directory",
         "description": "Directory \"src/pages/jayden\"",
         "owner": "gatsby-source-filesystem"
@@ -1578,7 +1578,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-06-02T03:42:24.272Z",
-      "accessTime": "2019-06-04T01:30:35.553Z",
+      "accessTime": "2019-06-04T02:03:19.962Z",
       "changeTime": "2019-06-03T20:34:35.314Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1596,11 +1596,11 @@
       "blksize": 4194304,
       "ino": 21954376,
       "blocks": 0,
-      "atimeMs": 1559611835552.6187,
+      "atimeMs": 1559613799962.178,
       "mtimeMs": 1559446944271.8406,
       "ctimeMs": 1559594075314.4934,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:35.553Z",
+      "atime": "2019-06-04T02:03:19.962Z",
       "mtime": "2019-06-02T03:42:24.272Z",
       "ctime": "2019-06-03T20:34:35.314Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1610,7 +1610,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bfd4298019de2ab9c9f5baffa945bc9f",
+        "contentDigest": "2777365054a3bd7f568b66a9696aaf82",
         "type": "Directory",
         "description": "Directory \"src/pages/listen\"",
         "owner": "gatsby-source-filesystem"
@@ -1622,7 +1622,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:30:35.553Z",
+      "accessTime": "2019-06-04T02:03:19.962Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1640,57 +1640,57 @@
       "blksize": 4194304,
       "ino": 21954378,
       "blocks": 0,
-      "atimeMs": 1559611835552.573,
+      "atimeMs": 1559613799962.1858,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.8938,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:35.553Z",
+      "atime": "2019-06-04T02:03:19.962Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
-    "96b18266-1511-55e4-971d-29974f86fa11": {
-      "id": "96b18266-1511-55e4-971d-29974f86fa11",
+    "901fa43a-767d-5cc3-8924-9c338585af71": {
+      "id": "901fa43a-767d-5cc3-8924-9c338585af71",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "313664325539073c6885aa07c97503e8",
+        "contentDigest": "eadde94c0dac2cd302fe47b8b90b3eb8",
         "type": "Directory",
-        "description": "Directory \"src/pages/resources\"",
+        "description": "Directory \"src/pages/portfolio\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources",
-      "relativePath": "resources",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio",
+      "relativePath": "portfolio",
       "extension": "",
-      "size": 256,
-      "prettySize": "256 B",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:30:35.553Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2019-06-04T01:46:10.828Z",
+      "accessTime": "2019-06-04T02:03:19.962Z",
+      "changeTime": "2019-06-04T01:47:05.211Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
-      "base": "resources",
+      "base": "portfolio",
       "ext": "",
-      "name": "resources",
+      "name": "portfolio",
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 8,
+      "nlink": 4,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 21954380,
       "blocks": 0,
-      "atimeMs": 1559611835552.6292,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.6497,
+      "atimeMs": 1559613799962.256,
+      "mtimeMs": 1559612770827.9055,
+      "ctimeMs": 1559612825210.9175,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:35.553Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
+      "atime": "2019-06-04T02:03:19.962Z",
+      "mtime": "2019-06-04T01:46:10.828Z",
+      "ctime": "2019-06-04T01:47:05.211Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "273c2fa5-fa5e-5ed9-bdcf-bb76d82a9c04": {
@@ -1698,7 +1698,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7eceb4a9712bdb5ee2e6a16545b7ec19",
+        "contentDigest": "fad0b95cb4b75106d68652e52d242eec",
         "type": "Directory",
         "description": "Directory \"src/pages/tags\"",
         "owner": "gatsby-source-filesystem"
@@ -1710,7 +1710,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:30:35.553Z",
+      "accessTime": "2019-06-04T02:03:19.962Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1728,11 +1728,11 @@
       "blksize": 4194304,
       "ino": 21954387,
       "blocks": 0,
-      "atimeMs": 1559611835552.624,
+      "atimeMs": 1559613799962.1975,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.2158,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:35.553Z",
+      "atime": "2019-06-04T02:03:19.962Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1755,7 +1755,7 @@
       "size": 460,
       "prettySize": "460 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:30:32.297Z",
+      "accessTime": "2019-06-04T02:03:17.363Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1773,11 +1773,11 @@
       "blksize": 4194304,
       "ino": 21954364,
       "blocks": 8,
-      "atimeMs": 1559611832296.6519,
+      "atimeMs": 1559613797363.4985,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.6208,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:32.297Z",
+      "atime": "2019-06-04T02:03:17.363Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1802,7 +1802,7 @@
       "size": 222,
       "prettySize": "222 B",
       "modifiedTime": "2019-06-02T02:23:32.338Z",
-      "accessTime": "2019-06-04T01:29:46.322Z",
+      "accessTime": "2019-06-04T02:02:35.033Z",
       "changeTime": "2019-06-02T02:23:32.338Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1820,13 +1820,60 @@
       "blksize": 4194304,
       "ino": 21954373,
       "blocks": 8,
-      "atimeMs": 1559611786322.3384,
+      "atimeMs": 1559613755032.563,
       "mtimeMs": 1559442212337.6743,
       "ctimeMs": 1559442212337.6743,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.322Z",
+      "atime": "2019-06-04T02:02:35.033Z",
       "mtime": "2019-06-02T02:23:32.338Z",
       "ctime": "2019-06-02T02:23:32.338Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b": {
+      "id": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
+      "children": [
+        "576c1608-0625-5c33-b071-c0b97ccc8337"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6530365ac35826f7b986d407df89f75a",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/jargon/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
+      "relativePath": "jargon/index.md",
+      "extension": "md",
+      "size": 920,
+      "prettySize": "920 B",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-04T02:02:35.041Z",
+      "changeTime": "2019-06-02T02:01:33.367Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "jargon",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954375,
+      "blocks": 8,
+      "atimeMs": 1559613755040.8647,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893366.5928,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-04T02:02:35.041Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f": {
@@ -1849,7 +1896,7 @@
       "size": 1155,
       "prettySize": "1.16 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.324Z",
+      "accessTime": "2019-06-04T02:02:35.413Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1867,58 +1914,11 @@
       "blksize": 4194304,
       "ino": 21954366,
       "blocks": 8,
-      "atimeMs": 1559611786323.738,
+      "atimeMs": 1559613755412.653,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.0078,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.324Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "c3852756-03d4-5be7-8695-1156377dc937": {
-      "id": "c3852756-03d4-5be7-8695-1156377dc937",
-      "children": [
-        "81797332-bf93-5c52-8f8b-2abf44a9d01d"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "33ce6385395cca6765f0d72ad35a9a31",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/blog/exercise.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/exercise.md",
-      "relativePath": "blog/exercise.md",
-      "extension": "md",
-      "size": 3295,
-      "prettySize": "3.29 kB",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.324Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
-      "base": "exercise.md",
-      "ext": ".md",
-      "name": "exercise",
-      "relativeDirectory": "blog",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954368,
-      "blocks": 8,
-      "atimeMs": 1559611786323.9307,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893367.1104,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.324Z",
+      "atime": "2019-06-04T02:02:35.413Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1943,7 +1943,7 @@
       "size": 195,
       "prettySize": "195 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.324Z",
+      "accessTime": "2019-06-04T02:02:35.413Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1961,11 +1961,58 @@
       "blksize": 4194304,
       "ino": 21954369,
       "blocks": 8,
-      "atimeMs": 1559611786323.9673,
+      "atimeMs": 1559613755413.0483,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.137,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.324Z",
+      "atime": "2019-06-04T02:02:35.413Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.367Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "c3852756-03d4-5be7-8695-1156377dc937": {
+      "id": "c3852756-03d4-5be7-8695-1156377dc937",
+      "children": [
+        "81797332-bf93-5c52-8f8b-2abf44a9d01d"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "33ce6385395cca6765f0d72ad35a9a31",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/exercise.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/exercise.md",
+      "relativePath": "blog/exercise.md",
+      "extension": "md",
+      "size": 3295,
+      "prettySize": "3.29 kB",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-04T02:02:35.413Z",
+      "changeTime": "2019-06-02T02:01:33.367Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
+      "base": "exercise.md",
+      "ext": ".md",
+      "name": "exercise",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954368,
+      "blocks": 8,
+      "atimeMs": 1559613755412.9902,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893367.1104,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-04T02:02:35.413Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1990,7 +2037,7 @@
       "size": 5745,
       "prettySize": "5.75 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.324Z",
+      "accessTime": "2019-06-04T02:02:35.413Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2008,11 +2055,11 @@
       "blksize": 4194304,
       "ino": 21954370,
       "blocks": 16,
-      "atimeMs": 1559611786323.9902,
+      "atimeMs": 1559613755413.0994,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.0837,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.324Z",
+      "atime": "2019-06-04T02:02:35.413Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2037,7 +2084,7 @@
       "size": 595,
       "prettySize": "595 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.324Z",
+      "accessTime": "2019-06-04T02:02:35.413Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2055,11 +2102,11 @@
       "blksize": 4194304,
       "ino": 21954371,
       "blocks": 8,
-      "atimeMs": 1559611786324.0515,
+      "atimeMs": 1559613755413.154,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.1897,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.324Z",
+      "atime": "2019-06-04T02:02:35.413Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2084,7 +2131,7 @@
       "size": 5728,
       "prettySize": "5.73 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.324Z",
+      "accessTime": "2019-06-04T02:02:35.413Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2102,103 +2149,11 @@
       "blksize": 4194304,
       "ino": 21954372,
       "blocks": 16,
-      "atimeMs": 1559611786324.0576,
+      "atimeMs": 1559613755413.218,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.1633,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.324Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0": {
-      "id": "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "46723e43e65e9af3aa6ec36c3e5f2f78",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/listen/index.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen/index.js",
-      "relativePath": "listen/index.js",
-      "extension": "js",
-      "size": 1499,
-      "prettySize": "1.5 kB",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:30:32.301Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "listen",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954379,
-      "blocks": 8,
-      "atimeMs": 1559611832301.3728,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.9377,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:32.301Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b": {
-      "id": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
-      "children": [
-        "576c1608-0625-5c33-b071-c0b97ccc8337"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "6530365ac35826f7b986d407df89f75a",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/jargon/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
-      "relativePath": "jargon/index.md",
-      "extension": "md",
-      "size": 920,
-      "prettySize": "920 B",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.324Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "jargon",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954375,
-      "blocks": 8,
-      "atimeMs": 1559611786324.446,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.5928,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.324Z",
+      "atime": "2019-06-04T02:02:35.413Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2223,7 +2178,7 @@
       "size": 1108,
       "prettySize": "1.11 kB",
       "modifiedTime": "2019-06-02T03:42:24.272Z",
-      "accessTime": "2019-06-04T01:29:46.325Z",
+      "accessTime": "2019-06-04T02:02:35.041Z",
       "changeTime": "2019-06-02T03:42:24.272Z",
       "birthTime": "2019-06-02T03:42:24.272Z",
       "root": "/",
@@ -2241,14 +2196,59 @@
       "blksize": 4194304,
       "ino": 22126938,
       "blocks": 8,
-      "atimeMs": 1559611786324.6125,
+      "atimeMs": 1559613755041.06,
       "mtimeMs": 1559446944272.0486,
       "ctimeMs": 1559446944272.0486,
       "birthtimeMs": 1559446944271.831,
-      "atime": "2019-06-04T01:29:46.325Z",
+      "atime": "2019-06-04T02:02:35.041Z",
       "mtime": "2019-06-02T03:42:24.272Z",
       "ctime": "2019-06-02T03:42:24.272Z",
       "birthtime": "2019-06-02T03:42:24.272Z"
+    },
+    "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0": {
+      "id": "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "46723e43e65e9af3aa6ec36c3e5f2f78",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/listen/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen/index.js",
+      "relativePath": "listen/index.js",
+      "extension": "js",
+      "size": 1499,
+      "prettySize": "1.5 kB",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-04T02:03:19.963Z",
+      "changeTime": "2019-06-02T02:01:33.367Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "listen",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954379,
+      "blocks": 8,
+      "atimeMs": 1559613799962.5557,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893366.9377,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-04T02:03:19.963Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.367Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2": {
       "id": "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2",
@@ -2268,7 +2268,7 @@
       "size": 1275,
       "prettySize": "1.27 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:30:35.553Z",
+      "accessTime": "2019-06-04T02:03:19.963Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2286,91 +2286,44 @@
       "blksize": 4194304,
       "ino": 21954388,
       "blocks": 8,
-      "atimeMs": 1559611835552.9092,
+      "atimeMs": 1559613799962.5767,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.2795,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:35.553Z",
+      "atime": "2019-06-04T02:03:19.963Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
-    "731c3299-0327-5c8b-bc67-9bda0aaaedef": {
-      "id": "731c3299-0327-5c8b-bc67-9bda0aaaedef",
+    "b32e1cb2-eacb-5c4d-8641-e23fc35da015": {
+      "id": "b32e1cb2-eacb-5c4d-8641-e23fc35da015",
       "children": [
-        "cdc3fbb1-4680-5dc3-8a8f-439734d4d6b1"
+        "23ba3013-fde7-5793-9118-028f022eeaae"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f20ff0dc18b75fa0f4ee8d667cc40792",
+        "contentDigest": "3500355d675664f02bda4ffffb1ca3fc",
         "type": "File",
         "mediaType": "text/markdown",
-        "description": "File \"src/pages/resources/clinical-exercise-physiologist.md\"",
+        "description": "File \"src/pages/portfolio/index.md\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources/clinical-exercise-physiologist.md",
-      "relativePath": "resources/clinical-exercise-physiologist.md",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/index.md",
+      "relativePath": "portfolio/index.md",
       "extension": "md",
-      "size": 727,
-      "prettySize": "727 B",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.325Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
+      "size": 212,
+      "prettySize": "212 B",
+      "modifiedTime": "2019-06-04T01:49:46.130Z",
+      "accessTime": "2019-06-04T02:02:35.041Z",
+      "changeTime": "2019-06-04T01:49:46.130Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources",
-      "base": "clinical-exercise-physiologist.md",
-      "ext": ".md",
-      "name": "clinical-exercise-physiologist",
-      "relativeDirectory": "resources",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954381,
-      "blocks": 8,
-      "atimeMs": 1559611786325.014,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.7844,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.325Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "006db1be-8e69-5726-96d6-eafab8e4fb8c": {
-      "id": "006db1be-8e69-5726-96d6-eafab8e4fb8c",
-      "children": [
-        "0d9b34a5-c0f5-581d-84f6-2cc9084534d8"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "3d24af9240eb8687c157da8ac89db71b",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/resources/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources/index.md",
-      "relativePath": "resources/index.md",
-      "extension": "md",
-      "size": 215,
-      "prettySize": "215 B",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.325Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
-      "relativeDirectory": "resources",
+      "relativeDirectory": "portfolio",
       "dev": 16777220,
       "mode": 33261,
       "nlink": 1,
@@ -2380,44 +2333,44 @@
       "blksize": 4194304,
       "ino": 21954382,
       "blocks": 8,
-      "atimeMs": 1559611786325.0713,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.8113,
+      "atimeMs": 1559613755041.2412,
+      "mtimeMs": 1559612986129.838,
+      "ctimeMs": 1559612986129.838,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.325Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
+      "atime": "2019-06-04T02:02:35.041Z",
+      "mtime": "2019-06-04T01:49:46.130Z",
+      "ctime": "2019-06-04T01:49:46.130Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
-    "d5d70864-dda4-5163-8aed-943b66bbdff9": {
-      "id": "d5d70864-dda4-5163-8aed-943b66bbdff9",
+    "0fd6679f-dc91-54e3-8e08-f30905b29a22": {
+      "id": "0fd6679f-dc91-54e3-8e08-f30905b29a22",
       "children": [
-        "193fbe70-386d-5ada-9de4-f017ef460c62"
+        "1967d40e-bd94-5094-9226-4f8e5e36bd16"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fbbd990fb9a547e326f2f56d361c8700",
+        "contentDigest": "f15e1f67f5b2f590922b667a12896142",
         "type": "File",
         "mediaType": "text/markdown",
-        "description": "File \"src/pages/resources/the-4-pillar-plan.md\"",
+        "description": "File \"src/pages/portfolio/the-4-pillar-plan.md\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources/the-4-pillar-plan.md",
-      "relativePath": "resources/the-4-pillar-plan.md",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/the-4-pillar-plan.md",
+      "relativePath": "portfolio/the-4-pillar-plan.md",
       "extension": "md",
-      "size": 864,
-      "prettySize": "864 B",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.325Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
+      "size": 870,
+      "prettySize": "870 B",
+      "modifiedTime": "2019-06-04T02:02:19.407Z",
+      "accessTime": "2019-06-04T02:02:35.041Z",
+      "changeTime": "2019-06-04T02:02:19.407Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio",
       "base": "the-4-pillar-plan.md",
       "ext": ".md",
       "name": "the-4-pillar-plan",
-      "relativeDirectory": "resources",
+      "relativeDirectory": "portfolio",
       "dev": 16777220,
       "mode": 33261,
       "nlink": 1,
@@ -2427,154 +2380,13 @@
       "blksize": 4194304,
       "ino": 21954383,
       "blocks": 8,
-      "atimeMs": 1559611786325.0857,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.717,
+      "atimeMs": 1559613755041.3674,
+      "mtimeMs": 1559613739406.7146,
+      "ctimeMs": 1559613739406.7146,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.325Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "33d86988-d330-5cc8-ae24-920685f9c7b1": {
-      "id": "33d86988-d330-5cc8-ae24-920685f9c7b1",
-      "children": [
-        "0f821ece-627c-53d0-8003-2e6f16b97cf2"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "33770a3472e36043fb38d6f41da86ca3",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/resources/the-prekure-food-guidelines.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources/the-prekure-food-guidelines.md",
-      "relativePath": "resources/the-prekure-food-guidelines.md",
-      "extension": "md",
-      "size": 515,
-      "prettySize": "515 B",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.325Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources",
-      "base": "the-prekure-food-guidelines.md",
-      "ext": ".md",
-      "name": "the-prekure-food-guidelines",
-      "relativeDirectory": "resources",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954384,
-      "blocks": 8,
-      "atimeMs": 1559611786325.136,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.8667,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.325Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "b2f6bf01-4f44-5737-b90a-934a5b1affc2": {
-      "id": "b2f6bf01-4f44-5737-b90a-934a5b1affc2",
-      "children": [
-        "26e24993-ab05-52cf-92e6-5e9236a7064e"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "f9999e205c64a1b351c72267bb4c0661",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/resources/what-the-fast.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources/what-the-fast.md",
-      "relativePath": "resources/what-the-fast.md",
-      "extension": "md",
-      "size": 831,
-      "prettySize": "831 B",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.325Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources",
-      "base": "what-the-fast.md",
-      "ext": ".md",
-      "name": "what-the-fast",
-      "relativeDirectory": "resources",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954385,
-      "blocks": 8,
-      "atimeMs": 1559611786325.1616,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.7463,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.325Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "01048efa-c0e3-564a-9a52-dcac74c236fb": {
-      "id": "01048efa-c0e3-564a-9a52-dcac74c236fb",
-      "children": [
-        "842bd3b2-4bcc-5167-b7f4-8f03b2111543"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "b7b5a1b613b217c0698a38b800645443",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/resources/why-we-sleep.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources/why-we-sleep.md",
-      "relativePath": "resources/why-we-sleep.md",
-      "extension": "md",
-      "size": 1271,
-      "prettySize": "1.27 kB",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.325Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources",
-      "base": "why-we-sleep.md",
-      "ext": ".md",
-      "name": "why-we-sleep",
-      "relativeDirectory": "resources",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954386,
-      "blocks": 8,
-      "atimeMs": 1559611786325.2007,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.839,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.325Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
+      "atime": "2019-06-04T02:02:35.041Z",
+      "mtime": "2019-06-04T02:02:19.407Z",
+      "ctime": "2019-06-04T02:02:19.407Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "4935f1f2-85c2-59a1-acba-03677e785625": {
@@ -2606,39 +2418,36 @@
         "slug": "/"
       }
     },
-    "81797332-bf93-5c52-8f8b-2abf44a9d01d": {
-      "id": "81797332-bf93-5c52-8f8b-2abf44a9d01d",
+    "576c1608-0625-5c33-b071-c0b97ccc8337": {
+      "id": "576c1608-0625-5c33-b071-c0b97ccc8337",
       "children": [],
-      "parent": "c3852756-03d4-5be7-8695-1156377dc937",
+      "parent": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
       "internal": {
-        "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EJP7kFA3jPQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nMost people have heard about the benefits of exercise in cancer. There is good evidence that it helps reduce side effects from chemotherapy especially fatigue and improves psychological health especially depression and anxiety, both common in people who have had a cancer diagnosis. But did you know that that  studies have shown that exercise can significantly reduce your risk of developing many cancers including halving your risk of bowel cancer, and significantly reducing the risk of breast and prostate cancer. Studies have shown it can also  reduce your risk of relapse of these cancers (up to 42% in bowel and breast in a recent meta analysis). \\\n\\\nSome of the ways that exercise can achieve this is by: \n\n∙ Reducing insulin levels. \n\n∙ Upregulating p53 - a protein that protects our DNA from damage.\n\n∙ Strengthening our immune system.\n\n∙ Improving our circulation.\n\n∙ Reducing inflammation.\n\n∙ Reducing stress and high cortisol levels.\n\nOther benefits of exercise include : \n\n∙ Assists with weight loss by burning calories and decreasing appetite.\n\n∙ Increases bone and muscle mass\n\n∙ Improves self esteem.\n\n∙ Reduces anxiety and depression.\n\n∙ Improves healthy gut bacteria and doubles the number of short chain fatty acids they make which protects the gut from inflammation.\n\n∙ Increases healthy brain hormones, reducing anxiety and depression.\n\n∙ Improves sleep.\n\n∙ Improves fatigue by increasing the number and quality of mitochondria in our muscles. Mitochondria in our cells make energy.\\\n\\\nWhen it comes to exercise the message is simple MOVE MOVE MOVE. Any movement at all improves our health.  \\\n\\\nMaximum benefits are achieved by : \n\n◊ Being active all day. Don’t sit around for too long. If you have a sitting job consider getting a standing desk, get up from your desk regularly and take a walk. Don’t spend long periods watching screens. \n\n◊ Engage in aerobic exercise. This is any exercise where you get your heart rate and breathing rate up. You need to aim for at least 30 minutes a day! Walking, gardening, running, biking, swimming, team sports. Mix it up. SCHEDULE it in. Make it HIGH priority.\n\n◊ Also do resistance exercise at least 2 time a week for at least 15 minutes : Resistance exercise can include some home based exercises, going to the gym or doing pilates or yoga.\\\n\\\nI have included a link to Dr. Chatterjee's 5 minute kitchen work out.\n\n\\\nIf you have a cancer diagnosis I would recommend seeing a trained exercise professional such as a personal trainer or exercise physiologist  to help you with a program that is suitable. I tell my patients to rest if they are exhausted but if they are just tired getting up and exercising can help overcome that fatigue.\n",
+        "content": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
         "type": "MarkdownRemark",
-        "contentDigest": "34e4becad4795852cdc5b9e35feda53b",
+        "contentDigest": "9b54e05febe5981f75b3c28beb175e11",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
         }
       },
       "frontmatter": {
-        "title": "Exercise",
-        "templateKey": "blog-post",
-        "date": "2018-12-14T02:06:20.298Z",
-        "header": "/img/trainers.jpg",
-        "description": "Learn about the benefits of exercise;",
-        "recommendedName": "Dr. Chatterjees 5 minute kitchen workout.",
-        "recommendedImage": "/img/kitchen-workout.jpg",
-        "recommendedLink": "https://www.youtube.com/watch?v=jtZB95-AVZM",
-        "tags": [
-          "cancer",
-          "exercise"
-        ],
-        "_PARENT": "c3852756-03d4-5be7-8695-1156377dc937"
+        "title": "Jargon Dictionary",
+        "templateKey": "about-page",
+        "full_image": "/img/resource-splash.jpg",
+        "leftBackground": "/img/resource-splash.jpg",
+        "leftTitle": "View All Our Resources",
+        "leftLink": "https://www.whatthecancer.com/resources",
+        "rightTitle": "Read our Blog",
+        "rightDescription": "Read, Listen or Watch articles on topics relating to fighting and prevention of cancer",
+        "rightUrl": "/blog",
+        "_PARENT": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b"
       },
       "excerpt": "",
-      "rawMarkdownBody": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EJP7kFA3jPQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nMost people have heard about the benefits of exercise in cancer. There is good evidence that it helps reduce side effects from chemotherapy especially fatigue and improves psychological health especially depression and anxiety, both common in people who have had a cancer diagnosis. But did you know that that  studies have shown that exercise can significantly reduce your risk of developing many cancers including halving your risk of bowel cancer, and significantly reducing the risk of breast and prostate cancer. Studies have shown it can also  reduce your risk of relapse of these cancers (up to 42% in bowel and breast in a recent meta analysis). \\\n\\\nSome of the ways that exercise can achieve this is by: \n\n∙ Reducing insulin levels. \n\n∙ Upregulating p53 - a protein that protects our DNA from damage.\n\n∙ Strengthening our immune system.\n\n∙ Improving our circulation.\n\n∙ Reducing inflammation.\n\n∙ Reducing stress and high cortisol levels.\n\nOther benefits of exercise include : \n\n∙ Assists with weight loss by burning calories and decreasing appetite.\n\n∙ Increases bone and muscle mass\n\n∙ Improves self esteem.\n\n∙ Reduces anxiety and depression.\n\n∙ Improves healthy gut bacteria and doubles the number of short chain fatty acids they make which protects the gut from inflammation.\n\n∙ Increases healthy brain hormones, reducing anxiety and depression.\n\n∙ Improves sleep.\n\n∙ Improves fatigue by increasing the number and quality of mitochondria in our muscles. Mitochondria in our cells make energy.\\\n\\\nWhen it comes to exercise the message is simple MOVE MOVE MOVE. Any movement at all improves our health.  \\\n\\\nMaximum benefits are achieved by : \n\n◊ Being active all day. Don’t sit around for too long. If you have a sitting job consider getting a standing desk, get up from your desk regularly and take a walk. Don’t spend long periods watching screens. \n\n◊ Engage in aerobic exercise. This is any exercise where you get your heart rate and breathing rate up. You need to aim for at least 30 minutes a day! Walking, gardening, running, biking, swimming, team sports. Mix it up. SCHEDULE it in. Make it HIGH priority.\n\n◊ Also do resistance exercise at least 2 time a week for at least 15 minutes : Resistance exercise can include some home based exercises, going to the gym or doing pilates or yoga.\\\n\\\nI have included a link to Dr. Chatterjee's 5 minute kitchen work out.\n\n\\\nIf you have a cancer diagnosis I would recommend seeing a trained exercise professional such as a personal trainer or exercise physiologist  to help you with a program that is suitable. I tell my patients to rest if they are exhausted but if they are just tired getting up and exercising can help overcome that fatigue.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/exercise.md",
+      "rawMarkdownBody": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
       "fields": {
-        "slug": "/blog/exercise/"
+        "slug": "/jargon/"
       }
     },
     "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": {
@@ -2700,6 +2509,41 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
       "fields": {
         "slug": "/blog/"
+      }
+    },
+    "81797332-bf93-5c52-8f8b-2abf44a9d01d": {
+      "id": "81797332-bf93-5c52-8f8b-2abf44a9d01d",
+      "children": [],
+      "parent": "c3852756-03d4-5be7-8695-1156377dc937",
+      "internal": {
+        "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EJP7kFA3jPQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nMost people have heard about the benefits of exercise in cancer. There is good evidence that it helps reduce side effects from chemotherapy especially fatigue and improves psychological health especially depression and anxiety, both common in people who have had a cancer diagnosis. But did you know that that  studies have shown that exercise can significantly reduce your risk of developing many cancers including halving your risk of bowel cancer, and significantly reducing the risk of breast and prostate cancer. Studies have shown it can also  reduce your risk of relapse of these cancers (up to 42% in bowel and breast in a recent meta analysis). \\\n\\\nSome of the ways that exercise can achieve this is by: \n\n∙ Reducing insulin levels. \n\n∙ Upregulating p53 - a protein that protects our DNA from damage.\n\n∙ Strengthening our immune system.\n\n∙ Improving our circulation.\n\n∙ Reducing inflammation.\n\n∙ Reducing stress and high cortisol levels.\n\nOther benefits of exercise include : \n\n∙ Assists with weight loss by burning calories and decreasing appetite.\n\n∙ Increases bone and muscle mass\n\n∙ Improves self esteem.\n\n∙ Reduces anxiety and depression.\n\n∙ Improves healthy gut bacteria and doubles the number of short chain fatty acids they make which protects the gut from inflammation.\n\n∙ Increases healthy brain hormones, reducing anxiety and depression.\n\n∙ Improves sleep.\n\n∙ Improves fatigue by increasing the number and quality of mitochondria in our muscles. Mitochondria in our cells make energy.\\\n\\\nWhen it comes to exercise the message is simple MOVE MOVE MOVE. Any movement at all improves our health.  \\\n\\\nMaximum benefits are achieved by : \n\n◊ Being active all day. Don’t sit around for too long. If you have a sitting job consider getting a standing desk, get up from your desk regularly and take a walk. Don’t spend long periods watching screens. \n\n◊ Engage in aerobic exercise. This is any exercise where you get your heart rate and breathing rate up. You need to aim for at least 30 minutes a day! Walking, gardening, running, biking, swimming, team sports. Mix it up. SCHEDULE it in. Make it HIGH priority.\n\n◊ Also do resistance exercise at least 2 time a week for at least 15 minutes : Resistance exercise can include some home based exercises, going to the gym or doing pilates or yoga.\\\n\\\nI have included a link to Dr. Chatterjee's 5 minute kitchen work out.\n\n\\\nIf you have a cancer diagnosis I would recommend seeing a trained exercise professional such as a personal trainer or exercise physiologist  to help you with a program that is suitable. I tell my patients to rest if they are exhausted but if they are just tired getting up and exercising can help overcome that fatigue.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "34e4becad4795852cdc5b9e35feda53b",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Exercise",
+        "templateKey": "blog-post",
+        "date": "2018-12-14T02:06:20.298Z",
+        "header": "/img/trainers.jpg",
+        "description": "Learn about the benefits of exercise;",
+        "recommendedName": "Dr. Chatterjees 5 minute kitchen workout.",
+        "recommendedImage": "/img/kitchen-workout.jpg",
+        "recommendedLink": "https://www.youtube.com/watch?v=jtZB95-AVZM",
+        "tags": [
+          "cancer",
+          "exercise"
+        ],
+        "_PARENT": "c3852756-03d4-5be7-8695-1156377dc937"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EJP7kFA3jPQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nMost people have heard about the benefits of exercise in cancer. There is good evidence that it helps reduce side effects from chemotherapy especially fatigue and improves psychological health especially depression and anxiety, both common in people who have had a cancer diagnosis. But did you know that that  studies have shown that exercise can significantly reduce your risk of developing many cancers including halving your risk of bowel cancer, and significantly reducing the risk of breast and prostate cancer. Studies have shown it can also  reduce your risk of relapse of these cancers (up to 42% in bowel and breast in a recent meta analysis). \\\n\\\nSome of the ways that exercise can achieve this is by: \n\n∙ Reducing insulin levels. \n\n∙ Upregulating p53 - a protein that protects our DNA from damage.\n\n∙ Strengthening our immune system.\n\n∙ Improving our circulation.\n\n∙ Reducing inflammation.\n\n∙ Reducing stress and high cortisol levels.\n\nOther benefits of exercise include : \n\n∙ Assists with weight loss by burning calories and decreasing appetite.\n\n∙ Increases bone and muscle mass\n\n∙ Improves self esteem.\n\n∙ Reduces anxiety and depression.\n\n∙ Improves healthy gut bacteria and doubles the number of short chain fatty acids they make which protects the gut from inflammation.\n\n∙ Increases healthy brain hormones, reducing anxiety and depression.\n\n∙ Improves sleep.\n\n∙ Improves fatigue by increasing the number and quality of mitochondria in our muscles. Mitochondria in our cells make energy.\\\n\\\nWhen it comes to exercise the message is simple MOVE MOVE MOVE. Any movement at all improves our health.  \\\n\\\nMaximum benefits are achieved by : \n\n◊ Being active all day. Don’t sit around for too long. If you have a sitting job consider getting a standing desk, get up from your desk regularly and take a walk. Don’t spend long periods watching screens. \n\n◊ Engage in aerobic exercise. This is any exercise where you get your heart rate and breathing rate up. You need to aim for at least 30 minutes a day! Walking, gardening, running, biking, swimming, team sports. Mix it up. SCHEDULE it in. Make it HIGH priority.\n\n◊ Also do resistance exercise at least 2 time a week for at least 15 minutes : Resistance exercise can include some home based exercises, going to the gym or doing pilates or yoga.\\\n\\\nI have included a link to Dr. Chatterjee's 5 minute kitchen work out.\n\n\\\nIf you have a cancer diagnosis I would recommend seeing a trained exercise professional such as a personal trainer or exercise physiologist  to help you with a program that is suitable. I tell my patients to rest if they are exhausted but if they are just tired getting up and exercising can help overcome that fatigue.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/exercise.md",
+      "fields": {
+        "slug": "/blog/exercise/"
       }
     },
     "564fa505-b337-5c91-9669-6e98cfca4b15": {
@@ -2808,38 +2652,6 @@
         "slug": "/blog/wonderful-fantastic-food/"
       }
     },
-    "576c1608-0625-5c33-b071-c0b97ccc8337": {
-      "id": "576c1608-0625-5c33-b071-c0b97ccc8337",
-      "children": [],
-      "parent": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
-      "internal": {
-        "content": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "9b54e05febe5981f75b3c28beb175e11",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Jargon Dictionary",
-        "templateKey": "about-page",
-        "full_image": "/img/resource-splash.jpg",
-        "leftBackground": "/img/resource-splash.jpg",
-        "leftTitle": "View All Our Resources",
-        "leftLink": "https://www.whatthecancer.com/resources",
-        "rightTitle": "Read our Blog",
-        "rightDescription": "Read, Listen or Watch articles on topics relating to fighting and prevention of cancer",
-        "rightUrl": "/blog",
-        "_PARENT": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
-      "fields": {
-        "slug": "/jargon/"
-      }
-    },
     "df0b2ad0-0419-5d6e-9631-999c911f3931": {
       "id": "df0b2ad0-0419-5d6e-9631-999c911f3931",
       "children": [],
@@ -2872,75 +2684,42 @@
         "slug": "/jayden/"
       }
     },
-    "cdc3fbb1-4680-5dc3-8a8f-439734d4d6b1": {
-      "id": "cdc3fbb1-4680-5dc3-8a8f-439734d4d6b1",
+    "23ba3013-fde7-5793-9118-028f022eeaae": {
+      "id": "23ba3013-fde7-5793-9118-028f022eeaae",
       "children": [],
-      "parent": "731c3299-0327-5c8b-bc67-9bda0aaaedef",
-      "internal": {
-        "content": "A clinical exercise physiologist can be defined as an individual who specialises in the delivery of exercise, lifestyle and behavioural modification programmes for the prevention, management and rehabilitation of chronic conditions and diseases, and injuries.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "5ba9e698cbe7865b6d70bd5a99d8a0e4",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Clinical Exercise Physiologist",
-        "templateKey": "resource",
-        "date": "2018-12-18T06:51:03.865Z",
-        "image": "/img/xexercise-physiology-banner.jpg.pagespeed.ic.mj-ciyjfc-.jpg",
-        "description": "Find Clinical Exercise Physiologist",
-        "resourceName": "Clinical Exercise Physiologist",
-        "resourceDescription": "Find a Clinical Exercise Phsiologist",
-        "resourceImage": "/img/xexercise-physiology-banner.jpg.pagespeed.ic.mj-ciyjfc-.jpg",
-        "resourcePrice": "Varies",
-        "resourceLink": "https://www.cepnz.org.nz/",
-        "_PARENT": "731c3299-0327-5c8b-bc67-9bda0aaaedef"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "A clinical exercise physiologist can be defined as an individual who specialises in the delivery of exercise, lifestyle and behavioural modification programmes for the prevention, management and rehabilitation of chronic conditions and diseases, and injuries.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources/clinical-exercise-physiologist.md",
-      "fields": {
-        "slug": "/resources/clinical-exercise-physiologist/"
-      }
-    },
-    "0d9b34a5-c0f5-581d-84f6-2cc9084534d8": {
-      "id": "0d9b34a5-c0f5-581d-84f6-2cc9084534d8",
-      "children": [],
-      "parent": "006db1be-8e69-5726-96d6-eafab8e4fb8c",
+      "parent": "b32e1cb2-eacb-5c4d-8641-e23fc35da015",
       "internal": {
         "content": "\n",
         "type": "MarkdownRemark",
-        "contentDigest": "5fe0d74ae7ec093c44c174fb5e5f5468",
+        "contentDigest": "a07a5a64231bcf246cac0a2a2b322d68",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
         }
       },
       "frontmatter": {
-        "title": "All Resources",
-        "templateKey": "resource-page",
+        "title": "Portfolio",
+        "templateKey": "portfolio-page",
         "image": "/img/resource-splash.jpg",
         "description": "Our goal at What The Cancer is to Equip & Empower you on your cancer Journey",
         "fullImage": "/img/resource-splash.jpg",
-        "_PARENT": "006db1be-8e69-5726-96d6-eafab8e4fb8c"
+        "_PARENT": "b32e1cb2-eacb-5c4d-8641-e23fc35da015"
       },
       "excerpt": "",
       "rawMarkdownBody": "\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources/index.md",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/index.md",
       "fields": {
-        "slug": "/resources/"
+        "slug": "/portfolio/"
       }
     },
-    "193fbe70-386d-5ada-9de4-f017ef460c62": {
-      "id": "193fbe70-386d-5ada-9de4-f017ef460c62",
+    "1967d40e-bd94-5094-9226-4f8e5e36bd16": {
+      "id": "1967d40e-bd94-5094-9226-4f8e5e36bd16",
       "children": [],
-      "parent": "d5d70864-dda4-5163-8aed-943b66bbdff9",
+      "parent": "0fd6679f-dc91-54e3-8e08-f30905b29a22",
       "internal": {
         "content": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read\n",
         "type": "MarkdownRemark",
-        "contentDigest": "0d39a31580ee2579d8ee53aedc025624",
+        "contentDigest": "638ff676d52f372309f48dff49846852",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
@@ -2948,121 +2727,22 @@
       },
       "frontmatter": {
         "title": "The 4 Pillar Plan",
-        "templateKey": "resource",
+        "templateKey": "portfolio",
         "date": "2018-12-18T06:43:47.603Z",
         "image": "/img/4-pillar-plan.jpg",
         "description": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read ",
-        "resourceName": "The 4 Pillar Plan",
-        "resourceDescription": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read ",
-        "resourceImage": "/img/4-pillar-plan.jpg",
-        "resourcePrice": "About $30. ",
-        "resourceLink": "https://www.fishpond.co.nz/Books/4-Pillar-Plan-Dr-Rangan-Chatterjee/9780241303559?utm_source=googleps&utm_medium=ps&utm_campaign=NZ&gclid=Cj0KCQiAr93gBRDSARIsADvHiOpiyDfcbDeDkGJk220M9qtPqlY8rLnWlSdfsBLbdmYZdb_ohP6fmBkaAs36EALw_wcB#.XBiXzxx-OMo.email",
-        "_PARENT": "d5d70864-dda4-5163-8aed-943b66bbdff9"
+        "portfolioName": "The 4 Pillar Plan",
+        "portfolioDescription": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read ",
+        "portfolioImage": "/img/4-pillar-plan.jpg",
+        "portfolioPrice": "About $30. ",
+        "portfolioLink": "https://www.fishpond.co.nz/Books/4-Pillar-Plan-Dr-Rangan-Chatterjee/9780241303559?utm_source=googleps&utm_medium=ps&utm_campaign=NZ&gclid=Cj0KCQiAr93gBRDSARIsADvHiOpiyDfcbDeDkGJk220M9qtPqlY8rLnWlSdfsBLbdmYZdb_ohP6fmBkaAs36EALw_wcB#.XBiXzxx-OMo.email",
+        "_PARENT": "0fd6679f-dc91-54e3-8e08-f30905b29a22"
       },
       "excerpt": "",
       "rawMarkdownBody": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources/the-4-pillar-plan.md",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/the-4-pillar-plan.md",
       "fields": {
-        "slug": "/resources/the-4-pillar-plan/"
-      }
-    },
-    "0f821ece-627c-53d0-8003-2e6f16b97cf2": {
-      "id": "0f821ece-627c-53d0-8003-2e6f16b97cf2",
-      "children": [],
-      "parent": "33d86988-d330-5cc8-ae24-920685f9c7b1",
-      "internal": {
-        "content": "Download the free Prekure food guidelines as recommended by internationally respected Dietitian Caryn Zinn\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "d98c1cbf8cfd519877d5410e6bf58166",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "The Prekure Food Guidelines",
-        "templateKey": "resource",
-        "date": "2018-12-18T05:56:30.416Z",
-        "image": "/img/43273662_10157139518294369_3797070441957294080_n.jpg",
-        "description": "Great food guidelines to inspire not restrict.",
-        "resourceName": "Prekure Food Guidelines",
-        "resourceDescription": "Food guidelines",
-        "resourceImage": "/img/small-food.jpg",
-        "resourcePrice": "Free",
-        "resourceLink": "https://www.prekure.com/food-guidelines/",
-        "_PARENT": "33d86988-d330-5cc8-ae24-920685f9c7b1"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Download the free Prekure food guidelines as recommended by internationally respected Dietitian Caryn Zinn\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources/the-prekure-food-guidelines.md",
-      "fields": {
-        "slug": "/resources/the-prekure-food-guidelines/"
-      }
-    },
-    "26e24993-ab05-52cf-92e6-5e9236a7064e": {
-      "id": "26e24993-ab05-52cf-92e6-5e9236a7064e",
-      "children": [],
-      "parent": "b2f6bf01-4f44-5737-b90a-934a5b1affc2",
-      "internal": {
-        "content": "At the cutting edge of the latest science, What the Fast! is a practical guide to get you started with intermittent fasting (IF) or Super-Fasting (SF) as we now call it. Plus it comes with all the science and the recipes too.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "757634b0d8b71a96a31e0c994c8ccf1d",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "What the Fast",
-        "templateKey": "resource",
-        "date": "2018-12-18T06:58:57.013Z",
-        "image": "/img/detail.hfjn-5548-ga50.0.photo.192825750x.jpg",
-        "description": "Back at the cutting edge of the latest science, What the Fast! is a practical guide to get you started with intermittent fasting (IF) or Super-Fasting (SF) as we now call it. Plus it comes with all the science and the recipes too.",
-        "resourceName": "What the Fast",
-        "resourceDescription": "Fasting",
-        "resourceImage": "/img/detail.hfjn-5548-ga50.0.photo.192825750x-2-.jpg",
-        "resourcePrice": "$34.95",
-        "resourceLink": "https://whatthefatbook.com/product/what-the-fast/",
-        "_PARENT": "b2f6bf01-4f44-5737-b90a-934a5b1affc2"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "At the cutting edge of the latest science, What the Fast! is a practical guide to get you started with intermittent fasting (IF) or Super-Fasting (SF) as we now call it. Plus it comes with all the science and the recipes too.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources/what-the-fast.md",
-      "fields": {
-        "slug": "/resources/what-the-fast/"
-      }
-    },
-    "842bd3b2-4bcc-5167-b7f4-8f03b2111543": {
-      "id": "842bd3b2-4bcc-5167-b7f4-8f03b2111543",
-      "children": [],
-      "parent": "01048efa-c0e3-564a-9a52-dcac74c236fb",
-      "internal": {
-        "content": "In this book, the first of its kind written by a scientific expert, Professor Matthew Walker explores twenty years of cutting-edge research to solve the mystery of why sleep matters. Looking at creatures from across the animal kingdom as well as major human studies, Why We Sleep delves into everything from what really happens during REM sleep to how caffeine and alcohol affect sleep and why our sleep patterns change across a lifetime, transforming our appreciation of the extraordinary phenomenon that safeguards our existence.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "623f2f7ace748e64b0013c593ef151aa",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Why We Sleep",
-        "templateKey": "resource",
-        "date": "2018-12-19T08:58:08.501Z",
-        "image": "/img/why-we-sleep.jpg",
-        "description": "The New science of sleep and dreams. ",
-        "resourceName": "Why We Sleep",
-        "resourceDescription": "The new science of sleep and dreams",
-        "resourceImage": "/img/why-we-sleep-2-.jpg",
-        "resourcePrice": "$18",
-        "resourceLink": "https://www.bookdepository.com/Why-We-Sleep-Matthew-Walker/9780141983769?redirected=true&utm_medium=Google&utm_campaign=Base1&utm_source=NZ&utm_content=Why-We-Sleep&selectCurrency=NZD&w=AF7CAU99ZZCHQQA809DF&pdg=pla-309174813119:kwd-309174813119:cmp-947803846:adg-45233890537:crv-225027758847:pid-9780141983769:dev-c&gclid=CjwKCAiA9efgBRAYEiwAUT-jtC9VPEhWV98-4hvePej-jaUIMt9i0tue_FW53REhyB5q7SWy3e5wlhoC5WUQAvD_BwE",
-        "_PARENT": "01048efa-c0e3-564a-9a52-dcac74c236fb"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "In this book, the first of its kind written by a scientific expert, Professor Matthew Walker explores twenty years of cutting-edge research to solve the mystery of why sleep matters. Looking at creatures from across the animal kingdom as well as major human studies, Why We Sleep delves into everything from what really happens during REM sleep to how caffeine and alcohol affect sleep and why our sleep patterns change across a lifetime, transforming our appreciation of the extraordinary phenomenon that safeguards our existence.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/resources/why-we-sleep.md",
-      "fields": {
-        "slug": "/resources/why-we-sleep/"
+        "slug": "/portfolio/the-4-pillar-plan/"
       }
     },
     "b7423d2f-7d84-5f93-b118-9937c25add30": {
@@ -3070,7 +2750,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d6681eb79f6ccc0dc7f5f70ec2433665",
+        "contentDigest": "d8a40103352f19795aabbc34c5d3cc1c",
         "type": "Directory",
         "description": "Directory \"src/img\"",
         "owner": "gatsby-source-filesystem"
@@ -3082,7 +2762,7 @@
       "size": 384,
       "prettySize": "384 B",
       "modifiedTime": "2019-06-02T02:34:08.137Z",
-      "accessTime": "2019-06-04T01:30:35.666Z",
+      "accessTime": "2019-06-04T02:03:20.069Z",
       "changeTime": "2019-06-02T02:34:08.137Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3100,11 +2780,11 @@
       "blksize": 4194304,
       "ino": 21954356,
       "blocks": 0,
-      "atimeMs": 1559611835666.0994,
+      "atimeMs": 1559613800069.2344,
       "mtimeMs": 1559442848137.1455,
       "ctimeMs": 1559442848137.1455,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:35.666Z",
+      "atime": "2019-06-04T02:03:20.069Z",
       "mtime": "2019-06-02T02:34:08.137Z",
       "ctime": "2019-06-02T02:34:08.137Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3129,7 +2809,7 @@
       "size": 19592,
       "prettySize": "19.6 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.506Z",
+      "accessTime": "2019-06-04T02:02:35.715Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3147,11 +2827,11 @@
       "blksize": 4194304,
       "ino": 21954357,
       "blocks": 40,
-      "atimeMs": 1559611786506.113,
+      "atimeMs": 1559613755714.576,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.8884,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.506Z",
+      "atime": "2019-06-04T02:02:35.715Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3176,7 +2856,7 @@
       "size": 17612,
       "prettySize": "17.6 kB",
       "modifiedTime": "2019-06-02T02:34:08.124Z",
-      "accessTime": "2019-06-04T01:29:46.506Z",
+      "accessTime": "2019-06-04T02:02:35.715Z",
       "changeTime": "2019-06-02T02:34:08.790Z",
       "birthTime": "2019-06-02T02:34:08.124Z",
       "root": "/",
@@ -3194,11 +2874,11 @@
       "blksize": 4194304,
       "ino": 22122979,
       "blocks": 40,
-      "atimeMs": 1559611786506.147,
+      "atimeMs": 1559613755714.635,
       "mtimeMs": 1559442848123.7708,
       "ctimeMs": 1559442848789.7805,
       "birthtimeMs": 1559442848123.6472,
-      "atime": "2019-06-04T01:29:46.506Z",
+      "atime": "2019-06-04T02:02:35.715Z",
       "mtime": "2019-06-02T02:34:08.124Z",
       "ctime": "2019-06-02T02:34:08.790Z",
       "birthtime": "2019-06-02T02:34:08.124Z"
@@ -3221,7 +2901,7 @@
       "size": 494,
       "prettySize": "494 B",
       "modifiedTime": "2019-06-02T02:34:08.137Z",
-      "accessTime": "2019-06-04T01:29:46.506Z",
+      "accessTime": "2019-06-04T02:02:35.715Z",
       "changeTime": "2019-06-02T02:34:08.771Z",
       "birthTime": "2019-06-02T02:34:08.137Z",
       "root": "/",
@@ -3239,11 +2919,11 @@
       "blksize": 4194304,
       "ino": 22122980,
       "blocks": 8,
-      "atimeMs": 1559611786506.1772,
+      "atimeMs": 1559613755714.6892,
       "mtimeMs": 1559442848137.235,
       "ctimeMs": 1559442848771.2979,
       "birthtimeMs": 1559442848137.11,
-      "atime": "2019-06-04T01:29:46.506Z",
+      "atime": "2019-06-04T02:02:35.715Z",
       "mtime": "2019-06-02T02:34:08.137Z",
       "ctime": "2019-06-02T02:34:08.771Z",
       "birthtime": "2019-06-02T02:34:08.137Z"
@@ -3266,7 +2946,7 @@
       "size": 2694,
       "prettySize": "2.69 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:30:35.628Z",
+      "accessTime": "2019-06-04T02:03:20.023Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3284,11 +2964,11 @@
       "blksize": 4194304,
       "ino": 21954358,
       "blocks": 8,
-      "atimeMs": 1559611835628.0383,
+      "atimeMs": 1559613800023.4827,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.7832,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:35.628Z",
+      "atime": "2019-06-04T02:03:20.023Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3313,7 +2993,7 @@
       "size": 17612,
       "prettySize": "17.6 kB",
       "modifiedTime": "2019-06-02T02:34:25.106Z",
-      "accessTime": "2019-06-04T01:29:46.506Z",
+      "accessTime": "2019-06-04T02:02:35.715Z",
       "changeTime": "2019-06-02T02:34:25.106Z",
       "birthTime": "2019-06-02T02:32:36.466Z",
       "root": "/",
@@ -3331,11 +3011,11 @@
       "blksize": 4194304,
       "ino": 22122903,
       "blocks": 40,
-      "atimeMs": 1559611786506.3303,
+      "atimeMs": 1559613755714.9482,
       "mtimeMs": 1559442865106.3806,
       "ctimeMs": 1559442865106.3806,
       "birthtimeMs": 1559442756465.6877,
-      "atime": "2019-06-04T01:29:46.506Z",
+      "atime": "2019-06-04T02:02:35.715Z",
       "mtime": "2019-06-02T02:34:25.106Z",
       "ctime": "2019-06-02T02:34:25.106Z",
       "birthtime": "2019-06-02T02:32:36.466Z"
@@ -3358,7 +3038,7 @@
       "size": 23908,
       "prettySize": "23.9 kB",
       "modifiedTime": "2019-06-02T02:35:09.435Z",
-      "accessTime": "2019-06-04T01:30:35.628Z",
+      "accessTime": "2019-06-04T02:03:20.024Z",
       "changeTime": "2019-06-02T02:35:09.435Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3376,11 +3056,11 @@
       "blksize": 4194304,
       "ino": 21954361,
       "blocks": 48,
-      "atimeMs": 1559611835628.1492,
+      "atimeMs": 1559613800023.5642,
       "mtimeMs": 1559442909434.891,
       "ctimeMs": 1559442909434.891,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:30:35.628Z",
+      "atime": "2019-06-04T02:03:20.024Z",
       "mtime": "2019-06-02T02:35:09.435Z",
       "ctime": "2019-06-02T02:35:09.435Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3435,7 +3115,7 @@
       "size": 122717,
       "prettySize": "123 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.506Z",
+      "accessTime": "2019-06-04T02:02:35.715Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3453,11 +3133,11 @@
       "blksize": 4194304,
       "ino": 21954360,
       "blocks": 240,
-      "atimeMs": 1559611786506.3015,
+      "atimeMs": 1559613755714.8965,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.9353,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.506Z",
+      "atime": "2019-06-04T02:02:35.715Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3492,7 +3172,7 @@
       "size": 266109,
       "prettySize": "266 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-04T01:29:46.506Z",
+      "accessTime": "2019-06-04T02:02:35.715Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3510,11 +3190,11 @@
       "blksize": 4194304,
       "ino": 21954362,
       "blocks": 520,
-      "atimeMs": 1559611786506.3875,
+      "atimeMs": 1559613755715.0498,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.823,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.506Z",
+      "atime": "2019-06-04T02:02:35.715Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3549,7 +3229,7 @@
       "size": 1085216,
       "prettySize": "1.09 MB",
       "modifiedTime": "2019-06-02T02:30:48.369Z",
-      "accessTime": "2019-06-04T01:29:46.506Z",
+      "accessTime": "2019-06-04T02:02:35.715Z",
       "changeTime": "2019-06-02T02:30:48.369Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3567,11 +3247,11 @@
       "blksize": 4194304,
       "ino": 21954359,
       "blocks": 2120,
-      "atimeMs": 1559611786506.244,
+      "atimeMs": 1559613755714.7942,
       "mtimeMs": 1559442648369.1064,
       "ctimeMs": 1559442648369.1064,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-04T01:29:46.506Z",
+      "atime": "2019-06-04T02:02:35.715Z",
       "mtime": "2019-06-02T02:30:48.369Z",
       "ctime": "2019-06-02T02:30:48.369Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3606,7 +3286,7 @@
       "size": 3543638,
       "prettySize": "3.54 MB",
       "modifiedTime": "2019-06-02T02:30:48.455Z",
-      "accessTime": "2019-06-04T01:29:46.506Z",
+      "accessTime": "2019-06-04T02:02:35.715Z",
       "changeTime": "2019-06-02T02:30:48.455Z",
       "birthTime": "2019-06-02T02:30:48.323Z",
       "root": "/",
@@ -3624,11 +3304,11 @@
       "blksize": 4194304,
       "ino": 22122828,
       "blocks": 6928,
-      "atimeMs": 1559611786506.2722,
+      "atimeMs": 1559613755714.8455,
       "mtimeMs": 1559442648455.294,
       "ctimeMs": 1559442648455.294,
       "birthtimeMs": 1559442648323.497,
-      "atime": "2019-06-04T01:29:46.506Z",
+      "atime": "2019-06-04T02:02:35.715Z",
       "mtime": "2019-06-02T02:30:48.455Z",
       "ctime": "2019-06-02T02:30:48.455Z",
       "birthtime": "2019-06-02T02:30:48.323Z"
@@ -3665,24 +3345,24 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /blog/exercise/": {
-      "jsonName": "blog-exercise-43e",
-      "internalComponentName": "ComponentBlogExercise",
-      "path": "/blog/exercise/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
+    "SitePage /jargon/": {
+      "jsonName": "jargon-12a",
+      "internalComponentName": "ComponentJargon",
+      "path": "/jargon/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
       "context": {
-        "id": "81797332-bf93-5c52-8f8b-2abf44a9d01d"
+        "id": "576c1608-0625-5c33-b071-c0b97ccc8337"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
-      "id": "SitePage /blog/exercise/",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "id": "SitePage /jargon/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a49f03a977a6ea962a7b2aeb19f63371",
+        "contentDigest": "fa6168c1298d6fcf2b8890ab556a590d",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3727,6 +3407,28 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "55a386399c5e1caf6b6d0c7c6dbb5889",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/exercise/": {
+      "jsonName": "blog-exercise-43e",
+      "internalComponentName": "ComponentBlogExercise",
+      "path": "/blog/exercise/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "81797332-bf93-5c52-8f8b-2abf44a9d01d"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
+      "id": "SitePage /blog/exercise/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a49f03a977a6ea962a7b2aeb19f63371",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3797,28 +3499,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /jargon/": {
-      "jsonName": "jargon-12a",
-      "internalComponentName": "ComponentJargon",
-      "path": "/jargon/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "componentChunkName": "component---src-templates-about-page-js",
-      "context": {
-        "id": "576c1608-0625-5c33-b071-c0b97ccc8337"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "id": "SitePage /jargon/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fa6168c1298d6fcf2b8890ab556a590d",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /jayden/": {
       "jsonName": "jayden-efd",
       "internalComponentName": "ComponentJayden",
@@ -3841,134 +3521,46 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /resources/clinical-exercise-physiologist/": {
-      "jsonName": "resources-clinical-exercise-physiologist-d12",
-      "internalComponentName": "ComponentResourcesClinicalExercisePhysiologist",
-      "path": "/resources/clinical-exercise-physiologist/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource.js",
-      "componentChunkName": "component---src-templates-resource-js",
+    "SitePage /portfolio/": {
+      "jsonName": "portfolio-964",
+      "internalComponentName": "ComponentPortfolio",
+      "path": "/portfolio/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js",
+      "componentChunkName": "component---src-templates-portfolio-page-js",
       "context": {
-        "id": "cdc3fbb1-4680-5dc3-8a8f-439734d4d6b1"
+        "id": "23ba3013-fde7-5793-9118-028f022eeaae"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource.js",
-      "id": "SitePage /resources/clinical-exercise-physiologist/",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js",
+      "id": "SitePage /portfolio/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "94194c7693ceed42664eb49fe56a79d9",
+        "contentDigest": "7677bd910b7ef7214cd3eb6b4985d3e2",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /resources/": {
-      "jsonName": "resources-fb7",
-      "internalComponentName": "ComponentResources",
-      "path": "/resources/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource-page.js",
-      "componentChunkName": "component---src-templates-resource-page-js",
+    "SitePage /portfolio/the-4-pillar-plan/": {
+      "jsonName": "portfolio-the-4-pillar-plan-45e",
+      "internalComponentName": "ComponentPortfolioThe4PillarPlan",
+      "path": "/portfolio/the-4-pillar-plan/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "componentChunkName": "component---src-templates-portfolio-js",
       "context": {
-        "id": "0d9b34a5-c0f5-581d-84f6-2cc9084534d8"
+        "id": "1967d40e-bd94-5094-9226-4f8e5e36bd16"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource-page.js",
-      "id": "SitePage /resources/",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "id": "SitePage /portfolio/the-4-pillar-plan/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "924864137cbb28c2b1a35d70c69a0b06",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /resources/the-4-pillar-plan/": {
-      "jsonName": "resources-the-4-pillar-plan-37a",
-      "internalComponentName": "ComponentResourcesThe4PillarPlan",
-      "path": "/resources/the-4-pillar-plan/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource.js",
-      "componentChunkName": "component---src-templates-resource-js",
-      "context": {
-        "id": "193fbe70-386d-5ada-9de4-f017ef460c62"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource.js",
-      "id": "SitePage /resources/the-4-pillar-plan/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8da045831ea734b600c3f14a5c350163",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /resources/the-prekure-food-guidelines/": {
-      "jsonName": "resources-the-prekure-food-guidelines-db7",
-      "internalComponentName": "ComponentResourcesThePrekureFoodGuidelines",
-      "path": "/resources/the-prekure-food-guidelines/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource.js",
-      "componentChunkName": "component---src-templates-resource-js",
-      "context": {
-        "id": "0f821ece-627c-53d0-8003-2e6f16b97cf2"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource.js",
-      "id": "SitePage /resources/the-prekure-food-guidelines/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b90429211cac95f40123a452b28db929",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /resources/what-the-fast/": {
-      "jsonName": "resources-what-the-fast-05d",
-      "internalComponentName": "ComponentResourcesWhatTheFast",
-      "path": "/resources/what-the-fast/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource.js",
-      "componentChunkName": "component---src-templates-resource-js",
-      "context": {
-        "id": "26e24993-ab05-52cf-92e6-5e9236a7064e"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource.js",
-      "id": "SitePage /resources/what-the-fast/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "158c44afe9348fb7902b3156155fc89e",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /resources/why-we-sleep/": {
-      "jsonName": "resources-why-we-sleep-ceb",
-      "internalComponentName": "ComponentResourcesWhyWeSleep",
-      "path": "/resources/why-we-sleep/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource.js",
-      "componentChunkName": "component---src-templates-resource-js",
-      "context": {
-        "id": "842bd3b2-4bcc-5167-b7f4-8f03b2111543"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource.js",
-      "id": "SitePage /resources/why-we-sleep/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "3b7685374517db7731c544bb984420e9",
+        "contentDigest": "9f23188d7de0d80b38a5381fedddaaa7",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -4226,11 +3818,11 @@
         "/tags/food/",
         "/tags/diet/"
       ],
-      "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": [
-        "/about/"
-      ],
       "576c1608-0625-5c33-b071-c0b97ccc8337": [
         "/jargon/"
+      ],
+      "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": [
+        "/about/"
       ],
       "df0b2ad0-0419-5d6e-9631-999c911f3931": [
         "/jayden/"
@@ -4250,20 +3842,8 @@
       "4935f1f2-85c2-59a1-acba-03677e785625": [
         "/"
       ],
-      "cdc3fbb1-4680-5dc3-8a8f-439734d4d6b1": [
-        "/resources/clinical-exercise-physiologist/"
-      ],
-      "193fbe70-386d-5ada-9de4-f017ef460c62": [
-        "/resources/the-4-pillar-plan/"
-      ],
-      "0f821ece-627c-53d0-8003-2e6f16b97cf2": [
-        "/resources/the-prekure-food-guidelines/"
-      ],
-      "26e24993-ab05-52cf-92e6-5e9236a7064e": [
-        "/resources/what-the-fast/"
-      ],
-      "842bd3b2-4bcc-5167-b7f4-8f03b2111543": [
-        "/resources/why-we-sleep/"
+      "1967d40e-bd94-5094-9226-4f8e5e36bd16": [
+        "/portfolio/the-4-pillar-plan/"
       ]
     },
     "connections": {
@@ -4271,7 +3851,7 @@
         null,
         "/tags/",
         "/blog/",
-        "/resources/",
+        "/portfolio/",
         "/tags/cancer/",
         "/tags/exercise/",
         "/tags/sleep/",
@@ -4284,23 +3864,19 @@
   },
   "jsonDataPaths": {
     "tags-275": "540/path---tags-275-fc0-SECVB6LN3m518WJyZZvDERSp8aY",
-    "about-f34": "162/path---about-f-34-4c2-nPswOlM0eJ6KgxFbRYYx7aK5V1c",
     "jargon-12a": "295/path---jargon-12-a-e0d-27Q4FnPNgXdzZYozX2CGButUYPQ",
+    "about-f34": "162/path---about-f-34-4c2-nPswOlM0eJ6KgxFbRYYx7aK5V1c",
     "jayden-efd": "822/path---jayden-efd-f34-RI4xDIJPVupeUCvXsSzhaGFBKw",
     "blog-f7a": "839/path---blog-f-7-a-05d-T8xQ5avmM5HtP6W2054VD54QtI",
     "blog-exercise-43e": "222/path---blog-exercise-43-e-9d3-aPTRsSOjU904zdYnbZOblX1gf0",
     "blog-sleep-1c0": "929/path---blog-sleep-1-c-0-ed8-h4AsPZomZhBEdk7im2jwLyS30I",
     "blog-what-is-cancer-d55": "497/path---blog-what-is-cancer-d-55-751-36VzyQd1eqY1wHmHQilRKnNxU0",
     "blog-wonderful-fantastic-food-5f1": "781/path---blog-wonderful-fantastic-food-5-f-1-417-uctKFSKseH6Z1qUYTUSJi5S8zI",
-    "resources-fb7": "420/path---resources-fb-7-e03-IHBI3QlqqWQ2HERM6mITvhM",
-    "index": "207/path---index-6a9-zz2CyltIsSDNPJekauUQcvsMBkA",
-    "resources-clinical-exercise-physiologist-d12": "572/path---resources-clinical-exercise-physiologist-d-12-826-2YTkUJXNZH02XI2bpQYqrFV0tfA",
-    "resources-the-4-pillar-plan-37a": "308/path---resources-the-4-pillar-plan-37-a-516-pje2MmTbtxu96E2xtD4BNT398",
-    "resources-the-prekure-food-guidelines-db7": "257/path---resources-the-prekure-food-guidelines-db-7-1b1-6J0M1l91tprwCk3CSReSYd5NA",
+    "portfolio-964": "159/path---portfolio-964-7f6-cT8pmuzQf15m8pe79hkodINVQ",
     "tags-cancer-6a3": "531/path---tags-cancer-6-a-3-007-zPUbS9FrwVwpuphAopshfYan5bk",
-    "resources-what-the-fast-05d": "337/path---resources-what-the-fast-05-d-9a3-BFrTkDtdVqFUPSndZYZiC4u3IM",
+    "index": "207/path---index-6a9-zz2CyltIsSDNPJekauUQcvsMBkA",
+    "portfolio-the-4-pillar-plan-45e": "514/path---portfolio-the-4-pillar-plan-45-e-679-bI6N0EITVtQjyZSBWO4usufrcm0",
     "tags-exercise-7fe": "811/path---tags-exercise-7-fe-484-AxLgomIHq2VMszbtbrbf9afd31k",
-    "resources-why-we-sleep-ceb": "97/path---resources-why-we-sleep-ceb-0d8-tg2yWRDDhcOJomyEcDqQi1jfS8",
     "tags-sleep-508": "240/path---tags-sleep-508-932-tq9U9PbZZhZgSqsh5THBJjJ8",
     "tags-lisa-dawson-941": "61/path---tags-lisa-dawson-941-cce-5Gbd3OcaLValKPdEuMBoSUAxcsE",
     "tags-what-is-cancer-477": "582/path---tags-what-is-cancer-477-1e9-FVhKSdbS4VIUFKjDKjqDtpv2Jg",
@@ -4316,10 +3892,6 @@
       "query": "query HomePage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      image\n      announcementBlurb\n      announcementLink\n      announcementImage\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js"
     },
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js": {
-      "query": "query BlogPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      title\n      description\n      tags\n      header\n      recommendedName\n      recommendedImage\n      recommendedLink\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js"
-    },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js": {
       "query": "query AboutPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      full_image\n      leftBackground\n      leftTitle\n      leftLink\n      rightTitle\n      rightDescription\n      rightUrl\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js"
@@ -4328,13 +3900,17 @@
       "query": "query IndexQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {templateKey: {eq: \"blog-post\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          title\n          templateKey\n          header\n          description\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js"
     },
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource.js": {
-      "query": "query ResourcePostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      tags\n      resourceDescription\n      image\n      title\n      resourceName\n      resourceImage\n      resourcePrice\n      resourceLink\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource.js"
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js": {
+      "query": "query BlogPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      title\n      description\n      tags\n      header\n      recommendedName\n      recommendedImage\n      recommendedLink\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js"
     },
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource-page.js": {
-      "query": "query ResourceQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {templateKey: {eq: \"resource\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          resourceDescription\n          image\n          resourceName\n          resourceImage\n          resourcePrice\n          resourceLink\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/resource-page.js"
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js": {
+      "query": "query PortfolioQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {templateKey: {eq: \"portfolio\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          portfolioDescription\n          image\n          portfolioName\n          portfolioImage\n          portfolioPrice\n          portfolioLink\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js"
+    },
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js": {
+      "query": "query PortfolioPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      tags\n      portfolioDescription\n      image\n      title\n      portfolioName\n      portfolioImage\n      portfolioPrice\n      portfolioLink\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js": {
       "query": "query TagPage(\n  $tag: String\n) {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(limit: 1000, sort: {fields: [frontmatter___title], order: ASC}, filter: {frontmatter: {tags: {in: [$tag]}}}) {\n    totalCount\n    edges {\n      node {\n        fields {\n          slug\n        }\n        frontmatter {\n          title\n          header\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",

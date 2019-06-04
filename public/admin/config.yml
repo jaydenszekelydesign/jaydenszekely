@@ -23,22 +23,22 @@ collections:
       - {label: "Recommended Article URL (Link)", name: "recommendedLink", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
 
-  - name: "resources"
-    label: "Resources"
-    folder: "src/pages/resources"
+  - name: "portfolio"
+    label: "Portfolio"
+    folder: "src/pages/portfolio"
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "resource"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portfolio"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: Header Image, name: "image", widget: file}
       - {label: Description, name: "description", widget: string}
       - {label: Title, name: title, widget: string}
-      - {label: Resource Name, name: resourceName, widget: string}
-      - {label: Resource Description, name: resourceDescription, widget: string}
-      - {label: Resource Image, name: resourceImage, widget: image}
-      - {label: Resource Price, name: resourcePrice, widget: string}
-      - {label: Resource Download or Purchase URL, name: resourceLink, widget: string}
+      - {label: Portfolio Name, name: portfolioName, widget: string}
+      - {label: Portfolio Description, name: portfolioDescription, widget: string}
+      - {label: Portfolio Image, name: portfolioImage, widget: image}
+      - {label: Portfolio Price, name: portfolioPrice, widget: string}
+      - {label: Portfolio Download or Purchase URL, name: portfolioLink, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
@@ -84,12 +84,12 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Wide Image", name: "full_image", widget: file}
 
-      - file: "src/pages/resources/index.md"
-        label: "All Resources Home Page"
-        name: "resource-page"
+      - file: "src/pages/portfolio/index.md"
+        label: "My Portfolio"
+        name: "portfolio-page"
         create: true
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "resource-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portfolio-page"}
           - {label: Title, name: "title", widget: string}
           - {label: Header Image, name: "image", widget: file}
           - {label: Description, name: "description", widget: string}

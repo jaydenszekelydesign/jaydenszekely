@@ -65,34 +65,14 @@
         "path": "/listen/"
     },
     {
-        "componentChunkName": "component---src-templates-resource-page-js",
-        "jsonName": "resources-fb7",
-        "path": "/resources/"
+        "componentChunkName": "component---src-templates-portfolio-page-js",
+        "jsonName": "portfolio-964",
+        "path": "/portfolio/"
     },
     {
-        "componentChunkName": "component---src-templates-resource-js",
-        "jsonName": "resources-clinical-exercise-physiologist-d12",
-        "path": "/resources/clinical-exercise-physiologist/"
-    },
-    {
-        "componentChunkName": "component---src-templates-resource-js",
-        "jsonName": "resources-the-4-pillar-plan-37a",
-        "path": "/resources/the-4-pillar-plan/"
-    },
-    {
-        "componentChunkName": "component---src-templates-resource-js",
-        "jsonName": "resources-the-prekure-food-guidelines-db7",
-        "path": "/resources/the-prekure-food-guidelines/"
-    },
-    {
-        "componentChunkName": "component---src-templates-resource-js",
-        "jsonName": "resources-what-the-fast-05d",
-        "path": "/resources/what-the-fast/"
-    },
-    {
-        "componentChunkName": "component---src-templates-resource-js",
-        "jsonName": "resources-why-we-sleep-ceb",
-        "path": "/resources/why-we-sleep/"
+        "componentChunkName": "component---src-templates-portfolio-js",
+        "jsonName": "portfolio-the-4-pillar-plan-45e",
+        "path": "/portfolio/the-4-pillar-plan/"
     },
     {
         "componentChunkName": "component---src-pages-tags-index-js",
