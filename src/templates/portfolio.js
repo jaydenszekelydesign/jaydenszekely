@@ -14,6 +14,7 @@ export const PortfolioPostTemplate = ({
   portfolioDescription,
   image,
   title,
+  jobDate,
   portfolioName,
   portfolioImage,
   portfolioPrice,
@@ -25,6 +26,9 @@ export const PortfolioPostTemplate = ({
     <div>
       <Banner background={portfolioImage}>{portfolioName}</Banner>
       <div className="article">
+        <div class="left-portfolio">
+          <h4>{jobDate}</h4>
+        </div>
         <p>{portfolioDescription}</p><br /><br />
         <PostContent content={content} />
       </div>
@@ -41,6 +45,7 @@ PortfolioPostTemplate.propTypes = {
   helmet: PropTypes.instanceOf(Helmet),
   portfolioName: PropTypes.string,
   title: PropTypes.string,
+  jobDate: PropTypes.string,
   portfolioImage: PropTypes.file,
   portfolioPrice: PropTypes.string,
   portfolioLink: PropTypes.string,
@@ -59,6 +64,7 @@ const PortfolioPost = ({ data }) => {
         tags={post.frontmatter.tags}
         image={post.frontmatter.image}
         title={post.frontmatter.title}
+        jobDate={post.frontmatter.jobDate}
         portfolioName={post.frontmatter.portfolioName}
         portfolioImage={post.frontmatter.portfolioImage}
         portfolioPrice={post.frontmatter.portfolioPrice}

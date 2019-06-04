@@ -1,11 +1,12 @@
 ---
 templateKey: portfolio
 date: 2018-12-18T06:43:47.603Z
-image: /img/4-pillar-plan.jpg
+image: 
 description: >-
   This great book shows you how to Relax, Eat, Move and Sleep your way to a
   longer, healthier life.easy to read 
 title: The 4 Pillar Plan
+jobDate: DEC – 2018
 portfolioName: The 4 Pillar Plan
 portfolioDescription: >-
   This great book shows you how to Relax, Eat, Move and Sleep your way to a

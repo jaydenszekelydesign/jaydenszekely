@@ -34,6 +34,7 @@ collections:
       - {label: Header Image, name: "image", widget: file}
       - {label: Description, name: "description", widget: string}
       - {label: Title, name: title, widget: string}
+      - {label: Date - Mon-2019, name: jobDate, widget: string}
       - {label: Portfolio Name, name: portfolioName, widget: string}
       - {label: Portfolio Description, name: portfolioDescription, widget: string}
       - {label: Portfolio Image, name: portfolioImage, widget: image}
