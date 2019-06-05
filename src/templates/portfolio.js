@@ -34,11 +34,11 @@ export const PortfolioPostTemplate = ({
         </div>
         <div class="right-portfolio">
           <p>{portfolioDescription}</p>
-          <img src="../../img/listen.jpg" className="full"/><br /><br />
+          <PostContent content={content} /><br /><br />
         </div>
       </div>
       <img src="../../img/home.jpg" className="full"/>
-      <PostContent content={content} />
+      
       
       <Link to="/cv">
       <section>
