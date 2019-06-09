@@ -7024,9 +7024,9 @@ header {
     color: #000000; }
     .article .right-portfolio p {
       padding: 0; }
-  .article img {
-    padding-top: 2em;
-    padding-bottom: 2em; }
+    .article .right-portfolio .rightportfolio img {
+      padding-top: 2em;
+      padding-bottom: 2em; }
 
 .full {
   width: 100%;

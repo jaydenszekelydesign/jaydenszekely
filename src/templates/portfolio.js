@@ -33,11 +33,17 @@ export const PortfolioPostTemplate = ({
           <a>Video</a>
         </div>
         <div class="right-portfolio">
-          <p>{portfolioDescription}</p>
-          <PostContent content={content} /><br /><br />
+          <p>{portfolioDescription}
+          </p><br /><br />
         </div>
       </div>
       <img src="../../img/home.jpg" className="full"/>
+      <div className="secondHalf">
+      <p className="article">
+        <PostContent content={content} className="full" />
+      </p>
+      </div>
+      
       
       
       <Link to="/cv">

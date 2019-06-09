@@ -5,6 +5,7 @@ import Layout from '../components/Layout'
 import Banner from './components/banner'
 import Split from './components/split'
 import Content, { HTMLContent } from '../components/Content'
+// import mediumZoom from 'medium-zoom'
 
 export const AboutPageTemplate = ({ title, content, contentComponent, full_image, leftBackground, leftTitle, leftLink, rightTitle, rightDescription, rightUrl }) => {
   const PageContent = contentComponent || Content

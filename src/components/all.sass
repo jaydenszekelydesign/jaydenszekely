@@ -8,7 +8,10 @@
 // @import next_bar
 // @import profile
 // @import typography
-@import "~bulma"
+// @import "~bulma"
+
+  @import url("https://use.typekit.net/pou8ovy.css");
+
 
 
 iframe
@@ -41,8 +44,9 @@ h4
   color: $black
 
 a 
-  font-weight: 400
-  font-size: inherit
+  color: $green
+  font-size: 1.2em
+  text-decoration: none
 
 .green
   color: $green
@@ -56,6 +60,10 @@ body
   padding: 0
   margin: 0
   overflow-x: hidden
+  font-family: nunito-sans,sans-serif
+  font-weight: 400
+  font-style: normal
+
 
 .content .taglist
   list-style: none
@@ -130,15 +138,24 @@ header
   -o-background-size: cover
   background-size: cover
 
+
 .bannerTitle
   font-size: 2em 
   color: inherit
   width: 55%
   margin-left: 22.5vw
-  padding-top: 42.5vh
-  padding-bottom: 42.5vh
+  padding-top: 37.5vh
+  padding-bottom: 37.5vh
   text-align: center
-  font-weight: bold
+  font-weight: 700
+
+.glaze-smaller
+  background-color: rgba(0,0,0,0.2)
+  padding-left: 20px
+  padding-right: 20px
+  margin-top: 0
+  padding-top: 2em
+  padding-bottom: 2em
 
 .half-bannerTitle
   font-size: 2em 
@@ -148,7 +165,7 @@ header
   padding-top: 15vh
   padding-bottom: 15vh
   text-align: center
-  font-weight: bold
+  font-weight: 700
 
 .slim-strip
   font-size: 2em 
@@ -222,6 +239,13 @@ header
     font-size: 7.5em
 
 
+.secondHalf
+  background-color: #f4f4f4
+  padding-top: 2em
+  padding-bottom: 2em
+  margin-top: -4em
+  
+
 .article
   width: 65%
   margin-left: 17.5%
@@ -231,6 +255,8 @@ header
   z-index: 0
   align-content: center
 
+
+
   .left-portfolio
     width: 25%
     padding-right: 0%
@@ -238,20 +264,26 @@ header
     display: inline-block
 
   .right-portfolio
-    width: 75%
+    width: 70%
     padding-left: 5%
     float: right
     display: inline-block
     font-size: 1.25em
+    font-weight: 200
     color: $black
     
-    p 
-      padding: 0
+  p 
+    padding: 0
 
-    .rightportfolio img 
+    img 
       padding-top: 2em
       padding-bottom: 2em
+      width: 80vw
+      height: 80vh
+      margin-left: -10vw
+      object-fit: cover
     
+
 .full 
   width: 100%
   padding-top: 1em
@@ -306,6 +338,7 @@ header
   a 
     color: $green
     font-size: 1.2em
+    text-decoration: none
 
 // nav
 
@@ -467,12 +500,12 @@ footer
 
 /* Position and sizing of burger button */
 .bm-burger-button 
-  position: absolute
+  position: fixed
   width: 36px
   height: 30px
   right: 36px
   top: 36px
-  z-index: 1200
+  z-index: 1300
   
 
 
@@ -483,8 +516,9 @@ footer
 
 /* Position and sizing of clickable cross button */
 .bm-cross-button 
-  position: absolute
-  z-index: 1200
+  position: fixed
+  z-index: 0
+  opacity: 0
 
 
 /* Color/shape of close button cross */
@@ -494,19 +528,23 @@ footer
 
 /* General sidebar styles */
 .bm-menu 
-  background: $green
-  z-index: 500
+  background: $black
+  z-index: 1200
   margin: 0
   top: 0px
   right: 100%
   display: block
-  height: calc(70vh + 2em)
+  height: calc(100vh)
+  overflow: hidden
+  transition-duration: 1s
 
   a 
-    display: inline-flex
+    display: block
 
   a:hover 
     color: $white
+    padding-left: 1em
+
 
 
 /* Morph shape necessary with bubble or elastic */
@@ -521,3 +559,12 @@ footer
 .bm-menu-wrap
   height: calc(70vh + 2em)
   z-index: 1000
+
+.menuContents
+  font-size: 2em 
+  color: inherit
+  margin-left: 5vw
+  padding-top: 15vh
+  padding-bottom: 15vh
+  text-align: center
+  font-weight: bold

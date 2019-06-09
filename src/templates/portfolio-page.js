@@ -12,7 +12,7 @@ export default class Portfolio extends React.Component {
 
     return (
       <Layout>
-        <Banner>Portfolios</Banner>
+        <Banner>Portfolio</Banner>
         <div className="article">
 
             {posts
