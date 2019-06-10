@@ -54,6 +54,21 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home"}
           - {label: Banner Slogan, name: title, widget: string}
           - {label: Header Image, name: "image", widget: file}
+          - {label: Pinterest Grid 1 (Please use a small file), name: "imageOne", widget: file}
+          - {label: Pinterest Grid 2 (Please use a small file), name: "imageTwo", widget: file}
+          - {label: Pinterest Grid 3 (Please use a small file), name: "imageThree", widget: file}
+          - {label: Pinterest Grid 4 (Please use a small file), name: "imageFour", widget: file}
+          - {label: Pinterest Grid 5 (Please use a small file), name: "imageFive", widget: file}
+          - {label: Pinterest Grid 6 (Please use a small file), name: "imageSix", widget: file}
+          - {label: Pinterest Grid 7 (Please use a small file), name: "imageSeven", widget: file}
+          - {label: Pinterest Grid 8 (Please use a small file), name: "imageEight", widget: file}
+          - {label: Pinterest Grid 9 (Please use a small file), name: "imageNine", widget: file}
+          - {label: Pinterest Grid 10 (Please use a small file), name: "imageTen", widget: file}
+          - {label: Pinterest Grid 11 (Please use a small file), name: "imageEleven", widget: file}
+          - {label: Pinterest Grid 12 (Please use a small file), name: "imageTwelve", widget: file}
+          - {label: Pinterest Grid 13 (Please use a small file), name: "imageThirteen", widget: file}
+          - {label: Pinterest Grid 14 (Please use a small file), name: "imageFourteen", widget: file}
+          - {label: Pinterest Grid 15 (Please use a small file), name: "imageFifteen", widget: file}
           - {label: Thin Strip (Announcement Bar) Title / Blurb, name: "announcementBlurb", widget: string}
           - {label: Thin Strip (Announcement Bar) Title / Blurb Link, name: "announcementLink", widget: string}
           - {label: Thin Strip (Announcement Bar) Image, name: "announcementImage", widget: file}

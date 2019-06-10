@@ -10,7 +10,7 @@
 // @import typography
 // @import "~bulma"
 
-  @import url("https://use.typekit.net/pou8ovy.css");
+  @import url("https://use.typekit.net/pou8ovy.css")
 
 
 
@@ -595,3 +595,69 @@ footer
   width: 70vw
   text-align: center
   font-weight: bold
+
+
+.mask
+  overflow: hidden
+
+.montage 
+  width: 220vw
+  padding: 0
+  top: -30%
+  left: -80vw
+  background-size: cover
+  background-position: center
+  position: absolute
+  display: flex
+  z-index: 0
+  color: #fff
+  text-align: left
+  padding-top: 0px
+  transform: rotate(-20deg)
+
+.montageDull 
+  width: 100vw
+  height: 80vh
+  min-height: 335px
+  padding: 0
+  left: 0vw
+  background-color: rgba(0,0,0,0.2)
+  position: relative
+  display: inline-block
+  z-index: 50
+  color: #fff
+  text-align: left
+  padding-top: 0
+  overflow: hidden
+  cursor: pointer
+
+//.montageDull:hover 
+  //background-color: rgba(255,255,255,1)
+  //color: $black
+  //transition-duration: 1s
+
+.montageDesc 
+  text-align: center
+  position: relative
+  margin-left: 0vw
+  top: 50%
+  display: inline-block
+  margin-right: 0vw
+  align-content: center
+  width: 100vw
+  overflow: hidden
+
+.montage div
+  display: block
+  width: 150vw
+  overflow: hidden
+
+.montage img 
+  display: flex
+  object-fit: cover
+  object-position: 50% 50%
+  padding: 30px
+  width: 100%
+  height: auto
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, .5)
+

@@ -9,7 +9,7 @@ import './all.sass'
 
 const TemplateWrapper = ({ children, backgroundImg }) => (
   <div>
-    <Helmet title="What The Cancer" />
+    <Helmet title="Jayden Szekely – Digital Media – Web Design, UI / UX, Graphic Design, Video, Photography – Whangarei, Northland" />
     <Sidebar />
     <Navbar />
     <div>{children}</div>

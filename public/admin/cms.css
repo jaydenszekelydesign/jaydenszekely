@@ -7,7 +7,7 @@
   text-decoration: underline; }
 
 .greenLink a:hover {
-  color: #ffffff;
+  color: #f4f4f8;
   background: #C9CFCF;
   padding-left: 5px;
   padding-right: 1px;
@@ -23,7 +23,7 @@
   text-decoration: underline; }
 
 .greenLink a:hover {
-  color: #ffffff;
+  color: #f4f4f8;
   background: #C9CFCF;
   padding-left: 5px;
   padding-right: 1px;
@@ -32,12 +32,12 @@
 
 .green-bg {
   background-color: #C9CFCF;
-  color: #ffffff; }
+  color: #f4f4f8; }
   .green-bg a {
-    color: #ffffff; }
+    color: #f4f4f8; }
 
 .white-bg {
-  background-color: #ffffff;
+  background-color: #f4f4f8;
   color: #000000; }
   .white-bg a {
     color: #C9CFCF; }
@@ -59,7 +59,7 @@ h1 {
   font-weight: bold; }
 
 h2 {
-  font-size: 1.75em;
+  font-size: 1.3em;
   font-weight: bold;
   color: inherit; }
 
@@ -70,8 +70,8 @@ h3 {
   line-height: 1.2em; }
 
 h4 {
-  font-size: 1.75em;
-  font-weight: bold;
+  font-size: 1.1em;
+  font-weight: 700;
   color: #000000; }
 
 a {
@@ -86,6 +86,9 @@ span {
   font-size: 1.2em;
   font-weight: 300;
   color: inherit; }
+
+* {
+  margin-top: 0; }
 
 body {
   padding: 0;
@@ -139,7 +142,7 @@ span.bm-cross {
 header {
   width: 100vw;
   background: #C9CFCF;
-  color: #ffffff;
+  color: #f4f4f8;
   padding: 0, 0, 0, 0;
   margin: 0, 0, 0, 0;
   position: relative;
@@ -188,11 +191,11 @@ header {
   .slim-strip input {
     background: transparent;
     border: 0px solid white;
-    border-bottom: 2px solid #ffffff;
+    border-bottom: 2px solid #f4f4f8;
     font-size: 0.8em;
     width: 70%;
     text-align: left;
-    color: #ffffff;
+    color: #f4f4f8;
     margin-left: 15%;
     margin-top: 0.5em;
     padding-bottom: 0.2em;
@@ -201,7 +204,7 @@ header {
     background: transparent;
     border: 0px solid white;
     font-size: 0.6em;
-    color: #ffffff;
+    color: #f4f4f8;
     text-align: center;
     width: 80%;
     margin-left: 10%;
@@ -241,43 +244,64 @@ header {
   margin-top: -4em; }
 
 .article {
-  width: 65%;
-  margin-left: 17.5%;
-  margin-top: 75px;
-  margin-bottom: 100px;
-  position: relative;
+  width: 70%;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-color: #f4f4f8;
   z-index: 0;
-  align-content: center; }
+  align-content: center;
+  display: inline-block; }
   .article .left-portfolio {
     width: 25%;
     padding-right: 0%;
     float: left;
     display: inline-block; }
+    .article .left-portfolio a {
+      font-size: 0.9em;
+      color: grey;
+      cursor: pointer;
+      line-height: 1.5em; }
   .article .right-portfolio {
     width: 70%;
     padding-left: 5%;
     float: right;
     display: inline-block;
-    font-size: 1.25em;
+    font-weight: 200;
+    color: #000000; }
+  .article .full-portfolio {
+    width: 70%;
+    padding-left: 15%;
+    float: left;
+    display: block;
     font-weight: 200;
     color: #000000; }
   .article p {
-    padding: 0; }
+    padding: 0;
+    color: grey;
+    font-weight: 200;
+    font-size: 15px;
+    line-height: 1.5em; }
     .article p img {
-      padding-top: 2em;
-      padding-bottom: 2em;
-      width: 80vw;
-      height: 80vh;
-      margin-left: -10vw;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      width: 100%;
+      height: auto;
       -o-object-fit: cover;
-         object-fit: cover; }
+         object-fit: cover;
+      box-shadow: 2px 10px 20px rgba(0, 0, 0, 0.5); }
+
+.big-padding {
+  padding-top: 200px;
+  padding-bottom: 150px; }
 
 .full {
   width: 100%;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  margin-bottom: 2em;
-  margin-top: 1em; }
+  display: inline-block;
+  position: relative; }
 
 @media screen and (max-width: 500px) {
   .article {
@@ -474,7 +498,7 @@ footer {
   .bm-menu a {
     display: block; }
   .bm-menu a:hover {
-    color: #ffffff;
+    color: #f4f4f8;
     padding-left: 1em; }
 
 /* Morph shape necessary with bubble or elastic */
@@ -490,11 +514,64 @@ footer {
   z-index: 1000; }
 
 .menuContents {
-  font-size: 2em;
+  font-size: 1.75em;
   color: inherit;
-  margin-left: 5vw;
   padding-top: 15vh;
   padding-bottom: 15vh;
+  width: 70vw;
   text-align: center;
   font-weight: bold; }
+  .menuContents .montage {
+    width: 150vw;
+    padding: 0;
+    top: -50vh;
+    left: -25vw;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    z-index: 0;
+    color: #fff;
+    text-align: left;
+    padding-top: 0px;
+    -webkit-transform: rotate(-20deg);
+            transform: rotate(-20deg); }
+  .menuContents .montageDull {
+    width: 100vw;
+    height: 45vh;
+    min-height: 335px;
+    padding: 0;
+    left: 0vw;
+    background-color: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    display: inline-block;
+    z-index: 50;
+    color: #fff;
+    text-align: left;
+    padding-top: 0;
+    overflow: hidden;
+    transition-duration: 1s;
+    cursor: pointer; }
+  .menuContents .montageDull:hover {
+    background-color: rgba(0, 0, 0, 0.3); }
+  .menuContents .montageDesc {
+    text-align: center;
+    position: relative;
+    margin-left: 0vw;
+    top: 50%;
+    display: inline-block;
+    margin-right: 0vw;
+    align-content: center;
+    width: 100vw; }
+  .menuContents .montage div {
+    display: block;
+    width: 125vw; }
+  .menuContents .montage img {
+    display: flex;
+    -o-object-fit: cover;
+       object-fit: cover;
+    -o-object-position: 50% 50%;
+       object-position: 50% 50%;
+    width: 100%;
+    height: auto; }
 

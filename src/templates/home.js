@@ -4,7 +4,9 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Email from './components/email'
 import Banner from './components/banner'
+import Montage from '../components/Montage'
 import Content, { HTMLContent } from '../components/Content'
+
 
 export const HomePageTemplate = ({ 
   title,
@@ -13,7 +15,22 @@ export const HomePageTemplate = ({
   image,
   announcementBlurb,
   announcementImage,
-  announcementLink 
+  announcementLink,
+  imageOne,
+  imageTwo,
+  imageThree,
+  imageFour,
+  imageFive,
+  imageSix,
+  imageSeven,
+  imageEight,
+  imageNine,
+  imageTen,
+  imageEleven,
+  imageTwelve,
+  imageThirteen,
+  imageFourteen,
+  imageFifteen
 }) => {
   const PageContent = contentComponent || Content
 
@@ -32,7 +49,7 @@ export const HomePageTemplate = ({
           </header>
         </section>
       </Link>
-      <Email />
+      <Montage montageTitle={announcementBlurb} imgOne={imageOne} imgTwo={imageTwo} imgThree={imageThree} imgFour={imageFour} imgFive={imageFive} imgSix={imageSix} imgSeven={imageSeven} imgEight={imageEight} imgNine={imageNine} imgTen={imageTen} imgEleven={imageEleven} imgTwelve={imageTwelve} imgThirteen={imageThirteen} imgFourteen={imageFourteen} imgFifteen={imageFifteen}/>
     </Layout>
               
   )
@@ -45,6 +62,21 @@ HomePageTemplate.propTypes = {
   announcementBlurb: PropTypes.string,
   announcementLink: PropTypes.string,
   announcementImage: PropTypes.file,
+  imageOne: PropTypes.file,
+  imageTwo: PropTypes.file,
+  imageThree: PropTypes.file,
+  imageFour: PropTypes.file,
+  imageFive: PropTypes.file,
+  imageSix: PropTypes.file,
+  imageSeven: PropTypes.file,
+  imageEight: PropTypes.file,
+  imageNine: PropTypes.file,
+  imageTen: PropTypes.file,
+  imageEleven: PropTypes.file,
+  imageTwelve: PropTypes.file,
+  imageThirteen: PropTypes.file,
+  imageFourteen: PropTypes.file,
+  imageFifteen: PropTypes.file,
   contentComponent: PropTypes.func,
 }
 
@@ -60,6 +92,22 @@ const HomePage = ({ data }) => {
       announcementBlurb={post.frontmatter.announcementBlurb}
       announcementLink={post.frontmatter.announcementLink}
       announcementImage={post.frontmatter.announcementImage}
+      image={post.frontmatter.image}
+      imageOne={post.frontmatter.imageOne}
+      imageTwo={post.frontmatter.imageTwo}
+      imageThree={post.frontmatter.imageThree}
+      imageFour={post.frontmatter.imageFour}
+      imageFive={post.frontmatter.imageFive}
+      imageSix={post.frontmatter.imageSix}
+      imageSeven={post.frontmatter.imageSeven}
+      imageEight={post.frontmatter.imageEight}
+      imageNine={post.frontmatter.imageNine}
+      imageTen={post.frontmatter.imageTen}
+      imageEleven={post.frontmatter.imageEleven}
+      imageTwelve={post.frontmatter.imageTwelve}
+      imageThirteen={post.frontmatter.imageThirteen}
+      imageFourteen={post.frontmatter.imageFourteen}
+      imageFifteen={post.frontmatter.imageFifteen}
     />
   )
 }
@@ -81,6 +129,21 @@ export const homePageQuery = graphql`
         announcementBlurb
         announcementLink
         announcementImage
+        imageOne
+        imageTwo
+        imageThree
+        imageFour
+        imageFive
+        imageSix
+        imageSeven
+        imageEight
+        imageNine
+        imageTen
+        imageEleven
+        imageTwelve
+        imageThirteen
+        imageFourteen
+        imageFifteen
       }
     }
   }
