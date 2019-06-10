@@ -37,19 +37,17 @@ export const HomePageTemplate = ({
   return ( 
     <Layout>
       <Banner background={image}>{title}</Banner>
-      <section className="article greenLink">
-        <p><PageContent className="content" content={content} /></p>
-        <br></br>
-        <br></br>
-      </section>
+      <div className="article big-padding">
+      <div className="left-portfolio">
+          <h4>I provide Creative Solutions for every problem.<br /><br /><hr /></h4>
+          <img src={imageOne} />
+        </div>
+        <div className="right-portfolio">
+        <p><PageContent content={content}/>
+        </p><br /><br />
+        </div>
+      </div>
       <Link to={announcementLink}>
-        <section>
-          <header className="half" style={{backgroundImage: 'url("'+announcementImage+'")'}}>
-            <h1 className="half-bannerTitle">{announcementBlurb}</h1>
-          </header>
-        </section>
-      </Link>
-      <Link to="/portfolio">
         <Montage montageTitle={announcementBlurb} imgOne={imageOne} imgTwo={imageTwo} imgThree={imageThree} imgFour={imageFour} imgFive={imageFive} imgSix={imageSix} imgSeven={imageSeven} imgEight={imageEight} imgNine={imageNine} imgTen={imageTen} imgEleven={imageEleven} imgTwelve={imageTwelve} imgThirteen={imageThirteen} imgFourteen={imageFourteen} imgFifteen={imageFifteen}/> 
       </Link>
     </Layout>

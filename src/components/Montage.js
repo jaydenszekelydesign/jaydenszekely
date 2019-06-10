@@ -4,7 +4,7 @@ const Montage = ({montageTitle, alt, imgOne, imgTwo, imgThree, imgFour, imgFive,
         <header className="half mask">
           <div className="montageDull">
             <span className="montageDesc">
-              <h5>{montageTitle}</h5>
+              <h3>{montageTitle}</h3>
             </span>
           </div>
           <div className="montage">

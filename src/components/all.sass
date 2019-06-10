@@ -140,6 +140,7 @@ header
   -moz-background-size: cover
   -o-background-size: cover
   background-size: cover
+  background-attachment: fixed
 
 
 .bannerTitle
@@ -275,6 +276,14 @@ header
       color: $grey
       cursor: pointer
       line-height: 1.5em
+    
+    img 
+      margin-top: 10px
+      margin-bottom: 10px
+      width: 100%
+      height: auto
+      object-fit: cover
+      // box-shadow: 2px 10px 20px rgba(0, 0, 0, .5)
 
   .right-portfolio
     width: 70%
@@ -379,6 +388,7 @@ header
     margin-left: 35px
     margin-top: 35px
     z-index: 1100
+    position: fixed
 
 
 
@@ -601,9 +611,9 @@ footer
   overflow: hidden
 
 .montage 
-  width: 220vw
+  width: 200vw
   padding: 0
-  top: -30%
+  top: -10%
   left: -80vw
   background-size: cover
   background-position: center
@@ -617,11 +627,11 @@ footer
 
 .montageDull 
   width: 100vw
-  height: 80vh
+  height: 100vh
   min-height: 335px
   padding: 0
   left: 0vw
-  background-color: rgba(0,0,0,0.2)
+  background-color: rgba(0,0,0,0)
   position: relative
   display: inline-block
   z-index: 50
@@ -649,15 +659,17 @@ footer
 
 .montage div
   display: block
-  width: 150vw
-  overflow: hidden
+  width: 200vw
+  margin-left: 20px
+  margin-right: 20px
 
 .montage img 
   display: flex
   object-fit: cover
   object-position: 50% 50%
-  padding: 30px
+  padding: 10px
+  margin: 20px
   width: 100%
   height: auto
-  box-shadow: 2px 5px 10px rgba(0, 0, 0, .5)
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, .3)
 
