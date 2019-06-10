@@ -1,11 +1,8 @@
 ---
 templateKey: home
 title: Jayden Szekely
-image: /img/home.jpg
-announcementBlurb: View my Portfolio
-announcementLink: /portfolio
-announcementImage: img/anthony-intraversato-455600-unsplash.jpg
-imageOne: img/anthony-intraversato-455600-unsplash.jpg
+image: /img/me_rocks_photography.jpg
+imageOne: /img/katesmith.jpg
 imageTwo: img/home.jpg
 imageThree: img/anthony-intraversato-455600-unsplash.jpg
 imageFour: img/home.jpg
@@ -20,6 +17,9 @@ imageTwelve: img/home.jpg
 imageThirteen: img/anthony-intraversato-455600-unsplash.jpg
 imageFourteen: img/home.jpg
 imageFifteen: img/anthony-intraversato-455600-unsplash.jpg
+announcementBlurb: View my Portfolio
+announcementLink: /portfolio
+announcementImage: img/anthony-intraversato-455600-unsplash.jpg
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus risus at condimentum cursus. Maecenas molestie massa quis nibh feugiat, eu tincidunt nisl dapibus. Mauris tincidunt, eros in facilisis rhoncus, dui orci tincidunt libero, vitae suscipit nisi nibh et magna. Suspendisse auctor turpis quis nibh posuere bibendum. Nullam sit amet facilisis dolor. Etiam mattis lobortis semper. Morbi malesuada massa sed faucibus varius. Aenean bibendum nisi vitae metus auctor, at blandit turpis tincidunt. Nunc nec neque leo. Proin nec vehicula urna. In aliquet nisl eget nisl mattis, sed tristique libero condimentum.
 
