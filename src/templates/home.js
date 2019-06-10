@@ -38,11 +38,8 @@ export const HomePageTemplate = ({
     <Layout>
       <Banner background={image}>{title}</Banner>
       <div className="article big-padding">
-      <div className="left-portfolio">
-          <h4>I provide Creative Solutions for every problem.<br /><br /><hr /></h4>
-          <img src={imageOne} />
-        </div>
-        <div className="right-portfolio">
+      
+        <div className="full-portfolio">
         <p><PageContent content={content}/>
         </p><br /><br />
         </div>

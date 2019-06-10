@@ -38,7 +38,6 @@ collections:
       - {label: Portfolio Name, name: portfolioName, widget: string}
       - {label: Portfolio Description, name: portfolioDescription, widget: string}
       - {label: Portfolio Image, name: portfolioImage, widget: image}
-      - {label: Portfolio Price, name: portfolioPrice, widget: string}
       - {label: Portfolio Download or Purchase URL, name: portfolioLink, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}

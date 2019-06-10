@@ -13,9 +13,13 @@ export const AboutPageTemplate = ({ title, content, contentComponent, full_image
   return (
     <Layout>
       <Banner background={full_image}>{title}</Banner>
-      <div className="article">
-        <PageContent className="content" content={content} />
-      </div> 
+      <div className="article big-padding">
+      <div className="full-portfolio">
+        <p>
+          <PageContent content={content}/>
+        </p>
+        </div>
+        </div>
       <Split background={leftBackground} recommendedTitle={leftTitle} link={leftLink} authorName={rightTitle} authorBio={rightDescription} rightLink={rightUrl} />  
     </Layout>
               

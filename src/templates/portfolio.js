@@ -28,7 +28,7 @@ export const PortfolioPostTemplate = ({
       <div className="article big-padding">
         
         <div className="left-portfolio">
-          <h4>DEC – 2018</h4>
+          <h4 className="accent">{jobDate}</h4>
           <a>Graphic Design</a><br />
           <a>Branding</a><br />
           <a>Video</a>
@@ -37,6 +37,18 @@ export const PortfolioPostTemplate = ({
         <h5>OVERVIEW</h5>
           <p>{portfolioDescription}
           </p><br /><br />
+        </div>
+      </div>
+      <img src="../../img/home.jpg" className="full"/>
+      <div className="article big-padding">
+        <div className="full-portfolio">
+        <center><h1 className="accent">"</h1>
+          <h2>{portfolioDescription}
+          </h2>
+          <br /><br />
+          <h1 className="accent">"</h1>
+
+          </center>
         </div>
       </div>
       <img src="../../img/home.jpg" className="full"/>
@@ -119,6 +131,7 @@ export const portfolioQuery = graphql`
         portfolioDescription,
         image,
         title,
+        jobDate,
         portfolioName,
         portfolioImage,
         portfolioPrice,

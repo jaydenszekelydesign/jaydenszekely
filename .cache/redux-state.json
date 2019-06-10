@@ -3922,9 +3922,9 @@
     "connections": {
       "MarkdownRemark": [
         null,
+        "/portfolio/",
         "/tags/",
         "/blog/",
-        "/portfolio/",
         "/tags/cancer/",
         "/tags/exercise/",
         "/tags/lisa-dawson/",
@@ -3945,10 +3945,10 @@
     "blog-what-is-cancer-d55": "497/path---blog-what-is-cancer-d-55-751-36VzyQd1eqY1wHmHQilRKnNxU0",
     "blog-wonderful-fantastic-food-5f1": "781/path---blog-wonderful-fantastic-food-5-f-1-417-uctKFSKseH6Z1qUYTUSJi5S8zI",
     "blog-sleep-1c0": "929/path---blog-sleep-1-c-0-ed8-h4AsPZomZhBEdk7im2jwLyS30I",
-    "portfolio-964": "688/path---portfolio-964-7f6-OGs6QZQV0brRlZhfg0RIfn0CjS8",
+    "portfolio-964": "901/path---portfolio-964-7f6-nmVoWo3rHD2ueJ08BdXimHFLVs",
     "index": "613/path---index-6a9-8iK9VROB4yrBU3EHBVxYFkHRCxQ",
     "tags-cancer-6a3": "531/path---tags-cancer-6-a-3-007-zPUbS9FrwVwpuphAopshfYan5bk",
-    "portfolio-what-the-cancer-4c7": "884/path---portfolio-what-the-cancer-4-c-7-157-t371pYK0gl9OxnE8fGp1lZbWdDA",
+    "portfolio-what-the-cancer-4c7": "833/path---portfolio-what-the-cancer-4-c-7-157-T9DUsSHRujAp2Byup9dxj46lRo",
     "tags-exercise-7fe": "811/path---tags-exercise-7-fe-484-AxLgomIHq2VMszbtbrbf9afd31k",
     "tags-lisa-dawson-941": "61/path---tags-lisa-dawson-941-cce-5Gbd3OcaLValKPdEuMBoSUAxcsE",
     "tags-what-is-cancer-477": "582/path---tags-what-is-cancer-477-1e9-FVhKSdbS4VIUFKjDKjqDtpv2Jg",
@@ -3978,11 +3978,11 @@
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js": {
-      "query": "query PortfolioQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {templateKey: {eq: \"portfolio\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          portfolioDescription\n          image\n          portfolioName\n          portfolioImage\n          portfolioPrice\n          portfolioLink\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
+      "query": "query PortfolioQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {templateKey: {eq: \"portfolio\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          portfolioDescription\n          image\n          portfolioName\n          portfolioImage\n          jobDate\n          portfolioLink\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js": {
-      "query": "query PortfolioPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      tags\n      portfolioDescription\n      image\n      title\n      portfolioName\n      portfolioImage\n      portfolioPrice\n      portfolioLink\n    }\n  }\n}\n",
+      "query": "query PortfolioPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      tags\n      portfolioDescription\n      image\n      title\n      jobDate\n      portfolioName\n      portfolioImage\n      portfolioPrice\n      portfolioLink\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js": {

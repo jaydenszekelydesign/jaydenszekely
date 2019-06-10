@@ -21,7 +21,7 @@ export default class Portfolio extends React.Component {
                 <Link to={post.fields.slug}>
                   <div className="listing" key={post.id} style={{backgroundImage: 'url("'+post.frontmatter.portfolioImage+'")'}}>
                     <div className="glaze">
-                      <h1>{post.frontmatter.portfolioName}</h1>{post.frontmatter.portfolioPrice}
+                      <h1>{post.frontmatter.portfolioName}</h1>{post.frontmatter.jobDate}
                     </div>
                   </div>
                 </Link>
@@ -60,7 +60,7 @@ export const pageQuery = graphql`
             image,
             portfolioName,
             portfolioImage,
-            portfolioPrice,
+            jobDate,
             portfolioLink,
             date(formatString: "MMMM DD, YYYY")
           }
