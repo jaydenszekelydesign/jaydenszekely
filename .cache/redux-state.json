@@ -3922,7 +3922,6 @@
     "connections": {
       "MarkdownRemark": [
         null,
-        "/portfolio/",
         "/tags/",
         "/blog/",
         "/tags/cancer/",
@@ -3931,7 +3930,8 @@
         "/tags/what-is-cancer/",
         "/tags/food/",
         "/tags/diet/",
-        "/tags/sleep/"
+        "/tags/sleep/",
+        "/portfolio/"
       ]
     }
   },
