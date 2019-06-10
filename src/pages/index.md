@@ -3,14 +3,14 @@ templateKey: home
 title: Jayden Szekely
 image: /img/me_rocks_photography.jpg
 imageOne: /img/katesmith.jpg
-imageTwo: img/home.jpg
-imageThree: img/anthony-intraversato-455600-unsplash.jpg
-imageFour: img/home.jpg
-imageFive: img/anthony-intraversato-455600-unsplash.jpg
-imageSix: img/home.jpg
-imageSeven: img/anthony-intraversato-455600-unsplash.jpg
-imageEight: img/home.jpg
-imageNine: img/anthony-intraversato-455600-unsplash.jpg
+imageTwo: /img/stranger-home-web-res.jpg
+imageThree: /img/medusa-full-page-smaller-res.jpg
+imageFour: /img/zeal-hospitality-logo-square.png
+imageFive: /img/vous-mockup-checkin-web.jpg
+imageSix: /img/hhf-book.png
+imageSeven: /img/bodyaware-laptop-mockup.jpg
+imageEight: /img/tesla-model-s-navigation-web.jpg
+imageNine: /img/wtc-light-story-quote.jpg
 imageTen: img/home.jpg
 imageEleven: img/anthony-intraversato-455600-unsplash.jpg
 imageTwelve: img/home.jpg
