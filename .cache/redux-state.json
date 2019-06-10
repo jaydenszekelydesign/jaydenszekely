@@ -1383,12 +1383,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-06-09T02:57:19.214Z",
+      "buildTime": "2019-06-09T23:33:19.682Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "560cc33424164cce7ee19614204f7c78",
+        "contentDigest": "50a8e5ff447bb2f00703aaae1340ee8e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1398,7 +1398,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e3355a3ebbbc92220e4eeb5268ccdea9",
+        "contentDigest": "d882c56175773892434888f90ae748f5",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1410,7 +1410,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2019-06-04T01:47:05.211Z",
-      "accessTime": "2019-06-09T02:57:21.947Z",
+      "accessTime": "2019-06-09T23:33:24.201Z",
       "changeTime": "2019-06-04T01:47:05.211Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1428,11 +1428,11 @@
       "blksize": 4194304,
       "ino": 21954363,
       "blocks": 0,
-      "atimeMs": 1560049041946.5193,
+      "atimeMs": 1560123204200.8835,
       "mtimeMs": 1559612825210.9175,
       "ctimeMs": 1559612825210.9175,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:21.947Z",
+      "atime": "2019-06-09T23:33:24.201Z",
       "mtime": "2019-06-04T01:47:05.211Z",
       "ctime": "2019-06-04T01:47:05.211Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1442,7 +1442,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "243cf45c23d05fd31c92cceea88bbb2d",
+        "contentDigest": "43291d050da7f91485a900646eb6360f",
         "type": "Directory",
         "description": "Directory \"src/pages/about\"",
         "owner": "gatsby-source-filesystem"
@@ -1454,7 +1454,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:57:21.950Z",
+      "accessTime": "2019-06-09T23:33:24.204Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1472,11 +1472,11 @@
       "blksize": 4194304,
       "ino": 21954365,
       "blocks": 0,
-      "atimeMs": 1560049041949.644,
+      "atimeMs": 1560123204204.0227,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.965,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:21.950Z",
+      "atime": "2019-06-09T23:33:24.204Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1486,7 +1486,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7035325ba607927c812de0223683a591",
+        "contentDigest": "03437b0d2a4b6fd26e7cf83c945e1670",
         "type": "Directory",
         "description": "Directory \"src/pages/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -1498,7 +1498,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:57:21.950Z",
+      "accessTime": "2019-06-09T23:33:24.204Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1516,11 +1516,11 @@
       "blksize": 4194304,
       "ino": 21954367,
       "blocks": 0,
-      "atimeMs": 1560049041949.6492,
+      "atimeMs": 1560123204204.0889,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.0347,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:21.950Z",
+      "atime": "2019-06-09T23:33:24.204Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1530,7 +1530,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "511c2f1c4067a97080c721329a846ad5",
+        "contentDigest": "50f2adf447f1b0fad31827953895e415",
         "type": "Directory",
         "description": "Directory \"src/pages/jargon\"",
         "owner": "gatsby-source-filesystem"
@@ -1542,7 +1542,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:57:21.950Z",
+      "accessTime": "2019-06-09T23:33:24.204Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1560,11 +1560,11 @@
       "blksize": 4194304,
       "ino": 21954374,
       "blocks": 0,
-      "atimeMs": 1560049041949.6653,
+      "atimeMs": 1560123204204.1104,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.5466,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:21.950Z",
+      "atime": "2019-06-09T23:33:24.204Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1574,7 +1574,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "98f8f337fff97b1e40c38dc05e38a85e",
+        "contentDigest": "202662bc479f32d0114da045a834804e",
         "type": "Directory",
         "description": "Directory \"src/pages/jayden\"",
         "owner": "gatsby-source-filesystem"
@@ -1586,7 +1586,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-06-09T02:13:50.791Z",
-      "accessTime": "2019-06-09T02:57:21.950Z",
+      "accessTime": "2019-06-09T23:33:24.204Z",
       "changeTime": "2019-06-09T02:13:50.791Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1604,11 +1604,11 @@
       "blksize": 4194304,
       "ino": 21954376,
       "blocks": 0,
-      "atimeMs": 1560049041949.717,
+      "atimeMs": 1560123204204.0962,
       "mtimeMs": 1560046430791.2808,
       "ctimeMs": 1560046430791.2808,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:21.950Z",
+      "atime": "2019-06-09T23:33:24.204Z",
       "mtime": "2019-06-09T02:13:50.791Z",
       "ctime": "2019-06-09T02:13:50.791Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1618,7 +1618,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cdc4b2c2d324278f971a5fe0ed594236",
+        "contentDigest": "5380b6108334d57ee51aa58759ce08d3",
         "type": "Directory",
         "description": "Directory \"src/pages/listen\"",
         "owner": "gatsby-source-filesystem"
@@ -1630,7 +1630,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:57:21.950Z",
+      "accessTime": "2019-06-09T23:33:24.204Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1648,11 +1648,11 @@
       "blksize": 4194304,
       "ino": 21954378,
       "blocks": 0,
-      "atimeMs": 1560049041949.6853,
+      "atimeMs": 1560123204204.1506,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.8938,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:21.950Z",
+      "atime": "2019-06-09T23:33:24.204Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1662,7 +1662,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5a05b80d810eb7eee79b2f0624e30025",
+        "contentDigest": "078289f0f681cd5520850c7dd6b5b038",
         "type": "Directory",
         "description": "Directory \"src/pages/portfolio\"",
         "owner": "gatsby-source-filesystem"
@@ -1674,7 +1674,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-06-05T00:33:20.176Z",
-      "accessTime": "2019-06-09T02:57:21.950Z",
+      "accessTime": "2019-06-09T23:33:24.204Z",
       "changeTime": "2019-06-05T00:33:20.176Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1692,11 +1692,11 @@
       "blksize": 4194304,
       "ino": 21954380,
       "blocks": 0,
-      "atimeMs": 1560049041949.7356,
+      "atimeMs": 1560123204204.1616,
       "mtimeMs": 1559694800176.1548,
       "ctimeMs": 1559694800176.1548,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:21.950Z",
+      "atime": "2019-06-09T23:33:24.204Z",
       "mtime": "2019-06-05T00:33:20.176Z",
       "ctime": "2019-06-05T00:33:20.176Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1706,7 +1706,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3d3415c57f53485cacb6ae6865f06edb",
+        "contentDigest": "5033cdad68a5e6988ebdca679fe3d285",
         "type": "Directory",
         "description": "Directory \"src/pages/tags\"",
         "owner": "gatsby-source-filesystem"
@@ -1718,7 +1718,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:57:21.950Z",
+      "accessTime": "2019-06-09T23:33:24.204Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1736,105 +1736,13 @@
       "blksize": 4194304,
       "ino": 21954387,
       "blocks": 0,
-      "atimeMs": 1560049041949.7415,
+      "atimeMs": 1560123204204.1558,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.2158,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:21.950Z",
+      "atime": "2019-06-09T23:33:24.204Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "3e45e112-d43b-5a81-a2c4-8b354f85f7f1": {
-      "id": "3e45e112-d43b-5a81-a2c4-8b354f85f7f1",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "5b6e6017adb3a5d42040f7ccbadb5b4d",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/404.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/404.js",
-      "relativePath": "404.js",
-      "extension": "js",
-      "size": 460,
-      "prettySize": "460 B",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:57:20.560Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
-      "base": "404.js",
-      "ext": ".js",
-      "name": "404",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954364,
-      "blocks": 8,
-      "atimeMs": 1560049040560.259,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.6208,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:20.560Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff": {
-      "id": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
-      "children": [
-        "4935f1f2-85c2-59a1-acba-03677e785625"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "d9aa5a21ade969644ed93fca6f427b47",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
-      "relativePath": "index.md",
-      "extension": "md",
-      "size": 222,
-      "prettySize": "222 B",
-      "modifiedTime": "2019-06-02T02:23:32.338Z",
-      "accessTime": "2019-06-09T02:56:53.022Z",
-      "changeTime": "2019-06-02T02:23:32.338Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954373,
-      "blocks": 8,
-      "atimeMs": 1560049013021.9656,
-      "mtimeMs": 1559442212337.6743,
-      "ctimeMs": 1559442212337.6743,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.022Z",
-      "mtime": "2019-06-02T02:23:32.338Z",
-      "ctime": "2019-06-02T02:23:32.338Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f": {
@@ -1857,7 +1765,7 @@
       "size": 1155,
       "prettySize": "1.16 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:56:53.023Z",
+      "accessTime": "2019-06-05T23:07:29.277Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1875,11 +1783,11 @@
       "blksize": 4194304,
       "ino": 21954366,
       "blocks": 8,
-      "atimeMs": 1560049013023.3208,
+      "atimeMs": 1559776049277.228,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.0078,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.023Z",
+      "atime": "2019-06-05T23:07:29.277Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1904,7 +1812,7 @@
       "size": 3295,
       "prettySize": "3.29 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:56:53.024Z",
+      "accessTime": "2019-06-05T23:07:29.286Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1922,13 +1830,105 @@
       "blksize": 4194304,
       "ino": 21954368,
       "blocks": 8,
-      "atimeMs": 1560049013023.51,
+      "atimeMs": 1559776049286.2224,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.1104,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.024Z",
+      "atime": "2019-06-05T23:07:29.286Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "3e45e112-d43b-5a81-a2c4-8b354f85f7f1": {
+      "id": "3e45e112-d43b-5a81-a2c4-8b354f85f7f1",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5b6e6017adb3a5d42040f7ccbadb5b4d",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 460,
+      "prettySize": "460 B",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-09T05:47:45.962Z",
+      "changeTime": "2019-06-02T02:01:33.367Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954364,
+      "blocks": 8,
+      "atimeMs": 1560059265962.0686,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893366.6208,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-09T05:47:45.962Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.367Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff": {
+      "id": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
+      "children": [
+        "4935f1f2-85c2-59a1-acba-03677e785625"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d9aa5a21ade969644ed93fca6f427b47",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
+      "relativePath": "index.md",
+      "extension": "md",
+      "size": 222,
+      "prettySize": "222 B",
+      "modifiedTime": "2019-06-02T02:23:32.338Z",
+      "accessTime": "2019-06-05T23:11:02.444Z",
+      "changeTime": "2019-06-02T02:23:32.338Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954373,
+      "blocks": 8,
+      "atimeMs": 1559776262443.6157,
+      "mtimeMs": 1559442212337.6743,
+      "ctimeMs": 1559442212337.6743,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-05T23:11:02.444Z",
+      "mtime": "2019-06-02T02:23:32.338Z",
+      "ctime": "2019-06-02T02:23:32.338Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "176ecdb8-8f9c-53f2-82af-1e462266530e": {
@@ -1951,7 +1951,7 @@
       "size": 195,
       "prettySize": "195 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:56:53.024Z",
+      "accessTime": "2019-06-09T03:08:14.224Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1969,58 +1969,11 @@
       "blksize": 4194304,
       "ino": 21954369,
       "blocks": 8,
-      "atimeMs": 1560049013023.5632,
+      "atimeMs": 1560049694223.5342,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.137,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.024Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "03c4caf5-78c8-5edf-bba3-8ffbd2f568e6": {
-      "id": "03c4caf5-78c8-5edf-bba3-8ffbd2f568e6",
-      "children": [
-        "564fa505-b337-5c91-9669-6e98cfca4b15"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "0315010bc150a203c9b28e784c834ca5",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/blog/sleep.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/sleep.md",
-      "relativePath": "blog/sleep.md",
-      "extension": "md",
-      "size": 5745,
-      "prettySize": "5.75 kB",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:56:53.024Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
-      "base": "sleep.md",
-      "ext": ".md",
-      "name": "sleep",
-      "relativeDirectory": "blog",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954370,
-      "blocks": 16,
-      "atimeMs": 1560049013023.5918,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893367.0837,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.024Z",
+      "atime": "2019-06-09T03:08:14.224Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2045,7 +1998,7 @@
       "size": 595,
       "prettySize": "595 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:56:53.024Z",
+      "accessTime": "2019-06-05T23:07:29.294Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2063,44 +2016,44 @@
       "blksize": 4194304,
       "ino": 21954371,
       "blocks": 8,
-      "atimeMs": 1560049013023.6453,
+      "atimeMs": 1559776049294.2422,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.1897,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.024Z",
+      "atime": "2019-06-05T23:07:29.294Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
-    "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b": {
-      "id": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
+    "03c4caf5-78c8-5edf-bba3-8ffbd2f568e6": {
+      "id": "03c4caf5-78c8-5edf-bba3-8ffbd2f568e6",
       "children": [
-        "576c1608-0625-5c33-b071-c0b97ccc8337"
+        "564fa505-b337-5c91-9669-6e98cfca4b15"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6530365ac35826f7b986d407df89f75a",
+        "contentDigest": "0315010bc150a203c9b28e784c834ca5",
         "type": "File",
         "mediaType": "text/markdown",
-        "description": "File \"src/pages/jargon/index.md\"",
+        "description": "File \"src/pages/blog/sleep.md\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
-      "relativePath": "jargon/index.md",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/sleep.md",
+      "relativePath": "blog/sleep.md",
       "extension": "md",
-      "size": 920,
-      "prettySize": "920 B",
+      "size": 5745,
+      "prettySize": "5.75 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:56:53.024Z",
+      "accessTime": "2019-06-05T23:07:29.303Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon",
-      "base": "index.md",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
+      "base": "sleep.md",
       "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "jargon",
+      "name": "sleep",
+      "relativeDirectory": "blog",
       "dev": 16777221,
       "mode": 33261,
       "nlink": 1,
@@ -2108,13 +2061,13 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 21954375,
-      "blocks": 8,
-      "atimeMs": 1560049013024.0398,
+      "ino": 21954370,
+      "blocks": 16,
+      "atimeMs": 1559776049302.8833,
       "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.5928,
+      "ctimeMs": 1559440893367.0837,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.024Z",
+      "atime": "2019-06-05T23:07:29.303Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2139,7 +2092,7 @@
       "size": 5728,
       "prettySize": "5.73 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:56:53.024Z",
+      "accessTime": "2019-06-05T23:07:29.310Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2157,42 +2110,44 @@
       "blksize": 4194304,
       "ino": 21954372,
       "blocks": 16,
-      "atimeMs": 1560049013023.6743,
+      "atimeMs": 1559776049310.1934,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.1633,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.024Z",
+      "atime": "2019-06-05T23:07:29.310Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
-    "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0": {
-      "id": "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0",
-      "children": [],
+    "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b": {
+      "id": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
+      "children": [
+        "576c1608-0625-5c33-b071-c0b97ccc8337"
+      ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "62130dbdcc87340c0940bc61ace27232",
+        "contentDigest": "6530365ac35826f7b986d407df89f75a",
         "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/listen/index.js\"",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/jargon/index.md\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen/index.js",
-      "relativePath": "listen/index.js",
-      "extension": "js",
-      "size": 1705,
-      "prettySize": "1.71 kB",
-      "modifiedTime": "2019-06-04T02:59:06.917Z",
-      "accessTime": "2019-06-09T02:57:21.950Z",
-      "changeTime": "2019-06-04T02:59:06.917Z",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
+      "relativePath": "jargon/index.md",
+      "extension": "md",
+      "size": 920,
+      "prettySize": "920 B",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-05T23:07:29.305Z",
+      "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen",
-      "base": "index.js",
-      "ext": ".js",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon",
+      "base": "index.md",
+      "ext": ".md",
       "name": "index",
-      "relativeDirectory": "listen",
+      "relativeDirectory": "jargon",
       "dev": 16777221,
       "mode": 33261,
       "nlink": 1,
@@ -2200,15 +2155,15 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 21954379,
+      "ino": 21954375,
       "blocks": 8,
-      "atimeMs": 1560049041949.9182,
-      "mtimeMs": 1559617146917.3357,
-      "ctimeMs": 1559617146917.3357,
+      "atimeMs": 1559776049304.6487,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893366.5928,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:21.950Z",
-      "mtime": "2019-06-04T02:59:06.917Z",
-      "ctime": "2019-06-04T02:59:06.917Z",
+      "atime": "2019-06-05T23:07:29.305Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7": {
@@ -2231,7 +2186,7 @@
       "size": 1193,
       "prettySize": "1.19 kB",
       "modifiedTime": "2019-06-09T02:13:50.791Z",
-      "accessTime": "2019-06-09T02:56:53.024Z",
+      "accessTime": "2019-06-09T07:55:20.686Z",
       "changeTime": "2019-06-09T02:13:50.791Z",
       "birthTime": "2019-06-09T02:13:50.791Z",
       "root": "/",
@@ -2249,14 +2204,104 @@
       "blksize": 4194304,
       "ino": 22280530,
       "blocks": 8,
-      "atimeMs": 1560049013024.2021,
+      "atimeMs": 1560066920685.5027,
       "mtimeMs": 1560046430791.4736,
       "ctimeMs": 1560046430791.4736,
       "birthtimeMs": 1560046430791.2705,
-      "atime": "2019-06-09T02:56:53.024Z",
+      "atime": "2019-06-09T07:55:20.686Z",
       "mtime": "2019-06-09T02:13:50.791Z",
       "ctime": "2019-06-09T02:13:50.791Z",
       "birthtime": "2019-06-09T02:13:50.791Z"
+    },
+    "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2": {
+      "id": "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e34e12071614cc43efd48477e277b6f7",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/tags/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags/index.js",
+      "relativePath": "tags/index.js",
+      "extension": "js",
+      "size": 1275,
+      "prettySize": "1.27 kB",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-05T23:07:29.267Z",
+      "changeTime": "2019-06-02T02:01:33.367Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "tags",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954388,
+      "blocks": 8,
+      "atimeMs": 1559776049266.6704,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893367.2795,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-05T23:07:29.267Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.367Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0": {
+      "id": "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "62130dbdcc87340c0940bc61ace27232",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/listen/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen/index.js",
+      "relativePath": "listen/index.js",
+      "extension": "js",
+      "size": 1705,
+      "prettySize": "1.71 kB",
+      "modifiedTime": "2019-06-04T02:59:06.917Z",
+      "accessTime": "2019-06-05T23:11:02.464Z",
+      "changeTime": "2019-06-04T02:59:06.917Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "listen",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954379,
+      "blocks": 8,
+      "atimeMs": 1559776262463.9192,
+      "mtimeMs": 1559617146917.3357,
+      "ctimeMs": 1559617146917.3357,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-05T23:11:02.464Z",
+      "mtime": "2019-06-04T02:59:06.917Z",
+      "ctime": "2019-06-04T02:59:06.917Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "b32e1cb2-eacb-5c4d-8641-e23fc35da015": {
       "id": "b32e1cb2-eacb-5c4d-8641-e23fc35da015",
@@ -2278,7 +2323,7 @@
       "size": 212,
       "prettySize": "212 B",
       "modifiedTime": "2019-06-04T01:49:46.130Z",
-      "accessTime": "2019-06-09T02:56:53.025Z",
+      "accessTime": "2019-06-09T04:48:13.363Z",
       "changeTime": "2019-06-04T01:49:46.130Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2296,11 +2341,11 @@
       "blksize": 4194304,
       "ino": 21954382,
       "blocks": 8,
-      "atimeMs": 1560049013024.5706,
+      "atimeMs": 1560055693363.149,
       "mtimeMs": 1559612986129.838,
       "ctimeMs": 1559612986129.838,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.025Z",
+      "atime": "2019-06-09T04:48:13.363Z",
       "mtime": "2019-06-04T01:49:46.130Z",
       "ctime": "2019-06-04T01:49:46.130Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2325,7 +2370,7 @@
       "size": 1291,
       "prettySize": "1.29 kB",
       "modifiedTime": "2019-06-09T05:44:13.593Z",
-      "accessTime": "2019-06-09T05:44:13.590Z",
+      "accessTime": "2019-06-09T07:55:20.980Z",
       "changeTime": "2019-06-09T05:44:13.593Z",
       "birthTime": "2019-06-05T00:33:20.176Z",
       "root": "/",
@@ -2343,88 +2388,14 @@
       "blksize": 4194304,
       "ino": 22182153,
       "blocks": 8,
-      "atimeMs": 1560059053589.8665,
+      "atimeMs": 1560066920980.1958,
       "mtimeMs": 1560059053593.104,
       "ctimeMs": 1560059053593.104,
       "birthtimeMs": 1559694800176.1436,
-      "atime": "2019-06-09T05:44:13.590Z",
+      "atime": "2019-06-09T07:55:20.980Z",
       "mtime": "2019-06-09T05:44:13.593Z",
       "ctime": "2019-06-09T05:44:13.593Z",
       "birthtime": "2019-06-05T00:33:20.176Z"
-    },
-    "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2": {
-      "id": "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e34e12071614cc43efd48477e277b6f7",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/tags/index.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags/index.js",
-      "relativePath": "tags/index.js",
-      "extension": "js",
-      "size": 1275,
-      "prettySize": "1.27 kB",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:57:21.950Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "tags",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954388,
-      "blocks": 8,
-      "atimeMs": 1560049041950.0164,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893367.2795,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:21.950Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "4935f1f2-85c2-59a1-acba-03677e785625": {
-      "id": "4935f1f2-85c2-59a1-acba-03677e785625",
-      "children": [],
-      "parent": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
-      "internal": {
-        "content": "Hi!  I'm Jayden Szekely\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "64e1a7062582cc86dc8075e73014b8f4",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Jayden Szekely",
-        "templateKey": "home",
-        "image": "/img/home.jpg",
-        "announcementBlurb": "View all our Projects",
-        "announcementLink": "/blog",
-        "announcementImage": "img/anthony-intraversato-455600-unsplash.jpg",
-        "_PARENT": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Hi!  I'm Jayden Szekely\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
-      "fields": {
-        "slug": "/"
-      }
     },
     "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": {
       "id": "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc",
@@ -2493,6 +2464,35 @@
         "slug": "/blog/exercise/"
       }
     },
+    "4935f1f2-85c2-59a1-acba-03677e785625": {
+      "id": "4935f1f2-85c2-59a1-acba-03677e785625",
+      "children": [],
+      "parent": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
+      "internal": {
+        "content": "Hi!  I'm Jayden Szekely\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "64e1a7062582cc86dc8075e73014b8f4",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Jayden Szekely",
+        "templateKey": "home",
+        "image": "/img/home.jpg",
+        "announcementBlurb": "View all our Projects",
+        "announcementLink": "/blog",
+        "announcementImage": "img/anthony-intraversato-455600-unsplash.jpg",
+        "_PARENT": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Hi!  I'm Jayden Szekely\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
+      "fields": {
+        "slug": "/"
+      }
+    },
     "54141124-6550-5118-92fb-35e9134a6bde": {
       "id": "54141124-6550-5118-92fb-35e9134a6bde",
       "children": [],
@@ -2520,40 +2520,6 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
       "fields": {
         "slug": "/blog/"
-      }
-    },
-    "564fa505-b337-5c91-9669-6e98cfca4b15": {
-      "id": "564fa505-b337-5c91-9669-6e98cfca4b15",
-      "children": [],
-      "parent": "03c4caf5-78c8-5edf-bba3-8ffbd2f568e6",
-      "internal": {
-        "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sAAFQHIU0Pk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nThe pillars of good health which consist of a nutritious diet, exercise and good mental health rest on this foundation. Poor sleep makes these pillars much harder to achieve. The majority of people in the world need at least 7 hours of sleep and up to 9.  Less than 6 hours of sleep results in a number of  of detrimental processes that contribute to chronic disease and mental illness.\n\nThese processes include but are not limited to;\n\n•\tThe brain is not washed clean of the metabolic waste built up from processes that occurred during the day leading to a build-up of waste proteins in the brain.\n\n•\tMemories are not transferred from short term memory storage to long term storage leading to memory, concentration and focusing problems.\n\n•\tAppetite hormones become disrupted including an increase in ghrelin which is an appetite stimulant leading up to eat more and over time gain weight. Obesity is a risk factor for chronic disease including cancer. Leptin the appetite suppressant hormone is lower in sleep deprivation.\n\n•\tOur immune system works at its peak during deep sleep, sleep deficiency leads to immunodeficiency and a greater risk of precancerous cells taking holding as an immune system that is working well will remove these cells (as well as infected cells).\n\n•\tSleep deficiency causes a stress like response in our bodies which sets up chronic inflammation. Normally acute inflammation is responsible for healing damaged tissue, releasing chemical messengers that increase blood vessels and nutrient supply to an area. In chronic inflammation these changes stimulate cancer growth, helping feed it and stimulating it to grow blood vessels by which it can grow even more and even break off and spread to other parts of the body.\n\n•\tSleep deprivation has a negative impact on our mental health causing decreased motivation, increased negative and even suicidal thoughts. This make it hard to stick to a healthy diet and exercise program.\n\n**Achieving a good night sleep is reward for good choices made throughout the day. Some self-discipline is required but the rewards are second to none. Here are some of the things you can do to improve your chances of getting a good night’s sleep;**\n\n•\tYou need a routine. Same time to bed at night (that time is when you start feeling sleepy), don’t fall asleep on the chair but go to bed and fall asleep in bed. This way you will learn to associate falling asleep with your bed. Don’t use your bed for anything but sleep and sex, again this increases the association you make with falling asleep. Get up at the same time every morning (that time when you naturally start to wake up) don’t stay in bed and fall back to sleep. When you get up, open your curtains and gets some natural light as this helps set your biological clock and you benefit at the end of the day.\n\n•\tFast (go without food) for 12 hours over night. If you go to bed at 10 then stop eating at about 8, don’t eat again till 8 in the morning. This increases the health impact of your sleep and further strengthens your biological clock.\n\n•\tEat a nutritious diet during the day and try and eat most of your meals with friends and family. Try not to snack too much. Cut down on sugar, especially sugary drinks.\n\n•\tAvoid caffeine after midday. Caffeine has a long half life of 6 hours so its stimulating effects hang around for a long time. Even if you think it doesn’t stop you sleeping, sleep studies have shown that sleep quality is poorer with caffeine in your system.\n\n•\tAvoid alcohol especially in the last few hours before bed. Alcohol has a number of negative effects, in this case disrupting sleep and causing you to wake up frequently. If you have to drink, try and limit it to one glass at dinner time and only 2 or 3 nights a week.\n\n•\tExercise every day, move as much as you can but don’t do any strenuous exercise in the 2 hours before bedtime.\n\n•\tIn the hour before bedtime, start winding down, dim the lights and put away electronic devices (the white light disrupts your biological clock and may delay the onset of sleep).\n\n•\tTry not to drink too much fluid so you don’t have to get up at night to go to the toilet. If you do need to get up then use a red light which doesn’t disrupt your sleep as much (by confusing your biological clock)\n\n•\tA warm bath, shower or spa before bed can help drop your core body temperature which can help prepare you to sleep. Keep your room cool and don’t over heat in bed.\n\n•\tLearn to meditate to reduce stress before bed so you are not ruminating on the days events. If you have a lot on your mind make a list of your thoughts so you can deal with them the next day. Try not to overstimulate your mind with TV and Gaming.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "32d6893481e2a49041167c1cd352c0e5",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Sleep",
-        "templateKey": "blog-post",
-        "date": "2018-12-06T04:00:25.468Z",
-        "header": "/img/sleep.jpg",
-        "description": "In this article, Dr Lisa Dawson explains why sleep is so foundational to good health and how you literally fight cancer while you sleep.",
-        "recommendedName": "Why we Sleep by Matthew Walker",
-        "recommendedImage": "/img/why-we-sleep.jpg",
-        "recommendedLink": "https://www.bookdepository.com/Why-We-Sleep-Matthew-Walker/9780141983769?redirected=true&utm_medium=Google&utm_campaign=Base1&utm_source=NZ&utm_content=Why-We-Sleep&selectCurrency=NZD&w=AF7CAU99ZZCHQQA809DF&pdg=pla-309174813119:kwd-309174813119:cmp-947803846:adg-45233890537:crv-225027758847:pid-9780141983769:dev-c&gclid=CjwKCAiA9efgBRAYEiwAUT-jtC9VPEhWV98-4hvePej-jaUIMt9i0tue_FW53REhyB5q7SWy3e5wlhoC5WUQAvD_BwE",
-        "tags": [
-          "Sleep"
-        ],
-        "_PARENT": "03c4caf5-78c8-5edf-bba3-8ffbd2f568e6"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sAAFQHIU0Pk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nThe pillars of good health which consist of a nutritious diet, exercise and good mental health rest on this foundation. Poor sleep makes these pillars much harder to achieve. The majority of people in the world need at least 7 hours of sleep and up to 9.  Less than 6 hours of sleep results in a number of  of detrimental processes that contribute to chronic disease and mental illness.\n\nThese processes include but are not limited to;\n\n•\tThe brain is not washed clean of the metabolic waste built up from processes that occurred during the day leading to a build-up of waste proteins in the brain.\n\n•\tMemories are not transferred from short term memory storage to long term storage leading to memory, concentration and focusing problems.\n\n•\tAppetite hormones become disrupted including an increase in ghrelin which is an appetite stimulant leading up to eat more and over time gain weight. Obesity is a risk factor for chronic disease including cancer. Leptin the appetite suppressant hormone is lower in sleep deprivation.\n\n•\tOur immune system works at its peak during deep sleep, sleep deficiency leads to immunodeficiency and a greater risk of precancerous cells taking holding as an immune system that is working well will remove these cells (as well as infected cells).\n\n•\tSleep deficiency causes a stress like response in our bodies which sets up chronic inflammation. Normally acute inflammation is responsible for healing damaged tissue, releasing chemical messengers that increase blood vessels and nutrient supply to an area. In chronic inflammation these changes stimulate cancer growth, helping feed it and stimulating it to grow blood vessels by which it can grow even more and even break off and spread to other parts of the body.\n\n•\tSleep deprivation has a negative impact on our mental health causing decreased motivation, increased negative and even suicidal thoughts. This make it hard to stick to a healthy diet and exercise program.\n\n**Achieving a good night sleep is reward for good choices made throughout the day. Some self-discipline is required but the rewards are second to none. Here are some of the things you can do to improve your chances of getting a good night’s sleep;**\n\n•\tYou need a routine. Same time to bed at night (that time is when you start feeling sleepy), don’t fall asleep on the chair but go to bed and fall asleep in bed. This way you will learn to associate falling asleep with your bed. Don’t use your bed for anything but sleep and sex, again this increases the association you make with falling asleep. Get up at the same time every morning (that time when you naturally start to wake up) don’t stay in bed and fall back to sleep. When you get up, open your curtains and gets some natural light as this helps set your biological clock and you benefit at the end of the day.\n\n•\tFast (go without food) for 12 hours over night. If you go to bed at 10 then stop eating at about 8, don’t eat again till 8 in the morning. This increases the health impact of your sleep and further strengthens your biological clock.\n\n•\tEat a nutritious diet during the day and try and eat most of your meals with friends and family. Try not to snack too much. Cut down on sugar, especially sugary drinks.\n\n•\tAvoid caffeine after midday. Caffeine has a long half life of 6 hours so its stimulating effects hang around for a long time. Even if you think it doesn’t stop you sleeping, sleep studies have shown that sleep quality is poorer with caffeine in your system.\n\n•\tAvoid alcohol especially in the last few hours before bed. Alcohol has a number of negative effects, in this case disrupting sleep and causing you to wake up frequently. If you have to drink, try and limit it to one glass at dinner time and only 2 or 3 nights a week.\n\n•\tExercise every day, move as much as you can but don’t do any strenuous exercise in the 2 hours before bedtime.\n\n•\tIn the hour before bedtime, start winding down, dim the lights and put away electronic devices (the white light disrupts your biological clock and may delay the onset of sleep).\n\n•\tTry not to drink too much fluid so you don’t have to get up at night to go to the toilet. If you do need to get up then use a red light which doesn’t disrupt your sleep as much (by confusing your biological clock)\n\n•\tA warm bath, shower or spa before bed can help drop your core body temperature which can help prepare you to sleep. Keep your room cool and don’t over heat in bed.\n\n•\tLearn to meditate to reduce stress before bed so you are not ruminating on the days events. If you have a lot on your mind make a list of your thoughts so you can deal with them the next day. Try not to overstimulate your mind with TV and Gaming.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/sleep.md",
-      "fields": {
-        "slug": "/blog/sleep/"
       }
     },
     "2002fb5a-f210-5198-acd3-b8738b25adc6": {
@@ -2592,38 +2558,6 @@
         "slug": "/blog/what-is-cancer/"
       }
     },
-    "576c1608-0625-5c33-b071-c0b97ccc8337": {
-      "id": "576c1608-0625-5c33-b071-c0b97ccc8337",
-      "children": [],
-      "parent": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
-      "internal": {
-        "content": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "9b54e05febe5981f75b3c28beb175e11",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Jargon Dictionary",
-        "templateKey": "about-page",
-        "full_image": "/img/resource-splash.jpg",
-        "leftBackground": "/img/resource-splash.jpg",
-        "leftTitle": "View All Our Resources",
-        "leftLink": "https://www.whatthecancer.com/resources",
-        "rightTitle": "Read our Blog",
-        "rightDescription": "Read, Listen or Watch articles on topics relating to fighting and prevention of cancer",
-        "rightUrl": "/blog",
-        "_PARENT": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
-      "fields": {
-        "slug": "/jargon/"
-      }
-    },
     "cb0148d7-a849-504a-8a6e-3307c3a6b052": {
       "id": "cb0148d7-a849-504a-8a6e-3307c3a6b052",
       "children": [],
@@ -2658,6 +2592,72 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/wonderful-fantastic-food.md",
       "fields": {
         "slug": "/blog/wonderful-fantastic-food/"
+      }
+    },
+    "564fa505-b337-5c91-9669-6e98cfca4b15": {
+      "id": "564fa505-b337-5c91-9669-6e98cfca4b15",
+      "children": [],
+      "parent": "03c4caf5-78c8-5edf-bba3-8ffbd2f568e6",
+      "internal": {
+        "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sAAFQHIU0Pk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nThe pillars of good health which consist of a nutritious diet, exercise and good mental health rest on this foundation. Poor sleep makes these pillars much harder to achieve. The majority of people in the world need at least 7 hours of sleep and up to 9.  Less than 6 hours of sleep results in a number of  of detrimental processes that contribute to chronic disease and mental illness.\n\nThese processes include but are not limited to;\n\n•\tThe brain is not washed clean of the metabolic waste built up from processes that occurred during the day leading to a build-up of waste proteins in the brain.\n\n•\tMemories are not transferred from short term memory storage to long term storage leading to memory, concentration and focusing problems.\n\n•\tAppetite hormones become disrupted including an increase in ghrelin which is an appetite stimulant leading up to eat more and over time gain weight. Obesity is a risk factor for chronic disease including cancer. Leptin the appetite suppressant hormone is lower in sleep deprivation.\n\n•\tOur immune system works at its peak during deep sleep, sleep deficiency leads to immunodeficiency and a greater risk of precancerous cells taking holding as an immune system that is working well will remove these cells (as well as infected cells).\n\n•\tSleep deficiency causes a stress like response in our bodies which sets up chronic inflammation. Normally acute inflammation is responsible for healing damaged tissue, releasing chemical messengers that increase blood vessels and nutrient supply to an area. In chronic inflammation these changes stimulate cancer growth, helping feed it and stimulating it to grow blood vessels by which it can grow even more and even break off and spread to other parts of the body.\n\n•\tSleep deprivation has a negative impact on our mental health causing decreased motivation, increased negative and even suicidal thoughts. This make it hard to stick to a healthy diet and exercise program.\n\n**Achieving a good night sleep is reward for good choices made throughout the day. Some self-discipline is required but the rewards are second to none. Here are some of the things you can do to improve your chances of getting a good night’s sleep;**\n\n•\tYou need a routine. Same time to bed at night (that time is when you start feeling sleepy), don’t fall asleep on the chair but go to bed and fall asleep in bed. This way you will learn to associate falling asleep with your bed. Don’t use your bed for anything but sleep and sex, again this increases the association you make with falling asleep. Get up at the same time every morning (that time when you naturally start to wake up) don’t stay in bed and fall back to sleep. When you get up, open your curtains and gets some natural light as this helps set your biological clock and you benefit at the end of the day.\n\n•\tFast (go without food) for 12 hours over night. If you go to bed at 10 then stop eating at about 8, don’t eat again till 8 in the morning. This increases the health impact of your sleep and further strengthens your biological clock.\n\n•\tEat a nutritious diet during the day and try and eat most of your meals with friends and family. Try not to snack too much. Cut down on sugar, especially sugary drinks.\n\n•\tAvoid caffeine after midday. Caffeine has a long half life of 6 hours so its stimulating effects hang around for a long time. Even if you think it doesn’t stop you sleeping, sleep studies have shown that sleep quality is poorer with caffeine in your system.\n\n•\tAvoid alcohol especially in the last few hours before bed. Alcohol has a number of negative effects, in this case disrupting sleep and causing you to wake up frequently. If you have to drink, try and limit it to one glass at dinner time and only 2 or 3 nights a week.\n\n•\tExercise every day, move as much as you can but don’t do any strenuous exercise in the 2 hours before bedtime.\n\n•\tIn the hour before bedtime, start winding down, dim the lights and put away electronic devices (the white light disrupts your biological clock and may delay the onset of sleep).\n\n•\tTry not to drink too much fluid so you don’t have to get up at night to go to the toilet. If you do need to get up then use a red light which doesn’t disrupt your sleep as much (by confusing your biological clock)\n\n•\tA warm bath, shower or spa before bed can help drop your core body temperature which can help prepare you to sleep. Keep your room cool and don’t over heat in bed.\n\n•\tLearn to meditate to reduce stress before bed so you are not ruminating on the days events. If you have a lot on your mind make a list of your thoughts so you can deal with them the next day. Try not to overstimulate your mind with TV and Gaming.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "32d6893481e2a49041167c1cd352c0e5",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Sleep",
+        "templateKey": "blog-post",
+        "date": "2018-12-06T04:00:25.468Z",
+        "header": "/img/sleep.jpg",
+        "description": "In this article, Dr Lisa Dawson explains why sleep is so foundational to good health and how you literally fight cancer while you sleep.",
+        "recommendedName": "Why we Sleep by Matthew Walker",
+        "recommendedImage": "/img/why-we-sleep.jpg",
+        "recommendedLink": "https://www.bookdepository.com/Why-We-Sleep-Matthew-Walker/9780141983769?redirected=true&utm_medium=Google&utm_campaign=Base1&utm_source=NZ&utm_content=Why-We-Sleep&selectCurrency=NZD&w=AF7CAU99ZZCHQQA809DF&pdg=pla-309174813119:kwd-309174813119:cmp-947803846:adg-45233890537:crv-225027758847:pid-9780141983769:dev-c&gclid=CjwKCAiA9efgBRAYEiwAUT-jtC9VPEhWV98-4hvePej-jaUIMt9i0tue_FW53REhyB5q7SWy3e5wlhoC5WUQAvD_BwE",
+        "tags": [
+          "Sleep"
+        ],
+        "_PARENT": "03c4caf5-78c8-5edf-bba3-8ffbd2f568e6"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sAAFQHIU0Pk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nThe pillars of good health which consist of a nutritious diet, exercise and good mental health rest on this foundation. Poor sleep makes these pillars much harder to achieve. The majority of people in the world need at least 7 hours of sleep and up to 9.  Less than 6 hours of sleep results in a number of  of detrimental processes that contribute to chronic disease and mental illness.\n\nThese processes include but are not limited to;\n\n•\tThe brain is not washed clean of the metabolic waste built up from processes that occurred during the day leading to a build-up of waste proteins in the brain.\n\n•\tMemories are not transferred from short term memory storage to long term storage leading to memory, concentration and focusing problems.\n\n•\tAppetite hormones become disrupted including an increase in ghrelin which is an appetite stimulant leading up to eat more and over time gain weight. Obesity is a risk factor for chronic disease including cancer. Leptin the appetite suppressant hormone is lower in sleep deprivation.\n\n•\tOur immune system works at its peak during deep sleep, sleep deficiency leads to immunodeficiency and a greater risk of precancerous cells taking holding as an immune system that is working well will remove these cells (as well as infected cells).\n\n•\tSleep deficiency causes a stress like response in our bodies which sets up chronic inflammation. Normally acute inflammation is responsible for healing damaged tissue, releasing chemical messengers that increase blood vessels and nutrient supply to an area. In chronic inflammation these changes stimulate cancer growth, helping feed it and stimulating it to grow blood vessels by which it can grow even more and even break off and spread to other parts of the body.\n\n•\tSleep deprivation has a negative impact on our mental health causing decreased motivation, increased negative and even suicidal thoughts. This make it hard to stick to a healthy diet and exercise program.\n\n**Achieving a good night sleep is reward for good choices made throughout the day. Some self-discipline is required but the rewards are second to none. Here are some of the things you can do to improve your chances of getting a good night’s sleep;**\n\n•\tYou need a routine. Same time to bed at night (that time is when you start feeling sleepy), don’t fall asleep on the chair but go to bed and fall asleep in bed. This way you will learn to associate falling asleep with your bed. Don’t use your bed for anything but sleep and sex, again this increases the association you make with falling asleep. Get up at the same time every morning (that time when you naturally start to wake up) don’t stay in bed and fall back to sleep. When you get up, open your curtains and gets some natural light as this helps set your biological clock and you benefit at the end of the day.\n\n•\tFast (go without food) for 12 hours over night. If you go to bed at 10 then stop eating at about 8, don’t eat again till 8 in the morning. This increases the health impact of your sleep and further strengthens your biological clock.\n\n•\tEat a nutritious diet during the day and try and eat most of your meals with friends and family. Try not to snack too much. Cut down on sugar, especially sugary drinks.\n\n•\tAvoid caffeine after midday. Caffeine has a long half life of 6 hours so its stimulating effects hang around for a long time. Even if you think it doesn’t stop you sleeping, sleep studies have shown that sleep quality is poorer with caffeine in your system.\n\n•\tAvoid alcohol especially in the last few hours before bed. Alcohol has a number of negative effects, in this case disrupting sleep and causing you to wake up frequently. If you have to drink, try and limit it to one glass at dinner time and only 2 or 3 nights a week.\n\n•\tExercise every day, move as much as you can but don’t do any strenuous exercise in the 2 hours before bedtime.\n\n•\tIn the hour before bedtime, start winding down, dim the lights and put away electronic devices (the white light disrupts your biological clock and may delay the onset of sleep).\n\n•\tTry not to drink too much fluid so you don’t have to get up at night to go to the toilet. If you do need to get up then use a red light which doesn’t disrupt your sleep as much (by confusing your biological clock)\n\n•\tA warm bath, shower or spa before bed can help drop your core body temperature which can help prepare you to sleep. Keep your room cool and don’t over heat in bed.\n\n•\tLearn to meditate to reduce stress before bed so you are not ruminating on the days events. If you have a lot on your mind make a list of your thoughts so you can deal with them the next day. Try not to overstimulate your mind with TV and Gaming.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/sleep.md",
+      "fields": {
+        "slug": "/blog/sleep/"
+      }
+    },
+    "576c1608-0625-5c33-b071-c0b97ccc8337": {
+      "id": "576c1608-0625-5c33-b071-c0b97ccc8337",
+      "children": [],
+      "parent": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
+      "internal": {
+        "content": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "9b54e05febe5981f75b3c28beb175e11",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Jargon Dictionary",
+        "templateKey": "about-page",
+        "full_image": "/img/resource-splash.jpg",
+        "leftBackground": "/img/resource-splash.jpg",
+        "leftTitle": "View All Our Resources",
+        "leftLink": "https://www.whatthecancer.com/resources",
+        "rightTitle": "Read our Blog",
+        "rightDescription": "Read, Listen or Watch articles on topics relating to fighting and prevention of cancer",
+        "rightUrl": "/blog",
+        "_PARENT": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
+      "fields": {
+        "slug": "/jargon/"
       }
     },
     "df0b2ad0-0419-5d6e-9631-999c911f3931": {
@@ -2720,12 +2720,46 @@
         "slug": "/portfolio/"
       }
     },
+    "c5cfc1ee-382e-5b44-b49f-1471895d5a30": {
+      "id": "c5cfc1ee-382e-5b44-b49f-1471895d5a30",
+      "children": [],
+      "parent": "04a5bc5f-4bc6-51ba-9df5-931f11ea9086",
+      "internal": {
+        "content": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "eb198efaffe7daec257c2a4630593ff8",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "WHAT THE CANCER",
+        "templateKey": "portfolio",
+        "date": "2018-12-18T06:43:47.603Z",
+        "image": "/img/resource-splash.jpg",
+        "description": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read ",
+        "jobDate": "DEC – 2018",
+        "portfolioName": "What The Cancer",
+        "portfolioDescription": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.",
+        "portfolioImage": "/img/home.jpg",
+        "portfolioPrice": "About $30. ",
+        "portfolioLink": "/",
+        "_PARENT": "04a5bc5f-4bc6-51ba-9df5-931f11ea9086"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/what-the-cancer.md",
+      "fields": {
+        "slug": "/portfolio/what-the-cancer/"
+      }
+    },
     "b7423d2f-7d84-5f93-b118-9937c25add30": {
       "id": "b7423d2f-7d84-5f93-b118-9937c25add30",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d020aee8815a8633486f858c80d4a9df",
+        "contentDigest": "ec2e13743e02dae72c9dcde0d8c489bd",
         "type": "Directory",
         "description": "Directory \"src/img\"",
         "owner": "gatsby-source-filesystem"
@@ -2734,11 +2768,11 @@
       "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
       "relativePath": "",
       "extension": "",
-      "size": 384,
-      "prettySize": "384 B",
-      "modifiedTime": "2019-06-02T02:34:08.137Z",
-      "accessTime": "2019-06-09T02:57:22.040Z",
-      "changeTime": "2019-06-02T02:34:08.137Z",
+      "size": 448,
+      "prettySize": "448 B",
+      "modifiedTime": "2019-06-09T05:38:04.802Z",
+      "accessTime": "2019-06-09T23:33:24.297Z",
+      "changeTime": "2019-06-09T05:38:04.802Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src",
@@ -2748,20 +2782,20 @@
       "relativeDirectory": "..",
       "dev": 16777221,
       "mode": 16877,
-      "nlink": 12,
+      "nlink": 14,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 21954356,
       "blocks": 0,
-      "atimeMs": 1560049042040.0168,
-      "mtimeMs": 1559442848137.1455,
-      "ctimeMs": 1559442848137.1455,
+      "atimeMs": 1560123204297.05,
+      "mtimeMs": 1560058684802.285,
+      "ctimeMs": 1560058684802.285,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:22.040Z",
-      "mtime": "2019-06-02T02:34:08.137Z",
-      "ctime": "2019-06-02T02:34:08.137Z",
+      "atime": "2019-06-09T23:33:24.297Z",
+      "mtime": "2019-06-09T05:38:04.802Z",
+      "ctime": "2019-06-09T05:38:04.802Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "3dfeb698-8689-535b-a8d0-daba3d216ad9": {
@@ -2784,7 +2818,7 @@
       "size": 19592,
       "prettySize": "19.6 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:56:53.182Z",
+      "accessTime": "2019-06-09T03:08:14.223Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2802,14 +2836,114 @@
       "blksize": 4194304,
       "ino": 21954357,
       "blocks": 40,
-      "atimeMs": 1560049013182.0244,
+      "atimeMs": 1560049694223.385,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.8884,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.182Z",
+      "atime": "2019-06-09T03:08:14.223Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "1dfec910-db7a-54e4-9572-37596969be79": {
+      "id": "1dfec910-db7a-54e4-9572-37596969be79",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9e6df2f4ff081c07a8799e9fa2f3ec90",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/img/github-icon.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/github-icon.svg",
+      "relativePath": "github-icon.svg",
+      "extension": "svg",
+      "size": 2694,
+      "prettySize": "2.69 kB",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-09T03:08:14.223Z",
+      "changeTime": "2019-06-02T02:01:33.365Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
+      "base": "github-icon.svg",
+      "ext": ".svg",
+      "name": "github-icon",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954358,
+      "blocks": 8,
+      "atimeMs": 1560049694223.4111,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893364.7832,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-09T03:08:14.223Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.365Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "f371c1b4-45cb-537f-b403-85ad15e15f8a": {
+      "id": "f371c1b4-45cb-537f-b403-85ad15e15f8a",
+      "children": [],
+      "parent": "3dfeb698-8689-535b-a8d0-daba3d216ad9",
+      "internal": {
+        "contentDigest": "f1553e261c09d6300d461dcdb8d07290",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "818e2319-9e19-53db-858d-73c77ddddd8a": {
+      "id": "818e2319-9e19-53db-858d-73c77ddddd8a",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e7e81dd6be1a6da60f63b56fbbda9884",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/img/deslab-white.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/deslab-white.svg",
+      "relativePath": "deslab-white.svg",
+      "extension": "svg",
+      "size": 494,
+      "prettySize": "494 B",
+      "modifiedTime": "2019-06-02T02:34:08.137Z",
+      "accessTime": "2019-06-09T03:08:14.223Z",
+      "changeTime": "2019-06-02T02:34:08.771Z",
+      "birthTime": "2019-06-02T02:34:08.137Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
+      "base": "deslab-white.svg",
+      "ext": ".svg",
+      "name": "deslab-white",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22122980,
+      "blocks": 8,
+      "atimeMs": 1560049694223.402,
+      "mtimeMs": 1559442848137.235,
+      "ctimeMs": 1559442848771.2979,
+      "birthtimeMs": 1559442848137.11,
+      "atime": "2019-06-09T03:08:14.223Z",
+      "mtime": "2019-06-02T02:34:08.137Z",
+      "ctime": "2019-06-02T02:34:08.771Z",
+      "birthtime": "2019-06-02T02:34:08.137Z"
     },
     "d671afb4-d329-5d09-a770-cf5ae30ace37": {
       "id": "d671afb4-d329-5d09-a770-cf5ae30ace37",
@@ -2831,7 +2965,7 @@
       "size": 17612,
       "prettySize": "17.6 kB",
       "modifiedTime": "2019-06-02T02:34:08.124Z",
-      "accessTime": "2019-06-09T02:56:53.182Z",
+      "accessTime": "2019-06-09T03:08:14.223Z",
       "changeTime": "2019-06-02T02:34:08.790Z",
       "birthTime": "2019-06-02T02:34:08.124Z",
       "root": "/",
@@ -2849,124 +2983,14 @@
       "blksize": 4194304,
       "ino": 22122979,
       "blocks": 40,
-      "atimeMs": 1560049013182.068,
+      "atimeMs": 1560049694223.3948,
       "mtimeMs": 1559442848123.7708,
       "ctimeMs": 1559442848789.7805,
       "birthtimeMs": 1559442848123.6472,
-      "atime": "2019-06-09T02:56:53.182Z",
+      "atime": "2019-06-09T03:08:14.223Z",
       "mtime": "2019-06-02T02:34:08.124Z",
       "ctime": "2019-06-02T02:34:08.790Z",
       "birthtime": "2019-06-02T02:34:08.124Z"
-    },
-    "818e2319-9e19-53db-858d-73c77ddddd8a": {
-      "id": "818e2319-9e19-53db-858d-73c77ddddd8a",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e7e81dd6be1a6da60f63b56fbbda9884",
-        "type": "File",
-        "mediaType": "image/svg+xml",
-        "description": "File \"src/img/deslab-white.svg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/deslab-white.svg",
-      "relativePath": "deslab-white.svg",
-      "extension": "svg",
-      "size": 494,
-      "prettySize": "494 B",
-      "modifiedTime": "2019-06-02T02:34:08.137Z",
-      "accessTime": "2019-06-09T02:56:53.182Z",
-      "changeTime": "2019-06-02T02:34:08.771Z",
-      "birthTime": "2019-06-02T02:34:08.137Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
-      "base": "deslab-white.svg",
-      "ext": ".svg",
-      "name": "deslab-white",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22122980,
-      "blocks": 8,
-      "atimeMs": 1560049013182.1072,
-      "mtimeMs": 1559442848137.235,
-      "ctimeMs": 1559442848771.2979,
-      "birthtimeMs": 1559442848137.11,
-      "atime": "2019-06-09T02:56:53.182Z",
-      "mtime": "2019-06-02T02:34:08.137Z",
-      "ctime": "2019-06-02T02:34:08.771Z",
-      "birthtime": "2019-06-02T02:34:08.137Z"
-    },
-    "1dfec910-db7a-54e4-9572-37596969be79": {
-      "id": "1dfec910-db7a-54e4-9572-37596969be79",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9e6df2f4ff081c07a8799e9fa2f3ec90",
-        "type": "File",
-        "mediaType": "image/svg+xml",
-        "description": "File \"src/img/github-icon.svg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/github-icon.svg",
-      "relativePath": "github-icon.svg",
-      "extension": "svg",
-      "size": 2694,
-      "prettySize": "2.69 kB",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:57:22.001Z",
-      "changeTime": "2019-06-02T02:01:33.365Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
-      "base": "github-icon.svg",
-      "ext": ".svg",
-      "name": "github-icon",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954358,
-      "blocks": 8,
-      "atimeMs": 1560049042001.401,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893364.7832,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:22.001Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.365Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "f371c1b4-45cb-537f-b403-85ad15e15f8a": {
-      "id": "f371c1b4-45cb-537f-b403-85ad15e15f8a",
-      "children": [],
-      "parent": "3dfeb698-8689-535b-a8d0-daba3d216ad9",
-      "internal": {
-        "contentDigest": "f1553e261c09d6300d461dcdb8d07290",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "a0b4565c-5a0b-5093-a9d0-e61d123e90d5": {
-      "id": "a0b4565c-5a0b-5093-a9d0-e61d123e90d5",
-      "children": [],
-      "parent": "d671afb4-d329-5d09-a770-cf5ae30ace37",
-      "internal": {
-        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "ac0ec5d6-bf14-52f1-a5b3-a119620a81e9": {
       "id": "ac0ec5d6-bf14-52f1-a5b3-a119620a81e9",
@@ -2988,7 +3012,7 @@
       "size": 17612,
       "prettySize": "17.6 kB",
       "modifiedTime": "2019-06-02T02:34:25.106Z",
-      "accessTime": "2019-06-09T02:56:53.182Z",
+      "accessTime": "2019-06-05T23:11:02.419Z",
       "changeTime": "2019-06-02T02:34:25.106Z",
       "birthTime": "2019-06-02T02:32:36.466Z",
       "root": "/",
@@ -3006,14 +3030,59 @@
       "blksize": 4194304,
       "ino": 22122903,
       "blocks": 40,
-      "atimeMs": 1560049013182.2764,
+      "atimeMs": 1559776262419.1248,
       "mtimeMs": 1559442865106.3806,
       "ctimeMs": 1559442865106.3806,
       "birthtimeMs": 1559442756465.6877,
-      "atime": "2019-06-09T02:56:53.182Z",
+      "atime": "2019-06-05T23:11:02.419Z",
       "mtime": "2019-06-02T02:34:25.106Z",
       "ctime": "2019-06-02T02:34:25.106Z",
       "birthtime": "2019-06-02T02:32:36.466Z"
+    },
+    "bf7ba5fc-310a-590f-9280-bc71ddb9f5b8": {
+      "id": "bf7ba5fc-310a-590f-9280-bc71ddb9f5b8",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "30082031c65eb621e5df7d530a20910a",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/img/jayden-outline.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/jayden-outline.svg",
+      "relativePath": "jayden-outline.svg",
+      "extension": "svg",
+      "size": 2814,
+      "prettySize": "2.81 kB",
+      "modifiedTime": "2019-06-09T05:37:43.312Z",
+      "accessTime": "2019-06-09T07:55:20.980Z",
+      "changeTime": "2019-06-09T05:38:04.803Z",
+      "birthTime": "2019-06-09T05:37:43.311Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
+      "base": "jayden-outline.svg",
+      "ext": ".svg",
+      "name": "jayden-outline",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22291106,
+      "blocks": 8,
+      "atimeMs": 1560066920980.1133,
+      "mtimeMs": 1560058663311.8525,
+      "ctimeMs": 1560058684802.7263,
+      "birthtimeMs": 1560058663311.3105,
+      "atime": "2019-06-09T07:55:20.980Z",
+      "mtime": "2019-06-09T05:37:43.312Z",
+      "ctime": "2019-06-09T05:38:04.803Z",
+      "birthtime": "2019-06-09T05:37:43.311Z"
     },
     "7864f2f5-0020-5b57-8035-4abcc149d5b4": {
       "id": "7864f2f5-0020-5b57-8035-4abcc149d5b4",
@@ -3033,7 +3102,7 @@
       "size": 23908,
       "prettySize": "23.9 kB",
       "modifiedTime": "2019-06-02T02:35:09.435Z",
-      "accessTime": "2019-06-09T02:57:22.001Z",
+      "accessTime": "2019-06-09T03:08:14.223Z",
       "changeTime": "2019-06-02T02:35:09.435Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3051,14 +3120,24 @@
       "blksize": 4194304,
       "ino": 21954361,
       "blocks": 48,
-      "atimeMs": 1560049042001.474,
+      "atimeMs": 1560049694223.461,
       "mtimeMs": 1559442909434.891,
       "ctimeMs": 1559442909434.891,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:57:22.001Z",
+      "atime": "2019-06-09T03:08:14.223Z",
       "mtime": "2019-06-02T02:35:09.435Z",
       "ctime": "2019-06-02T02:35:09.435Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "a0b4565c-5a0b-5093-a9d0-e61d123e90d5": {
+      "id": "a0b4565c-5a0b-5093-a9d0-e61d123e90d5",
+      "children": [],
+      "parent": "d671afb4-d329-5d09-a770-cf5ae30ace37",
+      "internal": {
+        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9": {
       "id": "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9",
@@ -3090,7 +3169,7 @@
       "size": 122717,
       "prettySize": "123 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:56:53.182Z",
+      "accessTime": "2019-06-09T03:08:14.223Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3108,11 +3187,11 @@
       "blksize": 4194304,
       "ino": 21954360,
       "blocks": 240,
-      "atimeMs": 1560049013182.2488,
+      "atimeMs": 1560049694223.4426,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.9353,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.182Z",
+      "atime": "2019-06-09T03:08:14.223Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3147,7 +3226,7 @@
       "size": 266109,
       "prettySize": "266 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-09T02:56:53.182Z",
+      "accessTime": "2019-06-09T03:08:14.223Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3165,11 +3244,11 @@
       "blksize": 4194304,
       "ino": 21954362,
       "blocks": 520,
-      "atimeMs": 1560049013182.332,
+      "atimeMs": 1560049694223.47,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.823,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.182Z",
+      "atime": "2019-06-09T03:08:14.223Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3204,7 +3283,7 @@
       "size": 1085216,
       "prettySize": "1.09 MB",
       "modifiedTime": "2019-06-02T02:30:48.369Z",
-      "accessTime": "2019-06-09T02:56:53.182Z",
+      "accessTime": "2019-06-09T03:08:14.223Z",
       "changeTime": "2019-06-02T02:30:48.369Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3222,11 +3301,11 @@
       "blksize": 4194304,
       "ino": 21954359,
       "blocks": 2120,
-      "atimeMs": 1560049013182.1838,
+      "atimeMs": 1560049694223.4229,
       "mtimeMs": 1559442648369.1064,
       "ctimeMs": 1559442648369.1064,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-09T02:56:53.182Z",
+      "atime": "2019-06-09T03:08:14.223Z",
       "mtime": "2019-06-02T02:30:48.369Z",
       "ctime": "2019-06-02T02:30:48.369Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3261,7 +3340,7 @@
       "size": 3543638,
       "prettySize": "3.54 MB",
       "modifiedTime": "2019-06-02T02:30:48.455Z",
-      "accessTime": "2019-06-09T02:56:53.182Z",
+      "accessTime": "2019-06-09T03:08:14.223Z",
       "changeTime": "2019-06-02T02:30:48.455Z",
       "birthTime": "2019-06-02T02:30:48.323Z",
       "root": "/",
@@ -3279,11 +3358,11 @@
       "blksize": 4194304,
       "ino": 22122828,
       "blocks": 6928,
-      "atimeMs": 1560049013182.2107,
+      "atimeMs": 1560049694223.4314,
       "mtimeMs": 1559442648455.294,
       "ctimeMs": 1559442648455.294,
       "birthtimeMs": 1559442648323.497,
-      "atime": "2019-06-09T02:56:53.182Z",
+      "atime": "2019-06-09T03:08:14.223Z",
       "mtime": "2019-06-02T02:30:48.455Z",
       "ctime": "2019-06-02T02:30:48.455Z",
       "birthtime": "2019-06-02T02:30:48.323Z"
@@ -3296,28 +3375,6 @@
         "contentDigest": "0e0f8736142ad58ad27f202e9acc94be",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "SitePage /": {
-      "jsonName": "index",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js",
-      "componentChunkName": "component---src-templates-home-js",
-      "context": {
-        "id": "4935f1f2-85c2-59a1-acba-03677e785625"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b4d20da8d3adf753f7458c579b6c686d",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
       }
     },
     "SitePage /about/": {
@@ -3364,6 +3421,28 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js",
+      "componentChunkName": "component---src-templates-home-js",
+      "context": {
+        "id": "4935f1f2-85c2-59a1-acba-03677e785625"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b4d20da8d3adf753f7458c579b6c686d",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /blog/": {
       "jsonName": "blog-f7a",
       "internalComponentName": "ComponentBlog",
@@ -3382,28 +3461,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "55a386399c5e1caf6b6d0c7c6dbb5889",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/sleep/": {
-      "jsonName": "blog-sleep-1c0",
-      "internalComponentName": "ComponentBlogSleep",
-      "path": "/blog/sleep/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "564fa505-b337-5c91-9669-6e98cfca4b15"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
-      "id": "SitePage /blog/sleep/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a0330d7017248c2761f80e687b00b2c6",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3430,28 +3487,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /jargon/": {
-      "jsonName": "jargon-12a",
-      "internalComponentName": "ComponentJargon",
-      "path": "/jargon/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "componentChunkName": "component---src-templates-about-page-js",
-      "context": {
-        "id": "576c1608-0625-5c33-b071-c0b97ccc8337"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "id": "SitePage /jargon/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fa6168c1298d6fcf2b8890ab556a590d",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /blog/wonderful-fantastic-food/": {
       "jsonName": "blog-wonderful-fantastic-food-5f1",
       "internalComponentName": "ComponentBlogWonderfulFantasticFood",
@@ -3470,6 +3505,50 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "7101f5d3841be6f72090144527f7cc16",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/sleep/": {
+      "jsonName": "blog-sleep-1c0",
+      "internalComponentName": "ComponentBlogSleep",
+      "path": "/blog/sleep/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "564fa505-b337-5c91-9669-6e98cfca4b15"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
+      "id": "SitePage /blog/sleep/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a0330d7017248c2761f80e687b00b2c6",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /jargon/": {
+      "jsonName": "jargon-12a",
+      "internalComponentName": "ComponentJargon",
+      "path": "/jargon/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
+      "context": {
+        "id": "576c1608-0625-5c33-b071-c0b97ccc8337"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "id": "SitePage /jargon/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fa6168c1298d6fcf2b8890ab556a590d",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3584,28 +3663,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/sleep/": {
-      "jsonName": "tags-sleep-508",
-      "internalComponentName": "ComponentTagsSleep",
-      "path": "/tags/sleep/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Sleep"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "id": "SitePage /tags/sleep/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "6eb642171ca4285fa464d85bc9bb960a",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /tags/lisa-dawson/": {
       "jsonName": "tags-lisa-dawson-941",
       "internalComponentName": "ComponentTagsLisaDawson",
@@ -3694,6 +3751,28 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /tags/sleep/": {
+      "jsonName": "tags-sleep-508",
+      "internalComponentName": "ComponentTagsSleep",
+      "path": "/tags/sleep/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Sleep"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/sleep/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6eb642171ca4285fa464d85bc9bb960a",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /404/": {
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
@@ -3775,85 +3854,6 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
-    },
-    "bf7ba5fc-310a-590f-9280-bc71ddb9f5b8": {
-      "id": "bf7ba5fc-310a-590f-9280-bc71ddb9f5b8",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "30082031c65eb621e5df7d530a20910a",
-        "type": "File",
-        "mediaType": "image/svg+xml",
-        "description": "File \"src/img/jayden-outline.svg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/jayden-outline.svg",
-      "relativePath": "jayden-outline.svg",
-      "extension": "svg",
-      "size": 2814,
-      "prettySize": "2.81 kB",
-      "modifiedTime": "2019-06-09T05:37:43.312Z",
-      "accessTime": "2019-06-09T05:38:01.758Z",
-      "changeTime": "2019-06-09T05:38:04.803Z",
-      "birthTime": "2019-06-09T05:37:43.311Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
-      "base": "jayden-outline.svg",
-      "ext": ".svg",
-      "name": "jayden-outline",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22291106,
-      "blocks": 8,
-      "atimeMs": 1560058681758.1877,
-      "mtimeMs": 1560058663311.8525,
-      "ctimeMs": 1560058684802.7263,
-      "birthtimeMs": 1560058663311.3105,
-      "atime": "2019-06-09T05:38:01.758Z",
-      "mtime": "2019-06-09T05:37:43.312Z",
-      "ctime": "2019-06-09T05:38:04.803Z",
-      "birthtime": "2019-06-09T05:37:43.311Z"
-    },
-    "c5cfc1ee-382e-5b44-b49f-1471895d5a30": {
-      "id": "c5cfc1ee-382e-5b44-b49f-1471895d5a30",
-      "children": [],
-      "parent": "04a5bc5f-4bc6-51ba-9df5-931f11ea9086",
-      "internal": {
-        "content": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "eb198efaffe7daec257c2a4630593ff8",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "WHAT THE CANCER",
-        "templateKey": "portfolio",
-        "date": "2018-12-18T06:43:47.603Z",
-        "image": "/img/resource-splash.jpg",
-        "description": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read ",
-        "jobDate": "DEC – 2018",
-        "portfolioName": "What The Cancer",
-        "portfolioDescription": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.",
-        "portfolioImage": "/img/home.jpg",
-        "portfolioPrice": "About $30. ",
-        "portfolioLink": "/",
-        "_PARENT": "04a5bc5f-4bc6-51ba-9df5-931f11ea9086"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/what-the-cancer.md",
-      "fields": {
-        "slug": "/portfolio/what-the-cancer/"
-      }
     }
   },
   "status": {
@@ -3866,11 +3866,11 @@
         "/tags/",
         "/tags/cancer/",
         "/tags/exercise/",
-        "/tags/sleep/",
         "/tags/lisa-dawson/",
         "/tags/what-is-cancer/",
         "/tags/food/",
-        "/tags/diet/"
+        "/tags/diet/",
+        "/tags/sleep/"
       ],
       "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": [
         "/about/"
@@ -3884,14 +3884,14 @@
       "81797332-bf93-5c52-8f8b-2abf44a9d01d": [
         "/blog/exercise/"
       ],
-      "564fa505-b337-5c91-9669-6e98cfca4b15": [
-        "/blog/sleep/"
-      ],
       "2002fb5a-f210-5198-acd3-b8738b25adc6": [
         "/blog/what-is-cancer/"
       ],
       "cb0148d7-a849-504a-8a6e-3307c3a6b052": [
         "/blog/wonderful-fantastic-food/"
+      ],
+      "564fa505-b337-5c91-9669-6e98cfca4b15": [
+        "/blog/sleep/"
       ],
       "4935f1f2-85c2-59a1-acba-03677e785625": [
         "/"
@@ -3908,44 +3908,40 @@
         "/portfolio/",
         "/tags/cancer/",
         "/tags/exercise/",
-        "/tags/sleep/",
         "/tags/lisa-dawson/",
         "/tags/what-is-cancer/",
         "/tags/food/",
-        "/tags/diet/"
+        "/tags/diet/",
+        "/tags/sleep/"
       ]
     }
   },
   "jsonDataPaths": {
     "tags-275": "540/path---tags-275-fc0-SECVB6LN3m518WJyZZvDERSp8aY",
-    "jargon-12a": "295/path---jargon-12-a-e0d-27Q4FnPNgXdzZYozX2CGButUYPQ",
     "about-f34": "162/path---about-f-34-4c2-nPswOlM0eJ6KgxFbRYYx7aK5V1c",
+    "jargon-12a": "295/path---jargon-12-a-e0d-27Q4FnPNgXdzZYozX2CGButUYPQ",
     "jayden-efd": "677/path---jayden-efd-f34-v4OBCZWtkdsDdzaReCvPBeFPA2I",
     "blog-f7a": "839/path---blog-f-7-a-05d-T8xQ5avmM5HtP6W2054VD54QtI",
     "blog-exercise-43e": "222/path---blog-exercise-43-e-9d3-aPTRsSOjU904zdYnbZOblX1gf0",
-    "blog-sleep-1c0": "929/path---blog-sleep-1-c-0-ed8-h4AsPZomZhBEdk7im2jwLyS30I",
     "blog-what-is-cancer-d55": "497/path---blog-what-is-cancer-d-55-751-36VzyQd1eqY1wHmHQilRKnNxU0",
     "blog-wonderful-fantastic-food-5f1": "781/path---blog-wonderful-fantastic-food-5-f-1-417-uctKFSKseH6Z1qUYTUSJi5S8zI",
+    "blog-sleep-1c0": "929/path---blog-sleep-1-c-0-ed8-h4AsPZomZhBEdk7im2jwLyS30I",
     "portfolio-964": "688/path---portfolio-964-7f6-OGs6QZQV0brRlZhfg0RIfn0CjS8",
     "tags-cancer-6a3": "531/path---tags-cancer-6-a-3-007-zPUbS9FrwVwpuphAopshfYan5bk",
     "index": "207/path---index-6a9-zz2CyltIsSDNPJekauUQcvsMBkA",
     "portfolio-what-the-cancer-4c7": "884/path---portfolio-what-the-cancer-4-c-7-157-t371pYK0gl9OxnE8fGp1lZbWdDA",
     "tags-exercise-7fe": "811/path---tags-exercise-7-fe-484-AxLgomIHq2VMszbtbrbf9afd31k",
-    "tags-sleep-508": "240/path---tags-sleep-508-932-tq9U9PbZZhZgSqsh5THBJjJ8",
     "tags-lisa-dawson-941": "61/path---tags-lisa-dawson-941-cce-5Gbd3OcaLValKPdEuMBoSUAxcsE",
     "tags-what-is-cancer-477": "582/path---tags-what-is-cancer-477-1e9-FVhKSdbS4VIUFKjDKjqDtpv2Jg",
     "tags-food-ee7": "93/path---tags-food-ee-7-c01-WvDWy7hYkvM3tlDBiof3UtPOT0",
     "tags-diet-1e8": "33/path---tags-diet-1-e-8-251-jHBfkFJL4ZUQjS1k7x9tw6jDtqw",
+    "tags-sleep-508": "240/path---tags-sleep-508-932-tq9U9PbZZhZgSqsh5THBJjJ8",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "listen-498": "738/path---listen-498-c78-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js": {
-      "query": "query HomePage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      image\n      announcementBlurb\n      announcementLink\n      announcementImage\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js"
-    },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js": {
       "query": "query AboutPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      full_image\n      leftBackground\n      leftTitle\n      leftLink\n      rightTitle\n      rightDescription\n      rightUrl\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js"
@@ -3953,6 +3949,10 @@
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js": {
       "query": "query BlogPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      title\n      description\n      tags\n      header\n      recommendedName\n      recommendedImage\n      recommendedLink\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js"
+    },
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js": {
+      "query": "query HomePage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      image\n      announcementBlurb\n      announcementLink\n      announcementImage\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js": {
       "query": "query IndexQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {templateKey: {eq: \"blog-post\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          title\n          templateKey\n          header\n          description\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",

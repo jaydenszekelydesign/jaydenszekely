@@ -25,35 +25,38 @@ export const PortfolioPostTemplate = ({
   return (
     <div>
       <Banner background={portfolioImage}>{portfolioName}</Banner>
-      <div className="article">
-        <div class="left-portfolio">
+      <div className="article big-padding">
+        
+        <div className="left-portfolio">
           <h4>DEC – 2018</h4>
           <a>Graphic Design</a><br />
           <a>Branding</a><br />
           <a>Video</a>
         </div>
-        <div class="right-portfolio">
+        <div className="right-portfolio">
+        <h5>OVERVIEW</h5>
           <p>{portfolioDescription}
           </p><br /><br />
         </div>
       </div>
       <img src="../../img/home.jpg" className="full"/>
-      <div className="secondHalf">
-      <p className="article">
-        <PostContent content={content} className="full" />
-      </p>
+      <div className="article">
+        <div className="full-portfolio">
+        <h5>OVERVIEW</h5>
+        <p><PostContent content={content}/>
+        </p><br /><br />
+        </div>
       </div>
       
       
       
       <Link to="/cv">
-      <section>
-        <header className="half" style={{backgroundImage: 'url("/img/home.jpg")'}}>
-          <h1 className="trans-out">MY CV</h1>
-          <h1 className="half-bannerTitle">My CV.</h1>
-        </header>
-      </section>
-    </Link>
+        <section>
+          <header className="half" style={{backgroundImage: 'url("/img/home.jpg")'}}>
+            <h1 className="half-bannerTitle">My CV.</h1>
+          </header>
+        </section>
+      </Link>
       
       
     </div>

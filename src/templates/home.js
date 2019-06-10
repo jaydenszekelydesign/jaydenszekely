@@ -21,7 +21,7 @@ export const HomePageTemplate = ({
     <Layout>
       <Banner background={image}>{title}</Banner>
       <section className="article greenLink">
-        <PageContent className="content" content={content} />
+        <p><PageContent className="content" content={content} /></p>
         <br></br>
         <br></br>
       </section>
