@@ -5,7 +5,6 @@ import Helmet from 'react-helmet'
 import Banner from './components/banner'
 import Layout from '../components/Layout'
 import { kebabCase } from 'lodash'
-import Style from 'styled-components'
 
 
 export default class Blog extends React.Component {
