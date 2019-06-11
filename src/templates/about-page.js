@@ -7,7 +7,7 @@ import Split from './components/split'
 import Content, { HTMLContent } from '../components/Content'
 // import mediumZoom from 'medium-zoom'
 
-export const AboutPageTemplate = ({ title, content, contentComponent, full_image, leftBackground, leftTitle, leftLink, rightTitle, rightDescription, rightUrl }) => {
+export const AboutPageTemplate = ({ title, content, contentComponent, full_image, leftBackground, leftTitle, leftLink, rightTitle, rightDescription, rightUrl, rightBackground }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -20,7 +20,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent, full_image
         </p>
         </div>
         </div>
-      <Split background={leftBackground} recommendedTitle={leftTitle} link={leftLink} authorName={rightTitle} authorBio={rightDescription} rightLink={rightUrl} />  
+      <Split background={leftBackground} recommendedTitle={leftTitle} link={leftLink} authorName={rightTitle} authorBio={rightDescription} rightLink={rightUrl} rightImage={rightBackground} />  
     </Layout>
               
   )

@@ -84,6 +84,7 @@ collections:
           - {label: "Bottom Split Bar / Left Background", name: "leftBackground", widget: file}
           - {label: "Bottom Split Bar / Left Second Line", name: "leftTitle", widget: string}
           - {label: "Bottom Split Bar / Left Link", name: "leftLink", widget: string}
+          - {label: "Bottom Split Bar / Right Background", name: "rightBackground", widget: file}
           - {label: "Bottom Split Bar / Right Title", name: "rightTitle", widget: string}
           - {label: "Bottom Split Bar / Right Description (Second Line)", name: "rightDescription", widget: string}
           - {label: "Bottom Split Bar / Right Link", name: "rightUrl", widget: string}

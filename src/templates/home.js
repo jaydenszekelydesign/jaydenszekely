@@ -4,6 +4,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Email from './components/email'
 import Banner from './components/banner'
+import Quote from './components/Quote'
 import Montage from '../components/Montage'
 import Content, { HTMLContent } from '../components/Content'
 
@@ -38,11 +39,20 @@ export const HomePageTemplate = ({
     <Layout>
       <Banner background={image}>{title}</Banner>
       <div className="article big-padding">
-      
-        <div className="full-portfolio">
+        <div className="left-portfolio">
+          <h4 className="accent">
+            Hi! My name is Jayden Szekely, an audacious multi-disciplined creative located in Whangarei, New Zealand.
+          </h4>
+          <Link to="work-with-me">work with me.</Link>
+        </div>
+        <div className="right-portfolio">
         <p><PageContent content={content}/>
         </p><br /><br />
         </div>
+      </div>
+      <img src={image} alt="image" className="full" />
+      <div className="article">
+        <Quote quoteContents="Great design is fundamental in a digital age to communicate a message / a story through websites, video, print, social media and more" />
       </div>
       <Link to={announcementLink}>
         <Montage montageTitle={announcementBlurb} imgOne={imageOne} imgTwo={imageTwo} imgThree={imageThree} imgFour={imageFour} imgFive={imageFive} imgSix={imageSix} imgSeven={imageSeven} imgEight={imageEight} imgNine={imageNine} imgTen={imageTen} imgEleven={imageEleven} imgTwelve={imageTwelve} imgThirteen={imageThirteen} imgFourteen={imageFourteen} imgFifteen={imageFifteen}/> 

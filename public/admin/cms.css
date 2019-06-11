@@ -7,7 +7,7 @@
   text-decoration: underline; }
 
 .greenLink a:hover {
-  color: #f4f4f8;
+  color: #f2f2f2;
   background: #C9CFCF;
   padding-left: 5px;
   padding-right: 1px;
@@ -23,7 +23,7 @@
   text-decoration: underline; }
 
 .greenLink a:hover {
-  color: #f4f4f8;
+  color: #f2f2f2;
   background: #C9CFCF;
   padding-left: 5px;
   padding-right: 1px;
@@ -32,17 +32,17 @@
 
 .green-bg {
   background-color: #C9CFCF;
-  color: #f4f4f8; }
+  color: #f2f2f2; }
   .green-bg a {
-    color: #f4f4f8; }
+    color: #f2f2f2; }
 
 .white-bg {
-  background-color: #f4f4f8;
-  color: #000000; }
+  background-color: #f2f2f2;
+  color: #C9CFCF; }
   .white-bg a {
     color: #C9CFCF; }
   .white-bg p {
-    color: #000000;
+    color: #C9CFCF;
     font-weight: 400; }
 
 iframe {
@@ -72,10 +72,10 @@ h3 {
 h4 {
   font-size: 1.1em;
   font-weight: 700;
-  color: #000000; }
+  color: #C9CFCF; }
 
 a {
-  color: #C9CFCF;
+  color: inherit;
   font-size: 1.2em;
   text-decoration: none; }
 
@@ -90,13 +90,17 @@ span {
 * {
   margin-top: 0; }
 
+.accent {
+  color: #FF2121; }
+
 body {
   padding: 0;
   margin: 0;
   overflow-x: hidden;
   font-family: nunito-sans,sans-serif;
   font-weight: 400;
-  font-style: normal; }
+  font-style: normal;
+  background-color: #f2f2f2; }
 
 .content .taglist {
   list-style: none;
@@ -141,8 +145,8 @@ span.bm-cross {
 
 header {
   width: 100vw;
-  background: #C9CFCF;
-  color: #f4f4f8;
+  background: #f2f2f2;
+  color: #f2f2f2;
   padding: 0, 0, 0, 0;
   margin: 0, 0, 0, 0;
   position: relative;
@@ -191,11 +195,11 @@ header {
   .slim-strip input {
     background: transparent;
     border: 0px solid white;
-    border-bottom: 2px solid #f4f4f8;
+    border-bottom: 2px solid #f2f2f2;
     font-size: 0.8em;
     width: 70%;
     text-align: left;
-    color: #f4f4f8;
+    color: #f2f2f2;
     margin-left: 15%;
     margin-top: 0.5em;
     padding-bottom: 0.2em;
@@ -204,7 +208,7 @@ header {
     background: transparent;
     border: 0px solid white;
     font-size: 0.6em;
-    color: #f4f4f8;
+    color: #f2f2f2;
     text-align: center;
     width: 80%;
     margin-left: 10%;
@@ -213,21 +217,24 @@ header {
     cursor: pointer; }
 
 .listing {
-  width: 100%;
   color: #fff;
   background-size: cover;
   background-position: center;
   margin-bottom: 75px;
-  text-align: center; }
+  text-align: center;
+  display: flex;
+  width: 40vw; }
 
 .glaze {
   background-color: rgba(0, 0, 0, 0.25);
-  padding-top: 150px;
-  padding-bottom: 150px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   padding-left: 20px;
   padding-right: 20px;
   font-size: 1.2em;
-  color: #fff; }
+  color: #fff;
+  display: relative;
+  width: inherit; }
   .glaze h1 {
     color: #fff; }
   .glaze .trans-out {
@@ -251,7 +258,7 @@ header {
   padding-bottom: 75px;
   margin-top: 0;
   margin-bottom: 0;
-  background-color: #f4f4f8;
+  background-color: #f2f2f2;
   z-index: 0;
   align-content: center;
   display: inline-block; }
@@ -262,27 +269,34 @@ header {
     display: inline-block; }
     .article .left-portfolio a {
       font-size: 0.9em;
-      color: grey;
+      color: #000;
       cursor: pointer;
       line-height: 1.5em; }
+    .article .left-portfolio img {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      width: 100%;
+      height: auto;
+      -o-object-fit: cover;
+         object-fit: cover; }
   .article .right-portfolio {
     width: 70%;
     padding-left: 5%;
     float: right;
     display: inline-block;
     font-weight: 200;
-    color: #000000; }
+    color: #C9CFCF; }
   .article .full-portfolio {
     width: 70%;
     padding-left: 15%;
     float: left;
     display: block;
     font-weight: 200;
-    color: #000000; }
+    color: #C9CFCF; }
   .article p {
     padding: 0;
-    color: grey;
-    font-weight: 200;
+    color: #000;
+    font-weight: 400;
     font-size: 15px;
     line-height: 1.5em; }
     .article p img {
@@ -293,10 +307,15 @@ header {
       -o-object-fit: cover;
          object-fit: cover;
       box-shadow: 2px 10px 20px rgba(0, 0, 0, 0.5); }
+  @media screen and (max-width: 500px) {
+    .article .left-portfolio {
+      width: 100%; }
+    .article .right-portfolio {
+      width: 100%; } }
 
 .big-padding {
-  padding-top: 200px;
-  padding-bottom: 150px; }
+  padding-top: 30vh;
+  padding-bottom: 30vh; }
 
 .full {
   width: 100%;
@@ -306,17 +325,20 @@ header {
 @media screen and (max-width: 500px) {
   .article {
     width: 85%;
-    margin-left: 7.5%; } }
+    padding-left: 7.5%;
+    padding-right: 7.5%; } }
 
 @media screen and (min-width: 501px) and (max-width: 1000px) {
   .article {
     width: 60%;
-    margin-left: 20%; } }
+    padding-left: 20%;
+    padding-right: 20%; } }
 
 @media screen and (min-width: 3000px) {
   .article {
     width: 35%;
-    margin-left: 32.5%; } }
+    padding-left: 32.5%;
+    padding-right: 32.5%; } }
 
 .floatingTags {
   width: 100%;
@@ -345,11 +367,12 @@ header {
   position: absolute;
   top: 0;
   background: transparent;
-  color: #000000; }
+  color: #C9CFCF; }
   .navbar .logo {
     margin-left: 35px;
     margin-top: 35px;
-    z-index: 1100; }
+    z-index: 1100;
+    position: fixed; }
 
 .split {
   color: inherit;
@@ -486,7 +509,7 @@ footer {
 
 /* General sidebar styles */
 .bm-menu {
-  background: #000000;
+  background: #C9CFCF;
   z-index: 1200;
   margin: 0;
   top: 0px;
@@ -498,7 +521,7 @@ footer {
   .bm-menu a {
     display: block; }
   .bm-menu a:hover {
-    color: #f4f4f8;
+    color: #f2f2f2;
     padding-left: 1em; }
 
 /* Morph shape necessary with bubble or elastic */
@@ -521,57 +544,68 @@ footer {
   width: 70vw;
   text-align: center;
   font-weight: bold; }
-  .menuContents .montage {
-    width: 150vw;
-    padding: 0;
-    top: -50vh;
-    left: -25vw;
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    display: flex;
-    z-index: 0;
-    color: #fff;
-    text-align: left;
-    padding-top: 0px;
-    -webkit-transform: rotate(-20deg);
-            transform: rotate(-20deg); }
-  .menuContents .montageDull {
-    width: 100vw;
-    height: 45vh;
-    min-height: 335px;
-    padding: 0;
-    left: 0vw;
-    background-color: rgba(0, 0, 0, 0.4);
-    position: absolute;
-    display: inline-block;
-    z-index: 50;
-    color: #fff;
-    text-align: left;
-    padding-top: 0;
-    overflow: hidden;
-    transition-duration: 1s;
-    cursor: pointer; }
-  .menuContents .montageDull:hover {
-    background-color: rgba(0, 0, 0, 0.3); }
-  .menuContents .montageDesc {
-    text-align: center;
-    position: relative;
-    margin-left: 0vw;
-    top: 50%;
-    display: inline-block;
-    margin-right: 0vw;
-    align-content: center;
-    width: 100vw; }
-  .menuContents .montage div {
-    display: block;
-    width: 125vw; }
-  .menuContents .montage img {
-    display: flex;
-    -o-object-fit: cover;
-       object-fit: cover;
-    -o-object-position: 50% 50%;
-       object-position: 50% 50%;
-    width: 100%;
-    height: auto; }
+
+.mask {
+  overflow: hidden; }
+
+.montage {
+  width: 200vw;
+  padding: 0;
+  top: -10%;
+  left: -80vw;
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  display: flex;
+  z-index: 0;
+  color: #fff;
+  text-align: left;
+  padding-top: 0px;
+  -webkit-transform: rotate(-20deg);
+          transform: rotate(-20deg); }
+
+.montageDull {
+  width: 100vw;
+  height: 100vh;
+  min-height: 335px;
+  padding: 0;
+  left: 0vw;
+  background-color: rgba(0, 0, 0, 0);
+  position: relative;
+  display: inline-block;
+  z-index: 50;
+  color: #fff;
+  text-align: left;
+  padding-top: 0;
+  overflow: hidden;
+  cursor: pointer; }
+
+.montageDesc {
+  text-align: center;
+  position: relative;
+  margin-left: 0vw;
+  top: 50%;
+  display: inline-block;
+  margin-right: 0vw;
+  align-content: center;
+  width: 100vw;
+  overflow: hidden; }
+
+.montage div {
+  display: block;
+  width: 200vw;
+  margin-left: 20px;
+  margin-right: 20px; }
+
+.montage img {
+  display: flex;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: 50% 50%;
+     object-position: 50% 50%;
+  padding: 10px;
+  margin: 20px;
+  width: 100%;
+  height: auto;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3); }
 

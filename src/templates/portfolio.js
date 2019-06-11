@@ -3,10 +3,13 @@ import PropTypes from 'prop-types'
 // import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Banner from './components/banner'
+import Quote from './components/Quote'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Split from './components/split'
 import Content, { HTMLContent } from '../components/Content'
+
+
 
 export const PortfolioPostTemplate = ({
   content,
@@ -41,15 +44,7 @@ export const PortfolioPostTemplate = ({
       </div>
       <img src="../../img/home.jpg" className="full"/>
       <div className="article big-padding">
-        <div className="full-portfolio">
-        <center><h1 className="accent">"</h1>
-          <h2>{portfolioDescription}
-          </h2>
-          <br /><br />
-          <h1 className="accent">"</h1>
-
-          </center>
-        </div>
+        <Quote quoteContents={portfolioDescription} />
       </div>
       <img src="../../img/home.jpg" className="full"/>
       <div className="article">
@@ -59,16 +54,9 @@ export const PortfolioPostTemplate = ({
         </p><br /><br />
         </div>
       </div>
+      <Split background="" recommendedTitle="DOWNLOAD MY CV" link='/cv.pdf' authorName="VIEW MY PORTFOLIO" rightLink="/portfolio" rightImage="" />  
       
-      
-      
-      <Link to="/cv">
-        <section>
-          <header className="half" style={{backgroundImage: 'url("/img/home.jpg")'}}>
-            <h1 className="half-bannerTitle">My CV.</h1>
-          </header>
-        </section>
-      </Link>
+
       
       
     </div>

@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import Banner from './components/banner'
 import Layout from '../components/Layout'
 import { kebabCase } from 'lodash'
+import Style from 'styled-components'
 
 
 export default class Blog extends React.Component {
@@ -17,24 +18,32 @@ export default class Blog extends React.Component {
       <Layout>
         <Helmet>
           <meta charSet="utf-8" />
-          <title>All Articles - What the Cancer</title>
+          <title>All Articles Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad</title>
         </Helmet>
-        <Banner>All Articles</Banner>
-        <div className="floatingTags">
-        Refine by popular Categories: &nbsp; &nbsp; &nbsp; <a href="/tags/food">Food</a>&nbsp;&nbsp;&nbsp;<a href="/tags/exercise">Exercise</a>&nbsp;&nbsp;&nbsp;<a href="/tags/sleep">Sleep</a>&nbsp;&nbsp;&nbsp;<a href="/tags/spirituality">Spirituality</a>&nbsp;&nbsp;&nbsp;<a href="/tags/">More Categories</a>
-        </div>
         <div className="article">
-            {posts
-              .map(({ node: post }) => (
-                <Link to={post.fields.slug}>
-                  <div className="listing" key={post.id} style={{backgroundImage: 'url("'+post.frontmatter.header+'")'}}>
-                    <div className="glaze">
-                      <h1>{post.frontmatter.title}</h1>{post.frontmatter.date}
+          <div className="left-portfolio">
+            <h2>Read my blog on all things design and what great Creative Solutions can do for your business</h2>
+            <h4 className="accent">Refine Posts by Category</h4>
+            <a href="/tags/food">Food</a><br />
+            <a href="/tags/exercise">Exercise</a><br />
+            <a href="/tags/sleep">Sleep</a><br />
+            <a href="/tags/spirituality">Spirituality</a><br />
+            <a href="/tags/">More Categories</a>
+          </div>
+          <div className="right-portfolio">
+              {posts
+                .map(({ node: post }) => (
+                  <Link to={post.fields.slug}>
+                    <div className="listing" key={post.id} style={{backgroundImage: 'url("'+post.frontmatter.header+'")'}}>
+                      <div className="glaze">
+                        <h1>{post.frontmatter.title}</h1>{post.frontmatter.date}
+                      </div>
                     </div>
-                  </div>
-                </Link>
-              ))}
-        </div>
+                  </Link>
+                ))}
+          </div>
+      </div>
+        
       </Layout>
     )
   }

@@ -24,12 +24,15 @@ export const BlogPostTemplate = ({
       <Helmet>
         <meta charSet="utf-8" />
         <title>{title} - Jayden Szekey - Creative Media</title>
-        <meta name="description" content={description}/>
+        <meta name="description" content={description + "Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
       </Helmet>
       <Banner background={header}>{title}</Banner>
       <div className="article">
-        <p>{description}</p><br /><br />
-        <PostContent content={content} />
+        <div className="full-portfolio">
+          <p>{description}</p><br /><br />
+          <PostContent content={content} />
+          </div>
+        
       </div>
       <Split background={recommendedImage} recommendedTitle={recommendedName} link={recommendedLink} authorName="Lisa Dawson" authorBio="Oncologist, Speaker and Author" />
     </div>
