@@ -1,5 +1,4 @@
 import React from 'react'
-import Style from 'styled-components'
 
 const Quote = ({children, background, quoteContents}) => (
     <div className="full-portfolio">
