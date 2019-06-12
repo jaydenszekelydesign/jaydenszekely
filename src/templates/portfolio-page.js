@@ -44,7 +44,7 @@ export const pageQuery = graphql`
   query PortfolioQuery {
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] },
-      filter: { frontmatter: { templateKey: { eq: "portfolio" } }}
+      filter: { frontmatter: { discoverable: { eq: "yes" } }}
     ) {
       edges {
         node {
@@ -57,6 +57,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             portfolioDescription,
+            discoverable,
             image,
             portfolioName,
             portfolioImage,

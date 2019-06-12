@@ -18,10 +18,15 @@ export const PortfolioPostTemplate = ({
   image,
   title,
   jobDate,
+  leftColumn,
+  bigImageOne,
+  portfolioQuote,
+  bigImageTwo,
   portfolioName,
   portfolioImage,
   portfolioPrice,
   portfolioLink,
+  
 }) => {
   const PostContent = contentComponent || Content
 
@@ -32,9 +37,7 @@ export const PortfolioPostTemplate = ({
         
         <div className="left-portfolio">
           <h4 className="accent">{jobDate}</h4>
-          <a>Graphic Design</a><br />
-          <a>Branding</a><br />
-          <a>Video</a>
+          {leftColumn}
         </div>
         <div className="right-portfolio">
         <h5>OVERVIEW</h5>
@@ -42,14 +45,13 @@ export const PortfolioPostTemplate = ({
           </p><br /><br />
         </div>
       </div>
-      <img src="../../img/home.jpg" className="full"/>
+      <img src={bigImageOne} className="full"/>
       <div className="article big-padding">
-        <Quote quoteContents={portfolioDescription} />
+        <Quote quoteContents={portfolioQuote} />
       </div>
-      <img src="../../img/home.jpg" className="full"/>
+      <img src={bigImageTwo} className="full"/>
       <div className="article">
         <div className="full-portfolio">
-        <h5>OVERVIEW</h5>
         <p><PostContent content={content}/>
         </p><br /><br />
         </div>
@@ -72,6 +74,10 @@ PortfolioPostTemplate.propTypes = {
   portfolioName: PropTypes.string,
   title: PropTypes.string,
   jobDate: PropTypes.string,
+  bigImageOne: PropTypes.file,
+  portfolioQuote: PropTypes.string,
+  bigImageTwo: PropTypes.file,
+  leftColumn: PropTypes.string,
   portfolioImage: PropTypes.file,
   portfolioPrice: PropTypes.string,
   portfolioLink: PropTypes.string,
@@ -86,11 +92,15 @@ const PortfolioPost = ({ data }) => {
         content={post.html}
         contentComponent={HTMLContent}
         portfolioDescription={post.frontmatter.portfolioDescription}
-        helmet={<Helmet title={`${post.frontmatter.portfolioName} | A Portfolio from What The Cancer`} />}
+        helmet={<Helmet title={`${post.frontmatter.portfolioName} | Jayden Szekely – Creative Solutions and Design located in Whangarei, New Zealand to create the perfect outcomes for you and your business. Web Design, UI Design, Graphic Design, UX Design, Video Editing, Videographer, Designer, Website Builder, CMS, Northland`} />}
         tags={post.frontmatter.tags}
         image={post.frontmatter.image}
         title={post.frontmatter.title}
+        leftColumn={post.frontmatter.leftColumn}
         jobDate={post.frontmatter.jobDate}
+        bigImageOne={post.frontmatter.bigImageOne}
+        bigImageTwo={post.frontmatter.bigImageTwo}
+        portfolioQuote={post.frontmatter.portfolioQuote}
         portfolioName={post.frontmatter.portfolioName}
         portfolioImage={post.frontmatter.portfolioImage}
         portfolioPrice={post.frontmatter.portfolioPrice}
@@ -120,6 +130,10 @@ export const portfolioQuery = graphql`
         image,
         title,
         jobDate,
+        leftColumn,
+        bigImageOne,
+        portfolioQuote,
+        bigImageTwo,
         portfolioName,
         portfolioImage,
         portfolioPrice,

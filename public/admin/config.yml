@@ -31,15 +31,19 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portfolio"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: Title, name: title, widget: string}
       - {label: Header Image, name: "image", widget: file}
       - {label: Description, name: "description", widget: string}
-      - {label: Title, name: title, widget: string}
-      - {label: Date - Mon-2019, name: jobDate, widget: string}
-      - {label: Portfolio Name, name: portfolioName, widget: string}
-      - {label: Portfolio Description, name: portfolioDescription, widget: string}
-      - {label: Portfolio Image, name: portfolioImage, widget: image}
-      - {label: Portfolio Download or Purchase URL, name: portfolioLink, widget: string}
+      - {label: Date - Mon-Year / Left Column Title, name: jobDate, widget: string}
+      - {label: Job Categories, name: leftColumn, widget: string}
+      - {label: Right Hand Column - Top, name: portfolioDescription, widget: string}
+      - {label: Big Image 1, name: "bigImageOne", widget: file}
+      - {label: Quote Section, name: portfolioQuote, widget: string}
+      - {label: Big Image 2, name: "bigImageOne", widget: file}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: Portfolio Name, name: portfolioName, widget: string}
+      - {label: Portfolio Image, name: portfolioImage, widget: image}
+      - {label: Portfolio Link, name: portfolioLink, widget: string}
       - {label: "Tags", name: "tags", widget: "list"}
 
   - name: "pages"
@@ -117,6 +121,7 @@ collections:
         create: true
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page"}
+          - {label: "Discoverable on Portfolio List - yes / no", name: "discoverable", widget: string}
           - {label: "Name", name: "title", widget: string}
           - {label: "Wide Image", name: "full_image", widget: file}
           - {label: "Bottom Split Bar / Left Background", name: "leftBackground", widget: file}
