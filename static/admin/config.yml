@@ -51,6 +51,7 @@ collections:
     files:
       - file: "src/work-with-me/index.md"
         label: "Work With Me"
+        name: "work-with-me"
         create: true
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portfolio"}
