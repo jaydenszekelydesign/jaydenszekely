@@ -2583,53 +2583,6 @@
       "ctime": "2019-06-12T05:25:34.712Z",
       "birthtime": "2019-06-12T03:29:59.936Z"
     },
-    "e8a90122-3d0e-544c-8bd4-33a6e48f09d8": {
-      "id": "e8a90122-3d0e-544c-8bd4-33a6e48f09d8",
-      "children": [
-        "344f5167-e029-5481-a3eb-30f1d2f0cf53"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "4d1630a84777d95e60464ae73969d6fb",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/work-with-me/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/index.md",
-      "relativePath": "work-with-me/index.md",
-      "extension": "md",
-      "size": 1300,
-      "prettySize": "1.3 kB",
-      "modifiedTime": "2019-06-12T05:25:22.465Z",
-      "accessTime": "2019-06-12T05:51:30.424Z",
-      "changeTime": "2019-06-12T05:25:22.465Z",
-      "birthTime": "2019-06-12T03:29:59.933Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "work-with-me",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22377182,
-      "blocks": 8,
-      "atimeMs": 1560318690424.3184,
-      "mtimeMs": 1560317122464.685,
-      "ctimeMs": 1560317122464.685,
-      "birthtimeMs": 1560310199933.0686,
-      "atime": "2019-06-12T05:51:30.424Z",
-      "mtime": "2019-06-12T05:25:22.465Z",
-      "ctime": "2019-06-12T05:25:22.465Z",
-      "birthtime": "2019-06-12T03:29:59.933Z"
-    },
     "4935f1f2-85c2-59a1-acba-03677e785625": {
       "id": "4935f1f2-85c2-59a1-acba-03677e785625",
       "children": [],
@@ -3072,41 +3025,6 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/cv.md",
       "fields": {
         "slug": "/work-with-me/cv/"
-      }
-    },
-    "344f5167-e029-5481-a3eb-30f1d2f0cf53": {
-      "id": "344f5167-e029-5481-a3eb-30f1d2f0cf53",
-      "children": [],
-      "parent": "e8a90122-3d0e-544c-8bd4-33a6e48f09d8",
-      "internal": {
-        "content": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "8a3d494b504cec07ed4c18162155fc7c",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "WORK WITH ME",
-        "templateKey": "portfolio",
-        "discoverable": "no",
-        "date": "2018-12-18T06:43:47.603Z",
-        "image": "/img/portfolioPic.jpg",
-        "description": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read ",
-        "jobDate": "6 Years Experience",
-        "portfolioName": "WORK WITH ME",
-        "portfolioDescription": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.",
-        "portfolioImage": "/img/portfolioPic.jpg",
-        "portfolioPrice": null,
-        "portfolioLink": "/",
-        "_PARENT": "e8a90122-3d0e-544c-8bd4-33a6e48f09d8"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/index.md",
-      "fields": {
-        "slug": "/work-with-me/"
       }
     },
     "b7423d2f-7d84-5f93-b118-9937c25add30": {
