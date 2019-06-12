@@ -9,12 +9,9 @@ description: >-
 title: WHAT THE CANCER
 jobDate: DEC – 2018
 leftColumn: >-
-  Web Design\
-  \
-  Graphic Design\
-  \
-  Social Media\
-  \
+  Web Design,
+  Graphic Design,
+  Social Media,
   Videography
 bigImageOne: /img/resource-splash.jpg
 bigImageTwo: /img/resource-splash.jpg

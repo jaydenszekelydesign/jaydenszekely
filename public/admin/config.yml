@@ -39,35 +39,54 @@ collections:
       - {label: Right Hand Column - Top, name: portfolioDescription, widget: string}
       - {label: Big Image 1, name: "bigImageOne", widget: file}
       - {label: Quote Section, name: portfolioQuote, widget: string}
-      - {label: Big Image 2, name: "bigImageOne", widget: file}
+      - {label: Big Image 2, name: "bigImageTwo", widget: file}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: Portfolio Name, name: portfolioName, widget: string}
       - {label: Portfolio Image, name: portfolioImage, widget: image}
       - {label: Portfolio Link, name: portfolioLink, widget: string}
       - {label: "Tags", name: "tags", widget: "list"}
 
-  - name: "work-with-me"
-    label: "Work With Me"
-    folder: "src/work-with-me/"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portfolio"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: Title, name: title, widget: string}
-      - {label: Header Image, name: "image", widget: file}
-      - {label: Description, name: "description", widget: string}
-      - {label: Date - Mon-Year / Left Column Title, name: jobDate, widget: string}
-      - {label: Job Categories, name: leftColumn, widget: string}
-      - {label: Right Hand Column - Top, name: portfolioDescription, widget: string}
-      - {label: Big Image 1, name: "bigImageOne", widget: file}
-      - {label: Quote Section, name: portfolioQuote, widget: string}
-      - {label: Big Image 2, name: "bigImageOne", widget: file}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: Portfolio Name, name: portfolioName, widget: string}
-      - {label: Portfolio Image, name: portfolioImage, widget: image}
-      - {label: Portfolio Link, name: portfolioLink, widget: string}
-      - {label: "Tags", name: "tags", widget: "list"}
+  - name: "me"
+    label: "Me"
+    files:
+      - file: "src/work-with-me/index.md"
+        label: "Work With Me"
+        create: true
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portfolio"}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
+          - {label: Title, name: title, widget: string}
+          - {label: "Discoverable on Portfolio List - yes / no", name: "discoverable", widget: string}
+          - {label: Header Image, name: "image", widget: file}
+          - {label: Description, name: "description", widget: string}
+          - {label: Date - Mon-Year / Left Column Title, name: jobDate, widget: string}
+          - {label: Job Categories, name: leftColumn, widget: string}
+          - {label: Right Hand Column - Top, name: portfolioDescription, widget: string}
+          - {label: Big Image 1, name: "bigImageOne", widget: file}
+          - {label: Quote Section, name: portfolioQuote, widget: string}
+          - {label: Big Image 2, name: "bigImageTwo", widget: file}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: Portfolio Name, name: portfolioName, widget: string}
+          - {label: Portfolio Image, name: portfolioImage, widget: image}
+          - {label: Portfolio Link, name: portfolioLink, widget: string}
+          - {label: "Tags", name: "tags", widget: "list"}
+
+      - file: "src/pages/jayden/index.md"
+        label: "Meet Jayden Szekely"
+        name: "jayden"
+        create: true
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page"}
+          - {label: "Discoverable on Portfolio List - yes / no", name: "discoverable", widget: string}
+          - {label: "Name", name: "title", widget: string}
+          - {label: "Wide Image", name: "full_image", widget: file}
+          - {label: "Bottom Split Bar / Left Background", name: "leftBackground", widget: file}
+          - {label: "Bottom Split Bar / Left Second Line", name: "leftTitle", widget: string}
+          - {label: "Bottom Split Bar / Left Link", name: "leftLink", widget: string}
+          - {label: "Bottom Split Bar / Right Title", name: "rightTitle", widget: string}
+          - {label: "Bottom Split Bar / Right Description (Second Line)", name: "rightDescription", widget: string}
+          - {label: "Bottom Split Bar / Right Link", name: "rightUrl", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "pages"
     label: "Pages"
@@ -153,23 +172,6 @@ collections:
           - {label: Header Image, name: "image", widget: file}
           - {label: Description, name: "description", widget: string}
           - {label: Full Image, name: "fullImage", widget: file}
-      
-      - file: "src/pages/jayden/index.md"
-        label: "Meet Jayden Szekely"
-        name: "jayden"
-        create: true
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page"}
-          - {label: "Discoverable on Portfolio List - yes / no", name: "discoverable", widget: string}
-          - {label: "Name", name: "title", widget: string}
-          - {label: "Wide Image", name: "full_image", widget: file}
-          - {label: "Bottom Split Bar / Left Background", name: "leftBackground", widget: file}
-          - {label: "Bottom Split Bar / Left Second Line", name: "leftTitle", widget: string}
-          - {label: "Bottom Split Bar / Left Link", name: "leftLink", widget: string}
-          - {label: "Bottom Split Bar / Right Title", name: "rightTitle", widget: string}
-          - {label: "Bottom Split Bar / Right Description (Second Line)", name: "rightDescription", widget: string}
-          - {label: "Bottom Split Bar / Right Link", name: "rightUrl", widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
       
   
 
