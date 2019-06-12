@@ -46,7 +46,7 @@ collections:
       - {label: Portfolio Link, name: portfolioLink, widget: string}
       - {label: "Tags", name: "tags", widget: "list"}
 
-    - name: "work-with-me"
+    - name: "portfolio"
     label: "Work With Me"
     folder: "src/work-with-me/"
     create: true
