@@ -46,28 +46,28 @@ collections:
       - {label: Portfolio Link, name: portfolioLink, widget: string}
       - {label: "Tags", name: "tags", widget: "list"}
 
-    - name: "portfolio"
-    label: "Work With Me"
-    folder: "src/work-with-me/"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portfolio"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: Title, name: title, widget: string}
-      - {label: Header Image, name: "image", widget: file}
-      - {label: Description, name: "description", widget: string}
-      - {label: Date - Mon-Year / Left Column Title, name: jobDate, widget: string}
-      - {label: Job Categories, name: leftColumn, widget: string}
-      - {label: Right Hand Column - Top, name: portfolioDescription, widget: string}
-      - {label: Big Image 1, name: "bigImageOne", widget: file}
-      - {label: Quote Section, name: portfolioQuote, widget: string}
-      - {label: Big Image 2, name: "bigImageOne", widget: file}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: Portfolio Name, name: portfolioName, widget: string}
-      - {label: Portfolio Image, name: portfolioImage, widget: image}
-      - {label: Portfolio Link, name: portfolioLink, widget: string}
-      - {label: "Tags", name: "tags", widget: "list"}
+  - name: "work-with-me"
+  label: "Work With Me"
+  folder: "src/work-with-me/"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portfolio"}
+    - {label: "Publish Date", name: "date", widget: "datetime"}
+    - {label: Title, name: title, widget: string}
+    - {label: Header Image, name: "image", widget: file}
+    - {label: Description, name: "description", widget: string}
+    - {label: Date - Mon-Year / Left Column Title, name: jobDate, widget: string}
+    - {label: Job Categories, name: leftColumn, widget: string}
+    - {label: Right Hand Column - Top, name: portfolioDescription, widget: string}
+    - {label: Big Image 1, name: "bigImageOne", widget: file}
+    - {label: Quote Section, name: portfolioQuote, widget: string}
+    - {label: Big Image 2, name: "bigImageOne", widget: file}
+    - {label: "Body", name: "body", widget: "markdown"}
+    - {label: Portfolio Name, name: portfolioName, widget: string}
+    - {label: Portfolio Image, name: portfolioImage, widget: image}
+    - {label: Portfolio Link, name: portfolioLink, widget: string}
+    - {label: "Tags", name: "tags", widget: "list"}
 
   - name: "pages"
     label: "Pages"
