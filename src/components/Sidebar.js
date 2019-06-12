@@ -6,13 +6,16 @@ import { Link } from 'gatsby'
 export default props => {
 
   return (
-    <Menu right width="50%" style={{zIndex: 1000}} >
+    <Menu right width="75%" style={{zIndex: 1000}} >
       <h1 className="menuContents">
         <Link to="/">Home</Link>
-        <Link to="/jayden">About</Link>
-        <Link to="/portfolio">Portfolio</Link>
+        <Link to="/jayden">Jayden</Link>
+        <Link to="/portfolio">My Work</Link>
         <Link to="/blog">Blog</Link>
-        <Link to="/listen">Listen</Link>
+        <Link to="/work-with-me">Work With Me</Link>
+        <br />
+        <br />
+        <Link to="/zero-to-hero-web-design-udemy-course">Course</Link>
 
 
       </h1>

@@ -13,7 +13,7 @@ const TemplateWrapper = ({ children, backgroundImg }) => (
     <Sidebar />
     <Navbar />
     <div>{children}</div>
-    <Footer />
+    
   </div>
 )
 

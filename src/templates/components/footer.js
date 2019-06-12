@@ -10,7 +10,7 @@ const Footer = ({children, background, recommendedTitle, authorName, authorBio})
                 <Link to="/jayden">About</Link>&nbsp;&nbsp;&nbsp;
                 <Link to="/portfolio">Portfolio</Link>&nbsp;&nbsp;&nbsp;
                 <Link to="/blog">Blog</Link>&nbsp;&nbsp;&nbsp;
-                <Link to="/listen">Listen</Link>
+                <Link to="/work-with-me">Work With Me</Link>
             </h4>
             </center>
             <p>

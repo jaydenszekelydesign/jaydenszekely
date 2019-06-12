@@ -12,7 +12,7 @@ const Split = ({children, background, recommendedTitle, authorName, authorBio, l
         <a href={rightLink || "#"} title={authorName}>
             <div className="right green-bg" style={{backgroundImage: 'url("'+rightImage+'")'}}>
                 <p>
-                    <h3>VIEW {authorName}</h3>
+                    <h3>{authorName}</h3>
                 </p>
             </div>
         </a>

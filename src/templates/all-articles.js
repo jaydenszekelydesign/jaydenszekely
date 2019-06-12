@@ -19,6 +19,7 @@ export default class Blog extends React.Component {
           <meta charSet="utf-8" />
           <title>All Articles Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad</title>
         </Helmet>
+        <Banner>Blog</Banner>
         <div className="article">
           <div className="left-portfolio">
             <h2>Read my blog on all things design and what great Creative Solutions can do for your business</h2>

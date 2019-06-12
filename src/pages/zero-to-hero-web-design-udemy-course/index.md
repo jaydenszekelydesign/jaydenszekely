@@ -1,0 +1,19 @@
+---
+templateKey: about-page
+title: Zero to Hero – Web Design Course
+full_image: /img/about-two.jpg
+leftBackground: /img/39748560_10157016425674369_11675533586726912_n-2-.jpg
+leftTitle: Work With Me
+leftLink: /work-with-me
+rightTitle: Coming Soon
+rightDescription: Exclusively on udemy.com
+rightUrl: https://www.udemy.com
+---
+Coming Soon to Udemy.com\
+\
+The face of the internet and digital world has morphed into a hub of incredible content and technology allowing us to do so much more with the internet.  The introduction of the iPhone saw a slow push towards responsive, mobile friendly websites back in 2007, however in 2012 when cheaper entry level smart phones started to flood the market, mobile devices quickly over took desktops / laptops as the most common method of viewing a website.\
+\
+This course teaches you everything about how to make a stunning, mobile-first website using HTML5, CSS3 and basic Jquery (a Javascript framework).  This course will also teach you about modern web design fundamentals using Experience Design Software - Adobe XD to prototype a website to develop with purpose.\
+\
+I can not wait to share this with you,\
+Jayden
