@@ -25,24 +25,9 @@
         "path": "/blog/"
     },
     {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "jsonName": "blog-exercise-43e",
-        "path": "/blog/exercise/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "jsonName": "blog-sleep-1c0",
-        "path": "/blog/sleep/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "jsonName": "blog-what-is-cancer-d55",
-        "path": "/blog/what-is-cancer/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "jsonName": "blog-wonderful-fantastic-food-5f1",
-        "path": "/blog/wonderful-fantastic-food/"
+        "componentChunkName": "component---src-templates-all-articles-js",
+        "jsonName": "blog-index-1-ad7",
+        "path": "/blog/index.1/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",
@@ -81,38 +66,33 @@
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tags-cancer-6a3",
-        "path": "/tags/cancer/"
+        "jsonName": "tags-graphic-design-3a2",
+        "path": "/tags/graphic-design/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tags-diet-1e8",
-        "path": "/tags/diet/"
+        "jsonName": "tags-home-8b5",
+        "path": "/tags/home/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tags-exercise-7fe",
-        "path": "/tags/exercise/"
+        "jsonName": "tags-podcast-852",
+        "path": "/tags/podcast/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tags-food-ee7",
-        "path": "/tags/food/"
+        "jsonName": "tags-social-media-15a",
+        "path": "/tags/social-media/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tags-lisa-dawson-941",
-        "path": "/tags/lisa-dawson/"
+        "jsonName": "tags-videography-059",
+        "path": "/tags/videography/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tags-sleep-508",
-        "path": "/tags/sleep/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tags-what-is-cancer-477",
-        "path": "/tags/what-is-cancer/"
+        "jsonName": "tags-web-design-14d",
+        "path": "/tags/web-design/"
     },
     {
         "componentChunkName": "component---src-templates-portfolio-js",
