@@ -25,9 +25,9 @@
         "path": "/blog/"
     },
     {
-        "componentChunkName": "component---src-templates-all-articles-js",
-        "jsonName": "blog-index-1-ad7",
-        "path": "/blog/index.1/"
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blog-mobile-first-301",
+        "path": "/blog/mobile-first/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",

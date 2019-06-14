@@ -1,34 +1,45 @@
-header
-  width: 100vw
-  background: $green
-  color: $white
-  padding: 0, 0, 0, 0
-  margin: 0, 0, 0, 0
-  position: relative
-  display: inline-block
-  z-index: 0
-  background-position: center
-  -webkit-background-size: cover
-  -moz-background-size: cover
-  -o-background-size: cover
-  background-size: cover
+@import breakpoints
+@import colours
+@import typography
+@import jaydenStrap
+  
+.splitHeader
+  width: 100%
 
-.bannerTitle
-    font-size: 2em 
-    color: inherit
-    width: 55%
-    margin-left: 22.5vw
-    padding-top: 42.5vh
-    padding-bottom: 42.5vh
-    text-align: center
-    font-weight: bold
+  .left
+    background-color: $primary
+    padding-left: $w-gutter
+    width: $w-o5
+    height: 100vh
+    color: $primary-invert
+    float: left
+    display: block
+    position: absolute
+    z-index: 0
 
-.half-bannerTitle
-    font-size: 2em 
-    color: inherit
-    width: 55%
-    margin-left: 22.5vw
-    padding-top: 15vh
-    padding-bottom: 15vh
-    text-align: center
-    font-weight: bold
+    .contents
+      margin-top: 35vh
+      z-index: 920
+
+  .right
+    background-color: $secondary
+    padding-right: $w-gutter
+    width: $w-o3
+    height: 100vh
+    color: $primary
+    float: right
+    transition: 0.8s
+    z-index: 900
+    display: block
+    position: relative
+
+    .contents
+      margin-top: 35vh
+      position: relative
+
+  .right:hover
+    background-position: 100%, 0
+    width: $w-o7
+
+  
+

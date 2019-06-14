@@ -35,11 +35,11 @@ export const PortfolioPostTemplate = ({
       <Banner background={portfolioImage}>{portfolioName}</Banner>
       <div className="article big-padding">
         
-        <div className="left-portfolio">
+        <div className="left">
           <h4 className="accent">{jobDate}</h4>
           {leftColumn}
         </div>
-        <div className="right-portfolio">
+        <div className="right">
         <h5>OVERVIEW</h5>
           <p>{portfolioDescription}
           </p><br /><br />
@@ -56,7 +56,7 @@ export const PortfolioPostTemplate = ({
         </p><br /><br />
         </div>
       </div>
-      <Split background="" recommendedTitle="DOWNLOAD MY CV" link='/cv.pdf' authorName="VIEW MY PORTFOLIO" rightLink="/portfolio" rightImage="" />  
+      <Split background="" recommendedTitle="DOWNLOAD MY CV" link='/work-with-me/cv' authorName="VIEW MY PORTFOLIO" rightLink="/portfolio" rightImage="" />  
       
 
       

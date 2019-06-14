@@ -20,23 +20,17 @@ export default class Blog extends React.Component {
           <title>All Articles Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad</title>
         </Helmet>
         <Banner>Blog</Banner>
-        <div className="article">
-          <div className="left-portfolio">
-            <h2>Read my blog on all things design and what great Creative Solutions can do for your business</h2>
-            <h4 className="accent">Refine Posts by Category</h4>
-            <a href="/tags/food">Food</a><br />
-            <a href="/tags/exercise">Exercise</a><br />
-            <a href="/tags/sleep">Sleep</a><br />
-            <a href="/tags/spirituality">Spirituality</a><br />
-            <a href="/tags/">More Categories</a>
+        <div className="article big-padding">
+          <div className="left">
+            <h3>Read my blog on all things design and what great Creative Solutions can do for your business</h3>
           </div>
-          <div className="right-portfolio">
+          <div className="right">
               {posts
                 .map(({ node: post }) => (
                   <Link to={post.fields.slug}>
                     <div className="listing" key={post.id} style={{backgroundImage: 'url("'+post.frontmatter.header+'")'}}>
                       <div className="glaze">
-                        <h1>{post.frontmatter.title}</h1>{post.frontmatter.date}
+                        <h2>{post.frontmatter.title}</h2>{post.frontmatter.date}
                       </div>
                     </div>
                   </Link>

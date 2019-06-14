@@ -1,6 +1,7 @@
 ---
 templateKey: portfolio
 date: 2018-12-18T06:43:47.603Z
+discoverable: yes
 title: WHAT THE CANCER
 image: /img/resource-splash.jpg
 description: >-

@@ -34,7 +34,7 @@ export const BlogPostTemplate = ({
           </div>
         
       </div>
-      <Split background={recommendedImage} recommendedTitle={recommendedName} link={recommendedLink} authorName="Lisa Dawson" authorBio="Oncologist, Speaker and Author" />
+      <Split background={recommendedImage} recommendedTitle={recommendedName} link={recommendedLink} authorName="Jayden Szekely" authorBio="Designer with a desire to push the boundaries" />
     </div>
   )
 }
