@@ -24,7 +24,6 @@ export const PortfolioPostTemplate = ({
   bigImageTwo,
   portfolioName,
   portfolioImage,
-  portfolioPrice,
   portfolioLink,
   
 }) => {
@@ -32,17 +31,22 @@ export const PortfolioPostTemplate = ({
 
   return (
     <div>
-      <Banner background={portfolioImage}>{portfolioName}</Banner>
+      <Banner background={portfolioImage}>
+        {portfolioName}
+      </Banner>
       <div className="article big-padding">
-        
         <div className="left">
-          <h4 className="accent">{jobDate}</h4>
+          <h4 className="accent">
+            {jobDate}
+          </h4>
           {leftColumn}
         </div>
         <div className="right">
-        <h5>OVERVIEW</h5>
-          <p>{portfolioDescription}
-          </p><br /><br />
+          <h5>OVERVIEW</h5>
+          <p>
+            {portfolioDescription}
+          </p>
+          <br /><br />
         </div>
       </div>
       <img src={bigImageOne} className="full"/>
@@ -52,15 +56,13 @@ export const PortfolioPostTemplate = ({
       <img src={bigImageTwo} className="full"/>
       <div className="article">
         <div className="full-portfolio">
-        <p><PostContent content={content}/>
-        </p><br /><br />
+          <p>
+            <PostContent content={content}/>
+          </p>
+          <br /><br />
         </div>
       </div>
       <Split background="" recommendedTitle="DOWNLOAD MY CV" link='/work-with-me/cv' authorName="VIEW MY PORTFOLIO" rightLink="/portfolio" rightImage="" />  
-      
-
-      
-      
     </div>
   )
 }
@@ -79,7 +81,6 @@ PortfolioPostTemplate.propTypes = {
   bigImageTwo: PropTypes.file,
   leftColumn: PropTypes.string,
   portfolioImage: PropTypes.file,
-  portfolioPrice: PropTypes.string,
   portfolioLink: PropTypes.string,
 }
 
@@ -103,7 +104,6 @@ const PortfolioPost = ({ data }) => {
         portfolioQuote={post.frontmatter.portfolioQuote}
         portfolioName={post.frontmatter.portfolioName}
         portfolioImage={post.frontmatter.portfolioImage}
-        portfolioPrice={post.frontmatter.portfolioPrice}
         portfolioLink={post.frontmatter.portfolioLink}
       />
     </Layout>
@@ -136,7 +136,6 @@ export const portfolioQuery = graphql`
         bigImageTwo,
         portfolioName,
         portfolioImage,
-        portfolioPrice,
         portfolioLink,
       }
     }

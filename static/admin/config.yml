@@ -72,6 +72,29 @@ collections:
           - {label: Portfolio Link, name: portfolioLink, widget: string}
           - {label: "Tags", name: "tags", widget: "list"}
 
+      - file: "src/work-with-me/cv.md"
+        label: "My CV"
+        name: "cv"
+        create: true
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "cv"}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
+          - {label: Title, name: title, widget: string}
+          - {label: "Discoverable on Portfolio List - yes / no", name: "discoverable", widget: string}
+          - {label: Header Image, name: "image", widget: file}
+          - {label: Description, name: "description", widget: string}
+          - {label: Date - Mon-Year / Left Column Title, name: jobDate, widget: string}
+          - {label: Job Categories, name: leftColumn, widget: string}
+          - {label: Right Hand Column - Top, name: cvDescription, widget: string}
+          - {label: Big Image 1, name: "bigImageOne", widget: file}
+          - {label: Quote Section, name: cvQuote, widget: string}
+          - {label: Big Image 2, name: "bigImageTwo", widget: file}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: CV Name, name: cvName, widget: string}
+          - {label: CV Image, name: cvImage, widget: image}
+          - {label: CV Link, name: cvLink, widget: string}
+          - {label: "Tags", name: "tags", widget: "list"}
+
       - file: "src/pages/jayden/index.md"
         label: "Meet Jayden Szekely"
         name: "jayden"
