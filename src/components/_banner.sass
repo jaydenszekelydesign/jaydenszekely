@@ -43,3 +43,27 @@
 
   
 
+
+@media screen and (max-width: $break-small) 
+  .splitHeader
+    .left
+      width: $w-o8
+      position: relative
+      padding-right: $w-gutter
+      height: 100vh
+
+    .right
+      width: $w-o8
+      padding-left: $w-gutter
+      height: 50vh
+      display: none
+
+    .right:hover
+      width: $w-o8
+
+
+@media screen and (min-width: $break-small + 1) and (max-width: $break-large)
+  // nothing
+
+@media screen and (min-width: $break-xl)
+  // nothing
