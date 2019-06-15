@@ -25,7 +25,6 @@ export const CvPostTemplate = ({
   bigImageTwo,
   cvName,
   cvImage,
-  cvPrice,
   cvLink,
   
 }) => {
@@ -135,7 +134,6 @@ CvPostTemplate.propTypes = {
   bigImageTwo: PropTypes.file,
   leftColumn: PropTypes.string,
   cvImage: PropTypes.file,
-  cvPrice: PropTypes.string,
   cvLink: PropTypes.string,
 }
 
@@ -159,7 +157,6 @@ const CvPost = ({ data }) => {
         cvQuote={post.frontmatter.cvQuote}
         cvName={post.frontmatter.cvName}
         cvImage={post.frontmatter.cvImage}
-        cvPrice={post.frontmatter.cvPrice}
         cvLink={post.frontmatter.cvLink}
       />
     </Layout>
@@ -192,7 +189,6 @@ export const cvQuery = graphql`
         bigImageTwo,
         cvName,
         cvImage,
-        cvPrice,
         cvLink,
       }
     }
