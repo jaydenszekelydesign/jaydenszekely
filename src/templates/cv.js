@@ -51,15 +51,21 @@ export const CvPostTemplate = ({
       </div>
       <div className="article">
       <div className="left">
-          <h4 className="accent">
-            {jobDate}
-          </h4>
-          {leftColumn}
-        </div>
-        <div className="right">
           <h5>PERSONAL QUALITIES</h5>
           <p>
           Loyal, self motivated, goal driven, enthusiastic, creative, problem solver, quick learner, out-of-the-box thinker, excellent communicator, leader, and most importantly - passionate about design.
+          </p>
+        </div>
+        <div className="right">
+          <h5>EXPERIENCE</h5>
+          <p>
+          For the last 3.5 years, I have
+freelanced under the name
+‘Deslab Creative’ (Formally
+‘Next Level Design’) and have
+worked with many different
+people from start-ups to larger
+organisations.
           </p>
           <br /><br />
         </div>
@@ -104,10 +110,8 @@ export const CvPostTemplate = ({
       </div>
       <img src={bigImageTwo} className="full"/>
       <div className="article">
-        <div className="full-cv">
-          <p>
+        <div className="full-portfolio">
             <PostContent content={content}/>
-          </p>
           <br /><br />
         </div>
       </div>

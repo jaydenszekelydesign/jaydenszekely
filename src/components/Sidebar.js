@@ -15,7 +15,7 @@ export default props => {
         <Link to="/work-with-me">Work With Me</Link>
         <br />
         <br />
-        <Link to="/zero-to-hero-web-design-udemy-course">Course</Link>
+        <Link to="/course">Course</Link>
 
 
       </h1>

@@ -31,6 +31,16 @@
     },
     {
         "componentChunkName": "component---src-templates-about-page-js",
+        "jsonName": "course-33d",
+        "path": "/course/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-templates-about-page-js",
         "jsonName": "jargon-12a",
         "path": "/jargon/"
     },
@@ -98,10 +108,5 @@
         "componentChunkName": "component---src-templates-cv-js",
         "jsonName": "work-with-me-cv-4f8",
         "path": "/work-with-me/cv/"
-    },
-    {
-        "componentChunkName": "component---src-templates-about-page-js",
-        "jsonName": "zero-to-hero-web-design-udemy-course-942",
-        "path": "/zero-to-hero-web-design-udemy-course/"
     }
 ]
