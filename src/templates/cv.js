@@ -8,9 +8,6 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Split from './components/split'
 import Content, { HTMLContent } from '../components/Content'
-import Pdf from "react-to-pdf";
-
-const ref = React.createRef();
 
 export const CvPostTemplate = ({
   content,
@@ -36,7 +33,7 @@ export const CvPostTemplate = ({
       <Banner background={cvImage}>
         {cvName}
       </Banner>
-      <div className="article big-padding" ref={ref}>
+      <div className="article big-padding">
         <div className="left">
           <h4 className="accent">
             {jobDate}
