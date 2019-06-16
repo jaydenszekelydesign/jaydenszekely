@@ -13,8 +13,6 @@ export default props => {
         <Link to="/portfolio">My Work</Link>
         <Link to="/blog">Blog</Link>
         <Link to="/work-with-me">Work With Me</Link>
-        <br />
-        <br />
         <Link to="/course">Course</Link>
 
 

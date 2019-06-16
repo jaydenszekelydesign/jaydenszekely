@@ -5,9 +5,7 @@ import Footer from '../templates/components/footer'
 
 const NotFoundPage = () => (
   <Layout>
-    <Banner subCaption="Ugh, You may have come across a page that does not exist or is broken...">Page Not Found</Banner>
-    <img src="../img/ugh.jpg" className="full" />
-    <Footer />
+    <Banner background="../img/ugh.jpg" subCaption="Ugh, You may have come across a page that does not exist or is broken...">Page Not Found</Banner>
     
   </Layout>
 )
