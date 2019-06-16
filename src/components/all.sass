@@ -420,13 +420,13 @@ footer
   /* Our sidebar item styling */
   text-decoration: none
   margin-bottom: 10px
-  color: #d1d1d1
+  color: $secondary-invert
   transition: color 0.5s
 
 
 /* Change color on hover */
 .bm-item:hover 
-  color: white
+  color: $primary
 
 
 /* The rest copied directly from react-burger-menu docs */
@@ -461,7 +461,8 @@ footer
 
 /* General sidebar styles */
 .bm-menu 
-  background: $primary-invert
+  background: $secondary
+  color: $secondary-invert
   z-index: 1200
   margin: 0
   top: 0px
@@ -475,8 +476,7 @@ footer
     display: block
 
   a:hover 
-    color: $primary
-    padding-left: 1em
+    color: $secondary-invert
 
 
 
@@ -487,7 +487,7 @@ footer
 
 /* Wrapper for item list */
 .bm-item-list 
-  color: #b8b7ad
+  color: $secondary-invert
 
 .bm-menu-wrap
   height: calc(70vh + 2em)
@@ -496,7 +496,7 @@ footer
 .menuContents
   font-size: 1.75em 
   color: inherit
-  padding-top: 15vh
+  padding-top: 50%
   padding-bottom: 15vh
   width: 70vw
   text-align: center

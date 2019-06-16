@@ -8,6 +8,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Split from './components/split'
 import Content, { HTMLContent } from '../components/Content'
+import Footer from './components/footer'
 
 
 
@@ -49,7 +50,7 @@ export const PortfolioPostTemplate = ({
           <br /><br />
         </div>
       </div>
-      <img src={bigImageOne} className="full"/>
+      <img src={bigImageOne} className="full" />
       <div className="article big-padding">
         <Quote quoteContents={portfolioQuote} />
       </div>
@@ -63,6 +64,7 @@ export const PortfolioPostTemplate = ({
         </div>
       </div>
       <Split background="" recommendedTitle="DOWNLOAD MY CV" link='/work-with-me/cv' authorName="VIEW MY PORTFOLIO" rightLink="/portfolio" rightImage="" />  
+      <Footer />
     </div>
   )
 }

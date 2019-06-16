@@ -8,6 +8,8 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Split from './components/split'
 import Content, { HTMLContent } from '../components/Content'
+import StarRatingComponent from 'react-star-rating-component'
+import Footer from './components/footer'
 
 export const CvPostTemplate = ({
   content,
@@ -49,14 +51,15 @@ export const CvPostTemplate = ({
         </div>
 
       </div>
-      <div className="article">
-      <div className="left">
+      <img src={cvImage} className="full"/>
+      <div className="article big-padding">
+      <div className="full-portfolio">
           <h5>PERSONAL QUALITIES</h5>
           <p>
           Loyal, self motivated, goal driven, enthusiastic, creative, problem solver, quick learner, out-of-the-box thinker, excellent communicator, leader, and most importantly - passionate about design.
           </p>
         </div>
-        <div className="right">
+        <div className="full-portfolio top-padding">
           <h5>EXPERIENCE</h5>
           <p>
           For the last 3.5 years, I have
@@ -70,52 +73,48 @@ organisations.
           <br /><br />
         </div>
       </div>
-      <img src={cvImage} className="full"/>
-      <div className="article secondary big-padding">
+      <div className="article primary big-padding">
         <div className="left">
             <h1>Skills:</h1>
         </div>
         <div className="right">
             <ul>
               <li>
-                Visual / Product Design
-              </li>
-              <li>
-                UI Design / Thinking
+                Visual / Product Design <br /><StarRatingComponent name="rate2" editing={false} starCount={5} value={4}  starColor="#fff"  emptyStarColor="rgba(255,255,255,0.5)" />
               </li>
               <li>
                 Front-End Web Development
+                <br />
+                <StarRatingComponent name="rate2" editing={false} starCount={5} value={4}  starColor="#fff"  emptyStarColor="rgba(255,255,255,0.5)" />
               </li>
               <li>
                 Graphic Design
+                <br />
+                <StarRatingComponent name="rate2" editing={false} starCount={5} value={4}  starColor="#fff"  emptyStarColor="rgba(255,255,255,0.5)" />
               </li>
               <li>
                 Video Production &amp; Post Production
+                <br />
+                <StarRatingComponent name="rate2" editing={false} starCount={5} value={3}  starColor="#fff"  emptyStarColor="rgba(255,255,255,0.5)" />
               </li>
               <li>
                 Social Media Management
-              </li>
-              <li>
-                Clear communication
-              </li>
-              <li>
-                Creating clear solutions for clients
+                <br />
+                <StarRatingComponent name="rate2" editing={false} starCount={5} value={3}  starColor="#fff"  emptyStarColor="rgba(255,255,255,0.5)" />
               </li>
             </ul>
         </div>
       </div>
-      <img src={image} alt="image" className="full" />
       <div className="article big-padding">
         <Quote quoteContents={cvQuote} />
       </div>
-      <img src={bigImageTwo} className="full"/>
       <div className="article">
         <div className="full-portfolio">
             <PostContent content={content}/>
           <br /><br />
         </div>
       </div>
-      <Split background="" recommendedTitle="DOWNLOAD MY CV" link='/work-with-me/cv' authorName="VIEW MY PORTFOLIO" rightLink="/cv" rightImage="" />  
+      <Split background="" recommendedTitle="DOWNLOAD MY CV" link='/cv.pdf' authorName="VIEW MY PORTFOLIO" rightLink="/portfolio" rightImage="" />  
     </div>
     
   )

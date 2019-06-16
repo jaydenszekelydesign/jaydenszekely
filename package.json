@@ -29,6 +29,7 @@
     "react-helmet": "^5.2.0",
     "react-mailchimp-subscribe": "^2.0.2",
     "react-medium-image-zoom": "^3.0.16",
+    "react-star-rating-component": "^1.4.1",
     "react-to-pdf": "0.0.8",
     "uuid": "^3.2.1"
   },

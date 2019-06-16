@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import Banner from './components/banner'
 import Layout from '../components/Layout'
 import { kebabCase } from 'lodash'
+import Footer from './components/footer'
 
 
 export default class Blog extends React.Component {
@@ -37,7 +38,7 @@ export default class Blog extends React.Component {
                 ))}
           </div>
       </div>
-        
+      <Footer />
       </Layout>
     )
   }

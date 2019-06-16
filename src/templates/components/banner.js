@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Banner = ({children, background}) => (
+const Banner = ({children, background, subCaption}) => (
 
 
 <section className="splitHeader">
@@ -9,9 +9,7 @@ const Banner = ({children, background}) => (
         <h1>{children}</h1>
         <br />
         <p>
-            Product / Visual Designer<br />
-            Graphic Designer<br />
-            Digital Unicorn<br />
+            {subCaption}
         </p>
     </div>
     
