@@ -2128,7 +2128,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ba58655424bbf8ad3d881a3944bae7a3",
+        "contentDigest": "5dbb603929a3aea7b9a580896cb938ed",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/blog/mobile-first.md\"",
@@ -2138,11 +2138,11 @@
       "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
       "relativePath": "blog/mobile-first.md",
       "extension": "md",
-      "size": 415,
-      "prettySize": "415 B",
-      "modifiedTime": "2019-06-14T09:18:40.930Z",
-      "accessTime": "2019-06-15T03:28:21.374Z",
-      "changeTime": "2019-06-14T09:18:40.930Z",
+      "size": 414,
+      "prettySize": "414 B",
+      "modifiedTime": "2019-06-16T04:56:27.563Z",
+      "accessTime": "2019-06-16T04:56:27.562Z",
+      "changeTime": "2019-06-16T04:56:27.563Z",
       "birthTime": "2019-06-13T18:28:58.201Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
@@ -2159,13 +2159,13 @@
       "blksize": 4194304,
       "ino": 22478358,
       "blocks": 8,
-      "atimeMs": 1560569301373.6936,
-      "mtimeMs": 1560503920929.7288,
-      "ctimeMs": 1560503920929.7288,
+      "atimeMs": 1560660987561.6455,
+      "mtimeMs": 1560660987563.4194,
+      "ctimeMs": 1560660987563.4194,
       "birthtimeMs": 1560450538201.3699,
-      "atime": "2019-06-15T03:28:21.374Z",
-      "mtime": "2019-06-14T09:18:40.930Z",
-      "ctime": "2019-06-14T09:18:40.930Z",
+      "atime": "2019-06-16T04:56:27.562Z",
+      "mtime": "2019-06-16T04:56:27.563Z",
+      "ctime": "2019-06-16T04:56:27.563Z",
       "birthtime": "2019-06-13T18:28:58.201Z"
     },
     "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0": {
@@ -2665,41 +2665,6 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
       "fields": {
         "slug": "/"
-      }
-    },
-    "effd6241-b3d4-5665-81be-52ae3477106f": {
-      "id": "effd6241-b3d4-5665-81be-52ae3477106f",
-      "children": [],
-      "parent": "bed7b729-3986-53e8-a668-06af6fdc22fd",
-      "internal": {
-        "content": "# Get Reading\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "f5d40d409b8ac43cec73c34e06897153",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Mobile First",
-        "templateKey": "blog-post",
-        "date": "2019-06-13T18:25:05.431Z",
-        "discoverable": "yes",
-        "header": "/img/hhf-book.png",
-        "description": "This blog will share the latest trends and ideas in the design world keeping you informed with your design decisions.",
-        "recommendedName": "What Is Cancer?",
-        "recommendedImage": "/img/sleep.jpg",
-        "recommendedLink": "https://www.jaydenszekely.com/jayden",
-        "tags": [
-          "home"
-        ],
-        "_PARENT": "bed7b729-3986-53e8-a668-06af6fdc22fd"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "# Get Reading\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
-      "fields": {
-        "slug": "/blog/mobile-first/"
       }
     },
     "23ba3013-fde7-5793-9118-028f022eeaae": {
@@ -3956,6 +3921,41 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "effd6241-b3d4-5665-81be-52ae3477106f": {
+      "id": "effd6241-b3d4-5665-81be-52ae3477106f",
+      "children": [],
+      "parent": "bed7b729-3986-53e8-a668-06af6fdc22fd",
+      "internal": {
+        "content": "# Get Reading\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "e994ab5b390f79970f5c971f309902de",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Mobile First",
+        "templateKey": "blog-post",
+        "date": "2019-06-13T18:25:05.431Z",
+        "discoverable": "no",
+        "header": "/img/hhf-book.png",
+        "description": "This blog will share the latest trends and ideas in the design world keeping you informed with your design decisions.",
+        "recommendedName": "What Is Cancer?",
+        "recommendedImage": "/img/sleep.jpg",
+        "recommendedLink": "https://www.jaydenszekely.com/jayden",
+        "tags": [
+          "home"
+        ],
+        "_PARENT": "bed7b729-3986-53e8-a668-06af6fdc22fd"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "# Get Reading\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
+      "fields": {
+        "slug": "/blog/mobile-first/"
+      }
     }
   },
   "status": {
@@ -4025,7 +4025,7 @@
     "jayden-efd": "292/path---jayden-efd-f34-MVRzR4u8cgPgv4tS8uUpT3Ss",
     "blog-mobile-first-301": "530/path---blog-mobile-first-301-372-HkYPxpjptnunYTrcH2HQ5Dq7i8",
     "index": "239/path---index-6a9-S4JfgYh2GOTx3BBmYxxrIJAeKk",
-    "portfolio-964": "8/path---portfolio-964-7f6-MwV71fOOAH1Op7v1Z8VxBuWRIc",
+    "portfolio-964": "820/path---portfolio-964-7f6-hHed58ScwtgfYoAd0vTNiFlk",
     "portfolio-what-the-cancer-4c7": "691/path---portfolio-what-the-cancer-4-c-7-157-UsuI0Wn8WQ706wZQ6Rxevl77MJQ",
     "work-with-me-b37": "31/path---work-with-me-b-37-f8b-Qao70vMD2TggomkZsifQKBnSPbc",
     "tags-home-8b5": "682/path---tags-home-8-b-5-d7e-GnNFxqqbSD9zTQTr2NjI5pgLy14",
