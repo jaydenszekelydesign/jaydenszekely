@@ -9,7 +9,17 @@
 $primaryTitle: 4.5em
 $secondaryTitle: 2em
 $sizeThree: 1.4em
+$sizeFour: 1.1em
+$sizeFive: 1.1em
+$sizeSix: 1em
 
+@media screen and (max-width: $break-small) 
+    $primaryTitle: 4em
+    $secondaryTitle: 1.8em
+    $sizeThree: 1.25em
+    $sizeFour: 1em
+    $sizeFive: 1em
+    $sizeSix: 1em
 
 h1
     font-size: $primaryTitle
@@ -27,19 +37,19 @@ h2
   line-height: 150%
 
 h3
-  font-size: 2em
+  font-size: $sizeThree
   font-weight: bold
   color: inherit
   line-height: 150%
 
 h4 
-  font-size: 1.1em
+  font-size: $sizeFour
   font-weight: 700
   color: $black
   line-height: 150%
 
 h5 
-  font-size: 1.1em
+  font-size: $sizeFive
   font-weight: 700
   color: $black
   line-height: 200%

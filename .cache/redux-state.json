@@ -2134,7 +2134,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "45bf719c6111c135f8de6c78d8a9917e",
+        "contentDigest": "5ae9eb5b32a2c52a5ccb9c67df90c815",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/jayden/index.md\"",
@@ -2144,11 +2144,11 @@
       "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden/index.md",
       "relativePath": "jayden/index.md",
       "extension": "md",
-      "size": 1116,
-      "prettySize": "1.12 kB",
-      "modifiedTime": "2019-06-12T21:24:24.459Z",
-      "accessTime": "2019-06-16T22:05:20.780Z",
-      "changeTime": "2019-06-12T21:24:24.459Z",
+      "size": 1125,
+      "prettySize": "1.13 kB",
+      "modifiedTime": "2019-06-16T23:33:31.229Z",
+      "accessTime": "2019-06-16T23:33:31.224Z",
+      "changeTime": "2019-06-16T23:33:31.229Z",
       "birthTime": "2019-06-12T21:24:24.458Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden",
@@ -2165,13 +2165,13 @@
       "blksize": 4194304,
       "ino": 22426773,
       "blocks": 8,
-      "atimeMs": 1560722720779.5825,
-      "mtimeMs": 1560374664458.7192,
-      "ctimeMs": 1560374664458.7192,
+      "atimeMs": 1560728011223.7217,
+      "mtimeMs": 1560728011228.9705,
+      "ctimeMs": 1560728011228.9705,
       "birthtimeMs": 1560374664458.3682,
-      "atime": "2019-06-16T22:05:20.780Z",
-      "mtime": "2019-06-12T21:24:24.459Z",
-      "ctime": "2019-06-12T21:24:24.459Z",
+      "atime": "2019-06-16T23:33:31.224Z",
+      "mtime": "2019-06-16T23:33:31.229Z",
+      "ctime": "2019-06-16T23:33:31.229Z",
       "birthtime": "2019-06-12T21:24:24.458Z"
     },
     "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b": {
@@ -2674,39 +2674,6 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/course/index.md",
       "fields": {
         "slug": "/course/"
-      }
-    },
-    "df0b2ad0-0419-5d6e-9631-999c911f3931": {
-      "id": "df0b2ad0-0419-5d6e-9631-999c911f3931",
-      "children": [],
-      "parent": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7",
-      "internal": {
-        "content": "Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\n\n![](/img/anthony-intraversato-455600-unsplash.jpg)\n\n![](/img/resource-splash.jpg)\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "5f982b0f6867797a84bf19009e225844",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Jayden Szekely",
-        "templateKey": "about-page",
-        "discoverable": "no",
-        "full_image": "/img/portfoliopic.jpg",
-        "leftBackground": "/img/portfoliopic.jpg",
-        "leftTitle": "DOWNLOAD MY CV",
-        "leftLink": "/cv.pdf",
-        "rightTitle": "MY PORTFOLIO",
-        "rightDescription": "View it now",
-        "rightUrl": "/portfolio",
-        "_PARENT": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\n\n![](/img/anthony-intraversato-455600-unsplash.jpg)\n\n![](/img/resource-splash.jpg)\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden/index.md",
-      "fields": {
-        "slug": "/jayden/"
       }
     },
     "576c1608-0625-5c33-b071-c0b97ccc8337": {
@@ -4019,6 +3986,39 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "df0b2ad0-0419-5d6e-9631-999c911f3931": {
+      "id": "df0b2ad0-0419-5d6e-9631-999c911f3931",
+      "children": [],
+      "parent": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7",
+      "internal": {
+        "content": "Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\n\n![](/img/anthony-intraversato-455600-unsplash.jpg)\n\n![](/img/resource-splash.jpg)\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "1e223eda2a189593cbedd06f7d35da87",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Jayden Szekely",
+        "templateKey": "about-page",
+        "discoverable": "no",
+        "full_image": "/img/portfoliopic.jpg",
+        "leftBackground": "/img/portfoliopic.jpg",
+        "leftTitle": "DOWNLOAD MY CV",
+        "leftLink": "/work-with-me/cv",
+        "rightTitle": "MY PORTFOLIO",
+        "rightDescription": "View it now",
+        "rightUrl": "/portfolio",
+        "_PARENT": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\n\n![](/img/anthony-intraversato-455600-unsplash.jpg)\n\n![](/img/resource-splash.jpg)\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden/index.md",
+      "fields": {
+        "slug": "/jayden/"
+      }
     }
   },
   "status": {
@@ -4083,7 +4083,7 @@
     "tags-275": "961/path---tags-275-fc0-3mYSrcyJqczW2dryGEm2Tajtfo",
     "about-f34": "162/path---about-f-34-4c2-nPswOlM0eJ6KgxFbRYYx7aK5V1c",
     "course-33d": "783/path---course-33-d-7dd-yZpj53NucNGiyou11wYJ0FaXo",
-    "jayden-efd": "292/path---jayden-efd-f34-MVRzR4u8cgPgv4tS8uUpT3Ss",
+    "jayden-efd": "631/path---jayden-efd-f34-z7diHhADWwvpfazoUUy07QouIk",
     "blog-f7a": "623/path---blog-f-7-a-05d-btnAFJZwYWq2ScuYSGYwXyWZ1g",
     "jargon-12a": "295/path---jargon-12-a-e0d-27Q4FnPNgXdzZYozX2CGButUYPQ",
     "blog-mobile-first-301": "530/path---blog-mobile-first-301-372-HkYPxpjptnunYTrcH2HQ5Dq7i8",

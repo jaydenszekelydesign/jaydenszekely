@@ -5,7 +5,7 @@ title: Jayden Szekely
 full_image: /img/portfoliopic.jpg
 leftBackground: /img/portfoliopic.jpg
 leftTitle: DOWNLOAD MY CV
-leftLink: /cv.pdf
+leftLink: /work-with-me/cv
 rightTitle: MY PORTFOLIO
 rightDescription: View it now
 rightUrl: /portfolio

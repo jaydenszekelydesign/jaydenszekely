@@ -40,7 +40,9 @@ export const PortfolioPostTemplate = ({
           <h4 className="accent">
             {jobDate}
           </h4>
-          {leftColumn}
+          <p>
+            {leftColumn}
+          </p>
         </div>
         <div className="right">
           <h5>OVERVIEW</h5>

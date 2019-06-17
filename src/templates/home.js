@@ -41,7 +41,7 @@ export const HomePageTemplate = ({
       <Banner background={image}>{title}</Banner>
       <div className="article big-padding secondary" >
         <div className="full-portfolio">
-          <PageContent content={content}/><br />
+          <PageContent content={content}/><br /><br />
           <Link className="accent" to="work-with-me">Work With Me</Link>
         </div>
       </div>

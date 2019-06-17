@@ -7,16 +7,13 @@ export default props => {
 
   return (
     <Menu right width="75%" style={{zIndex: 1000}} >
-      <h1 className="menuContents">
+      <h2 className="menuContents">
         <Link to="/">Home</Link>
         <Link to="/jayden">Jayden</Link>
         <Link to="/portfolio">My Work</Link>
-        <Link to="/blog">Blog</Link>
         <Link to="/work-with-me">Work With Me</Link>
-        <Link to="/course">Course</Link>
 
-
-      </h1>
+      </h2>
     </Menu>
   );
 };
