@@ -29,16 +29,12 @@ Pushing the boundaries in creative design and producing aesthetically pleasing d
 
 
 
-My passion for creative solutions and the challenge of creating efficient code in multiple coding languages is what I find extremely motivating. 
-
-
-
-Following the latest trends in design ensures my clients are going to have an up to date and outstanding product that helps them stand out in the market. 
-
-
-
 I aim to take the complexity out of website design and development for my clients.  Through consultation and listening to your story I can develop a solution that is right for you and your business. 
 
 
 
-As a newly qualified creative, with energy and passion for design I look forward to working with you on your upcoming projects.
+With knowledge and skill in a range of media, I am honoured to provide a variety of services to simplify the experience for my clients.  This means I am available to provide and support you with an entire package, without outsourcing various areas of the project. 
+
+
+
+As a creative, with energy and passion for design I look forward to working with you on your upcoming projects.
