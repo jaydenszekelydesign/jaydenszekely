@@ -10,12 +10,18 @@ rightTitle: MY PORTFOLIO
 rightDescription: View it now
 rightUrl: /portfolio
 ---
-Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\
-\
-Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\
-\
-Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.
+I am an accomplished multi-disciplined creative with a vast range of experience.  Currently situated in Whangarei, New Zealand I am working with a range of clients in different locations throughout New Zealand.  
 
-![](/img/anthony-intraversato-455600-unsplash.jpg)
+For the previous six years I have gained valuable experience in web design and front-end development, graphic design, video production and editing.  
 
-![](/img/resource-splash.jpg)
+Graduating from one of the most sought after creative universities in the southern hemisphere, Media Design School, I am working with clients to create outstanding products.   Products that are both graphically attractive but functional to meet my clients needs. 
+
+My passion of UI / UX design and front end development ensures that websites and digital media created by myself are aesthetically pleasing to the viewer but easy to navigate for multi-generational use. 
+
+I am honoured to have worked with clients creating their brand identity,  Listening to the needs of my clients to ensure the result is just as they imagined, whilst pushing the boundaries in design to share alternative possibilities. 
+
+Supporting a diverse range of businesses by managing their social media marketing campaigns and building their social media profile to connect with existing and new clients. 
+
+
+
+I am also a keen photographer who enjoys telling stories through powerful images.
