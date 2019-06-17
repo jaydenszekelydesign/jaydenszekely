@@ -1974,7 +1974,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2eb7b6557df1a3a1d21a07a3b911d724",
+        "contentDigest": "9dc53fc9a2657bad14ee5cb228b7743b",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/index.md\"",
@@ -1984,12 +1984,12 @@
       "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
       "relativePath": "index.md",
       "extension": "md",
-      "size": 2326,
-      "prettySize": "2.33 kB",
-      "modifiedTime": "2019-06-10T08:05:55.423Z",
-      "accessTime": "2019-06-16T23:35:23.460Z",
-      "changeTime": "2019-06-10T08:05:55.423Z",
-      "birthTime": "2019-06-10T08:05:55.422Z",
+      "size": 1698,
+      "prettySize": "1.7 kB",
+      "modifiedTime": "2019-06-17T07:29:42.821Z",
+      "accessTime": "2019-06-17T07:29:42.957Z",
+      "changeTime": "2019-06-17T07:29:42.821Z",
+      "birthTime": "2019-06-17T07:29:42.820Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
       "base": "index.md",
@@ -2003,16 +2003,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 22328741,
+      "ino": 22563269,
       "blocks": 8,
-      "atimeMs": 1560728123459.6448,
-      "mtimeMs": 1560153955422.6147,
-      "ctimeMs": 1560153955422.6147,
-      "birthtimeMs": 1560153955422.3997,
-      "atime": "2019-06-16T23:35:23.460Z",
-      "mtime": "2019-06-10T08:05:55.423Z",
-      "ctime": "2019-06-10T08:05:55.423Z",
-      "birthtime": "2019-06-10T08:05:55.422Z"
+      "atimeMs": 1560756582957.2036,
+      "mtimeMs": 1560756582820.6514,
+      "ctimeMs": 1560756582820.6514,
+      "birthtimeMs": 1560756582820.358,
+      "atime": "2019-06-17T07:29:42.957Z",
+      "mtime": "2019-06-17T07:29:42.821Z",
+      "ctime": "2019-06-17T07:29:42.821Z",
+      "birthtime": "2019-06-17T07:29:42.820Z"
     },
     "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f": {
       "id": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f",
@@ -2209,7 +2209,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5ae9eb5b32a2c52a5ccb9c67df90c815",
+        "contentDigest": "a10100359277866bfef2358f2a3d574e",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/jayden/index.md\"",
@@ -2219,12 +2219,12 @@
       "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden/index.md",
       "relativePath": "jayden/index.md",
       "extension": "md",
-      "size": 1125,
-      "prettySize": "1.13 kB",
-      "modifiedTime": "2019-06-16T23:33:31.229Z",
-      "accessTime": "2019-06-17T00:49:51.237Z",
-      "changeTime": "2019-06-16T23:33:31.229Z",
-      "birthTime": "2019-06-12T21:24:24.458Z",
+      "size": 1904,
+      "prettySize": "1.9 kB",
+      "modifiedTime": "2019-06-17T07:29:42.821Z",
+      "accessTime": "2019-06-17T07:29:42.957Z",
+      "changeTime": "2019-06-17T07:29:42.821Z",
+      "birthTime": "2019-06-17T07:29:42.821Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden",
       "base": "index.md",
@@ -2238,16 +2238,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 22426773,
+      "ino": 22563270,
       "blocks": 8,
-      "atimeMs": 1560732591236.956,
-      "mtimeMs": 1560728011228.9705,
-      "ctimeMs": 1560728011228.9705,
-      "birthtimeMs": 1560374664458.3682,
-      "atime": "2019-06-17T00:49:51.237Z",
-      "mtime": "2019-06-16T23:33:31.229Z",
-      "ctime": "2019-06-16T23:33:31.229Z",
-      "birthtime": "2019-06-12T21:24:24.458Z"
+      "atimeMs": 1560756582957.386,
+      "mtimeMs": 1560756582821.0938,
+      "ctimeMs": 1560756582821.0938,
+      "birthtimeMs": 1560756582820.924,
+      "atime": "2019-06-17T07:29:42.957Z",
+      "mtime": "2019-06-17T07:29:42.821Z",
+      "ctime": "2019-06-17T07:29:42.821Z",
+      "birthtime": "2019-06-17T07:29:42.821Z"
     },
     "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b": {
       "id": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
@@ -2574,50 +2574,6 @@
       "ctime": "2019-06-14T08:30:37.507Z",
       "birthtime": "2019-06-12T08:00:40.649Z"
     },
-    "4935f1f2-85c2-59a1-acba-03677e785625": {
-      "id": "4935f1f2-85c2-59a1-acba-03677e785625",
-      "children": [],
-      "parent": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus risus at condimentum cursus. Maecenas molestie massa quis nibh feugiat, eu tincidunt nisl dapibus. Mauris tincidunt, eros in facilisis rhoncus, dui orci tincidunt libero, vitae suscipit nisi nibh et magna. Suspendisse auctor turpis quis nibh posuere bibendum. Nullam sit amet facilisis dolor. Etiam mattis lobortis semper. Morbi malesuada massa sed faucibus varius. Aenean bibendum nisi vitae metus auctor, at blandit turpis tincidunt. Nunc nec neque leo. Proin nec vehicula urna. In aliquet nisl eget nisl mattis, sed tristique libero condimentum.\n\nMorbi at pellentesque magna. Aliquam sed risus turpis. Donec vulputate dignissim lorem, sed tincidunt leo eleifend id. Nullam et malesuada orci, eget maximus ipsum. In a mi cursus, tempus nunc quis, ornare nisi. Curabitur non dui nec odio consequat placerat. Nam ac leo sed lectus iaculis molestie. Proin ultricies purus libero, sed iaculis est tincidunt id. Praesent condimentum risus sed lobortis convallis. Vivamus vel tristique eros, in auctor massa. Nunc volutpat eu leo sit amet pharetra. Praesent velit urna, dignissim ac commodo vel, tincidunt sit amet arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus aliquam vulputate erat id rutrum. Nulla libero arcu, dignissim vel laoreet ut, imperdiet nec erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "283b4defe7ed5c3546702886b7aa65e3",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Jayden Szekely",
-        "templateKey": "home",
-        "image": "/img/me_rocks_photography.jpg",
-        "imageOne": "/img/katesmith.jpg",
-        "imageTwo": "/img/stranger-home-web-res.jpg",
-        "imageThree": "/img/medusa-full-page-smaller-res.jpg",
-        "imageFour": "/img/zeal-hospitality-logo-square.png",
-        "imageFive": "/img/vous-mockup-checkin-web.jpg",
-        "imageSix": "/img/hhf-book.png",
-        "imageSeven": "/img/bodyaware-laptop-mockup.jpg",
-        "imageEight": "/img/tesla-model-s-navigation-web.jpg",
-        "imageNine": "/img/wtc-light-story-quote.jpg",
-        "imageTen": "img/home.jpg",
-        "imageEleven": "img/anthony-intraversato-455600-unsplash.jpg",
-        "imageTwelve": "img/home.jpg",
-        "imageThirteen": "img/anthony-intraversato-455600-unsplash.jpg",
-        "imageFourteen": "img/home.jpg",
-        "imageFifteen": "img/anthony-intraversato-455600-unsplash.jpg",
-        "announcementBlurb": "View my Portfolio",
-        "announcementLink": "/portfolio",
-        "announcementImage": "img/anthony-intraversato-455600-unsplash.jpg",
-        "_PARENT": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus risus at condimentum cursus. Maecenas molestie massa quis nibh feugiat, eu tincidunt nisl dapibus. Mauris tincidunt, eros in facilisis rhoncus, dui orci tincidunt libero, vitae suscipit nisi nibh et magna. Suspendisse auctor turpis quis nibh posuere bibendum. Nullam sit amet facilisis dolor. Etiam mattis lobortis semper. Morbi malesuada massa sed faucibus varius. Aenean bibendum nisi vitae metus auctor, at blandit turpis tincidunt. Nunc nec neque leo. Proin nec vehicula urna. In aliquet nisl eget nisl mattis, sed tristique libero condimentum.\n\nMorbi at pellentesque magna. Aliquam sed risus turpis. Donec vulputate dignissim lorem, sed tincidunt leo eleifend id. Nullam et malesuada orci, eget maximus ipsum. In a mi cursus, tempus nunc quis, ornare nisi. Curabitur non dui nec odio consequat placerat. Nam ac leo sed lectus iaculis molestie. Proin ultricies purus libero, sed iaculis est tincidunt id. Praesent condimentum risus sed lobortis convallis. Vivamus vel tristique eros, in auctor massa. Nunc volutpat eu leo sit amet pharetra. Praesent velit urna, dignissim ac commodo vel, tincidunt sit amet arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus aliquam vulputate erat id rutrum. Nulla libero arcu, dignissim vel laoreet ut, imperdiet nec erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
-      "fields": {
-        "slug": "/"
-      }
-    },
     "54141124-6550-5118-92fb-35e9134a6bde": {
       "id": "54141124-6550-5118-92fb-35e9134a6bde",
       "children": [],
@@ -2749,39 +2705,6 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/course/index.md",
       "fields": {
         "slug": "/course/"
-      }
-    },
-    "df0b2ad0-0419-5d6e-9631-999c911f3931": {
-      "id": "df0b2ad0-0419-5d6e-9631-999c911f3931",
-      "children": [],
-      "parent": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7",
-      "internal": {
-        "content": "Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\n\n![](/img/anthony-intraversato-455600-unsplash.jpg)\n\n![](/img/resource-splash.jpg)\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "1e223eda2a189593cbedd06f7d35da87",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Jayden Szekely",
-        "templateKey": "about-page",
-        "discoverable": "no",
-        "full_image": "/img/portfoliopic.jpg",
-        "leftBackground": "/img/portfoliopic.jpg",
-        "leftTitle": "DOWNLOAD MY CV",
-        "leftLink": "/work-with-me/cv",
-        "rightTitle": "MY PORTFOLIO",
-        "rightDescription": "View it now",
-        "rightUrl": "/portfolio",
-        "_PARENT": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\n\n![](/img/anthony-intraversato-455600-unsplash.jpg)\n\n![](/img/resource-splash.jpg)\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden/index.md",
-      "fields": {
-        "slug": "/jayden/"
       }
     },
     "576c1608-0625-5c33-b071-c0b97ccc8337": {
@@ -4102,7 +4025,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "815395ecc56234d8a966d8cf8cdd1603",
+        "contentDigest": "aaf889b5c9b2c28db1af079ab1c64a49",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/portfolio/stranger.md\"",
@@ -4112,12 +4035,12 @@
       "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/stranger.md",
       "relativePath": "portfolio/stranger.md",
       "extension": "md",
-      "size": 933,
-      "prettySize": "933 B",
-      "modifiedTime": "2019-06-17T06:36:24.249Z",
-      "accessTime": "2019-06-17T06:36:24.248Z",
-      "changeTime": "2019-06-17T06:36:24.249Z",
-      "birthTime": "2019-06-17T06:35:38.728Z",
+      "size": 935,
+      "prettySize": "935 B",
+      "modifiedTime": "2019-06-17T07:29:42.822Z",
+      "accessTime": "2019-06-17T07:29:42.958Z",
+      "changeTime": "2019-06-17T07:29:42.822Z",
+      "birthTime": "2019-06-17T07:29:42.822Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio",
       "base": "stranger.md",
@@ -4131,16 +4054,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 22561897,
+      "ino": 22563272,
       "blocks": 8,
-      "atimeMs": 1560753384247.897,
-      "mtimeMs": 1560753384248.5134,
-      "ctimeMs": 1560753384248.5134,
-      "birthtimeMs": 1560753338728.1497,
-      "atime": "2019-06-17T06:36:24.248Z",
-      "mtime": "2019-06-17T06:36:24.249Z",
-      "ctime": "2019-06-17T06:36:24.249Z",
-      "birthtime": "2019-06-17T06:35:38.728Z"
+      "atimeMs": 1560756582957.6865,
+      "mtimeMs": 1560756582822.185,
+      "ctimeMs": 1560756582822.185,
+      "birthtimeMs": 1560756582821.933,
+      "atime": "2019-06-17T07:29:42.958Z",
+      "mtime": "2019-06-17T07:29:42.822Z",
+      "ctime": "2019-06-17T07:29:42.822Z",
+      "birthtime": "2019-06-17T07:29:42.822Z"
     },
     "SitePage /portfolio/stranger/": {
       "jsonName": "portfolio-stranger-25d",
@@ -4208,6 +4131,83 @@
         "owner": "internal-data-bridge"
       }
     },
+    "4935f1f2-85c2-59a1-acba-03677e785625": {
+      "id": "4935f1f2-85c2-59a1-acba-03677e785625",
+      "children": [],
+      "parent": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
+      "internal": {
+        "content": "Hi, I'm Jayden Szekely an experienced multi-disciplined creative, I am an independent freelancer ready to support you with your creative projects. \\\n\\\nPushing the boundaries in creative design and producing aesthetically pleasing digital products is my speciality.\\\n\\\nI aim to take the complexity out of website design and development for my clients.  Through consultation and listening to your story I can develop a solution that is right for you and your business. \\\n\\\nWith knowledge and skill in a range of media, I am honoured to provide a variety of services to simplify the experience for my clients.  This means I am available to provide and support you with an entire package, without outsourcing various areas of the project. \\\n\\\nAs a creative, with energy and passion for design I look forward to working with you on your upcoming projects.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "e5a45fd539777dd1a571f5f8c181fc25",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Jayden Szekely",
+        "templateKey": "home",
+        "image": "/img/me_rocks_photography.jpg",
+        "imageOne": "/img/katesmith.jpg",
+        "imageTwo": "/img/stranger-home-web-res.jpg",
+        "imageThree": "/img/medusa-full-page-smaller-res.jpg",
+        "imageFour": "/img/zeal-hospitality-logo-square.png",
+        "imageFive": "/img/vous-mockup-checkin-web.jpg",
+        "imageSix": "/img/hhf-book.png",
+        "imageSeven": "/img/bodyaware-laptop-mockup.jpg",
+        "imageEight": "/img/tesla-model-s-navigation-web.jpg",
+        "imageNine": "/img/wtc-light-story-quote.jpg",
+        "imageTen": "img/home.jpg",
+        "imageEleven": "img/anthony-intraversato-455600-unsplash.jpg",
+        "imageTwelve": "img/home.jpg",
+        "imageThirteen": "img/anthony-intraversato-455600-unsplash.jpg",
+        "imageFourteen": "img/home.jpg",
+        "imageFifteen": "img/anthony-intraversato-455600-unsplash.jpg",
+        "announcementBlurb": "View my Portfolio",
+        "announcementLink": "/portfolio",
+        "announcementImage": "img/anthony-intraversato-455600-unsplash.jpg",
+        "_PARENT": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Hi, I'm Jayden Szekely an experienced multi-disciplined creative, I am an independent freelancer ready to support you with your creative projects. \\\n\\\nPushing the boundaries in creative design and producing aesthetically pleasing digital products is my speciality.\\\n\\\nI aim to take the complexity out of website design and development for my clients.  Through consultation and listening to your story I can develop a solution that is right for you and your business. \\\n\\\nWith knowledge and skill in a range of media, I am honoured to provide a variety of services to simplify the experience for my clients.  This means I am available to provide and support you with an entire package, without outsourcing various areas of the project. \\\n\\\nAs a creative, with energy and passion for design I look forward to working with you on your upcoming projects.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
+      "fields": {
+        "slug": "/"
+      }
+    },
+    "df0b2ad0-0419-5d6e-9631-999c911f3931": {
+      "id": "df0b2ad0-0419-5d6e-9631-999c911f3931",
+      "children": [],
+      "parent": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7",
+      "internal": {
+        "content": "I am an accomplished multi-disciplined creative with a vast range of experience.  Currently situated in Whangarei, New Zealand.  I am working with a range of clients in different locations throughout New Zealand.  For the previous six years I have gained valuable experience in web design, front-end development, graphic design, video production and editing.\\\n\\\nGraduating from one of the most sought after creative Universities in the Southern Hemisphere, Media Design School, I am working with clients to create outstanding creative solutions.   Solutions that are both graphically attractive but functional to meet my clients needs. \\\n\\\nMy passion of UI / UX design and front end development ensures that websites and digital media created by myself are aesthetically pleasing to the viewer but easy to navigate for multi-generational use. \\\n\\\nI am honoured to have worked with clients creating their brand identity,  Listening to the needs of my clients to ensure the results are just as they imagined, whilst pushing the boundaries in design to share alternative possibilities. \\\n\\\nSupporting a diverse range of businesses, managing their social media marketing campaigns and building their social media profile to connect with existing and new clients is another area of expertise. \\\n\\\nI am a keen photographer who enjoys telling stories through powerful images,  I have experience with photography for various projects, plus video production and editing.\\\n\\\nIf you are wanting someone who enjoys pushing the boundaries in design and has up to date skill and knowledge of creative techniques, be sure to get in touch today!\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "b813c004b038e9cc278d779a227c31f1",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Jayden Szekely",
+        "templateKey": "about-page",
+        "discoverable": "no",
+        "full_image": "/img/portfoliopic.jpg",
+        "leftBackground": "/img/portfoliopic.jpg",
+        "leftTitle": "DOWNLOAD MY CV",
+        "leftLink": "/work-with-me/cv",
+        "rightTitle": "MY PORTFOLIO",
+        "rightDescription": "View it now",
+        "rightUrl": "/portfolio",
+        "_PARENT": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "I am an accomplished multi-disciplined creative with a vast range of experience.  Currently situated in Whangarei, New Zealand.  I am working with a range of clients in different locations throughout New Zealand.  For the previous six years I have gained valuable experience in web design, front-end development, graphic design, video production and editing.\\\n\\\nGraduating from one of the most sought after creative Universities in the Southern Hemisphere, Media Design School, I am working with clients to create outstanding creative solutions.   Solutions that are both graphically attractive but functional to meet my clients needs. \\\n\\\nMy passion of UI / UX design and front end development ensures that websites and digital media created by myself are aesthetically pleasing to the viewer but easy to navigate for multi-generational use. \\\n\\\nI am honoured to have worked with clients creating their brand identity,  Listening to the needs of my clients to ensure the results are just as they imagined, whilst pushing the boundaries in design to share alternative possibilities. \\\n\\\nSupporting a diverse range of businesses, managing their social media marketing campaigns and building their social media profile to connect with existing and new clients is another area of expertise. \\\n\\\nI am a keen photographer who enjoys telling stories through powerful images,  I have experience with photography for various projects, plus video production and editing.\\\n\\\nIf you are wanting someone who enjoys pushing the boundaries in design and has up to date skill and knowledge of creative techniques, be sure to get in touch today!\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden/index.md",
+      "fields": {
+        "slug": "/jayden/"
+      }
+    },
     "f5ef53ab-11a2-5e12-b9a1-535e25912966": {
       "id": "f5ef53ab-11a2-5e12-b9a1-535e25912966",
       "children": [],
@@ -4215,7 +4215,7 @@
       "internal": {
         "content": "Coming Soon\n",
         "type": "MarkdownRemark",
-        "contentDigest": "66cb4757307ffa451f0b63e1c702b357",
+        "contentDigest": "4c844b921de899c16a03ea546175791b",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
@@ -4234,7 +4234,7 @@
         "bigImageOne": "/img/stranger-home-web-res.jpg",
         "portfolioQuote": "This design pushed the boundaries of modern design, something I aim to do with every project.",
         "bigImageTwo": "/img/stranger-collection-page-web-res.jpg",
-        "portfolioName": "STRANGER",
+        "portfolioName": "Stranger",
         "portfolioImage": "/img/stranger-menu-full-res.jpg",
         "portfolioLink": "/stranger",
         "tags": [
@@ -4249,6 +4249,185 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/stranger.md",
       "fields": {
         "slug": "/portfolio/stranger/"
+      }
+    },
+    "f3874ce4-c1d7-5d72-b53d-1f8993821fea": {
+      "id": "f3874ce4-c1d7-5d72-b53d-1f8993821fea",
+      "children": [
+        "1acdcee0-19c1-52d1-9255-7fef527ca1c0"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1150a6699414b0c3f3f1c3bf46bcec70",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/portfolio/kate-smith.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/kate-smith.md",
+      "relativePath": "portfolio/kate-smith.md",
+      "extension": "md",
+      "size": 1870,
+      "prettySize": "1.87 kB",
+      "modifiedTime": "2019-06-17T07:29:42.822Z",
+      "accessTime": "2019-06-17T07:29:42.958Z",
+      "changeTime": "2019-06-17T07:29:42.822Z",
+      "birthTime": "2019-06-17T07:29:42.821Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio",
+      "base": "kate-smith.md",
+      "ext": ".md",
+      "name": "kate-smith",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22563271,
+      "blocks": 8,
+      "atimeMs": 1560756582957.5134,
+      "mtimeMs": 1560756582821.5378,
+      "ctimeMs": 1560756582821.5378,
+      "birthtimeMs": 1560756582821.2468,
+      "atime": "2019-06-17T07:29:42.958Z",
+      "mtime": "2019-06-17T07:29:42.822Z",
+      "ctime": "2019-06-17T07:29:42.822Z",
+      "birthtime": "2019-06-17T07:29:42.821Z"
+    },
+    "1acdcee0-19c1-52d1-9255-7fef527ca1c0": {
+      "id": "1acdcee0-19c1-52d1-9255-7fef527ca1c0",
+      "children": [],
+      "parent": "f3874ce4-c1d7-5d72-b53d-1f8993821fea",
+      "internal": {
+        "content": "In 2017, Kate came to me needing a logo and a business card designed for her new marriage celebrant business.  Kate wanted something minimal yet functional and appropriate for a wide range of celebrant services including funerals.  The design needed to be sensitive for every occasion and be uplifting whilst professional. After a series of concepts, we settled on this design as it encompassed all these elements.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "63d8ff854a060001a0a6bd6d6b8e49a7",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Kate Smith",
+        "templateKey": "portfolio",
+        "date": "2019-06-17T06:57:20.665Z",
+        "discoverable": "yes",
+        "image": "/img/katesmith.jpg",
+        "description": "In 2017, Kate came to me needing a logo and a business card designed for her new marriage celebrant business.  Kate wanted something minimal yet functional and appropriate for a wide range of celebrant services including funerals.  The design needed to be sensitive for every occasion and be uplifting whilst professional. After a series of concepts, we settled on this design as it encompassed all these elements.",
+        "jobDate": "NOV 2017",
+        "leftColumn": "Logo Design & Business Card Design",
+        "portfolioDescription": "In 2017, Kate came to me needing a logo and a business card designed for her new marriage celebrant business.  Kate wanted something minimal yet functional and appropriate for a wide range of celebrant services including funerals.  The design needed to be sensitive for every occasion and be uplifting whilst professional. After a series of concepts, we settled on this design as it encompassed all these elements.",
+        "bigImageOne": "/img/katesmithlogo.jpg",
+        "portfolioQuote": "This project needed to be designed to suit future endeavours other than marriage celebrancy",
+        "bigImageTwo": "/img/kate-smith-businesscard-wrapping-web.jpg",
+        "portfolioName": "Kate Smith",
+        "portfolioImage": "/img/katesmith.jpg",
+        "portfolioLink": "kate-smith",
+        "tags": [
+          "Logo",
+          "Business Cards",
+          "Graphic Design",
+          "Brand Identity"
+        ],
+        "_PARENT": "f3874ce4-c1d7-5d72-b53d-1f8993821fea"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "In 2017, Kate came to me needing a logo and a business card designed for her new marriage celebrant business.  Kate wanted something minimal yet functional and appropriate for a wide range of celebrant services including funerals.  The design needed to be sensitive for every occasion and be uplifting whilst professional. After a series of concepts, we settled on this design as it encompassed all these elements.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/kate-smith.md",
+      "fields": {
+        "slug": "/portfolio/kate-smith/"
+      }
+    },
+    "SitePage /portfolio/kate-smith/": {
+      "jsonName": "portfolio-kate-smith-4eb",
+      "internalComponentName": "ComponentPortfolioKateSmith",
+      "path": "/portfolio/kate-smith/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "componentChunkName": "component---src-templates-portfolio-js",
+      "context": {
+        "id": "1acdcee0-19c1-52d1-9255-7fef527ca1c0"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "id": "SitePage /portfolio/kate-smith/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "579694b23a05a9d1d79073a5e75ad6f5",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/logo/": {
+      "jsonName": "tags-logo-371",
+      "internalComponentName": "ComponentTagsLogo",
+      "path": "/tags/logo/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Logo"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/logo/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "74b831099a405abb1a0d502a6c0af0c9",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/business-cards/": {
+      "jsonName": "tags-business-cards-27d",
+      "internalComponentName": "ComponentTagsBusinessCards",
+      "path": "/tags/business-cards/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Business Cards"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/business-cards/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e5ff1a97546688232be4899b1a71f8d7",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/brand-identity/": {
+      "jsonName": "tags-brand-identity-a93",
+      "internalComponentName": "ComponentTagsBrandIdentity",
+      "path": "/tags/brand-identity/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Brand Identity"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/brand-identity/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "03df3324ce0e8419288743ca31023931",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
       }
     }
   },
@@ -4267,7 +4446,10 @@
         "/tags/videography/",
         "/tags/social-media/",
         "/tags/ui-ux/",
-        "/tags/concept/"
+        "/tags/concept/",
+        "/tags/logo/",
+        "/tags/business-cards/",
+        "/tags/brand-identity/"
       ],
       "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": [
         "/about/"
@@ -4298,6 +4480,9 @@
       ],
       "f5ef53ab-11a2-5e12-b9a1-535e25912966": [
         "/portfolio/stranger/"
+      ],
+      "1acdcee0-19c1-52d1-9255-7fef527ca1c0": [
+        "/portfolio/kate-smith/"
       ]
     },
     "connections": {
@@ -4313,25 +4498,28 @@
         "/tags/videography/",
         "/tags/social-media/",
         "/tags/ui-ux/",
-        "/tags/concept/"
+        "/tags/concept/",
+        "/tags/logo/",
+        "/tags/business-cards/",
+        "/tags/brand-identity/"
       ]
     }
   },
   "jsonDataPaths": {
-    "tags-275": "778/path---tags-275-fc0-tXAVOmZI2q37wPMyGQkJ8QifNso",
+    "tags-275": "40/path---tags-275-fc0-ZQovEfcot4ygfGjMC5XDe3rW0",
     "course-33d": "783/path---course-33-d-7dd-yZpj53NucNGiyou11wYJ0FaXo",
     "about-f34": "162/path---about-f-34-4c2-nPswOlM0eJ6KgxFbRYYx7aK5V1c",
-    "jayden-efd": "631/path---jayden-efd-f34-z7diHhADWwvpfazoUUy07QouIk",
+    "jayden-efd": "401/path---jayden-efd-f34-DBLbxa2NgB8LzXsVYIZ53PQtiT0",
     "blog-f7a": "623/path---blog-f-7-a-05d-btnAFJZwYWq2ScuYSGYwXyWZ1g",
     "jargon-12a": "295/path---jargon-12-a-e0d-27Q4FnPNgXdzZYozX2CGButUYPQ",
     "blog-mobile-first-301": "530/path---blog-mobile-first-301-372-HkYPxpjptnunYTrcH2HQ5Dq7i8",
     "work-with-me-cv-4f8": "837/path---work-with-me-cv-4-f-8-d93-SCHJPeZ6yRd4HT1dDiZGKx4mrc",
-    "portfolio-964": "985/path---portfolio-964-7f6-XQ7BZFgyK834XRGGsCo1ZoY3C0",
-    "index": "239/path---index-6a9-S4JfgYh2GOTx3BBmYxxrIJAeKk",
+    "portfolio-964": "629/path---portfolio-964-7f6-kW2R42Xi0Snll6NxODPG6zCpnU",
+    "index": "772/path---index-6a9-4ST5DA74QvD6LFmJWkhlQzc",
     "portfolio-what-the-cancer-4c7": "691/path---portfolio-what-the-cancer-4-c-7-157-UsuI0Wn8WQ706wZQ6Rxevl77MJQ",
     "tags-home-8b5": "682/path---tags-home-8-b-5-d7e-GnNFxqqbSD9zTQTr2NjI5pgLy14",
     "work-with-me-b37": "31/path---work-with-me-b-37-f8b-Qao70vMD2TggomkZsifQKBnSPbc",
-    "tags-graphic-design-3a2": "465/path---tags-graphic-design-3-a-2-3cf-0e9V4HFxpNCZiP0xSetD9cZhyKY",
+    "tags-graphic-design-3a2": "521/path---tags-graphic-design-3-a-2-3cf-IV1fVbpjax9oot4eNRKIpu4bwc",
     "tags-web-design-14d": "882/path---tags-web-design-14-d-e34-Ghmp3Y3OUWn1GLDGy7ReJxYpxQ",
     "tags-podcast-852": "424/path---tags-podcast-852-151-oX64yKSFUWLeQCegLzhTEG0K514",
     "tags-videography-059": "824/path---tags-videography-059-2b5-ndNa7avEZhkDemotl54AgLMp43g",
@@ -4342,7 +4530,11 @@
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "tags-concept-d00": "704/path---tags-concept-d-00-924-8E5jlfMHb84LUkTqG8cvjDKwvI",
     "tags-ui-ux-dfc": "24/path---tags-ui-ux-dfc-12e-wrneBQERucvp8Y0P3bAE8ayFo",
-    "portfolio-stranger-25d": "935/path---portfolio-stranger-25-d-97b-qUTBCega8adbsF3t7qqB3IYX7k"
+    "portfolio-stranger-25d": "46/path---portfolio-stranger-25-d-97b-0SR3W5Ip40LO8w7e5tlP2AWxXTg",
+    "tags-logo-371": "302/path---tags-logo-371-d3f-4rAQ1zouM2Lc9ULRieodnuNTwWQ",
+    "tags-business-cards-27d": "700/path---tags-business-cards-27-d-354-7PdXmViTvUgLYfQ2kdpCLJeFSY",
+    "tags-brand-identity-a93": "365/path---tags-brand-identity-a-93-805-RlSnN3RXupZ3z2Y1yzHBGu0RBno",
+    "portfolio-kate-smith-4eb": "509/path---portfolio-kate-smith-4-eb-c83-wh8E7cSroEfEalecq5lFY4YbFI"
   },
   "components": {
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js": {

@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Banner from './components/banner'
 import Split from './components/split'
+import Footer from './components/footer'
 import Content, { HTMLContent } from '../components/Content'
 // import mediumZoom from 'medium-zoom'
 
@@ -20,7 +21,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent, full_image
         </p>
         </div>
         </div>
-      <Split background={leftBackground} recommendedTitle={leftTitle} link={leftLink} authorName={rightTitle} authorBio={rightDescription} rightLink={rightUrl} rightImage={rightBackground} />  
+      <Footer />
     </Layout>
               
   )

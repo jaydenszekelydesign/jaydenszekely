@@ -61,6 +61,11 @@
     },
     {
         "componentChunkName": "component---src-templates-portfolio-js",
+        "jsonName": "portfolio-kate-smith-4eb",
+        "path": "/portfolio/kate-smith/"
+    },
+    {
+        "componentChunkName": "component---src-templates-portfolio-js",
         "jsonName": "portfolio-stranger-25d",
         "path": "/portfolio/stranger/"
     },
@@ -76,6 +81,16 @@
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tags-brand-identity-a93",
+        "path": "/tags/brand-identity/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tags-business-cards-27d",
+        "path": "/tags/business-cards/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
         "jsonName": "tags-concept-d00",
         "path": "/tags/concept/"
     },
@@ -88,6 +103,11 @@
         "componentChunkName": "component---src-templates-tags-js",
         "jsonName": "tags-home-8b5",
         "path": "/tags/home/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tags-logo-371",
+        "path": "/tags/logo/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
