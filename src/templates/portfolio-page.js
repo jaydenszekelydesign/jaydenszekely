@@ -12,6 +12,11 @@ export default class Portfolio extends React.Component {
 
     return (
       <Layout>
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Portfolio - Jayden Szekey - Creative Media</title>
+          <meta name="description" content={"View my Portfolio – Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
+        </Helmet>
         <Banner>Portfolio</Banner>
         <div className="article">
 

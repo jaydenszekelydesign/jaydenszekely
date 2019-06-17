@@ -7,6 +7,7 @@ import Banner from './components/banner'
 import Footer from './components/footer'
 import Quote from './components/Quote'
 import Montage from '../components/Montage'
+import Helmet from 'react-helmet'
 import Content, { HTMLContent } from '../components/Content'
 
 
@@ -38,6 +39,11 @@ export const HomePageTemplate = ({
 
   return ( 
     <Layout>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Jayden Szekey - Creative Media</title>
+        <meta name="description" content={"Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
+      </Helmet>
       <Banner background={image}>{title}</Banner>
       <div className="article big-padding secondary" >
         <div className="full-portfolio">

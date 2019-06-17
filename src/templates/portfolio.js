@@ -32,6 +32,11 @@ export const PortfolioPostTemplate = ({
 
   return (
     <div>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>{portfolioName} - Jayden Szekey - Creative Media</title>
+        <meta name="description" content={portfolioName + description + "Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
+      </Helmet>
       <Banner background={portfolioImage}>
         {portfolioName}
       </Banner>

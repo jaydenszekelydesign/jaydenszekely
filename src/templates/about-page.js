@@ -6,6 +6,7 @@ import Banner from './components/banner'
 import Split from './components/split'
 import Footer from './components/footer'
 import Content, { HTMLContent } from '../components/Content'
+import Helmet from 'react-helmet'
 // import mediumZoom from 'medium-zoom'
 
 export const AboutPageTemplate = ({ title, content, contentComponent, full_image, leftBackground, leftTitle, leftLink, rightTitle, rightDescription, rightUrl, rightBackground }) => {
@@ -13,6 +14,11 @@ export const AboutPageTemplate = ({ title, content, contentComponent, full_image
 
   return (
     <Layout>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>{title} - Jayden Szekey - Creative Media</title>
+        <meta name="description" content={"About Me – Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
+      </Helmet>
       <Banner background={full_image}>{title}</Banner>
       <div className="article big-padding">
       <div className="full-portfolio">

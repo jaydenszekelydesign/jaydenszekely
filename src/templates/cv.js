@@ -31,7 +31,11 @@ export const CvPostTemplate = ({
 
   return (
     <div>
-      
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>{title} - Jayden Szekey - Creative Media</title>
+        <meta name="description" content={"My CV – Get to know me and my skills... Let's work together! – Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
+      </Helmet>
       <Banner background={cvImage}>
         {cvName}
       </Banner>
