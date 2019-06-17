@@ -83,7 +83,7 @@ h2 {
   line-height: 150%; }
 
 h3 {
-  font-size: 2em;
+  font-size: 1.4em;
   font-weight: bold;
   color: inherit;
   line-height: 150%; }
@@ -127,7 +127,7 @@ p {
   .splitHeader .left {
     background-color: #2B3325;
     padding-left: 10.75%;
-    width: calc(78.5% / 8 * 5);
+    width: calc(78.5% / 8 * 6);
     height: 100vh;
     color: #F4F4F4;
     float: left;
@@ -207,7 +207,7 @@ h2 {
   line-height: 150%; }
 
 h3 {
-  font-size: 2em;
+  font-size: 1.4em;
   font-weight: bold;
   color: inherit;
   line-height: 150%; }
@@ -284,7 +284,7 @@ h2 {
   line-height: 150%; }
 
 h3 {
-  font-size: 2em;
+  font-size: 1.4em;
   font-weight: bold;
   color: inherit;
   line-height: 150%; }
@@ -356,7 +356,7 @@ p {
       display: inline-block; }
   .article .right {
     width: calc(78.5% / 8 * 3);
-    padding-left: calc(78.5% / 8);
+    margin-left: calc(78.5% / 8);
     float: left;
     display: inline-block;
     font-weight: 200; }
@@ -401,7 +401,14 @@ p {
       width: calc(78.5% / 8 * 8);
       padding-right: 0;
       padding-left: 0;
-      padding-top: 1em; } }
+      padding-top: 1em; }
+    .article .full-portfolio {
+      width: calc(78.5% / 8 * 8);
+      padding-left: 0;
+      padding-right: 0;
+      float: left;
+      display: inline-block;
+      font-weight: 200; } }
 
 .big-padding {
   padding-top: 30vh;
@@ -448,8 +455,7 @@ span {
 * {
   margin: 0;
   background-size: cover;
-  background-position: center;
-  overflow-x: hidden; }
+  background-position: center; }
 
 .accent {
   color: #2B3325; }
@@ -457,10 +463,14 @@ span {
 body {
   padding: 0;
   margin: 0;
-  overflow-x: hidden;
   font-family: nunito-sans,sans-serif;
   font-weight: 300;
-  font-style: normal; }
+  font-style: normal;
+  overflow-x: hidden; }
+
+html,
+body {
+  overflow: hidden; }
 
 .content .taglist {
   list-style: none;

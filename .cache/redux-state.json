@@ -471,6 +471,75 @@
         "owner": "internal-data-bridge"
       }
     },
+    "180d5ec6-6fc1-5bd1-8321-a04dd8e1a3dc": {
+      "resolve": "/Users/jaydenszekely/Development/jaydenszekely/node_modules/gatsby-plugin-google-analytics",
+      "id": "180d5ec6-6fc1-5bd1-8321-a04dd8e1a3dc",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-142217263-1"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/jaydenszekely/Development/jaydenszekely/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "48262713d7af0e0ed2feb3657c1a8c19",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "69eae894-b58b-5035-bc0d-8c145d99eb19": {
       "resolve": "/Users/jaydenszekely/Development/jaydenszekely/node_modules/gatsby-source-filesystem",
       "id": "69eae894-b58b-5035-bc0d-8c145d99eb19",
@@ -1123,7 +1192,7 @@
       "resolve": "/Users/jaydenszekely/Development/jaydenszekely",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "67e3d3a9e75ffa95efaafaafbfb8c956",
+      "version": "1788cb81735154c62998e89d1b919cc9",
       "pluginOptions": {
         "plugins": []
       },
@@ -1160,6 +1229,10 @@
           {
             "name": "gatsby-plugin-google-analytics",
             "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-google-tagmanager",
+            "version": "^2.0.15"
           },
           {
             "name": "gatsby-plugin-netlify",
@@ -1283,7 +1356,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ad5599128518a198fe3678a17204edcc",
+        "contentDigest": "ac899f44d5f586e3a33ace4fa97e8f3f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1397,12 +1470,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "buildTime": "2019-06-16T22:46:14.859Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-06-17T06:10:23.784Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0f018b0d7dcc3590649fa5facb51596f",
+        "contentDigest": "6f2685b3ac4318c2f53acf5350a53565",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1412,7 +1487,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "90d9831d92a4a1ae6c5502d6b8796d0a",
+        "contentDigest": "4d07b48be4093bbe2ead9422953c3c7f",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1424,7 +1499,7 @@
       "size": 416,
       "prettySize": "416 B",
       "modifiedTime": "2019-06-15T06:04:35.222Z",
-      "accessTime": "2019-06-16T22:46:17.931Z",
+      "accessTime": "2019-06-17T06:10:26.657Z",
       "changeTime": "2019-06-15T06:04:35.222Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1442,11 +1517,11 @@
       "blksize": 4194304,
       "ino": 21954363,
       "blocks": 0,
-      "atimeMs": 1560725177931.1663,
+      "atimeMs": 1560751826657.1553,
       "mtimeMs": 1560578675222.0308,
       "ctimeMs": 1560578675222.0308,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:17.931Z",
+      "atime": "2019-06-17T06:10:26.657Z",
       "mtime": "2019-06-15T06:04:35.222Z",
       "ctime": "2019-06-15T06:04:35.222Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1456,7 +1531,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "298b90d4cc630456df806136f7f1dce9",
+        "contentDigest": "287b26c1423112602bc516f5a5492b8a",
         "type": "Directory",
         "description": "Directory \"src/pages/about\"",
         "owner": "gatsby-source-filesystem"
@@ -1468,7 +1543,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:46:17.935Z",
+      "accessTime": "2019-06-17T06:10:26.661Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1486,11 +1561,11 @@
       "blksize": 4194304,
       "ino": 21954365,
       "blocks": 0,
-      "atimeMs": 1560725177934.7913,
+      "atimeMs": 1560751826660.5989,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.965,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:17.935Z",
+      "atime": "2019-06-17T06:10:26.661Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1500,7 +1575,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fa8c11fdab298a5406823f494b0e3a6c",
+        "contentDigest": "2284281a93e9bfc210ba55a57069a4c5",
         "type": "Directory",
         "description": "Directory \"src/pages/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -1512,7 +1587,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-06-13T18:29:30.004Z",
-      "accessTime": "2019-06-16T22:46:17.935Z",
+      "accessTime": "2019-06-17T06:10:26.661Z",
       "changeTime": "2019-06-13T18:29:30.004Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1530,11 +1605,11 @@
       "blksize": 4194304,
       "ino": 21954367,
       "blocks": 0,
-      "atimeMs": 1560725177934.8037,
+      "atimeMs": 1560751826660.6118,
       "mtimeMs": 1560450570003.8635,
       "ctimeMs": 1560450570003.8635,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:17.935Z",
+      "atime": "2019-06-17T06:10:26.661Z",
       "mtime": "2019-06-13T18:29:30.004Z",
       "ctime": "2019-06-13T18:29:30.004Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1544,7 +1619,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "288e9a3fdf4db2a094fc76080e673fc1",
+        "contentDigest": "358d87f290f932563cebc19126e66632",
         "type": "Directory",
         "description": "Directory \"src/pages/course\"",
         "owner": "gatsby-source-filesystem"
@@ -1556,7 +1631,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-06-12T03:16:40.515Z",
-      "accessTime": "2019-06-16T22:46:17.935Z",
+      "accessTime": "2019-06-17T06:10:26.661Z",
       "changeTime": "2019-06-15T06:04:35.222Z",
       "birthTime": "2019-06-12T03:16:40.514Z",
       "root": "/",
@@ -1574,11 +1649,11 @@
       "blksize": 4194304,
       "ino": 22376650,
       "blocks": 0,
-      "atimeMs": 1560725177934.827,
+      "atimeMs": 1560751826660.6257,
       "mtimeMs": 1560309400514.8252,
       "ctimeMs": 1560578675222.0308,
       "birthtimeMs": 1560309400513.8855,
-      "atime": "2019-06-16T22:46:17.935Z",
+      "atime": "2019-06-17T06:10:26.661Z",
       "mtime": "2019-06-12T03:16:40.515Z",
       "ctime": "2019-06-15T06:04:35.222Z",
       "birthtime": "2019-06-12T03:16:40.514Z"
@@ -1588,7 +1663,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a2386107b337f53e8ed2a7e23bd24583",
+        "contentDigest": "05d85593bdf413f86625331f2375acc9",
         "type": "Directory",
         "description": "Directory \"src/pages/jargon\"",
         "owner": "gatsby-source-filesystem"
@@ -1600,7 +1675,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:46:17.935Z",
+      "accessTime": "2019-06-17T06:10:26.661Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1618,11 +1693,11 @@
       "blksize": 4194304,
       "ino": 21954374,
       "blocks": 0,
-      "atimeMs": 1560725177934.8577,
+      "atimeMs": 1560751826660.6536,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.5466,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:17.935Z",
+      "atime": "2019-06-17T06:10:26.661Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1632,7 +1707,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "67aad55862f561acc05e17ed9331ed8e",
+        "contentDigest": "7c876f2839bc98da48eebb624ab06524",
         "type": "Directory",
         "description": "Directory \"src/pages/jayden\"",
         "owner": "gatsby-source-filesystem"
@@ -1644,7 +1719,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-06-12T21:24:24.458Z",
-      "accessTime": "2019-06-16T22:46:17.935Z",
+      "accessTime": "2019-06-17T06:10:26.661Z",
       "changeTime": "2019-06-12T21:24:24.458Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1662,11 +1737,11 @@
       "blksize": 4194304,
       "ino": 21954376,
       "blocks": 0,
-      "atimeMs": 1560725177934.8428,
+      "atimeMs": 1560751826660.6404,
       "mtimeMs": 1560374664458.379,
       "ctimeMs": 1560374664458.379,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:17.935Z",
+      "atime": "2019-06-17T06:10:26.661Z",
       "mtime": "2019-06-12T21:24:24.458Z",
       "ctime": "2019-06-12T21:24:24.458Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1676,7 +1751,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "53167be8ccecd171229c166935691f57",
+        "contentDigest": "96a57a6b6bdabba9a103741417029991",
         "type": "Directory",
         "description": "Directory \"src/pages/listen\"",
         "owner": "gatsby-source-filesystem"
@@ -1688,7 +1763,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:46:17.935Z",
+      "accessTime": "2019-06-17T06:10:26.661Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1706,11 +1781,11 @@
       "blksize": 4194304,
       "ino": 21954378,
       "blocks": 0,
-      "atimeMs": 1560725177934.8726,
+      "atimeMs": 1560751826660.6672,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.8938,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:17.935Z",
+      "atime": "2019-06-17T06:10:26.661Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1720,7 +1795,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3b3c521308836bafd605407bea8b6fc6",
+        "contentDigest": "4d14f718cc63541898894ad1afc40710",
         "type": "Directory",
         "description": "Directory \"src/pages/portfolio\"",
         "owner": "gatsby-source-filesystem"
@@ -1732,7 +1807,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-06-12T21:24:24.460Z",
-      "accessTime": "2019-06-16T22:46:17.935Z",
+      "accessTime": "2019-06-17T06:10:26.661Z",
       "changeTime": "2019-06-12T21:24:24.460Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1750,11 +1825,11 @@
       "blksize": 4194304,
       "ino": 21954380,
       "blocks": 0,
-      "atimeMs": 1560725177934.8865,
+      "atimeMs": 1560751826660.6812,
       "mtimeMs": 1560374664459.68,
       "ctimeMs": 1560374664459.68,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:17.935Z",
+      "atime": "2019-06-17T06:10:26.661Z",
       "mtime": "2019-06-12T21:24:24.460Z",
       "ctime": "2019-06-12T21:24:24.460Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1764,7 +1839,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7ae4d3ee61728295559f9b661b85e5fa",
+        "contentDigest": "ace8b07aab8acefa733a278d6e5f7bbc",
         "type": "Directory",
         "description": "Directory \"src/pages/tags\"",
         "owner": "gatsby-source-filesystem"
@@ -1776,7 +1851,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:46:17.935Z",
+      "accessTime": "2019-06-17T06:10:26.661Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1794,11 +1869,11 @@
       "blksize": 4194304,
       "ino": 21954387,
       "blocks": 0,
-      "atimeMs": 1560725177934.901,
+      "atimeMs": 1560751826660.6963,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.2158,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:17.935Z",
+      "atime": "2019-06-17T06:10:26.661Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1808,7 +1883,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "681d711f27da493b6dd3506ecad7dd42",
+        "contentDigest": "be29d45c4e3a805f8da93591ecc19d84",
         "type": "Directory",
         "description": "Directory \"src/pages/work-with-me\"",
         "owner": "gatsby-source-filesystem"
@@ -1820,7 +1895,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-06-12T08:00:40.649Z",
-      "accessTime": "2019-06-16T22:46:17.935Z",
+      "accessTime": "2019-06-17T06:10:26.661Z",
       "changeTime": "2019-06-12T08:00:40.649Z",
       "birthTime": "2019-06-12T03:29:59.932Z",
       "root": "/",
@@ -1838,11 +1913,11 @@
       "blksize": 4194304,
       "ino": 22377181,
       "blocks": 0,
-      "atimeMs": 1560725177934.9163,
+      "atimeMs": 1560751826660.742,
       "mtimeMs": 1560326440648.836,
       "ctimeMs": 1560326440648.836,
       "birthtimeMs": 1560310199932.096,
-      "atime": "2019-06-16T22:46:17.935Z",
+      "atime": "2019-06-17T06:10:26.661Z",
       "mtime": "2019-06-12T08:00:40.649Z",
       "ctime": "2019-06-12T08:00:40.649Z",
       "birthtime": "2019-06-12T03:29:59.932Z"
@@ -1865,7 +1940,7 @@
       "size": 411,
       "prettySize": "411 B",
       "modifiedTime": "2019-06-16T22:17:49.325Z",
-      "accessTime": "2019-06-16T22:20:49.509Z",
+      "accessTime": "2019-06-17T00:33:14.975Z",
       "changeTime": "2019-06-16T22:17:49.325Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1883,11 +1958,11 @@
       "blksize": 4194304,
       "ino": 21954364,
       "blocks": 8,
-      "atimeMs": 1560723649509.3137,
+      "atimeMs": 1560731594975.4246,
       "mtimeMs": 1560723469325.27,
       "ctimeMs": 1560723469325.27,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:20:49.509Z",
+      "atime": "2019-06-17T00:33:14.975Z",
       "mtime": "2019-06-16T22:17:49.325Z",
       "ctime": "2019-06-16T22:17:49.325Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1912,7 +1987,7 @@
       "size": 2326,
       "prettySize": "2.33 kB",
       "modifiedTime": "2019-06-10T08:05:55.423Z",
-      "accessTime": "2019-06-16T22:05:20.777Z",
+      "accessTime": "2019-06-16T23:35:23.460Z",
       "changeTime": "2019-06-10T08:05:55.423Z",
       "birthTime": "2019-06-10T08:05:55.422Z",
       "root": "/",
@@ -1930,11 +2005,11 @@
       "blksize": 4194304,
       "ino": 22328741,
       "blocks": 8,
-      "atimeMs": 1560722720776.9912,
+      "atimeMs": 1560728123459.6448,
       "mtimeMs": 1560153955422.6147,
       "ctimeMs": 1560153955422.6147,
       "birthtimeMs": 1560153955422.3997,
-      "atime": "2019-06-16T22:05:20.777Z",
+      "atime": "2019-06-16T23:35:23.460Z",
       "mtime": "2019-06-10T08:05:55.423Z",
       "ctime": "2019-06-10T08:05:55.423Z",
       "birthtime": "2019-06-10T08:05:55.422Z"
@@ -1959,7 +2034,7 @@
       "size": 1155,
       "prettySize": "1.16 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:05:20.778Z",
+      "accessTime": "2019-06-16T22:46:18.388Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1977,11 +2052,11 @@
       "blksize": 4194304,
       "ino": 21954366,
       "blocks": 8,
-      "atimeMs": 1560722720778.4797,
+      "atimeMs": 1560725178388.4668,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.0078,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:05:20.778Z",
+      "atime": "2019-06-16T22:46:18.388Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2006,7 +2081,7 @@
       "size": 408,
       "prettySize": "408 B",
       "modifiedTime": "2019-06-13T18:27:34.526Z",
-      "accessTime": "2019-06-16T22:05:20.779Z",
+      "accessTime": "2019-06-16T22:46:18.389Z",
       "changeTime": "2019-06-13T18:27:34.526Z",
       "birthTime": "2019-06-13T18:27:34.525Z",
       "root": "/",
@@ -2024,11 +2099,11 @@
       "blksize": 4194304,
       "ino": 22478070,
       "blocks": 8,
-      "atimeMs": 1560722720778.8257,
+      "atimeMs": 1560725178388.782,
       "mtimeMs": 1560450454525.7568,
       "ctimeMs": 1560450454525.7568,
       "birthtimeMs": 1560450454525.4192,
-      "atime": "2019-06-16T22:05:20.779Z",
+      "atime": "2019-06-16T22:46:18.389Z",
       "mtime": "2019-06-13T18:27:34.526Z",
       "ctime": "2019-06-13T18:27:34.526Z",
       "birthtime": "2019-06-13T18:27:34.525Z"
@@ -2053,7 +2128,7 @@
       "size": 414,
       "prettySize": "414 B",
       "modifiedTime": "2019-06-16T04:56:27.563Z",
-      "accessTime": "2019-06-16T22:05:20.779Z",
+      "accessTime": "2019-06-16T22:46:18.389Z",
       "changeTime": "2019-06-16T04:56:27.563Z",
       "birthTime": "2019-06-13T18:28:58.201Z",
       "root": "/",
@@ -2071,11 +2146,11 @@
       "blksize": 4194304,
       "ino": 22478358,
       "blocks": 8,
-      "atimeMs": 1560722720778.8762,
+      "atimeMs": 1560725178388.8115,
       "mtimeMs": 1560660987563.4194,
       "ctimeMs": 1560660987563.4194,
       "birthtimeMs": 1560450538201.3699,
-      "atime": "2019-06-16T22:05:20.779Z",
+      "atime": "2019-06-16T22:46:18.389Z",
       "mtime": "2019-06-16T04:56:27.563Z",
       "ctime": "2019-06-16T04:56:27.563Z",
       "birthtime": "2019-06-13T18:28:58.201Z"
@@ -2100,7 +2175,7 @@
       "size": 1129,
       "prettySize": "1.13 kB",
       "modifiedTime": "2019-06-15T06:04:45.960Z",
-      "accessTime": "2019-06-16T22:05:20.779Z",
+      "accessTime": "2019-06-16T22:46:18.389Z",
       "changeTime": "2019-06-15T06:04:45.960Z",
       "birthTime": "2019-06-12T03:16:40.515Z",
       "root": "/",
@@ -2118,11 +2193,11 @@
       "blksize": 4194304,
       "ino": 22376651,
       "blocks": 8,
-      "atimeMs": 1560722720778.6606,
+      "atimeMs": 1560725178388.6282,
       "mtimeMs": 1560578685959.616,
       "ctimeMs": 1560578685959.616,
       "birthtimeMs": 1560309400514.8137,
-      "atime": "2019-06-16T22:05:20.779Z",
+      "atime": "2019-06-16T22:46:18.389Z",
       "mtime": "2019-06-15T06:04:45.960Z",
       "ctime": "2019-06-15T06:04:45.960Z",
       "birthtime": "2019-06-12T03:16:40.515Z"
@@ -2147,7 +2222,7 @@
       "size": 1125,
       "prettySize": "1.13 kB",
       "modifiedTime": "2019-06-16T23:33:31.229Z",
-      "accessTime": "2019-06-16T23:33:31.224Z",
+      "accessTime": "2019-06-17T00:49:51.237Z",
       "changeTime": "2019-06-16T23:33:31.229Z",
       "birthTime": "2019-06-12T21:24:24.458Z",
       "root": "/",
@@ -2165,11 +2240,11 @@
       "blksize": 4194304,
       "ino": 22426773,
       "blocks": 8,
-      "atimeMs": 1560728011223.7217,
+      "atimeMs": 1560732591236.956,
       "mtimeMs": 1560728011228.9705,
       "ctimeMs": 1560728011228.9705,
       "birthtimeMs": 1560374664458.3682,
-      "atime": "2019-06-16T23:33:31.224Z",
+      "atime": "2019-06-17T00:49:51.237Z",
       "mtime": "2019-06-16T23:33:31.229Z",
       "ctime": "2019-06-16T23:33:31.229Z",
       "birthtime": "2019-06-12T21:24:24.458Z"
@@ -2194,7 +2269,7 @@
       "size": 920,
       "prettySize": "920 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:05:20.779Z",
+      "accessTime": "2019-06-16T22:46:18.389Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2212,11 +2287,11 @@
       "blksize": 4194304,
       "ino": 21954375,
       "blocks": 8,
-      "atimeMs": 1560722720779.2056,
+      "atimeMs": 1560725178389.0312,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.5928,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:05:20.779Z",
+      "atime": "2019-06-16T22:46:18.389Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2239,7 +2314,7 @@
       "size": 1705,
       "prettySize": "1.71 kB",
       "modifiedTime": "2019-06-04T02:59:06.917Z",
-      "accessTime": "2019-06-16T22:20:49.509Z",
+      "accessTime": "2019-06-17T00:33:14.976Z",
       "changeTime": "2019-06-04T02:59:06.917Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2257,11 +2332,11 @@
       "blksize": 4194304,
       "ino": 21954379,
       "blocks": 8,
-      "atimeMs": 1560723649509.3997,
+      "atimeMs": 1560731594975.551,
       "mtimeMs": 1559617146917.3357,
       "ctimeMs": 1559617146917.3357,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:20:49.509Z",
+      "atime": "2019-06-17T00:33:14.976Z",
       "mtime": "2019-06-04T02:59:06.917Z",
       "ctime": "2019-06-04T02:59:06.917Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2286,7 +2361,7 @@
       "size": 212,
       "prettySize": "212 B",
       "modifiedTime": "2019-06-04T01:49:46.130Z",
-      "accessTime": "2019-06-16T22:05:20.780Z",
+      "accessTime": "2019-06-16T22:46:18.390Z",
       "changeTime": "2019-06-04T01:49:46.130Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2304,11 +2379,11 @@
       "blksize": 4194304,
       "ino": 21954382,
       "blocks": 8,
-      "atimeMs": 1560722720779.7495,
+      "atimeMs": 1560725178389.6685,
       "mtimeMs": 1559612986129.838,
       "ctimeMs": 1559612986129.838,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:05:20.780Z",
+      "atime": "2019-06-16T22:46:18.390Z",
       "mtime": "2019-06-04T01:49:46.130Z",
       "ctime": "2019-06-04T01:49:46.130Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2333,7 +2408,7 @@
       "size": 1377,
       "prettySize": "1.38 kB",
       "modifiedTime": "2019-06-14T09:18:53.273Z",
-      "accessTime": "2019-06-16T22:05:20.780Z",
+      "accessTime": "2019-06-16T22:46:18.390Z",
       "changeTime": "2019-06-14T09:18:53.273Z",
       "birthTime": "2019-06-12T21:24:24.460Z",
       "root": "/",
@@ -2351,11 +2426,11 @@
       "blksize": 4194304,
       "ino": 22426774,
       "blocks": 8,
-      "atimeMs": 1560722720779.7727,
+      "atimeMs": 1560725178389.6987,
       "mtimeMs": 1560503933272.936,
       "ctimeMs": 1560503933272.936,
       "birthtimeMs": 1560374664459.6716,
-      "atime": "2019-06-16T22:05:20.780Z",
+      "atime": "2019-06-16T22:46:18.390Z",
       "mtime": "2019-06-14T09:18:53.273Z",
       "ctime": "2019-06-14T09:18:53.273Z",
       "birthtime": "2019-06-12T21:24:24.460Z"
@@ -2378,7 +2453,7 @@
       "size": 1275,
       "prettySize": "1.27 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:20:49.509Z",
+      "accessTime": "2019-06-17T00:33:14.976Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2396,11 +2471,11 @@
       "blksize": 4194304,
       "ino": 21954388,
       "blocks": 8,
-      "atimeMs": 1560723649509.4302,
+      "atimeMs": 1560731594975.5942,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.2795,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:20:49.509Z",
+      "atime": "2019-06-17T00:33:14.976Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2425,7 +2500,7 @@
       "size": 1286,
       "prettySize": "1.29 kB",
       "modifiedTime": "2019-06-14T23:22:42.543Z",
-      "accessTime": "2019-06-16T22:05:20.780Z",
+      "accessTime": "2019-06-16T22:46:18.390Z",
       "changeTime": "2019-06-14T23:22:42.543Z",
       "birthTime": "2019-06-12T03:29:59.936Z",
       "root": "/",
@@ -2443,11 +2518,11 @@
       "blksize": 4194304,
       "ino": 22377183,
       "blocks": 8,
-      "atimeMs": 1560722720780.252,
+      "atimeMs": 1560725178389.9116,
       "mtimeMs": 1560554562543.154,
       "ctimeMs": 1560554562543.154,
       "birthtimeMs": 1560310199936.0076,
-      "atime": "2019-06-16T22:05:20.780Z",
+      "atime": "2019-06-16T22:46:18.390Z",
       "mtime": "2019-06-14T23:22:42.543Z",
       "ctime": "2019-06-14T23:22:42.543Z",
       "birthtime": "2019-06-12T03:29:59.936Z"
@@ -2472,7 +2547,7 @@
       "size": 1301,
       "prettySize": "1.3 kB",
       "modifiedTime": "2019-06-14T08:30:37.507Z",
-      "accessTime": "2019-06-16T22:05:20.780Z",
+      "accessTime": "2019-06-16T22:46:18.390Z",
       "changeTime": "2019-06-14T08:30:37.507Z",
       "birthTime": "2019-06-12T08:00:40.649Z",
       "root": "/",
@@ -2490,11 +2565,11 @@
       "blksize": 4194304,
       "ino": 22384084,
       "blocks": 8,
-      "atimeMs": 1560722720780.259,
+      "atimeMs": 1560725178389.9536,
       "mtimeMs": 1560501037507.4082,
       "ctimeMs": 1560501037507.4082,
       "birthtimeMs": 1560326440648.812,
-      "atime": "2019-06-16T22:05:20.780Z",
+      "atime": "2019-06-16T22:46:18.390Z",
       "mtime": "2019-06-14T08:30:37.507Z",
       "ctime": "2019-06-14T08:30:37.507Z",
       "birthtime": "2019-06-12T08:00:40.649Z"
@@ -2543,38 +2618,6 @@
         "slug": "/"
       }
     },
-    "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": {
-      "id": "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc",
-      "children": [],
-      "parent": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f",
-      "internal": {
-        "content": "**What can I do? **This is the most common question I am asked by someone facing a cancer journey. This inspired a booklet I wrote called **\"What can I do?'** to help patients change their lifestyle to maximize their chance of a good outcome. The website will be an expanded resource to help you on your cancer journey. \n\nThrough the blog I will bring you the science and practical advice you need to make changes. On the resources page you will find links to books, articles and websites that can help you. If there is a cost attached I try to find the cheapest price for you. I make no money from the resources.\n\nYou can follow us on Aacebook and Instagrgam. If you like listening to the articles you can find them on apple podcast and Spotify. If you would like notifications of when a new article is written, you can submit your name and email on the front page.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "839131d622df773ab3ba026203c613cc",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "About What The Cancer",
-        "templateKey": "about-page",
-        "full_image": "/img/about-two.jpg",
-        "leftBackground": "/img/39748560_10157016425674369_11675533586726912_n-2-.jpg",
-        "leftTitle": "Our Resources",
-        "leftLink": "/resources",
-        "rightTitle": "Meet Lisa",
-        "rightDescription": "Medical Oncologist",
-        "rightUrl": "/lisa",
-        "_PARENT": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "**What can I do? **This is the most common question I am asked by someone facing a cancer journey. This inspired a booklet I wrote called **\"What can I do?'** to help patients change their lifestyle to maximize their chance of a good outcome. The website will be an expanded resource to help you on your cancer journey. \n\nThrough the blog I will bring you the science and practical advice you need to make changes. On the resources page you will find links to books, articles and websites that can help you. If there is a cost attached I try to find the cheapest price for you. I make no money from the resources.\n\nYou can follow us on Aacebook and Instagrgam. If you like listening to the articles you can find them on apple podcast and Spotify. If you would like notifications of when a new article is written, you can submit your name and email on the front page.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/about/index.md",
-      "fields": {
-        "slug": "/about/"
-      }
-    },
     "54141124-6550-5118-92fb-35e9134a6bde": {
       "id": "54141124-6550-5118-92fb-35e9134a6bde",
       "children": [],
@@ -2607,6 +2650,38 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
       "fields": {
         "slug": "/blog/"
+      }
+    },
+    "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": {
+      "id": "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc",
+      "children": [],
+      "parent": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f",
+      "internal": {
+        "content": "**What can I do? **This is the most common question I am asked by someone facing a cancer journey. This inspired a booklet I wrote called **\"What can I do?'** to help patients change their lifestyle to maximize their chance of a good outcome. The website will be an expanded resource to help you on your cancer journey. \n\nThrough the blog I will bring you the science and practical advice you need to make changes. On the resources page you will find links to books, articles and websites that can help you. If there is a cost attached I try to find the cheapest price for you. I make no money from the resources.\n\nYou can follow us on Aacebook and Instagrgam. If you like listening to the articles you can find them on apple podcast and Spotify. If you would like notifications of when a new article is written, you can submit your name and email on the front page.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "839131d622df773ab3ba026203c613cc",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About What The Cancer",
+        "templateKey": "about-page",
+        "full_image": "/img/about-two.jpg",
+        "leftBackground": "/img/39748560_10157016425674369_11675533586726912_n-2-.jpg",
+        "leftTitle": "Our Resources",
+        "leftLink": "/resources",
+        "rightTitle": "Meet Lisa",
+        "rightDescription": "Medical Oncologist",
+        "rightUrl": "/lisa",
+        "_PARENT": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "**What can I do? **This is the most common question I am asked by someone facing a cancer journey. This inspired a booklet I wrote called **\"What can I do?'** to help patients change their lifestyle to maximize their chance of a good outcome. The website will be an expanded resource to help you on your cancer journey. \n\nThrough the blog I will bring you the science and practical advice you need to make changes. On the resources page you will find links to books, articles and websites that can help you. If there is a cost attached I try to find the cheapest price for you. I make no money from the resources.\n\nYou can follow us on Aacebook and Instagrgam. If you like listening to the articles you can find them on apple podcast and Spotify. If you would like notifications of when a new article is written, you can submit your name and email on the front page.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/about/index.md",
+      "fields": {
+        "slug": "/about/"
       }
     },
     "effd6241-b3d4-5665-81be-52ae3477106f": {
@@ -2676,6 +2751,39 @@
         "slug": "/course/"
       }
     },
+    "df0b2ad0-0419-5d6e-9631-999c911f3931": {
+      "id": "df0b2ad0-0419-5d6e-9631-999c911f3931",
+      "children": [],
+      "parent": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7",
+      "internal": {
+        "content": "Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\n\n![](/img/anthony-intraversato-455600-unsplash.jpg)\n\n![](/img/resource-splash.jpg)\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "1e223eda2a189593cbedd06f7d35da87",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Jayden Szekely",
+        "templateKey": "about-page",
+        "discoverable": "no",
+        "full_image": "/img/portfoliopic.jpg",
+        "leftBackground": "/img/portfoliopic.jpg",
+        "leftTitle": "DOWNLOAD MY CV",
+        "leftLink": "/work-with-me/cv",
+        "rightTitle": "MY PORTFOLIO",
+        "rightDescription": "View it now",
+        "rightUrl": "/portfolio",
+        "_PARENT": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\n\n![](/img/anthony-intraversato-455600-unsplash.jpg)\n\n![](/img/resource-splash.jpg)\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden/index.md",
+      "fields": {
+        "slug": "/jayden/"
+      }
+    },
     "576c1608-0625-5c33-b071-c0b97ccc8337": {
       "id": "576c1608-0625-5c33-b071-c0b97ccc8337",
       "children": [],
@@ -2706,34 +2814,6 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
       "fields": {
         "slug": "/jargon/"
-      }
-    },
-    "23ba3013-fde7-5793-9118-028f022eeaae": {
-      "id": "23ba3013-fde7-5793-9118-028f022eeaae",
-      "children": [],
-      "parent": "b32e1cb2-eacb-5c4d-8641-e23fc35da015",
-      "internal": {
-        "content": "\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "a07a5a64231bcf246cac0a2a2b322d68",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Portfolio",
-        "templateKey": "portfolio-page",
-        "image": "/img/resource-splash.jpg",
-        "description": "Our goal at What The Cancer is to Equip & Empower you on your cancer Journey",
-        "fullImage": "/img/resource-splash.jpg",
-        "_PARENT": "b32e1cb2-eacb-5c4d-8641-e23fc35da015"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/index.md",
-      "fields": {
-        "slug": "/portfolio/"
       }
     },
     "c5cfc1ee-382e-5b44-b49f-1471895d5a30": {
@@ -2779,6 +2859,34 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/what-the-cancer.md",
       "fields": {
         "slug": "/portfolio/what-the-cancer/"
+      }
+    },
+    "23ba3013-fde7-5793-9118-028f022eeaae": {
+      "id": "23ba3013-fde7-5793-9118-028f022eeaae",
+      "children": [],
+      "parent": "b32e1cb2-eacb-5c4d-8641-e23fc35da015",
+      "internal": {
+        "content": "\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "a07a5a64231bcf246cac0a2a2b322d68",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Portfolio",
+        "templateKey": "portfolio-page",
+        "image": "/img/resource-splash.jpg",
+        "description": "Our goal at What The Cancer is to Equip & Empower you on your cancer Journey",
+        "fullImage": "/img/resource-splash.jpg",
+        "_PARENT": "b32e1cb2-eacb-5c4d-8641-e23fc35da015"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/index.md",
+      "fields": {
+        "slug": "/portfolio/"
       }
     },
     "f63e7d4d-db64-50b7-b1c5-3d7fca33130d": {
@@ -2856,7 +2964,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1cda1f5748a27aec1a6278bba7c4ffd0",
+        "contentDigest": "a0623d638ec256965e9d99227197123b",
         "type": "Directory",
         "description": "Directory \"src/img\"",
         "owner": "gatsby-source-filesystem"
@@ -2868,7 +2976,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2019-06-16T22:11:02.150Z",
-      "accessTime": "2019-06-16T22:46:18.038Z",
+      "accessTime": "2019-06-17T06:10:26.763Z",
       "changeTime": "2019-06-16T22:11:02.150Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2886,11 +2994,11 @@
       "blksize": 4194304,
       "ino": 21954356,
       "blocks": 0,
-      "atimeMs": 1560725178037.581,
+      "atimeMs": 1560751826763.086,
       "mtimeMs": 1560723062149.5466,
       "ctimeMs": 1560723062149.5466,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:18.038Z",
+      "atime": "2019-06-17T06:10:26.763Z",
       "mtime": "2019-06-16T22:11:02.150Z",
       "ctime": "2019-06-16T22:11:02.150Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2915,7 +3023,7 @@
       "size": 19592,
       "prettySize": "19.6 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:05:20.960Z",
+      "accessTime": "2019-06-16T22:46:18.413Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2933,11 +3041,11 @@
       "blksize": 4194304,
       "ino": 21954357,
       "blocks": 40,
-      "atimeMs": 1560722720960.2134,
+      "atimeMs": 1560725178412.9048,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.8884,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:05:20.960Z",
+      "atime": "2019-06-16T22:46:18.413Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2960,7 +3068,7 @@
       "size": 494,
       "prettySize": "494 B",
       "modifiedTime": "2019-06-02T02:34:08.137Z",
-      "accessTime": "2019-06-16T22:05:20.960Z",
+      "accessTime": "2019-06-16T22:46:18.413Z",
       "changeTime": "2019-06-02T02:34:08.771Z",
       "birthTime": "2019-06-02T02:34:08.137Z",
       "root": "/",
@@ -2978,59 +3086,14 @@
       "blksize": 4194304,
       "ino": 22122980,
       "blocks": 8,
-      "atimeMs": 1560722720960.2788,
+      "atimeMs": 1560725178413.078,
       "mtimeMs": 1559442848137.235,
       "ctimeMs": 1559442848771.2979,
       "birthtimeMs": 1559442848137.11,
-      "atime": "2019-06-16T22:05:20.960Z",
+      "atime": "2019-06-16T22:46:18.413Z",
       "mtime": "2019-06-02T02:34:08.137Z",
       "ctime": "2019-06-02T02:34:08.771Z",
       "birthtime": "2019-06-02T02:34:08.137Z"
-    },
-    "1dfec910-db7a-54e4-9572-37596969be79": {
-      "id": "1dfec910-db7a-54e4-9572-37596969be79",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9e6df2f4ff081c07a8799e9fa2f3ec90",
-        "type": "File",
-        "mediaType": "image/svg+xml",
-        "description": "File \"src/img/github-icon.svg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/github-icon.svg",
-      "relativePath": "github-icon.svg",
-      "extension": "svg",
-      "size": 2694,
-      "prettySize": "2.69 kB",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:05:27.498Z",
-      "changeTime": "2019-06-02T02:01:33.365Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
-      "base": "github-icon.svg",
-      "ext": ".svg",
-      "name": "github-icon",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954358,
-      "blocks": 8,
-      "atimeMs": 1560722727497.9346,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893364.7832,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:05:27.498Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.365Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "d671afb4-d329-5d09-a770-cf5ae30ace37": {
       "id": "d671afb4-d329-5d09-a770-cf5ae30ace37",
@@ -3052,7 +3115,7 @@
       "size": 17612,
       "prettySize": "17.6 kB",
       "modifiedTime": "2019-06-02T02:34:08.124Z",
-      "accessTime": "2019-06-16T22:05:20.960Z",
+      "accessTime": "2019-06-16T22:46:18.413Z",
       "changeTime": "2019-06-02T02:34:08.790Z",
       "birthTime": "2019-06-02T02:34:08.124Z",
       "root": "/",
@@ -3070,34 +3133,59 @@
       "blksize": 4194304,
       "ino": 22122979,
       "blocks": 40,
-      "atimeMs": 1560722720960.247,
+      "atimeMs": 1560725178412.9868,
       "mtimeMs": 1559442848123.7708,
       "ctimeMs": 1559442848789.7805,
       "birthtimeMs": 1559442848123.6472,
-      "atime": "2019-06-16T22:05:20.960Z",
+      "atime": "2019-06-16T22:46:18.413Z",
       "mtime": "2019-06-02T02:34:08.124Z",
       "ctime": "2019-06-02T02:34:08.790Z",
       "birthtime": "2019-06-02T02:34:08.124Z"
     },
-    "f371c1b4-45cb-537f-b403-85ad15e15f8a": {
-      "id": "f371c1b4-45cb-537f-b403-85ad15e15f8a",
+    "1dfec910-db7a-54e4-9572-37596969be79": {
+      "id": "1dfec910-db7a-54e4-9572-37596969be79",
       "children": [],
-      "parent": "3dfeb698-8689-535b-a8d0-daba3d216ad9",
+      "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f1553e261c09d6300d461dcdb8d07290",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "a0b4565c-5a0b-5093-a9d0-e61d123e90d5": {
-      "id": "a0b4565c-5a0b-5093-a9d0-e61d123e90d5",
-      "children": [],
-      "parent": "d671afb4-d329-5d09-a770-cf5ae30ace37",
-      "internal": {
-        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
+        "contentDigest": "9e6df2f4ff081c07a8799e9fa2f3ec90",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/img/github-icon.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/github-icon.svg",
+      "relativePath": "github-icon.svg",
+      "extension": "svg",
+      "size": 2694,
+      "prettySize": "2.69 kB",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-16T22:46:25.800Z",
+      "changeTime": "2019-06-02T02:01:33.365Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
+      "base": "github-icon.svg",
+      "ext": ".svg",
+      "name": "github-icon",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954358,
+      "blocks": 8,
+      "atimeMs": 1560725185800.1602,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893364.7832,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-16T22:46:25.800Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.365Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "bf7ba5fc-310a-590f-9280-bc71ddb9f5b8": {
       "id": "bf7ba5fc-310a-590f-9280-bc71ddb9f5b8",
@@ -3117,7 +3205,7 @@
       "size": 2929,
       "prettySize": "2.93 kB",
       "modifiedTime": "2019-06-14T06:08:29.490Z",
-      "accessTime": "2019-06-16T22:05:27.498Z",
+      "accessTime": "2019-06-16T22:46:25.800Z",
       "changeTime": "2019-06-14T06:08:29.490Z",
       "birthTime": "2019-06-09T05:37:43.311Z",
       "root": "/",
@@ -3135,11 +3223,11 @@
       "blksize": 4194304,
       "ino": 22291106,
       "blocks": 8,
-      "atimeMs": 1560722727498.0186,
+      "atimeMs": 1560725185800.247,
       "mtimeMs": 1560492509489.5295,
       "ctimeMs": 1560492509489.5295,
       "birthtimeMs": 1560058663311.3105,
-      "atime": "2019-06-16T22:05:27.498Z",
+      "atime": "2019-06-16T22:46:25.800Z",
       "mtime": "2019-06-14T06:08:29.490Z",
       "ctime": "2019-06-14T06:08:29.490Z",
       "birthtime": "2019-06-09T05:37:43.311Z"
@@ -3164,7 +3252,7 @@
       "size": 17612,
       "prettySize": "17.6 kB",
       "modifiedTime": "2019-06-02T02:34:25.106Z",
-      "accessTime": "2019-06-16T22:05:20.960Z",
+      "accessTime": "2019-06-16T22:46:18.414Z",
       "changeTime": "2019-06-02T02:34:25.106Z",
       "birthTime": "2019-06-02T02:32:36.466Z",
       "root": "/",
@@ -3182,11 +3270,11 @@
       "blksize": 4194304,
       "ino": 22122903,
       "blocks": 40,
-      "atimeMs": 1560722720960.4614,
+      "atimeMs": 1560725178413.8298,
       "mtimeMs": 1559442865106.3806,
       "ctimeMs": 1559442865106.3806,
       "birthtimeMs": 1559442756465.6877,
-      "atime": "2019-06-16T22:05:20.960Z",
+      "atime": "2019-06-16T22:46:18.414Z",
       "mtime": "2019-06-02T02:34:25.106Z",
       "ctime": "2019-06-02T02:34:25.106Z",
       "birthtime": "2019-06-02T02:32:36.466Z"
@@ -3209,7 +3297,7 @@
       "size": 23908,
       "prettySize": "23.9 kB",
       "modifiedTime": "2019-06-02T02:35:09.435Z",
-      "accessTime": "2019-06-16T22:05:20.960Z",
+      "accessTime": "2019-06-16T22:46:18.414Z",
       "changeTime": "2019-06-02T02:35:09.435Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3227,14 +3315,34 @@
       "blksize": 4194304,
       "ino": 21954361,
       "blocks": 48,
-      "atimeMs": 1560722720960.491,
+      "atimeMs": 1560725178413.9465,
       "mtimeMs": 1559442909434.891,
       "ctimeMs": 1559442909434.891,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:05:20.960Z",
+      "atime": "2019-06-16T22:46:18.414Z",
       "mtime": "2019-06-02T02:35:09.435Z",
       "ctime": "2019-06-02T02:35:09.435Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "f371c1b4-45cb-537f-b403-85ad15e15f8a": {
+      "id": "f371c1b4-45cb-537f-b403-85ad15e15f8a",
+      "children": [],
+      "parent": "3dfeb698-8689-535b-a8d0-daba3d216ad9",
+      "internal": {
+        "contentDigest": "f1553e261c09d6300d461dcdb8d07290",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "a0b4565c-5a0b-5093-a9d0-e61d123e90d5": {
+      "id": "a0b4565c-5a0b-5093-a9d0-e61d123e90d5",
+      "children": [],
+      "parent": "d671afb4-d329-5d09-a770-cf5ae30ace37",
+      "internal": {
+        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9": {
       "id": "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9",
@@ -3266,7 +3374,7 @@
       "size": 122717,
       "prettySize": "123 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:05:20.960Z",
+      "accessTime": "2019-06-16T22:46:18.414Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3284,11 +3392,11 @@
       "blksize": 4194304,
       "ino": 21954360,
       "blocks": 240,
-      "atimeMs": 1560722720960.4324,
+      "atimeMs": 1560725178413.6902,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.9353,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:05:20.960Z",
+      "atime": "2019-06-16T22:46:18.414Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3323,7 +3431,7 @@
       "size": 266109,
       "prettySize": "266 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:05:20.961Z",
+      "accessTime": "2019-06-16T22:46:18.414Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3341,11 +3449,11 @@
       "blksize": 4194304,
       "ino": 21954362,
       "blocks": 520,
-      "atimeMs": 1560722720960.5205,
+      "atimeMs": 1560725178414.0632,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.823,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:05:20.961Z",
+      "atime": "2019-06-16T22:46:18.414Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3380,7 +3488,7 @@
       "size": 420820,
       "prettySize": "421 kB",
       "modifiedTime": "2019-06-16T22:11:02.143Z",
-      "accessTime": "2019-06-16T22:15:47.288Z",
+      "accessTime": "2019-06-16T22:49:13.171Z",
       "changeTime": "2019-06-16T22:11:02.150Z",
       "birthTime": "2019-06-16T22:11:01.888Z",
       "root": "/",
@@ -3398,11 +3506,11 @@
       "blksize": 4194304,
       "ino": 22552278,
       "blocks": 824,
-      "atimeMs": 1560723347288.2175,
+      "atimeMs": 1560725353171.2178,
       "mtimeMs": 1560723062143.3875,
       "ctimeMs": 1560723062149.5464,
       "birthtimeMs": 1560723061887.9783,
-      "atime": "2019-06-16T22:15:47.288Z",
+      "atime": "2019-06-16T22:49:13.171Z",
       "mtime": "2019-06-16T22:11:02.143Z",
       "ctime": "2019-06-16T22:11:02.150Z",
       "birthtime": "2019-06-16T22:11:01.888Z"
@@ -3437,7 +3545,7 @@
       "size": 1085216,
       "prettySize": "1.09 MB",
       "modifiedTime": "2019-06-02T02:30:48.369Z",
-      "accessTime": "2019-06-16T22:05:20.960Z",
+      "accessTime": "2019-06-16T22:46:18.413Z",
       "changeTime": "2019-06-02T02:30:48.369Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3455,11 +3563,11 @@
       "blksize": 4194304,
       "ino": 21954359,
       "blocks": 2120,
-      "atimeMs": 1560722720960.3438,
+      "atimeMs": 1560725178413.2612,
       "mtimeMs": 1559442648369.1064,
       "ctimeMs": 1559442648369.1064,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:05:20.960Z",
+      "atime": "2019-06-16T22:46:18.413Z",
       "mtime": "2019-06-02T02:30:48.369Z",
       "ctime": "2019-06-02T02:30:48.369Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3494,7 +3602,7 @@
       "size": 3543638,
       "prettySize": "3.54 MB",
       "modifiedTime": "2019-06-02T02:30:48.455Z",
-      "accessTime": "2019-06-16T22:05:20.960Z",
+      "accessTime": "2019-06-16T22:46:18.413Z",
       "changeTime": "2019-06-02T02:30:48.455Z",
       "birthTime": "2019-06-02T02:30:48.323Z",
       "root": "/",
@@ -3512,11 +3620,11 @@
       "blksize": 4194304,
       "ino": 22122828,
       "blocks": 6928,
-      "atimeMs": 1560722720960.3735,
+      "atimeMs": 1560725178413.363,
       "mtimeMs": 1559442648455.294,
       "ctimeMs": 1559442648455.294,
       "birthtimeMs": 1559442648323.497,
-      "atime": "2019-06-16T22:05:20.960Z",
+      "atime": "2019-06-16T22:46:18.413Z",
       "mtime": "2019-06-02T02:30:48.455Z",
       "ctime": "2019-06-02T02:30:48.455Z",
       "birthtime": "2019-06-02T02:30:48.323Z"
@@ -3553,28 +3661,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /about/": {
-      "jsonName": "about-f34",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "componentChunkName": "component---src-templates-about-page-js",
-      "context": {
-        "id": "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "id": "SitePage /about/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "275a6e1399b10206a0bee85ef1f09842",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /blog/": {
       "jsonName": "blog-f7a",
       "internalComponentName": "ComponentBlog",
@@ -3593,6 +3679,28 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "55a386399c5e1caf6b6d0c7c6dbb5889",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
+      "context": {
+        "id": "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "275a6e1399b10206a0bee85ef1f09842",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3685,28 +3793,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /portfolio/": {
-      "jsonName": "portfolio-964",
-      "internalComponentName": "ComponentPortfolio",
-      "path": "/portfolio/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js",
-      "componentChunkName": "component---src-templates-portfolio-page-js",
-      "context": {
-        "id": "23ba3013-fde7-5793-9118-028f022eeaae"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js",
-      "id": "SitePage /portfolio/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7677bd910b7ef7214cd3eb6b4985d3e2",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /portfolio/what-the-cancer/": {
       "jsonName": "portfolio-what-the-cancer-4c7",
       "internalComponentName": "ComponentPortfolioWhatTheCancer",
@@ -3725,6 +3811,28 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "501be200ffc3708d03305294df6dd37a",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /portfolio/": {
+      "jsonName": "portfolio-964",
+      "internalComponentName": "ComponentPortfolio",
+      "path": "/portfolio/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js",
+      "componentChunkName": "component---src-templates-portfolio-page-js",
+      "context": {
+        "id": "23ba3013-fde7-5793-9118-028f022eeaae"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js",
+      "id": "SitePage /portfolio/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7677bd910b7ef7214cd3eb6b4985d3e2",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3986,44 +4094,11 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
-    },
-    "df0b2ad0-0419-5d6e-9631-999c911f3931": {
-      "id": "df0b2ad0-0419-5d6e-9631-999c911f3931",
-      "children": [],
-      "parent": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7",
-      "internal": {
-        "content": "Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\n\n![](/img/anthony-intraversato-455600-unsplash.jpg)\n\n![](/img/resource-splash.jpg)\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "1e223eda2a189593cbedd06f7d35da87",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Jayden Szekely",
-        "templateKey": "about-page",
-        "discoverable": "no",
-        "full_image": "/img/portfoliopic.jpg",
-        "leftBackground": "/img/portfoliopic.jpg",
-        "leftTitle": "DOWNLOAD MY CV",
-        "leftLink": "/work-with-me/cv",
-        "rightTitle": "MY PORTFOLIO",
-        "rightDescription": "View it now",
-        "rightUrl": "/portfolio",
-        "_PARENT": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Jayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\\\n\\\nJayden is an accomplished Multi-Disciplined creative with a vast range of experience in Web Design and Development, Graphic Design, Video Production and Editing and a keen Photographer.  Jayden has also had exposure in social media marketting campaigns.\n\n![](/img/anthony-intraversato-455600-unsplash.jpg)\n\n![](/img/resource-splash.jpg)\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden/index.md",
-      "fields": {
-        "slug": "/jayden/"
-      }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "3a2fd296c235ae464c40009c99c572d8"
+    "PLUGINS_HASH": "9796fbf2e0878ea5e59a1e73de5bb755"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -4081,8 +4156,8 @@
   },
   "jsonDataPaths": {
     "tags-275": "961/path---tags-275-fc0-3mYSrcyJqczW2dryGEm2Tajtfo",
-    "about-f34": "162/path---about-f-34-4c2-nPswOlM0eJ6KgxFbRYYx7aK5V1c",
     "course-33d": "783/path---course-33-d-7dd-yZpj53NucNGiyou11wYJ0FaXo",
+    "about-f34": "162/path---about-f-34-4c2-nPswOlM0eJ6KgxFbRYYx7aK5V1c",
     "jayden-efd": "631/path---jayden-efd-f34-z7diHhADWwvpfazoUUy07QouIk",
     "blog-f7a": "623/path---blog-f-7-a-05d-btnAFJZwYWq2ScuYSGYwXyWZ1g",
     "jargon-12a": "295/path---jargon-12-a-e0d-27Q4FnPNgXdzZYozX2CGButUYPQ",
@@ -4108,25 +4183,25 @@
       "query": "query HomePage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      image\n      announcementBlurb\n      announcementLink\n      announcementImage\n      imageOne\n      imageTwo\n      imageThree\n      imageFour\n      imageFive\n      imageSix\n      imageSeven\n      imageEight\n      imageNine\n      imageTen\n      imageEleven\n      imageTwelve\n      imageThirteen\n      imageFourteen\n      imageFifteen\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js"
     },
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js": {
-      "query": "query AboutPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      full_image\n      leftBackground\n      leftTitle\n      leftLink\n      rightTitle\n      rightDescription\n      rightUrl\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js"
-    },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js": {
       "query": "query IndexQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {templateKey: {eq: \"blog-post\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          title\n          templateKey\n          header\n          description\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js"
+    },
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js": {
+      "query": "query AboutPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      full_image\n      leftBackground\n      leftTitle\n      leftLink\n      rightTitle\n      rightDescription\n      rightUrl\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js": {
       "query": "query BlogPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      title\n      description\n      tags\n      header\n      recommendedName\n      recommendedImage\n      recommendedLink\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js"
     },
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js": {
-      "query": "query PortfolioQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {discoverable: {eq: \"yes\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          portfolioDescription\n          discoverable\n          image\n          portfolioName\n          portfolioImage\n          jobDate\n          portfolioLink\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js"
-    },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js": {
       "query": "query PortfolioPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      tags\n      portfolioDescription\n      image\n      title\n      jobDate\n      leftColumn\n      bigImageOne\n      portfolioQuote\n      bigImageTwo\n      portfolioName\n      portfolioImage\n      portfolioLink\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js"
+    },
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js": {
+      "query": "query PortfolioQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {discoverable: {eq: \"yes\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          portfolioDescription\n          discoverable\n          image\n          portfolioName\n          portfolioImage\n          jobDate\n          portfolioLink\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/cv.js": {
       "query": "query CvPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      tags\n      cvDescription\n      image\n      title\n      jobDate\n      leftColumn\n      bigImageOne\n      cvQuote\n      bigImageTwo\n      cvName\n      cvImage\n      cvLink\n    }\n  }\n}\n",
