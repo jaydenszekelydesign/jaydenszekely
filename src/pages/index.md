@@ -21,6 +21,24 @@ announcementBlurb: View my Portfolio
 announcementLink: /portfolio
 announcementImage: img/anthony-intraversato-455600-unsplash.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus risus at condimentum cursus. Maecenas molestie massa quis nibh feugiat, eu tincidunt nisl dapibus. Mauris tincidunt, eros in facilisis rhoncus, dui orci tincidunt libero, vitae suscipit nisi nibh et magna. Suspendisse auctor turpis quis nibh posuere bibendum. Nullam sit amet facilisis dolor. Etiam mattis lobortis semper. Morbi malesuada massa sed faucibus varius. Aenean bibendum nisi vitae metus auctor, at blandit turpis tincidunt. Nunc nec neque leo. Proin nec vehicula urna. In aliquet nisl eget nisl mattis, sed tristique libero condimentum.
+Hi, I'm Jayden Szekely an experienced multi-disciplined creative, I am an independent freelancer ready to support you with your creative projects.
 
-Morbi at pellentesque magna. Aliquam sed risus turpis. Donec vulputate dignissim lorem, sed tincidunt leo eleifend id. Nullam et malesuada orci, eget maximus ipsum. In a mi cursus, tempus nunc quis, ornare nisi. Curabitur non dui nec odio consequat placerat. Nam ac leo sed lectus iaculis molestie. Proin ultricies purus libero, sed iaculis est tincidunt id. Praesent condimentum risus sed lobortis convallis. Vivamus vel tristique eros, in auctor massa. Nunc volutpat eu leo sit amet pharetra. Praesent velit urna, dignissim ac commodo vel, tincidunt sit amet arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus aliquam vulputate erat id rutrum. Nulla libero arcu, dignissim vel laoreet ut, imperdiet nec erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+
+
+Pushing the boundaries in creative design and producing aesthetically pleasing digital products is my speciality.
+
+
+
+My passion for creative solutions and the challenge of creating efficient code in multiple coding languages is what I find extremely motivating. 
+
+
+
+Following the latest trends in design ensures my clients are going to have an up to date and outstanding product that helps them stand out in the market. 
+
+
+
+I aim to take the complexity out of website design and development for my clients.  Through consultation, listening to your story and what you 
+
+
+
+As a newly qualified creative, with energy and passion for design I look forward to working with you on your upcoming projects.
