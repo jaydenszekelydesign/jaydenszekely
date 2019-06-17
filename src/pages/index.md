@@ -37,7 +37,7 @@ Following the latest trends in design ensures my clients are going to have an up
 
 
 
-I aim to take the complexity out of website design and development for my clients.  Through consultation, listening to your story and what you 
+I aim to take the complexity out of website design and development for my clients.  Through consultation and listening to your story I can develop a solution that is right for you and your business. 
 
 
 
