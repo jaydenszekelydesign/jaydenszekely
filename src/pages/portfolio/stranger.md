@@ -2,6 +2,7 @@
 templateKey: portfolio
 date: 2019-06-17T06:24:20.474Z
 title: Stranger
+discoverable: yes
 image: /img/stranger-menu-full-res.jpg
 description: Stranger
 jobDate: SEP 2018

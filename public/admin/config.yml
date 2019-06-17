@@ -32,6 +32,7 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portfolio"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: Title, name: title, widget: string}
+      - {label: Discoverable "yes" / "no", name: discoverable, widget: string}
       - {label: Header Image, name: "image", widget: file}
       - {label: Description, name: "description", widget: string}
       - {label: Date - Mon-Year / Left Column Title, name: jobDate, widget: string}

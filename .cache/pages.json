@@ -61,6 +61,11 @@
     },
     {
         "componentChunkName": "component---src-templates-portfolio-js",
+        "jsonName": "portfolio-stranger-25d",
+        "path": "/portfolio/stranger/"
+    },
+    {
+        "componentChunkName": "component---src-templates-portfolio-js",
         "jsonName": "portfolio-what-the-cancer-4c7",
         "path": "/portfolio/what-the-cancer/"
     },
@@ -68,6 +73,11 @@
         "componentChunkName": "component---src-pages-tags-index-js",
         "jsonName": "tags-275",
         "path": "/tags/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tags-concept-d00",
+        "path": "/tags/concept/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -88,6 +98,11 @@
         "componentChunkName": "component---src-templates-tags-js",
         "jsonName": "tags-social-media-15a",
         "path": "/tags/social-media/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tags-ui-ux-dfc",
+        "path": "/tags/ui-ux/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",

@@ -4094,6 +4094,162 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "e96904ec-bbfc-5908-a210-1a3b8b4dec61": {
+      "id": "e96904ec-bbfc-5908-a210-1a3b8b4dec61",
+      "children": [
+        "f5ef53ab-11a2-5e12-b9a1-535e25912966"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "815395ecc56234d8a966d8cf8cdd1603",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/portfolio/stranger.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/stranger.md",
+      "relativePath": "portfolio/stranger.md",
+      "extension": "md",
+      "size": 933,
+      "prettySize": "933 B",
+      "modifiedTime": "2019-06-17T06:36:24.249Z",
+      "accessTime": "2019-06-17T06:36:24.248Z",
+      "changeTime": "2019-06-17T06:36:24.249Z",
+      "birthTime": "2019-06-17T06:35:38.728Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio",
+      "base": "stranger.md",
+      "ext": ".md",
+      "name": "stranger",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22561897,
+      "blocks": 8,
+      "atimeMs": 1560753384247.897,
+      "mtimeMs": 1560753384248.5134,
+      "ctimeMs": 1560753384248.5134,
+      "birthtimeMs": 1560753338728.1497,
+      "atime": "2019-06-17T06:36:24.248Z",
+      "mtime": "2019-06-17T06:36:24.249Z",
+      "ctime": "2019-06-17T06:36:24.249Z",
+      "birthtime": "2019-06-17T06:35:38.728Z"
+    },
+    "SitePage /portfolio/stranger/": {
+      "jsonName": "portfolio-stranger-25d",
+      "internalComponentName": "ComponentPortfolioStranger",
+      "path": "/portfolio/stranger/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "componentChunkName": "component---src-templates-portfolio-js",
+      "context": {
+        "id": "f5ef53ab-11a2-5e12-b9a1-535e25912966"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "id": "SitePage /portfolio/stranger/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fa6451b250b0394becf9809dc375c66c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/ui-ux/": {
+      "jsonName": "tags-ui-ux-dfc",
+      "internalComponentName": "ComponentTagsUiUx",
+      "path": "/tags/ui-ux/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "UI / UX"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/ui-ux/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "052151b81456e986388e8038d8021add",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/concept/": {
+      "jsonName": "tags-concept-d00",
+      "internalComponentName": "ComponentTagsConcept",
+      "path": "/tags/concept/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Concept"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/concept/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ae7e61237b48978e57525bd327ae42ae",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f5ef53ab-11a2-5e12-b9a1-535e25912966": {
+      "id": "f5ef53ab-11a2-5e12-b9a1-535e25912966",
+      "children": [],
+      "parent": "e96904ec-bbfc-5908-a210-1a3b8b4dec61",
+      "internal": {
+        "content": "Coming Soon\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "66cb4757307ffa451f0b63e1c702b357",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Stranger",
+        "templateKey": "portfolio",
+        "date": "2019-06-17T06:24:20.474Z",
+        "discoverable": "yes",
+        "image": "/img/stranger-menu-full-res.jpg",
+        "description": "Stranger",
+        "jobDate": "SEP 2018",
+        "leftColumn": "UI / UX Design Concept",
+        "portfolioDescription": "This design was a concept piece I did to share with my Instagram followers and to try a new \"Clean-Brutalism\" style which is often an oxymoron.  This design is for a urban streetwear fashion boutique for a male demographic between 16 & 30 and by the choice of layout, typography and colour, this design achieved that.",
+        "bigImageOne": "/img/stranger-home-web-res.jpg",
+        "portfolioQuote": "This design pushed the boundaries of modern design, something I aim to do with every project.",
+        "bigImageTwo": "/img/stranger-collection-page-web-res.jpg",
+        "portfolioName": "STRANGER",
+        "portfolioImage": "/img/stranger-menu-full-res.jpg",
+        "portfolioLink": "/stranger",
+        "tags": [
+          "UI / UX",
+          "Web Design",
+          "Concept"
+        ],
+        "_PARENT": "e96904ec-bbfc-5908-a210-1a3b8b4dec61"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Coming Soon\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/stranger.md",
+      "fields": {
+        "slug": "/portfolio/stranger/"
+      }
     }
   },
   "status": {
@@ -4109,7 +4265,9 @@
         "/tags/web-design/",
         "/tags/podcast/",
         "/tags/videography/",
-        "/tags/social-media/"
+        "/tags/social-media/",
+        "/tags/ui-ux/",
+        "/tags/concept/"
       ],
       "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": [
         "/about/"
@@ -4137,6 +4295,9 @@
       ],
       "344f5167-e029-5481-a3eb-30f1d2f0cf53": [
         "/work-with-me/"
+      ],
+      "f5ef53ab-11a2-5e12-b9a1-535e25912966": [
+        "/portfolio/stranger/"
       ]
     },
     "connections": {
@@ -4150,12 +4311,14 @@
         "/tags/web-design/",
         "/tags/podcast/",
         "/tags/videography/",
-        "/tags/social-media/"
+        "/tags/social-media/",
+        "/tags/ui-ux/",
+        "/tags/concept/"
       ]
     }
   },
   "jsonDataPaths": {
-    "tags-275": "961/path---tags-275-fc0-3mYSrcyJqczW2dryGEm2Tajtfo",
+    "tags-275": "778/path---tags-275-fc0-tXAVOmZI2q37wPMyGQkJ8QifNso",
     "course-33d": "783/path---course-33-d-7dd-yZpj53NucNGiyou11wYJ0FaXo",
     "about-f34": "162/path---about-f-34-4c2-nPswOlM0eJ6KgxFbRYYx7aK5V1c",
     "jayden-efd": "631/path---jayden-efd-f34-z7diHhADWwvpfazoUUy07QouIk",
@@ -4163,20 +4326,23 @@
     "jargon-12a": "295/path---jargon-12-a-e0d-27Q4FnPNgXdzZYozX2CGButUYPQ",
     "blog-mobile-first-301": "530/path---blog-mobile-first-301-372-HkYPxpjptnunYTrcH2HQ5Dq7i8",
     "work-with-me-cv-4f8": "837/path---work-with-me-cv-4-f-8-d93-SCHJPeZ6yRd4HT1dDiZGKx4mrc",
-    "portfolio-964": "820/path---portfolio-964-7f6-hHed58ScwtgfYoAd0vTNiFlk",
+    "portfolio-964": "985/path---portfolio-964-7f6-XQ7BZFgyK834XRGGsCo1ZoY3C0",
     "index": "239/path---index-6a9-S4JfgYh2GOTx3BBmYxxrIJAeKk",
     "portfolio-what-the-cancer-4c7": "691/path---portfolio-what-the-cancer-4-c-7-157-UsuI0Wn8WQ706wZQ6Rxevl77MJQ",
     "tags-home-8b5": "682/path---tags-home-8-b-5-d7e-GnNFxqqbSD9zTQTr2NjI5pgLy14",
     "work-with-me-b37": "31/path---work-with-me-b-37-f8b-Qao70vMD2TggomkZsifQKBnSPbc",
     "tags-graphic-design-3a2": "465/path---tags-graphic-design-3-a-2-3cf-0e9V4HFxpNCZiP0xSetD9cZhyKY",
-    "tags-web-design-14d": "864/path---tags-web-design-14-d-e34-LzmpW9qMay41QtqwzysJnLSJ3I8",
+    "tags-web-design-14d": "882/path---tags-web-design-14-d-e34-Ghmp3Y3OUWn1GLDGy7ReJxYpxQ",
     "tags-podcast-852": "424/path---tags-podcast-852-151-oX64yKSFUWLeQCegLzhTEG0K514",
     "tags-videography-059": "824/path---tags-videography-059-2b5-ndNa7avEZhkDemotl54AgLMp43g",
     "tags-social-media-15a": "474/path---tags-social-media-15-a-f81-CXJyYDFFmbKy7v3fDoeenIMuSGg",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "listen-498": "738/path---listen-498-c78-NZuapzHg3X9TaN1iIixfv1W23E",
-    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "tags-concept-d00": "704/path---tags-concept-d-00-924-8E5jlfMHb84LUkTqG8cvjDKwvI",
+    "tags-ui-ux-dfc": "24/path---tags-ui-ux-dfc-12e-wrneBQERucvp8Y0P3bAE8ayFo",
+    "portfolio-stranger-25d": "935/path---portfolio-stranger-25-d-97b-qUTBCega8adbsF3t7qqB3IYX7k"
   },
   "components": {
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js": {
