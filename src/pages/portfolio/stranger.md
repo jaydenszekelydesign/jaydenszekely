@@ -2,7 +2,6 @@
 templateKey: portfolio
 date: 2019-06-17T06:24:20.474Z
 title: Stranger
-discoverable: yes
 image: /img/stranger-menu-full-res.jpg
 description: Stranger
 jobDate: SEP 2018
@@ -18,7 +17,7 @@ portfolioQuote: >-
   This design pushed the boundaries of modern design, something I aim to do with
   every project.
 bigImageTwo: /img/stranger-collection-page-web-res.jpg
-portfolioName: STRANGER
+portfolioName: Stranger
 portfolioImage: /img/stranger-menu-full-res.jpg
 portfolioLink: /stranger
 tags:
