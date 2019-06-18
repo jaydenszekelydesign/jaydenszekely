@@ -41,6 +41,7 @@ export const HomePageTemplate = ({
     <Layout>
       <Helmet>
         <meta charSet="utf-8" />
+        <meta name="google-site-verification" content="Qj-P9XrSWXm24DD1HqDrbuEbf2OssAVx8-wgJZwMQlA" />
         <title>Jayden Szekey - Creative Media</title>
         <meta name="description" content={"Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
       </Helmet>
