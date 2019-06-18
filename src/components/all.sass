@@ -190,11 +190,12 @@ header
   background-position: center
   margin-bottom: 75px
   text-align: center
-  display: flex
+  display: inline-block
   width: $w-o8
+  overflow: hidden
 
 .glaze
-  background-color: rgba(0,0,0,0.25)
+  background-color: rgba(0,0,0,0.4)
   padding-top: 200px
   padding-bottom: 200px
   padding-left: 20px
@@ -202,17 +203,23 @@ header
   font-size: inherit
   color: #fff
   display: relative
-  width: 100%
+  width: calc(100% - 40px)
+  transition-duration: 0.8s
+
+  h2 
+    margin-bottom: 0px
+
+@media screen and (min-width: $break-large) 
+  .glaze:hover
+    background-color: rgba(0,0,0,0.1)
 
   h1 
     color: #fff
 
-  .trans-out
-    color: black
-    -webkit-text-fill-color: black
-    -webkit-text-stroke-width: 2px
-    -webkit-text-stroke-color: white
-    font-size: 7.5em
+@media screen and (max-width: $break-small) 
+  .glaze
+    padding-top: 75px
+    padding-bottom: 75px
 
 
 .secondHalf

@@ -37,7 +37,7 @@ export default class Portfolio extends React.Component {
                 <Link to={post.fields.slug}>
                   <div className="listing" key={post.id} style={{backgroundImage: 'url("'+post.frontmatter.portfolioImage+'")'}}>
                     <div className="glaze">
-                      <h1>{post.frontmatter.portfolioName}</h1>{post.frontmatter.jobDate}
+                      <h2>{post.frontmatter.portfolioName}</h2>{post.frontmatter.jobDate}
                     </div>
                   </div>
                 </Link>
