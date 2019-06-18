@@ -35,22 +35,23 @@ export const PortfolioPostTemplate = ({
       <Helmet>
         <meta charSet="utf-8" />
         <title>{portfolioName} - Jayden Szekey - Creative Media</title>
-        <meta name="description" content={portfolioName + portfolioDescription + "Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
+        <meta name="description" content={portfolioName + portfolioDescription + leftColumn + "Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
       </Helmet>
       <Banner background={portfolioImage}>
         {portfolioName}
       </Banner>
       <div className="article big-padding">
         <div className="left">
-          <h4 className="accent">
-            {jobDate}
-          </h4>
-          <p>
-            {leftColumn}
-          </p>
+        <h1>01.</h1>
+        
         </div>
         <div className="right">
-          <h5>OVERVIEW</h5>
+          <h4>
+            {jobDate}
+          </h4>
+          <h6>
+            {leftColumn}<br /><br />
+          </h6>
           <p>
             {portfolioDescription}
           </p>
@@ -63,7 +64,7 @@ export const PortfolioPostTemplate = ({
       </div>
       <img src={bigImageTwo} className="full"/>
       <div className="article">
-        <div className="full-portfolio">
+        <div className="full-portfolio big-padding">
           <p>
             <PostContent content={content}/>
           </p>

@@ -1472,12 +1472,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-06-17T06:10:23.784Z",
+      "buildTime": "2019-06-18T03:01:35.272Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6f2685b3ac4318c2f53acf5350a53565",
+        "contentDigest": "64e4e4011b1bbd890e6c5168b78dfad4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1487,7 +1487,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4d07b48be4093bbe2ead9422953c3c7f",
+        "contentDigest": "743386d2a90972d4713c7eff5cef5574",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1498,9 +1498,9 @@
       "extension": "",
       "size": 416,
       "prettySize": "416 B",
-      "modifiedTime": "2019-06-15T06:04:35.222Z",
-      "accessTime": "2019-06-17T06:10:26.657Z",
-      "changeTime": "2019-06-15T06:04:35.222Z",
+      "modifiedTime": "2019-06-17T07:29:42.820Z",
+      "accessTime": "2019-06-18T03:01:39.895Z",
+      "changeTime": "2019-06-17T07:29:42.820Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src",
@@ -1517,57 +1517,13 @@
       "blksize": 4194304,
       "ino": 21954363,
       "blocks": 0,
-      "atimeMs": 1560751826657.1553,
-      "mtimeMs": 1560578675222.0308,
-      "ctimeMs": 1560578675222.0308,
+      "atimeMs": 1560826899894.8677,
+      "mtimeMs": 1560756582820.3757,
+      "ctimeMs": 1560756582820.3757,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:26.657Z",
-      "mtime": "2019-06-15T06:04:35.222Z",
-      "ctime": "2019-06-15T06:04:35.222Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "f49b3d41-8450-5332-977a-6487361b7694": {
-      "id": "f49b3d41-8450-5332-977a-6487361b7694",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "287b26c1423112602bc516f5a5492b8a",
-        "type": "Directory",
-        "description": "Directory \"src/pages/about\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/about",
-      "relativePath": "about",
-      "extension": "",
-      "size": 96,
-      "prettySize": "96 B",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-17T06:10:26.661Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
-      "base": "about",
-      "ext": "",
-      "name": "about",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 16877,
-      "nlink": 3,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954365,
-      "blocks": 0,
-      "atimeMs": 1560751826660.5989,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.965,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:26.661Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
+      "atime": "2019-06-18T03:01:39.895Z",
+      "mtime": "2019-06-17T07:29:42.820Z",
+      "ctime": "2019-06-17T07:29:42.820Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "f88ba54b-1190-587d-9196-6e79633f18cc": {
@@ -1575,7 +1531,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2284281a93e9bfc210ba55a57069a4c5",
+        "contentDigest": "4b9a9cff1fccb95a6322a75ee3d8a9f1",
         "type": "Directory",
         "description": "Directory \"src/pages/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -1587,7 +1543,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-06-13T18:29:30.004Z",
-      "accessTime": "2019-06-17T06:10:26.661Z",
+      "accessTime": "2019-06-18T03:01:39.899Z",
       "changeTime": "2019-06-13T18:29:30.004Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1605,13 +1561,57 @@
       "blksize": 4194304,
       "ino": 21954367,
       "blocks": 0,
-      "atimeMs": 1560751826660.6118,
+      "atimeMs": 1560826899899.1714,
       "mtimeMs": 1560450570003.8635,
       "ctimeMs": 1560450570003.8635,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:26.661Z",
+      "atime": "2019-06-18T03:01:39.899Z",
       "mtime": "2019-06-13T18:29:30.004Z",
       "ctime": "2019-06-13T18:29:30.004Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "f49b3d41-8450-5332-977a-6487361b7694": {
+      "id": "f49b3d41-8450-5332-977a-6487361b7694",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8b4336e0635d734b895960c6a6935b58",
+        "type": "Directory",
+        "description": "Directory \"src/pages/about\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/about",
+      "relativePath": "about",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-18T03:01:39.899Z",
+      "changeTime": "2019-06-02T02:01:33.367Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
+      "base": "about",
+      "ext": "",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954365,
+      "blocks": 0,
+      "atimeMs": 1560826899899.179,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893366.965,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-18T03:01:39.899Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "df0e24e0-06d7-5fa2-8cbb-523ec0d67585": {
@@ -1619,7 +1619,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "358d87f290f932563cebc19126e66632",
+        "contentDigest": "74653acbf8e0c90f1aa0a1a4fa90afd0",
         "type": "Directory",
         "description": "Directory \"src/pages/course\"",
         "owner": "gatsby-source-filesystem"
@@ -1631,7 +1631,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-06-12T03:16:40.515Z",
-      "accessTime": "2019-06-17T06:10:26.661Z",
+      "accessTime": "2019-06-18T03:01:39.899Z",
       "changeTime": "2019-06-15T06:04:35.222Z",
       "birthTime": "2019-06-12T03:16:40.514Z",
       "root": "/",
@@ -1649,11 +1649,11 @@
       "blksize": 4194304,
       "ino": 22376650,
       "blocks": 0,
-      "atimeMs": 1560751826660.6257,
+      "atimeMs": 1560826899899.2454,
       "mtimeMs": 1560309400514.8252,
       "ctimeMs": 1560578675222.0308,
       "birthtimeMs": 1560309400513.8855,
-      "atime": "2019-06-17T06:10:26.661Z",
+      "atime": "2019-06-18T03:01:39.899Z",
       "mtime": "2019-06-12T03:16:40.515Z",
       "ctime": "2019-06-15T06:04:35.222Z",
       "birthtime": "2019-06-12T03:16:40.514Z"
@@ -1663,7 +1663,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "05d85593bdf413f86625331f2375acc9",
+        "contentDigest": "ba731871d92d597adc66b14ddd9bfee6",
         "type": "Directory",
         "description": "Directory \"src/pages/jargon\"",
         "owner": "gatsby-source-filesystem"
@@ -1675,7 +1675,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-17T06:10:26.661Z",
+      "accessTime": "2019-06-18T03:01:39.899Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1693,11 +1693,11 @@
       "blksize": 4194304,
       "ino": 21954374,
       "blocks": 0,
-      "atimeMs": 1560751826660.6536,
+      "atimeMs": 1560826899899.1965,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.5466,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:26.661Z",
+      "atime": "2019-06-18T03:01:39.899Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1707,7 +1707,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7c876f2839bc98da48eebb624ab06524",
+        "contentDigest": "8d95f5b542d87c6b5f91afdc5e8c042a",
         "type": "Directory",
         "description": "Directory \"src/pages/jayden\"",
         "owner": "gatsby-source-filesystem"
@@ -1718,9 +1718,9 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2019-06-12T21:24:24.458Z",
-      "accessTime": "2019-06-17T06:10:26.661Z",
-      "changeTime": "2019-06-12T21:24:24.458Z",
+      "modifiedTime": "2019-06-17T07:29:42.821Z",
+      "accessTime": "2019-06-18T03:01:39.899Z",
+      "changeTime": "2019-06-17T07:29:42.821Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
@@ -1737,13 +1737,13 @@
       "blksize": 4194304,
       "ino": 21954376,
       "blocks": 0,
-      "atimeMs": 1560751826660.6404,
-      "mtimeMs": 1560374664458.379,
-      "ctimeMs": 1560374664458.379,
+      "atimeMs": 1560826899899.2974,
+      "mtimeMs": 1560756582820.9316,
+      "ctimeMs": 1560756582820.9316,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:26.661Z",
-      "mtime": "2019-06-12T21:24:24.458Z",
-      "ctime": "2019-06-12T21:24:24.458Z",
+      "atime": "2019-06-18T03:01:39.899Z",
+      "mtime": "2019-06-17T07:29:42.821Z",
+      "ctime": "2019-06-17T07:29:42.821Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "4608b4dc-03b2-594c-862a-35c4888572c7": {
@@ -1751,7 +1751,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "96a57a6b6bdabba9a103741417029991",
+        "contentDigest": "2d8b7b6cf319d7798d2148a389ba9b58",
         "type": "Directory",
         "description": "Directory \"src/pages/listen\"",
         "owner": "gatsby-source-filesystem"
@@ -1763,7 +1763,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-17T06:10:26.661Z",
+      "accessTime": "2019-06-18T03:01:39.899Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1781,11 +1781,11 @@
       "blksize": 4194304,
       "ino": 21954378,
       "blocks": 0,
-      "atimeMs": 1560751826660.6672,
+      "atimeMs": 1560826899899.305,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.8938,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:26.661Z",
+      "atime": "2019-06-18T03:01:39.899Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1795,7 +1795,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4d14f718cc63541898894ad1afc40710",
+        "contentDigest": "683875102bb775f744b709b4eb73049a",
         "type": "Directory",
         "description": "Directory \"src/pages/portfolio\"",
         "owner": "gatsby-source-filesystem"
@@ -1804,11 +1804,11 @@
       "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio",
       "relativePath": "portfolio",
       "extension": "",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2019-06-12T21:24:24.460Z",
-      "accessTime": "2019-06-17T06:10:26.661Z",
-      "changeTime": "2019-06-12T21:24:24.460Z",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2019-06-17T07:29:42.822Z",
+      "accessTime": "2019-06-18T03:01:39.899Z",
+      "changeTime": "2019-06-17T07:29:42.822Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
@@ -1818,20 +1818,20 @@
       "relativeDirectory": "",
       "dev": 16777221,
       "mode": 16877,
-      "nlink": 4,
+      "nlink": 6,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 21954380,
       "blocks": 0,
-      "atimeMs": 1560751826660.6812,
-      "mtimeMs": 1560374664459.68,
-      "ctimeMs": 1560374664459.68,
+      "atimeMs": 1560826899899.3328,
+      "mtimeMs": 1560756582821.9502,
+      "ctimeMs": 1560756582821.9502,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:26.661Z",
-      "mtime": "2019-06-12T21:24:24.460Z",
-      "ctime": "2019-06-12T21:24:24.460Z",
+      "atime": "2019-06-18T03:01:39.899Z",
+      "mtime": "2019-06-17T07:29:42.822Z",
+      "ctime": "2019-06-17T07:29:42.822Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "273c2fa5-fa5e-5ed9-bdcf-bb76d82a9c04": {
@@ -1839,7 +1839,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ace8b07aab8acefa733a278d6e5f7bbc",
+        "contentDigest": "23701efb3478c481912109c05804e72a",
         "type": "Directory",
         "description": "Directory \"src/pages/tags\"",
         "owner": "gatsby-source-filesystem"
@@ -1851,7 +1851,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-17T06:10:26.661Z",
+      "accessTime": "2019-06-18T03:01:39.899Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1869,11 +1869,11 @@
       "blksize": 4194304,
       "ino": 21954387,
       "blocks": 0,
-      "atimeMs": 1560751826660.6963,
+      "atimeMs": 1560826899899.343,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.2158,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:26.661Z",
+      "atime": "2019-06-18T03:01:39.899Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1883,7 +1883,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "be29d45c4e3a805f8da93591ecc19d84",
+        "contentDigest": "7f51719f2f79f54a9ba0480ffa8b7196",
         "type": "Directory",
         "description": "Directory \"src/pages/work-with-me\"",
         "owner": "gatsby-source-filesystem"
@@ -1895,7 +1895,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-06-12T08:00:40.649Z",
-      "accessTime": "2019-06-17T06:10:26.661Z",
+      "accessTime": "2019-06-18T03:01:39.899Z",
       "changeTime": "2019-06-12T08:00:40.649Z",
       "birthTime": "2019-06-12T03:29:59.932Z",
       "root": "/",
@@ -1913,21 +1913,115 @@
       "blksize": 4194304,
       "ino": 22377181,
       "blocks": 0,
-      "atimeMs": 1560751826660.742,
+      "atimeMs": 1560826899899.3926,
       "mtimeMs": 1560326440648.836,
       "ctimeMs": 1560326440648.836,
       "birthtimeMs": 1560310199932.096,
-      "atime": "2019-06-17T06:10:26.661Z",
+      "atime": "2019-06-18T03:01:39.899Z",
       "mtime": "2019-06-12T08:00:40.649Z",
       "ctime": "2019-06-12T08:00:40.649Z",
       "birthtime": "2019-06-12T03:29:59.932Z"
+    },
+    "bed7b729-3986-53e8-a668-06af6fdc22fd": {
+      "id": "bed7b729-3986-53e8-a668-06af6fdc22fd",
+      "children": [
+        "effd6241-b3d4-5665-81be-52ae3477106f"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5dbb603929a3aea7b9a580896cb938ed",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/mobile-first.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
+      "relativePath": "blog/mobile-first.md",
+      "extension": "md",
+      "size": 414,
+      "prettySize": "414 B",
+      "modifiedTime": "2019-06-16T04:56:27.563Z",
+      "accessTime": "2019-06-17T06:10:27.093Z",
+      "changeTime": "2019-06-16T04:56:27.563Z",
+      "birthTime": "2019-06-13T18:28:58.201Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
+      "base": "mobile-first.md",
+      "ext": ".md",
+      "name": "mobile-first",
+      "relativeDirectory": "blog",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22478358,
+      "blocks": 8,
+      "atimeMs": 1560751827093.3909,
+      "mtimeMs": 1560660987563.4194,
+      "ctimeMs": 1560660987563.4194,
+      "birthtimeMs": 1560450538201.3699,
+      "atime": "2019-06-17T06:10:27.093Z",
+      "mtime": "2019-06-16T04:56:27.563Z",
+      "ctime": "2019-06-16T04:56:27.563Z",
+      "birthtime": "2019-06-13T18:28:58.201Z"
+    },
+    "176ecdb8-8f9c-53f2-82af-1e462266530e": {
+      "id": "176ecdb8-8f9c-53f2-82af-1e462266530e",
+      "children": [
+        "54141124-6550-5118-92fb-35e9134a6bde"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0a5eac95346b8056acda2704e28fe5b1",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
+      "relativePath": "blog/index.md",
+      "extension": "md",
+      "size": 408,
+      "prettySize": "408 B",
+      "modifiedTime": "2019-06-13T18:27:34.526Z",
+      "accessTime": "2019-06-13T18:27:34.676Z",
+      "changeTime": "2019-06-13T18:27:34.526Z",
+      "birthTime": "2019-06-13T18:27:34.525Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "blog",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22478070,
+      "blocks": 8,
+      "atimeMs": 1560450454675.956,
+      "mtimeMs": 1560450454525.7568,
+      "ctimeMs": 1560450454525.7568,
+      "birthtimeMs": 1560450454525.4192,
+      "atime": "2019-06-13T18:27:34.676Z",
+      "mtime": "2019-06-13T18:27:34.526Z",
+      "ctime": "2019-06-13T18:27:34.526Z",
+      "birthtime": "2019-06-13T18:27:34.525Z"
     },
     "3e45e112-d43b-5a81-a2c4-8b354f85f7f1": {
       "id": "3e45e112-d43b-5a81-a2c4-8b354f85f7f1",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7f3ddcee0254fb1bc375241a1442752f",
+        "contentDigest": "1cbff9088eda9aafa765a6af48901938",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/404.js\"",
@@ -1937,11 +2031,11 @@
       "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/404.js",
       "relativePath": "404.js",
       "extension": "js",
-      "size": 411,
-      "prettySize": "411 B",
-      "modifiedTime": "2019-06-16T22:17:49.325Z",
-      "accessTime": "2019-06-17T00:33:14.975Z",
-      "changeTime": "2019-06-16T22:17:49.325Z",
+      "size": 588,
+      "prettySize": "588 B",
+      "modifiedTime": "2019-06-17T23:11:39.751Z",
+      "accessTime": "2019-06-17T23:14:29.054Z",
+      "changeTime": "2019-06-17T23:11:39.751Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
@@ -1958,13 +2052,13 @@
       "blksize": 4194304,
       "ino": 21954364,
       "blocks": 8,
-      "atimeMs": 1560731594975.4246,
-      "mtimeMs": 1560723469325.27,
-      "ctimeMs": 1560723469325.27,
+      "atimeMs": 1560813269053.7996,
+      "mtimeMs": 1560813099750.874,
+      "ctimeMs": 1560813099750.874,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T00:33:14.975Z",
-      "mtime": "2019-06-16T22:17:49.325Z",
-      "ctime": "2019-06-16T22:17:49.325Z",
+      "atime": "2019-06-17T23:14:29.054Z",
+      "mtime": "2019-06-17T23:11:39.751Z",
+      "ctime": "2019-06-17T23:11:39.751Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff": {
@@ -1987,7 +2081,7 @@
       "size": 1698,
       "prettySize": "1.7 kB",
       "modifiedTime": "2019-06-17T07:29:42.821Z",
-      "accessTime": "2019-06-17T07:29:42.957Z",
+      "accessTime": "2019-06-17T07:30:26.975Z",
       "changeTime": "2019-06-17T07:29:42.821Z",
       "birthTime": "2019-06-17T07:29:42.820Z",
       "root": "/",
@@ -2005,11 +2099,11 @@
       "blksize": 4194304,
       "ino": 22563269,
       "blocks": 8,
-      "atimeMs": 1560756582957.2036,
+      "atimeMs": 1560756626975.4736,
       "mtimeMs": 1560756582820.6514,
       "ctimeMs": 1560756582820.6514,
       "birthtimeMs": 1560756582820.358,
-      "atime": "2019-06-17T07:29:42.957Z",
+      "atime": "2019-06-17T07:30:26.975Z",
       "mtime": "2019-06-17T07:29:42.821Z",
       "ctime": "2019-06-17T07:29:42.821Z",
       "birthtime": "2019-06-17T07:29:42.820Z"
@@ -2034,7 +2128,7 @@
       "size": 1155,
       "prettySize": "1.16 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:46:18.388Z",
+      "accessTime": "2019-06-17T07:27:01.135Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2052,44 +2146,44 @@
       "blksize": 4194304,
       "ino": 21954366,
       "blocks": 8,
-      "atimeMs": 1560725178388.4668,
+      "atimeMs": 1560756421135.3003,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.0078,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:18.388Z",
+      "atime": "2019-06-17T07:27:01.135Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
-    "176ecdb8-8f9c-53f2-82af-1e462266530e": {
-      "id": "176ecdb8-8f9c-53f2-82af-1e462266530e",
+    "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b": {
+      "id": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
       "children": [
-        "54141124-6550-5118-92fb-35e9134a6bde"
+        "576c1608-0625-5c33-b071-c0b97ccc8337"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0a5eac95346b8056acda2704e28fe5b1",
+        "contentDigest": "6530365ac35826f7b986d407df89f75a",
         "type": "File",
         "mediaType": "text/markdown",
-        "description": "File \"src/pages/blog/index.md\"",
+        "description": "File \"src/pages/jargon/index.md\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
-      "relativePath": "blog/index.md",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
+      "relativePath": "jargon/index.md",
       "extension": "md",
-      "size": 408,
-      "prettySize": "408 B",
-      "modifiedTime": "2019-06-13T18:27:34.526Z",
-      "accessTime": "2019-06-16T22:46:18.389Z",
-      "changeTime": "2019-06-13T18:27:34.526Z",
-      "birthTime": "2019-06-13T18:27:34.525Z",
+      "size": 920,
+      "prettySize": "920 B",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-17T06:10:27.094Z",
+      "changeTime": "2019-06-02T02:01:33.367Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
-      "relativeDirectory": "blog",
+      "relativeDirectory": "jargon",
       "dev": 16777221,
       "mode": 33261,
       "nlink": 1,
@@ -2097,63 +2191,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 22478070,
+      "ino": 21954375,
       "blocks": 8,
-      "atimeMs": 1560725178388.782,
-      "mtimeMs": 1560450454525.7568,
-      "ctimeMs": 1560450454525.7568,
-      "birthtimeMs": 1560450454525.4192,
-      "atime": "2019-06-16T22:46:18.389Z",
-      "mtime": "2019-06-13T18:27:34.526Z",
-      "ctime": "2019-06-13T18:27:34.526Z",
-      "birthtime": "2019-06-13T18:27:34.525Z"
-    },
-    "bed7b729-3986-53e8-a668-06af6fdc22fd": {
-      "id": "bed7b729-3986-53e8-a668-06af6fdc22fd",
-      "children": [
-        "effd6241-b3d4-5665-81be-52ae3477106f"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "5dbb603929a3aea7b9a580896cb938ed",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/blog/mobile-first.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
-      "relativePath": "blog/mobile-first.md",
-      "extension": "md",
-      "size": 414,
-      "prettySize": "414 B",
-      "modifiedTime": "2019-06-16T04:56:27.563Z",
-      "accessTime": "2019-06-16T22:46:18.389Z",
-      "changeTime": "2019-06-16T04:56:27.563Z",
-      "birthTime": "2019-06-13T18:28:58.201Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
-      "base": "mobile-first.md",
-      "ext": ".md",
-      "name": "mobile-first",
-      "relativeDirectory": "blog",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22478358,
-      "blocks": 8,
-      "atimeMs": 1560725178388.8115,
-      "mtimeMs": 1560660987563.4194,
-      "ctimeMs": 1560660987563.4194,
-      "birthtimeMs": 1560450538201.3699,
-      "atime": "2019-06-16T22:46:18.389Z",
-      "mtime": "2019-06-16T04:56:27.563Z",
-      "ctime": "2019-06-16T04:56:27.563Z",
-      "birthtime": "2019-06-13T18:28:58.201Z"
+      "atimeMs": 1560751827093.76,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893366.5928,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-17T06:10:27.094Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.367Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "3f64b991-1d6d-5992-8051-42858abe9880": {
       "id": "3f64b991-1d6d-5992-8051-42858abe9880",
@@ -2175,7 +2222,7 @@
       "size": 1129,
       "prettySize": "1.13 kB",
       "modifiedTime": "2019-06-15T06:04:45.960Z",
-      "accessTime": "2019-06-16T22:46:18.389Z",
+      "accessTime": "2019-06-17T06:10:27.094Z",
       "changeTime": "2019-06-15T06:04:45.960Z",
       "birthTime": "2019-06-12T03:16:40.515Z",
       "root": "/",
@@ -2193,11 +2240,11 @@
       "blksize": 4194304,
       "ino": 22376651,
       "blocks": 8,
-      "atimeMs": 1560725178388.6282,
+      "atimeMs": 1560751827093.6047,
       "mtimeMs": 1560578685959.616,
       "ctimeMs": 1560578685959.616,
       "birthtimeMs": 1560309400514.8137,
-      "atime": "2019-06-16T22:46:18.389Z",
+      "atime": "2019-06-17T06:10:27.094Z",
       "mtime": "2019-06-15T06:04:45.960Z",
       "ctime": "2019-06-15T06:04:45.960Z",
       "birthtime": "2019-06-12T03:16:40.515Z"
@@ -2222,7 +2269,7 @@
       "size": 1904,
       "prettySize": "1.9 kB",
       "modifiedTime": "2019-06-17T07:29:42.821Z",
-      "accessTime": "2019-06-17T07:29:42.957Z",
+      "accessTime": "2019-06-17T07:30:26.976Z",
       "changeTime": "2019-06-17T07:29:42.821Z",
       "birthTime": "2019-06-17T07:29:42.821Z",
       "root": "/",
@@ -2240,61 +2287,14 @@
       "blksize": 4194304,
       "ino": 22563270,
       "blocks": 8,
-      "atimeMs": 1560756582957.386,
+      "atimeMs": 1560756626975.5066,
       "mtimeMs": 1560756582821.0938,
       "ctimeMs": 1560756582821.0938,
       "birthtimeMs": 1560756582820.924,
-      "atime": "2019-06-17T07:29:42.957Z",
+      "atime": "2019-06-17T07:30:26.976Z",
       "mtime": "2019-06-17T07:29:42.821Z",
       "ctime": "2019-06-17T07:29:42.821Z",
       "birthtime": "2019-06-17T07:29:42.821Z"
-    },
-    "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b": {
-      "id": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
-      "children": [
-        "576c1608-0625-5c33-b071-c0b97ccc8337"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "6530365ac35826f7b986d407df89f75a",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/jargon/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
-      "relativePath": "jargon/index.md",
-      "extension": "md",
-      "size": 920,
-      "prettySize": "920 B",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:46:18.389Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "jargon",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954375,
-      "blocks": 8,
-      "atimeMs": 1560725178389.0312,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893366.5928,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:18.389Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0": {
       "id": "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0",
@@ -2314,7 +2314,7 @@
       "size": 1705,
       "prettySize": "1.71 kB",
       "modifiedTime": "2019-06-04T02:59:06.917Z",
-      "accessTime": "2019-06-17T00:33:14.976Z",
+      "accessTime": "2019-06-17T07:28:04.518Z",
       "changeTime": "2019-06-04T02:59:06.917Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2332,11 +2332,11 @@
       "blksize": 4194304,
       "ino": 21954379,
       "blocks": 8,
-      "atimeMs": 1560731594975.551,
+      "atimeMs": 1560756484518.124,
       "mtimeMs": 1559617146917.3357,
       "ctimeMs": 1559617146917.3357,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T00:33:14.976Z",
+      "atime": "2019-06-17T07:28:04.518Z",
       "mtime": "2019-06-04T02:59:06.917Z",
       "ctime": "2019-06-04T02:59:06.917Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2361,7 +2361,7 @@
       "size": 212,
       "prettySize": "212 B",
       "modifiedTime": "2019-06-04T01:49:46.130Z",
-      "accessTime": "2019-06-16T22:46:18.390Z",
+      "accessTime": "2019-06-17T06:10:27.094Z",
       "changeTime": "2019-06-04T01:49:46.130Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2379,13 +2379,152 @@
       "blksize": 4194304,
       "ino": 21954382,
       "blocks": 8,
-      "atimeMs": 1560725178389.6685,
+      "atimeMs": 1560751827094.0737,
       "mtimeMs": 1559612986129.838,
       "ctimeMs": 1559612986129.838,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:18.390Z",
+      "atime": "2019-06-17T06:10:27.094Z",
       "mtime": "2019-06-04T01:49:46.130Z",
       "ctime": "2019-06-04T01:49:46.130Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "f3874ce4-c1d7-5d72-b53d-1f8993821fea": {
+      "id": "f3874ce4-c1d7-5d72-b53d-1f8993821fea",
+      "children": [
+        "1acdcee0-19c1-52d1-9255-7fef527ca1c0"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1150a6699414b0c3f3f1c3bf46bcec70",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/portfolio/kate-smith.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/kate-smith.md",
+      "relativePath": "portfolio/kate-smith.md",
+      "extension": "md",
+      "size": 1870,
+      "prettySize": "1.87 kB",
+      "modifiedTime": "2019-06-17T07:29:42.822Z",
+      "accessTime": "2019-06-17T07:29:42.958Z",
+      "changeTime": "2019-06-17T07:29:42.822Z",
+      "birthTime": "2019-06-17T07:29:42.821Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio",
+      "base": "kate-smith.md",
+      "ext": ".md",
+      "name": "kate-smith",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22563271,
+      "blocks": 8,
+      "atimeMs": 1560756582957.5134,
+      "mtimeMs": 1560756582821.5378,
+      "ctimeMs": 1560756582821.5378,
+      "birthtimeMs": 1560756582821.2468,
+      "atime": "2019-06-17T07:29:42.958Z",
+      "mtime": "2019-06-17T07:29:42.822Z",
+      "ctime": "2019-06-17T07:29:42.822Z",
+      "birthtime": "2019-06-17T07:29:42.821Z"
+    },
+    "e96904ec-bbfc-5908-a210-1a3b8b4dec61": {
+      "id": "e96904ec-bbfc-5908-a210-1a3b8b4dec61",
+      "children": [
+        "f5ef53ab-11a2-5e12-b9a1-535e25912966"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "aaf889b5c9b2c28db1af079ab1c64a49",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/portfolio/stranger.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/stranger.md",
+      "relativePath": "portfolio/stranger.md",
+      "extension": "md",
+      "size": 935,
+      "prettySize": "935 B",
+      "modifiedTime": "2019-06-17T07:29:42.822Z",
+      "accessTime": "2019-06-17T07:30:26.996Z",
+      "changeTime": "2019-06-17T07:29:42.822Z",
+      "birthTime": "2019-06-17T07:29:42.822Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio",
+      "base": "stranger.md",
+      "ext": ".md",
+      "name": "stranger",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22563272,
+      "blocks": 8,
+      "atimeMs": 1560756626996.1506,
+      "mtimeMs": 1560756582822.185,
+      "ctimeMs": 1560756582822.185,
+      "birthtimeMs": 1560756582821.933,
+      "atime": "2019-06-17T07:30:26.996Z",
+      "mtime": "2019-06-17T07:29:42.822Z",
+      "ctime": "2019-06-17T07:29:42.822Z",
+      "birthtime": "2019-06-17T07:29:42.822Z"
+    },
+    "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2": {
+      "id": "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e34e12071614cc43efd48477e277b6f7",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/tags/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags/index.js",
+      "relativePath": "tags/index.js",
+      "extension": "js",
+      "size": 1275,
+      "prettySize": "1.27 kB",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-17T07:28:04.518Z",
+      "changeTime": "2019-06-02T02:01:33.367Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "tags",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954388,
+      "blocks": 8,
+      "atimeMs": 1560756484518.1863,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893367.2795,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-17T07:28:04.518Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "04a5bc5f-4bc6-51ba-9df5-931f11ea9086": {
@@ -2408,7 +2547,7 @@
       "size": 1377,
       "prettySize": "1.38 kB",
       "modifiedTime": "2019-06-14T09:18:53.273Z",
-      "accessTime": "2019-06-16T22:46:18.390Z",
+      "accessTime": "2019-06-17T06:10:27.094Z",
       "changeTime": "2019-06-14T09:18:53.273Z",
       "birthTime": "2019-06-12T21:24:24.460Z",
       "root": "/",
@@ -2426,59 +2565,14 @@
       "blksize": 4194304,
       "ino": 22426774,
       "blocks": 8,
-      "atimeMs": 1560725178389.6987,
+      "atimeMs": 1560751827094.0938,
       "mtimeMs": 1560503933272.936,
       "ctimeMs": 1560503933272.936,
       "birthtimeMs": 1560374664459.6716,
-      "atime": "2019-06-16T22:46:18.390Z",
+      "atime": "2019-06-17T06:10:27.094Z",
       "mtime": "2019-06-14T09:18:53.273Z",
       "ctime": "2019-06-14T09:18:53.273Z",
       "birthtime": "2019-06-12T21:24:24.460Z"
-    },
-    "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2": {
-      "id": "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e34e12071614cc43efd48477e277b6f7",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/tags/index.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags/index.js",
-      "relativePath": "tags/index.js",
-      "extension": "js",
-      "size": 1275,
-      "prettySize": "1.27 kB",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-17T00:33:14.976Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "tags",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954388,
-      "blocks": 8,
-      "atimeMs": 1560731594975.5942,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893367.2795,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T00:33:14.976Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4": {
       "id": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4",
@@ -2500,7 +2594,7 @@
       "size": 1286,
       "prettySize": "1.29 kB",
       "modifiedTime": "2019-06-14T23:22:42.543Z",
-      "accessTime": "2019-06-16T22:46:18.390Z",
+      "accessTime": "2019-06-17T06:10:27.095Z",
       "changeTime": "2019-06-14T23:22:42.543Z",
       "birthTime": "2019-06-12T03:29:59.936Z",
       "root": "/",
@@ -2518,11 +2612,11 @@
       "blksize": 4194304,
       "ino": 22377183,
       "blocks": 8,
-      "atimeMs": 1560725178389.9116,
+      "atimeMs": 1560751827094.71,
       "mtimeMs": 1560554562543.154,
       "ctimeMs": 1560554562543.154,
       "birthtimeMs": 1560310199936.0076,
-      "atime": "2019-06-16T22:46:18.390Z",
+      "atime": "2019-06-17T06:10:27.095Z",
       "mtime": "2019-06-14T23:22:42.543Z",
       "ctime": "2019-06-14T23:22:42.543Z",
       "birthtime": "2019-06-12T03:29:59.936Z"
@@ -2547,7 +2641,7 @@
       "size": 1301,
       "prettySize": "1.3 kB",
       "modifiedTime": "2019-06-14T08:30:37.507Z",
-      "accessTime": "2019-06-16T22:46:18.390Z",
+      "accessTime": "2019-06-14T09:21:25.425Z",
       "changeTime": "2019-06-14T08:30:37.507Z",
       "birthTime": "2019-06-12T08:00:40.649Z",
       "root": "/",
@@ -2565,80 +2659,14 @@
       "blksize": 4194304,
       "ino": 22384084,
       "blocks": 8,
-      "atimeMs": 1560725178389.9536,
+      "atimeMs": 1560504085425.3364,
       "mtimeMs": 1560501037507.4082,
       "ctimeMs": 1560501037507.4082,
       "birthtimeMs": 1560326440648.812,
-      "atime": "2019-06-16T22:46:18.390Z",
+      "atime": "2019-06-14T09:21:25.425Z",
       "mtime": "2019-06-14T08:30:37.507Z",
       "ctime": "2019-06-14T08:30:37.507Z",
       "birthtime": "2019-06-12T08:00:40.649Z"
-    },
-    "54141124-6550-5118-92fb-35e9134a6bde": {
-      "id": "54141124-6550-5118-92fb-35e9134a6bde",
-      "children": [],
-      "parent": "176ecdb8-8f9c-53f2-82af-1e462266530e",
-      "internal": {
-        "content": "# Get Reading\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "8023f3a83c00454385e3fef976aa946d",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "All Articles",
-        "templateKey": "all-articles",
-        "date": "2019-06-13T18:25:05.431Z",
-        "header": "/img/hhf-book.png",
-        "description": "This blog will share the latest trends and ideas in the design world keeping you informed with your design decisions.",
-        "recommendedName": "What Is Cancer?",
-        "recommendedImage": "/img/sleep.jpg",
-        "recommendedLink": "https://www.whatthecancer.com/what-is-cancer",
-        "tags": [
-          "home"
-        ],
-        "_PARENT": "176ecdb8-8f9c-53f2-82af-1e462266530e"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "# Get Reading\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
-      "fields": {
-        "slug": "/blog/"
-      }
-    },
-    "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": {
-      "id": "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc",
-      "children": [],
-      "parent": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f",
-      "internal": {
-        "content": "**What can I do? **This is the most common question I am asked by someone facing a cancer journey. This inspired a booklet I wrote called **\"What can I do?'** to help patients change their lifestyle to maximize their chance of a good outcome. The website will be an expanded resource to help you on your cancer journey. \n\nThrough the blog I will bring you the science and practical advice you need to make changes. On the resources page you will find links to books, articles and websites that can help you. If there is a cost attached I try to find the cheapest price for you. I make no money from the resources.\n\nYou can follow us on Aacebook and Instagrgam. If you like listening to the articles you can find them on apple podcast and Spotify. If you would like notifications of when a new article is written, you can submit your name and email on the front page.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "839131d622df773ab3ba026203c613cc",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "About What The Cancer",
-        "templateKey": "about-page",
-        "full_image": "/img/about-two.jpg",
-        "leftBackground": "/img/39748560_10157016425674369_11675533586726912_n-2-.jpg",
-        "leftTitle": "Our Resources",
-        "leftLink": "/resources",
-        "rightTitle": "Meet Lisa",
-        "rightDescription": "Medical Oncologist",
-        "rightUrl": "/lisa",
-        "_PARENT": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "**What can I do? **This is the most common question I am asked by someone facing a cancer journey. This inspired a booklet I wrote called **\"What can I do?'** to help patients change their lifestyle to maximize their chance of a good outcome. The website will be an expanded resource to help you on your cancer journey. \n\nThrough the blog I will bring you the science and practical advice you need to make changes. On the resources page you will find links to books, articles and websites that can help you. If there is a cost attached I try to find the cheapest price for you. I make no money from the resources.\n\nYou can follow us on Aacebook and Instagrgam. If you like listening to the articles you can find them on apple podcast and Spotify. If you would like notifications of when a new article is written, you can submit your name and email on the front page.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/about/index.md",
-      "fields": {
-        "slug": "/about/"
-      }
     },
     "effd6241-b3d4-5665-81be-52ae3477106f": {
       "id": "effd6241-b3d4-5665-81be-52ae3477106f",
@@ -2675,36 +2703,114 @@
         "slug": "/blog/mobile-first/"
       }
     },
-    "ca250394-f2f2-5e21-b3f6-c6f6605f5fcb": {
-      "id": "ca250394-f2f2-5e21-b3f6-c6f6605f5fcb",
+    "54141124-6550-5118-92fb-35e9134a6bde": {
+      "id": "54141124-6550-5118-92fb-35e9134a6bde",
       "children": [],
-      "parent": "3f64b991-1d6d-5992-8051-42858abe9880",
+      "parent": "176ecdb8-8f9c-53f2-82af-1e462266530e",
       "internal": {
-        "content": "Coming Soon to Udemy.com\\\n\\\nThe face of the internet and digital world has morphed into a hub of incredible content and technology allowing us to do so much more with the internet.  The introduction of the iPhone saw a slow push towards responsive, mobile friendly websites back in 2007, however in 2012 when cheaper entry level smart phones started to flood the market, mobile devices quickly over took desktops / laptops as the most common method of viewing a website.\\\n\\\nThis course teaches you everything about how to make a stunning, mobile-first website using HTML5, CSS3 and basic Jquery (a Javascript framework).  This course will also teach you about modern web design fundamentals using Experience Design Software - Adobe XD to prototype a website to develop with purpose.\\\n\\\nI can not wait to share this with you,\\\nJayden\n",
+        "content": "# Get Reading\n",
         "type": "MarkdownRemark",
-        "contentDigest": "9700593daebb2618051311f367a18326",
+        "contentDigest": "8023f3a83c00454385e3fef976aa946d",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
         }
       },
       "frontmatter": {
-        "title": "Course",
-        "templateKey": "about-page",
-        "full_image": "/img/course.jpg",
-        "leftBackground": "/img/39748560_10157016425674369_11675533586726912_n-2-.jpg",
-        "leftTitle": "Work With Me",
-        "leftLink": "/work-with-me",
-        "rightTitle": "Coming Soon",
-        "rightDescription": "Exclusively on udemy.com",
-        "rightUrl": "https://www.udemy.com",
-        "_PARENT": "3f64b991-1d6d-5992-8051-42858abe9880"
+        "title": "All Articles",
+        "templateKey": "all-articles",
+        "date": "2019-06-13T18:25:05.431Z",
+        "header": "/img/hhf-book.png",
+        "description": "This blog will share the latest trends and ideas in the design world keeping you informed with your design decisions.",
+        "recommendedName": "What Is Cancer?",
+        "recommendedImage": "/img/sleep.jpg",
+        "recommendedLink": "https://www.whatthecancer.com/what-is-cancer",
+        "tags": [
+          "home"
+        ],
+        "_PARENT": "176ecdb8-8f9c-53f2-82af-1e462266530e"
       },
       "excerpt": "",
-      "rawMarkdownBody": "Coming Soon to Udemy.com\\\n\\\nThe face of the internet and digital world has morphed into a hub of incredible content and technology allowing us to do so much more with the internet.  The introduction of the iPhone saw a slow push towards responsive, mobile friendly websites back in 2007, however in 2012 when cheaper entry level smart phones started to flood the market, mobile devices quickly over took desktops / laptops as the most common method of viewing a website.\\\n\\\nThis course teaches you everything about how to make a stunning, mobile-first website using HTML5, CSS3 and basic Jquery (a Javascript framework).  This course will also teach you about modern web design fundamentals using Experience Design Software - Adobe XD to prototype a website to develop with purpose.\\\n\\\nI can not wait to share this with you,\\\nJayden\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/course/index.md",
+      "rawMarkdownBody": "# Get Reading\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
       "fields": {
-        "slug": "/course/"
+        "slug": "/blog/"
+      }
+    },
+    "4935f1f2-85c2-59a1-acba-03677e785625": {
+      "id": "4935f1f2-85c2-59a1-acba-03677e785625",
+      "children": [],
+      "parent": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
+      "internal": {
+        "content": "Hi, I'm Jayden Szekely an experienced multi-disciplined creative, I am an independent freelancer ready to support you with your creative projects. \\\n\\\nPushing the boundaries in creative design and producing aesthetically pleasing digital products is my speciality.\\\n\\\nI aim to take the complexity out of website design and development for my clients.  Through consultation and listening to your story I can develop a solution that is right for you and your business. \\\n\\\nWith knowledge and skill in a range of media, I am honoured to provide a variety of services to simplify the experience for my clients.  This means I am available to provide and support you with an entire package, without outsourcing various areas of the project. \\\n\\\nAs a creative, with energy and passion for design I look forward to working with you on your upcoming projects.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "e5a45fd539777dd1a571f5f8c181fc25",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Jayden Szekely",
+        "templateKey": "home",
+        "image": "/img/me_rocks_photography.jpg",
+        "imageOne": "/img/katesmith.jpg",
+        "imageTwo": "/img/stranger-home-web-res.jpg",
+        "imageThree": "/img/medusa-full-page-smaller-res.jpg",
+        "imageFour": "/img/zeal-hospitality-logo-square.png",
+        "imageFive": "/img/vous-mockup-checkin-web.jpg",
+        "imageSix": "/img/hhf-book.png",
+        "imageSeven": "/img/bodyaware-laptop-mockup.jpg",
+        "imageEight": "/img/tesla-model-s-navigation-web.jpg",
+        "imageNine": "/img/wtc-light-story-quote.jpg",
+        "imageTen": "img/home.jpg",
+        "imageEleven": "img/anthony-intraversato-455600-unsplash.jpg",
+        "imageTwelve": "img/home.jpg",
+        "imageThirteen": "img/anthony-intraversato-455600-unsplash.jpg",
+        "imageFourteen": "img/home.jpg",
+        "imageFifteen": "img/anthony-intraversato-455600-unsplash.jpg",
+        "announcementBlurb": "View my Portfolio",
+        "announcementLink": "/portfolio",
+        "announcementImage": "img/anthony-intraversato-455600-unsplash.jpg",
+        "_PARENT": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Hi, I'm Jayden Szekely an experienced multi-disciplined creative, I am an independent freelancer ready to support you with your creative projects. \\\n\\\nPushing the boundaries in creative design and producing aesthetically pleasing digital products is my speciality.\\\n\\\nI aim to take the complexity out of website design and development for my clients.  Through consultation and listening to your story I can develop a solution that is right for you and your business. \\\n\\\nWith knowledge and skill in a range of media, I am honoured to provide a variety of services to simplify the experience for my clients.  This means I am available to provide and support you with an entire package, without outsourcing various areas of the project. \\\n\\\nAs a creative, with energy and passion for design I look forward to working with you on your upcoming projects.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
+      "fields": {
+        "slug": "/"
+      }
+    },
+    "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": {
+      "id": "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc",
+      "children": [],
+      "parent": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f",
+      "internal": {
+        "content": "**What can I do? **This is the most common question I am asked by someone facing a cancer journey. This inspired a booklet I wrote called **\"What can I do?'** to help patients change their lifestyle to maximize their chance of a good outcome. The website will be an expanded resource to help you on your cancer journey. \n\nThrough the blog I will bring you the science and practical advice you need to make changes. On the resources page you will find links to books, articles and websites that can help you. If there is a cost attached I try to find the cheapest price for you. I make no money from the resources.\n\nYou can follow us on Aacebook and Instagrgam. If you like listening to the articles you can find them on apple podcast and Spotify. If you would like notifications of when a new article is written, you can submit your name and email on the front page.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "839131d622df773ab3ba026203c613cc",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About What The Cancer",
+        "templateKey": "about-page",
+        "full_image": "/img/about-two.jpg",
+        "leftBackground": "/img/39748560_10157016425674369_11675533586726912_n-2-.jpg",
+        "leftTitle": "Our Resources",
+        "leftLink": "/resources",
+        "rightTitle": "Meet Lisa",
+        "rightDescription": "Medical Oncologist",
+        "rightUrl": "/lisa",
+        "_PARENT": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "**What can I do? **This is the most common question I am asked by someone facing a cancer journey. This inspired a booklet I wrote called **\"What can I do?'** to help patients change their lifestyle to maximize their chance of a good outcome. The website will be an expanded resource to help you on your cancer journey. \n\nThrough the blog I will bring you the science and practical advice you need to make changes. On the resources page you will find links to books, articles and websites that can help you. If there is a cost attached I try to find the cheapest price for you. I make no money from the resources.\n\nYou can follow us on Aacebook and Instagrgam. If you like listening to the articles you can find them on apple podcast and Spotify. If you would like notifications of when a new article is written, you can submit your name and email on the front page.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/about/index.md",
+      "fields": {
+        "slug": "/about/"
       }
     },
     "576c1608-0625-5c33-b071-c0b97ccc8337": {
@@ -2737,6 +2843,186 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
       "fields": {
         "slug": "/jargon/"
+      }
+    },
+    "ca250394-f2f2-5e21-b3f6-c6f6605f5fcb": {
+      "id": "ca250394-f2f2-5e21-b3f6-c6f6605f5fcb",
+      "children": [],
+      "parent": "3f64b991-1d6d-5992-8051-42858abe9880",
+      "internal": {
+        "content": "Coming Soon to Udemy.com\\\n\\\nThe face of the internet and digital world has morphed into a hub of incredible content and technology allowing us to do so much more with the internet.  The introduction of the iPhone saw a slow push towards responsive, mobile friendly websites back in 2007, however in 2012 when cheaper entry level smart phones started to flood the market, mobile devices quickly over took desktops / laptops as the most common method of viewing a website.\\\n\\\nThis course teaches you everything about how to make a stunning, mobile-first website using HTML5, CSS3 and basic Jquery (a Javascript framework).  This course will also teach you about modern web design fundamentals using Experience Design Software - Adobe XD to prototype a website to develop with purpose.\\\n\\\nI can not wait to share this with you,\\\nJayden\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "9700593daebb2618051311f367a18326",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Course",
+        "templateKey": "about-page",
+        "full_image": "/img/course.jpg",
+        "leftBackground": "/img/39748560_10157016425674369_11675533586726912_n-2-.jpg",
+        "leftTitle": "Work With Me",
+        "leftLink": "/work-with-me",
+        "rightTitle": "Coming Soon",
+        "rightDescription": "Exclusively on udemy.com",
+        "rightUrl": "https://www.udemy.com",
+        "_PARENT": "3f64b991-1d6d-5992-8051-42858abe9880"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Coming Soon to Udemy.com\\\n\\\nThe face of the internet and digital world has morphed into a hub of incredible content and technology allowing us to do so much more with the internet.  The introduction of the iPhone saw a slow push towards responsive, mobile friendly websites back in 2007, however in 2012 when cheaper entry level smart phones started to flood the market, mobile devices quickly over took desktops / laptops as the most common method of viewing a website.\\\n\\\nThis course teaches you everything about how to make a stunning, mobile-first website using HTML5, CSS3 and basic Jquery (a Javascript framework).  This course will also teach you about modern web design fundamentals using Experience Design Software - Adobe XD to prototype a website to develop with purpose.\\\n\\\nI can not wait to share this with you,\\\nJayden\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/course/index.md",
+      "fields": {
+        "slug": "/course/"
+      }
+    },
+    "df0b2ad0-0419-5d6e-9631-999c911f3931": {
+      "id": "df0b2ad0-0419-5d6e-9631-999c911f3931",
+      "children": [],
+      "parent": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7",
+      "internal": {
+        "content": "I am an accomplished multi-disciplined creative with a vast range of experience.  Currently situated in Whangarei, New Zealand.  I am working with a range of clients in different locations throughout New Zealand.  For the previous six years I have gained valuable experience in web design, front-end development, graphic design, video production and editing.\\\n\\\nGraduating from one of the most sought after creative Universities in the Southern Hemisphere, Media Design School, I am working with clients to create outstanding creative solutions.   Solutions that are both graphically attractive but functional to meet my clients needs. \\\n\\\nMy passion of UI / UX design and front end development ensures that websites and digital media created by myself are aesthetically pleasing to the viewer but easy to navigate for multi-generational use. \\\n\\\nI am honoured to have worked with clients creating their brand identity,  Listening to the needs of my clients to ensure the results are just as they imagined, whilst pushing the boundaries in design to share alternative possibilities. \\\n\\\nSupporting a diverse range of businesses, managing their social media marketing campaigns and building their social media profile to connect with existing and new clients is another area of expertise. \\\n\\\nI am a keen photographer who enjoys telling stories through powerful images,  I have experience with photography for various projects, plus video production and editing.\\\n\\\nIf you are wanting someone who enjoys pushing the boundaries in design and has up to date skill and knowledge of creative techniques, be sure to get in touch today!\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "b813c004b038e9cc278d779a227c31f1",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Jayden Szekely",
+        "templateKey": "about-page",
+        "discoverable": "no",
+        "full_image": "/img/portfoliopic.jpg",
+        "leftBackground": "/img/portfoliopic.jpg",
+        "leftTitle": "DOWNLOAD MY CV",
+        "leftLink": "/work-with-me/cv",
+        "rightTitle": "MY PORTFOLIO",
+        "rightDescription": "View it now",
+        "rightUrl": "/portfolio",
+        "_PARENT": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "I am an accomplished multi-disciplined creative with a vast range of experience.  Currently situated in Whangarei, New Zealand.  I am working with a range of clients in different locations throughout New Zealand.  For the previous six years I have gained valuable experience in web design, front-end development, graphic design, video production and editing.\\\n\\\nGraduating from one of the most sought after creative Universities in the Southern Hemisphere, Media Design School, I am working with clients to create outstanding creative solutions.   Solutions that are both graphically attractive but functional to meet my clients needs. \\\n\\\nMy passion of UI / UX design and front end development ensures that websites and digital media created by myself are aesthetically pleasing to the viewer but easy to navigate for multi-generational use. \\\n\\\nI am honoured to have worked with clients creating their brand identity,  Listening to the needs of my clients to ensure the results are just as they imagined, whilst pushing the boundaries in design to share alternative possibilities. \\\n\\\nSupporting a diverse range of businesses, managing their social media marketing campaigns and building their social media profile to connect with existing and new clients is another area of expertise. \\\n\\\nI am a keen photographer who enjoys telling stories through powerful images,  I have experience with photography for various projects, plus video production and editing.\\\n\\\nIf you are wanting someone who enjoys pushing the boundaries in design and has up to date skill and knowledge of creative techniques, be sure to get in touch today!\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden/index.md",
+      "fields": {
+        "slug": "/jayden/"
+      }
+    },
+    "23ba3013-fde7-5793-9118-028f022eeaae": {
+      "id": "23ba3013-fde7-5793-9118-028f022eeaae",
+      "children": [],
+      "parent": "b32e1cb2-eacb-5c4d-8641-e23fc35da015",
+      "internal": {
+        "content": "\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "a07a5a64231bcf246cac0a2a2b322d68",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Portfolio",
+        "templateKey": "portfolio-page",
+        "image": "/img/resource-splash.jpg",
+        "description": "Our goal at What The Cancer is to Equip & Empower you on your cancer Journey",
+        "fullImage": "/img/resource-splash.jpg",
+        "_PARENT": "b32e1cb2-eacb-5c4d-8641-e23fc35da015"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/index.md",
+      "fields": {
+        "slug": "/portfolio/"
+      }
+    },
+    "f5ef53ab-11a2-5e12-b9a1-535e25912966": {
+      "id": "f5ef53ab-11a2-5e12-b9a1-535e25912966",
+      "children": [],
+      "parent": "e96904ec-bbfc-5908-a210-1a3b8b4dec61",
+      "internal": {
+        "content": "Coming Soon\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "4c844b921de899c16a03ea546175791b",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Stranger",
+        "templateKey": "portfolio",
+        "date": "2019-06-17T06:24:20.474Z",
+        "discoverable": "yes",
+        "image": "/img/stranger-menu-full-res.jpg",
+        "description": "Stranger",
+        "jobDate": "SEP 2018",
+        "leftColumn": "UI / UX Design Concept",
+        "portfolioDescription": "This design was a concept piece I did to share with my Instagram followers and to try a new \"Clean-Brutalism\" style which is often an oxymoron.  This design is for a urban streetwear fashion boutique for a male demographic between 16 & 30 and by the choice of layout, typography and colour, this design achieved that.",
+        "bigImageOne": "/img/stranger-home-web-res.jpg",
+        "portfolioQuote": "This design pushed the boundaries of modern design, something I aim to do with every project.",
+        "bigImageTwo": "/img/stranger-collection-page-web-res.jpg",
+        "portfolioName": "Stranger",
+        "portfolioImage": "/img/stranger-menu-full-res.jpg",
+        "portfolioLink": "/stranger",
+        "tags": [
+          "UI / UX",
+          "Web Design",
+          "Concept"
+        ],
+        "_PARENT": "e96904ec-bbfc-5908-a210-1a3b8b4dec61"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Coming Soon\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/stranger.md",
+      "fields": {
+        "slug": "/portfolio/stranger/"
+      }
+    },
+    "1acdcee0-19c1-52d1-9255-7fef527ca1c0": {
+      "id": "1acdcee0-19c1-52d1-9255-7fef527ca1c0",
+      "children": [],
+      "parent": "f3874ce4-c1d7-5d72-b53d-1f8993821fea",
+      "internal": {
+        "content": "In 2017, Kate came to me needing a logo and a business card designed for her new marriage celebrant business.  Kate wanted something minimal yet functional and appropriate for a wide range of celebrant services including funerals.  The design needed to be sensitive for every occasion and be uplifting whilst professional. After a series of concepts, we settled on this design as it encompassed all these elements.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "63d8ff854a060001a0a6bd6d6b8e49a7",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Kate Smith",
+        "templateKey": "portfolio",
+        "date": "2019-06-17T06:57:20.665Z",
+        "discoverable": "yes",
+        "image": "/img/katesmith.jpg",
+        "description": "In 2017, Kate came to me needing a logo and a business card designed for her new marriage celebrant business.  Kate wanted something minimal yet functional and appropriate for a wide range of celebrant services including funerals.  The design needed to be sensitive for every occasion and be uplifting whilst professional. After a series of concepts, we settled on this design as it encompassed all these elements.",
+        "jobDate": "NOV 2017",
+        "leftColumn": "Logo Design & Business Card Design",
+        "portfolioDescription": "In 2017, Kate came to me needing a logo and a business card designed for her new marriage celebrant business.  Kate wanted something minimal yet functional and appropriate for a wide range of celebrant services including funerals.  The design needed to be sensitive for every occasion and be uplifting whilst professional. After a series of concepts, we settled on this design as it encompassed all these elements.",
+        "bigImageOne": "/img/katesmithlogo.jpg",
+        "portfolioQuote": "This project needed to be designed to suit future endeavours other than marriage celebrancy",
+        "bigImageTwo": "/img/kate-smith-businesscard-wrapping-web.jpg",
+        "portfolioName": "Kate Smith",
+        "portfolioImage": "/img/katesmith.jpg",
+        "portfolioLink": "kate-smith",
+        "tags": [
+          "Logo",
+          "Business Cards",
+          "Graphic Design",
+          "Brand Identity"
+        ],
+        "_PARENT": "f3874ce4-c1d7-5d72-b53d-1f8993821fea"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "In 2017, Kate came to me needing a logo and a business card designed for her new marriage celebrant business.  Kate wanted something minimal yet functional and appropriate for a wide range of celebrant services including funerals.  The design needed to be sensitive for every occasion and be uplifting whilst professional. After a series of concepts, we settled on this design as it encompassed all these elements.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/kate-smith.md",
+      "fields": {
+        "slug": "/portfolio/kate-smith/"
       }
     },
     "c5cfc1ee-382e-5b44-b49f-1471895d5a30": {
@@ -2782,34 +3068,6 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/what-the-cancer.md",
       "fields": {
         "slug": "/portfolio/what-the-cancer/"
-      }
-    },
-    "23ba3013-fde7-5793-9118-028f022eeaae": {
-      "id": "23ba3013-fde7-5793-9118-028f022eeaae",
-      "children": [],
-      "parent": "b32e1cb2-eacb-5c4d-8641-e23fc35da015",
-      "internal": {
-        "content": "\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "a07a5a64231bcf246cac0a2a2b322d68",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Portfolio",
-        "templateKey": "portfolio-page",
-        "image": "/img/resource-splash.jpg",
-        "description": "Our goal at What The Cancer is to Equip & Empower you on your cancer Journey",
-        "fullImage": "/img/resource-splash.jpg",
-        "_PARENT": "b32e1cb2-eacb-5c4d-8641-e23fc35da015"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/index.md",
-      "fields": {
-        "slug": "/portfolio/"
       }
     },
     "f63e7d4d-db64-50b7-b1c5-3d7fca33130d": {
@@ -2887,7 +3145,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a0623d638ec256965e9d99227197123b",
+        "contentDigest": "72dd74c6009bc022f851b6167fa3c6e7",
         "type": "Directory",
         "description": "Directory \"src/img\"",
         "owner": "gatsby-source-filesystem"
@@ -2899,7 +3157,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2019-06-16T22:11:02.150Z",
-      "accessTime": "2019-06-17T06:10:26.763Z",
+      "accessTime": "2019-06-18T03:01:40.006Z",
       "changeTime": "2019-06-16T22:11:02.150Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2917,11 +3175,11 @@
       "blksize": 4194304,
       "ino": 21954356,
       "blocks": 0,
-      "atimeMs": 1560751826763.086,
+      "atimeMs": 1560826900005.6306,
       "mtimeMs": 1560723062149.5466,
       "ctimeMs": 1560723062149.5466,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:26.763Z",
+      "atime": "2019-06-18T03:01:40.006Z",
       "mtime": "2019-06-16T22:11:02.150Z",
       "ctime": "2019-06-16T22:11:02.150Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2946,7 +3204,7 @@
       "size": 19592,
       "prettySize": "19.6 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:46:18.413Z",
+      "accessTime": "2019-06-17T06:10:27.132Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2964,11 +3222,56 @@
       "blksize": 4194304,
       "ino": 21954357,
       "blocks": 40,
-      "atimeMs": 1560725178412.9048,
+      "atimeMs": 1560751827132.4202,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.8884,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:18.413Z",
+      "atime": "2019-06-17T06:10:27.132Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.365Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "1dfec910-db7a-54e4-9572-37596969be79": {
+      "id": "1dfec910-db7a-54e4-9572-37596969be79",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9e6df2f4ff081c07a8799e9fa2f3ec90",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/img/github-icon.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/github-icon.svg",
+      "relativePath": "github-icon.svg",
+      "extension": "svg",
+      "size": 2694,
+      "prettySize": "2.69 kB",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-17T06:10:34.148Z",
+      "changeTime": "2019-06-02T02:01:33.365Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
+      "base": "github-icon.svg",
+      "ext": ".svg",
+      "name": "github-icon",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954358,
+      "blocks": 8,
+      "atimeMs": 1560751834148.4226,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893364.7832,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-17T06:10:34.148Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2991,7 +3294,7 @@
       "size": 494,
       "prettySize": "494 B",
       "modifiedTime": "2019-06-02T02:34:08.137Z",
-      "accessTime": "2019-06-16T22:46:18.413Z",
+      "accessTime": "2019-06-17T06:10:27.133Z",
       "changeTime": "2019-06-02T02:34:08.771Z",
       "birthTime": "2019-06-02T02:34:08.137Z",
       "root": "/",
@@ -3009,11 +3312,11 @@
       "blksize": 4194304,
       "ino": 22122980,
       "blocks": 8,
-      "atimeMs": 1560725178413.078,
+      "atimeMs": 1560751827132.584,
       "mtimeMs": 1559442848137.235,
       "ctimeMs": 1559442848771.2979,
       "birthtimeMs": 1559442848137.11,
-      "atime": "2019-06-16T22:46:18.413Z",
+      "atime": "2019-06-17T06:10:27.133Z",
       "mtime": "2019-06-02T02:34:08.137Z",
       "ctime": "2019-06-02T02:34:08.771Z",
       "birthtime": "2019-06-02T02:34:08.137Z"
@@ -3038,7 +3341,7 @@
       "size": 17612,
       "prettySize": "17.6 kB",
       "modifiedTime": "2019-06-02T02:34:08.124Z",
-      "accessTime": "2019-06-16T22:46:18.413Z",
+      "accessTime": "2019-06-17T06:10:27.132Z",
       "changeTime": "2019-06-02T02:34:08.790Z",
       "birthTime": "2019-06-02T02:34:08.124Z",
       "root": "/",
@@ -3056,66 +3359,41 @@
       "blksize": 4194304,
       "ino": 22122979,
       "blocks": 40,
-      "atimeMs": 1560725178412.9868,
+      "atimeMs": 1560751827132.496,
       "mtimeMs": 1559442848123.7708,
       "ctimeMs": 1559442848789.7805,
       "birthtimeMs": 1559442848123.6472,
-      "atime": "2019-06-16T22:46:18.413Z",
+      "atime": "2019-06-17T06:10:27.132Z",
       "mtime": "2019-06-02T02:34:08.124Z",
       "ctime": "2019-06-02T02:34:08.790Z",
       "birthtime": "2019-06-02T02:34:08.124Z"
     },
-    "1dfec910-db7a-54e4-9572-37596969be79": {
-      "id": "1dfec910-db7a-54e4-9572-37596969be79",
+    "f371c1b4-45cb-537f-b403-85ad15e15f8a": {
+      "id": "f371c1b4-45cb-537f-b403-85ad15e15f8a",
       "children": [],
-      "parent": "___SOURCE___",
+      "parent": "3dfeb698-8689-535b-a8d0-daba3d216ad9",
       "internal": {
-        "contentDigest": "9e6df2f4ff081c07a8799e9fa2f3ec90",
-        "type": "File",
-        "mediaType": "image/svg+xml",
-        "description": "File \"src/img/github-icon.svg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/github-icon.svg",
-      "relativePath": "github-icon.svg",
-      "extension": "svg",
-      "size": 2694,
-      "prettySize": "2.69 kB",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:46:25.800Z",
-      "changeTime": "2019-06-02T02:01:33.365Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
-      "base": "github-icon.svg",
-      "ext": ".svg",
-      "name": "github-icon",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954358,
-      "blocks": 8,
-      "atimeMs": 1560725185800.1602,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893364.7832,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:25.800Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.365Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
+        "contentDigest": "f1553e261c09d6300d461dcdb8d07290",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "a0b4565c-5a0b-5093-a9d0-e61d123e90d5": {
+      "id": "a0b4565c-5a0b-5093-a9d0-e61d123e90d5",
+      "children": [],
+      "parent": "d671afb4-d329-5d09-a770-cf5ae30ace37",
+      "internal": {
+        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "bf7ba5fc-310a-590f-9280-bc71ddb9f5b8": {
       "id": "bf7ba5fc-310a-590f-9280-bc71ddb9f5b8",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "94f8360ec7a4ac312bc61cbe8aeb7fd0",
+        "contentDigest": "e3b8187424b58cd724c91a1b4dd9924b",
         "type": "File",
         "mediaType": "image/svg+xml",
         "description": "File \"src/img/jayden-outline.svg\"",
@@ -3127,9 +3405,9 @@
       "extension": "svg",
       "size": 2929,
       "prettySize": "2.93 kB",
-      "modifiedTime": "2019-06-14T06:08:29.490Z",
-      "accessTime": "2019-06-16T22:46:25.800Z",
-      "changeTime": "2019-06-14T06:08:29.490Z",
+      "modifiedTime": "2019-06-18T03:31:49.984Z",
+      "accessTime": "2019-06-18T03:31:49.983Z",
+      "changeTime": "2019-06-18T03:31:49.984Z",
       "birthTime": "2019-06-09T05:37:43.311Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
@@ -3146,13 +3424,13 @@
       "blksize": 4194304,
       "ino": 22291106,
       "blocks": 8,
-      "atimeMs": 1560725185800.247,
-      "mtimeMs": 1560492509489.5295,
-      "ctimeMs": 1560492509489.5295,
+      "atimeMs": 1560828709983.4165,
+      "mtimeMs": 1560828709984.1006,
+      "ctimeMs": 1560828709984.1006,
       "birthtimeMs": 1560058663311.3105,
-      "atime": "2019-06-16T22:46:25.800Z",
-      "mtime": "2019-06-14T06:08:29.490Z",
-      "ctime": "2019-06-14T06:08:29.490Z",
+      "atime": "2019-06-18T03:31:49.983Z",
+      "mtime": "2019-06-18T03:31:49.984Z",
+      "ctime": "2019-06-18T03:31:49.984Z",
       "birthtime": "2019-06-09T05:37:43.311Z"
     },
     "ac0ec5d6-bf14-52f1-a5b3-a119620a81e9": {
@@ -3175,7 +3453,7 @@
       "size": 17612,
       "prettySize": "17.6 kB",
       "modifiedTime": "2019-06-02T02:34:25.106Z",
-      "accessTime": "2019-06-16T22:46:18.414Z",
+      "accessTime": "2019-06-17T06:10:27.133Z",
       "changeTime": "2019-06-02T02:34:25.106Z",
       "birthTime": "2019-06-02T02:32:36.466Z",
       "root": "/",
@@ -3193,11 +3471,11 @@
       "blksize": 4194304,
       "ino": 22122903,
       "blocks": 40,
-      "atimeMs": 1560725178413.8298,
+      "atimeMs": 1560751827133.1272,
       "mtimeMs": 1559442865106.3806,
       "ctimeMs": 1559442865106.3806,
       "birthtimeMs": 1559442756465.6877,
-      "atime": "2019-06-16T22:46:18.414Z",
+      "atime": "2019-06-17T06:10:27.133Z",
       "mtime": "2019-06-02T02:34:25.106Z",
       "ctime": "2019-06-02T02:34:25.106Z",
       "birthtime": "2019-06-02T02:32:36.466Z"
@@ -3220,7 +3498,7 @@
       "size": 23908,
       "prettySize": "23.9 kB",
       "modifiedTime": "2019-06-02T02:35:09.435Z",
-      "accessTime": "2019-06-16T22:46:18.414Z",
+      "accessTime": "2019-06-17T06:10:27.133Z",
       "changeTime": "2019-06-02T02:35:09.435Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3238,34 +3516,14 @@
       "blksize": 4194304,
       "ino": 21954361,
       "blocks": 48,
-      "atimeMs": 1560725178413.9465,
+      "atimeMs": 1560751827133.1777,
       "mtimeMs": 1559442909434.891,
       "ctimeMs": 1559442909434.891,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:18.414Z",
+      "atime": "2019-06-17T06:10:27.133Z",
       "mtime": "2019-06-02T02:35:09.435Z",
       "ctime": "2019-06-02T02:35:09.435Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "f371c1b4-45cb-537f-b403-85ad15e15f8a": {
-      "id": "f371c1b4-45cb-537f-b403-85ad15e15f8a",
-      "children": [],
-      "parent": "3dfeb698-8689-535b-a8d0-daba3d216ad9",
-      "internal": {
-        "contentDigest": "f1553e261c09d6300d461dcdb8d07290",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "a0b4565c-5a0b-5093-a9d0-e61d123e90d5": {
-      "id": "a0b4565c-5a0b-5093-a9d0-e61d123e90d5",
-      "children": [],
-      "parent": "d671afb4-d329-5d09-a770-cf5ae30ace37",
-      "internal": {
-        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9": {
       "id": "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9",
@@ -3297,7 +3555,7 @@
       "size": 122717,
       "prettySize": "123 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:46:18.414Z",
+      "accessTime": "2019-06-17T06:10:27.133Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3315,11 +3573,11 @@
       "blksize": 4194304,
       "ino": 21954360,
       "blocks": 240,
-      "atimeMs": 1560725178413.6902,
+      "atimeMs": 1560751827133.0354,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.9353,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:18.414Z",
+      "atime": "2019-06-17T06:10:27.133Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3354,7 +3612,7 @@
       "size": 266109,
       "prettySize": "266 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-16T22:46:18.414Z",
+      "accessTime": "2019-06-17T06:10:27.133Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3372,11 +3630,11 @@
       "blksize": 4194304,
       "ino": 21954362,
       "blocks": 520,
-      "atimeMs": 1560725178414.0632,
+      "atimeMs": 1560751827133.248,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.823,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:18.414Z",
+      "atime": "2019-06-17T06:10:27.133Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3411,7 +3669,7 @@
       "size": 420820,
       "prettySize": "421 kB",
       "modifiedTime": "2019-06-16T22:11:02.143Z",
-      "accessTime": "2019-06-16T22:49:13.171Z",
+      "accessTime": "2019-06-17T06:10:27.133Z",
       "changeTime": "2019-06-16T22:11:02.150Z",
       "birthTime": "2019-06-16T22:11:01.888Z",
       "root": "/",
@@ -3429,11 +3687,11 @@
       "blksize": 4194304,
       "ino": 22552278,
       "blocks": 824,
-      "atimeMs": 1560725353171.2178,
+      "atimeMs": 1560751827133.321,
       "mtimeMs": 1560723062143.3875,
       "ctimeMs": 1560723062149.5464,
       "birthtimeMs": 1560723061887.9783,
-      "atime": "2019-06-16T22:49:13.171Z",
+      "atime": "2019-06-17T06:10:27.133Z",
       "mtime": "2019-06-16T22:11:02.143Z",
       "ctime": "2019-06-16T22:11:02.150Z",
       "birthtime": "2019-06-16T22:11:01.888Z"
@@ -3468,7 +3726,7 @@
       "size": 1085216,
       "prettySize": "1.09 MB",
       "modifiedTime": "2019-06-02T02:30:48.369Z",
-      "accessTime": "2019-06-16T22:46:18.413Z",
+      "accessTime": "2019-06-17T06:10:27.133Z",
       "changeTime": "2019-06-02T02:30:48.369Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3486,11 +3744,11 @@
       "blksize": 4194304,
       "ino": 21954359,
       "blocks": 2120,
-      "atimeMs": 1560725178413.2612,
+      "atimeMs": 1560751827132.7722,
       "mtimeMs": 1559442648369.1064,
       "ctimeMs": 1559442648369.1064,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-16T22:46:18.413Z",
+      "atime": "2019-06-17T06:10:27.133Z",
       "mtime": "2019-06-02T02:30:48.369Z",
       "ctime": "2019-06-02T02:30:48.369Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3525,7 +3783,7 @@
       "size": 3543638,
       "prettySize": "3.54 MB",
       "modifiedTime": "2019-06-02T02:30:48.455Z",
-      "accessTime": "2019-06-16T22:46:18.413Z",
+      "accessTime": "2019-06-17T06:10:27.133Z",
       "changeTime": "2019-06-02T02:30:48.455Z",
       "birthTime": "2019-06-02T02:30:48.323Z",
       "root": "/",
@@ -3543,11 +3801,11 @@
       "blksize": 4194304,
       "ino": 22122828,
       "blocks": 6928,
-      "atimeMs": 1560725178413.363,
+      "atimeMs": 1560751827132.885,
       "mtimeMs": 1559442648455.294,
       "ctimeMs": 1559442648455.294,
       "birthtimeMs": 1559442648323.497,
-      "atime": "2019-06-16T22:46:18.413Z",
+      "atime": "2019-06-17T06:10:27.133Z",
       "mtime": "2019-06-02T02:30:48.455Z",
       "ctime": "2019-06-02T02:30:48.455Z",
       "birthtime": "2019-06-02T02:30:48.323Z"
@@ -3562,24 +3820,24 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /": {
-      "jsonName": "index",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js",
-      "componentChunkName": "component---src-templates-home-js",
+    "SitePage /blog/mobile-first/": {
+      "jsonName": "blog-mobile-first-301",
+      "internalComponentName": "ComponentBlogMobileFirst",
+      "path": "/blog/mobile-first/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "id": "4935f1f2-85c2-59a1-acba-03677e785625"
+        "id": "effd6241-b3d4-5665-81be-52ae3477106f"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js",
-      "id": "SitePage /",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
+      "id": "SitePage /blog/mobile-first/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b4d20da8d3adf753f7458c579b6c686d",
+        "contentDigest": "fce378860f4db3abdaff616d187e951b",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3606,6 +3864,28 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js",
+      "componentChunkName": "component---src-templates-home-js",
+      "context": {
+        "id": "4935f1f2-85c2-59a1-acba-03677e785625"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b4d20da8d3adf753f7458c579b6c686d",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /about/": {
       "jsonName": "about-f34",
       "internalComponentName": "ComponentAbout",
@@ -3628,24 +3908,24 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /blog/mobile-first/": {
-      "jsonName": "blog-mobile-first-301",
-      "internalComponentName": "ComponentBlogMobileFirst",
-      "path": "/blog/mobile-first/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
+    "SitePage /jargon/": {
+      "jsonName": "jargon-12a",
+      "internalComponentName": "ComponentJargon",
+      "path": "/jargon/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
       "context": {
-        "id": "effd6241-b3d4-5665-81be-52ae3477106f"
+        "id": "576c1608-0625-5c33-b071-c0b97ccc8337"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
-      "id": "SitePage /blog/mobile-first/",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "id": "SitePage /jargon/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fce378860f4db3abdaff616d187e951b",
+        "contentDigest": "fa6168c1298d6fcf2b8890ab556a590d",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3694,24 +3974,68 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /jargon/": {
-      "jsonName": "jargon-12a",
-      "internalComponentName": "ComponentJargon",
-      "path": "/jargon/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "componentChunkName": "component---src-templates-about-page-js",
+    "SitePage /portfolio/": {
+      "jsonName": "portfolio-964",
+      "internalComponentName": "ComponentPortfolio",
+      "path": "/portfolio/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js",
+      "componentChunkName": "component---src-templates-portfolio-page-js",
       "context": {
-        "id": "576c1608-0625-5c33-b071-c0b97ccc8337"
+        "id": "23ba3013-fde7-5793-9118-028f022eeaae"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "id": "SitePage /jargon/",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js",
+      "id": "SitePage /portfolio/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fa6168c1298d6fcf2b8890ab556a590d",
+        "contentDigest": "7677bd910b7ef7214cd3eb6b4985d3e2",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /portfolio/stranger/": {
+      "jsonName": "portfolio-stranger-25d",
+      "internalComponentName": "ComponentPortfolioStranger",
+      "path": "/portfolio/stranger/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "componentChunkName": "component---src-templates-portfolio-js",
+      "context": {
+        "id": "f5ef53ab-11a2-5e12-b9a1-535e25912966"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "id": "SitePage /portfolio/stranger/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fa6451b250b0394becf9809dc375c66c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /portfolio/kate-smith/": {
+      "jsonName": "portfolio-kate-smith-4eb",
+      "internalComponentName": "ComponentPortfolioKateSmith",
+      "path": "/portfolio/kate-smith/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "componentChunkName": "component---src-templates-portfolio-js",
+      "context": {
+        "id": "1acdcee0-19c1-52d1-9255-7fef527ca1c0"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "id": "SitePage /portfolio/kate-smith/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "579694b23a05a9d1d79073a5e75ad6f5",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3734,28 +4058,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "501be200ffc3708d03305294df6dd37a",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /portfolio/": {
-      "jsonName": "portfolio-964",
-      "internalComponentName": "ComponentPortfolio",
-      "path": "/portfolio/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js",
-      "componentChunkName": "component---src-templates-portfolio-page-js",
-      "context": {
-        "id": "23ba3013-fde7-5793-9118-028f022eeaae"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js",
-      "id": "SitePage /portfolio/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7677bd910b7ef7214cd3eb6b4985d3e2",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3826,24 +4128,24 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/graphic-design/": {
-      "jsonName": "tags-graphic-design-3a2",
-      "internalComponentName": "ComponentTagsGraphicDesign",
-      "path": "/tags/graphic-design/",
+    "SitePage /tags/ui-ux/": {
+      "jsonName": "tags-ui-ux-dfc",
+      "internalComponentName": "ComponentTagsUiUx",
+      "path": "/tags/ui-ux/",
       "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
       "componentChunkName": "component---src-templates-tags-js",
       "context": {
-        "tag": "Graphic Design"
+        "tag": "UI / UX"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "id": "SitePage /tags/graphic-design/",
+      "id": "SitePage /tags/ui-ux/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b1921fee4ab46fba276aeb673fb25d40",
+        "contentDigest": "052151b81456e986388e8038d8021add",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3866,6 +4168,116 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "856b675be0e60fc13938034d03ccfab8",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/concept/": {
+      "jsonName": "tags-concept-d00",
+      "internalComponentName": "ComponentTagsConcept",
+      "path": "/tags/concept/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Concept"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/concept/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ae7e61237b48978e57525bd327ae42ae",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/logo/": {
+      "jsonName": "tags-logo-371",
+      "internalComponentName": "ComponentTagsLogo",
+      "path": "/tags/logo/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Logo"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/logo/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "74b831099a405abb1a0d502a6c0af0c9",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/business-cards/": {
+      "jsonName": "tags-business-cards-27d",
+      "internalComponentName": "ComponentTagsBusinessCards",
+      "path": "/tags/business-cards/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Business Cards"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/business-cards/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e5ff1a97546688232be4899b1a71f8d7",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/graphic-design/": {
+      "jsonName": "tags-graphic-design-3a2",
+      "internalComponentName": "ComponentTagsGraphicDesign",
+      "path": "/tags/graphic-design/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Graphic Design"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/graphic-design/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b1921fee4ab46fba276aeb673fb25d40",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/brand-identity/": {
+      "jsonName": "tags-brand-identity-a93",
+      "internalComponentName": "ComponentTagsBrandIdentity",
+      "path": "/tags/brand-identity/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Brand Identity"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/brand-identity/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "03df3324ce0e8419288743ca31023931",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -4017,418 +4429,6 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
-    },
-    "e96904ec-bbfc-5908-a210-1a3b8b4dec61": {
-      "id": "e96904ec-bbfc-5908-a210-1a3b8b4dec61",
-      "children": [
-        "f5ef53ab-11a2-5e12-b9a1-535e25912966"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "aaf889b5c9b2c28db1af079ab1c64a49",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/portfolio/stranger.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/stranger.md",
-      "relativePath": "portfolio/stranger.md",
-      "extension": "md",
-      "size": 935,
-      "prettySize": "935 B",
-      "modifiedTime": "2019-06-17T07:29:42.822Z",
-      "accessTime": "2019-06-17T07:29:42.958Z",
-      "changeTime": "2019-06-17T07:29:42.822Z",
-      "birthTime": "2019-06-17T07:29:42.822Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio",
-      "base": "stranger.md",
-      "ext": ".md",
-      "name": "stranger",
-      "relativeDirectory": "portfolio",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22563272,
-      "blocks": 8,
-      "atimeMs": 1560756582957.6865,
-      "mtimeMs": 1560756582822.185,
-      "ctimeMs": 1560756582822.185,
-      "birthtimeMs": 1560756582821.933,
-      "atime": "2019-06-17T07:29:42.958Z",
-      "mtime": "2019-06-17T07:29:42.822Z",
-      "ctime": "2019-06-17T07:29:42.822Z",
-      "birthtime": "2019-06-17T07:29:42.822Z"
-    },
-    "SitePage /portfolio/stranger/": {
-      "jsonName": "portfolio-stranger-25d",
-      "internalComponentName": "ComponentPortfolioStranger",
-      "path": "/portfolio/stranger/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
-      "componentChunkName": "component---src-templates-portfolio-js",
-      "context": {
-        "id": "f5ef53ab-11a2-5e12-b9a1-535e25912966"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
-      "id": "SitePage /portfolio/stranger/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fa6451b250b0394becf9809dc375c66c",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/ui-ux/": {
-      "jsonName": "tags-ui-ux-dfc",
-      "internalComponentName": "ComponentTagsUiUx",
-      "path": "/tags/ui-ux/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "UI / UX"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "id": "SitePage /tags/ui-ux/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "052151b81456e986388e8038d8021add",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/concept/": {
-      "jsonName": "tags-concept-d00",
-      "internalComponentName": "ComponentTagsConcept",
-      "path": "/tags/concept/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Concept"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "id": "SitePage /tags/concept/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ae7e61237b48978e57525bd327ae42ae",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "4935f1f2-85c2-59a1-acba-03677e785625": {
-      "id": "4935f1f2-85c2-59a1-acba-03677e785625",
-      "children": [],
-      "parent": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
-      "internal": {
-        "content": "Hi, I'm Jayden Szekely an experienced multi-disciplined creative, I am an independent freelancer ready to support you with your creative projects. \\\n\\\nPushing the boundaries in creative design and producing aesthetically pleasing digital products is my speciality.\\\n\\\nI aim to take the complexity out of website design and development for my clients.  Through consultation and listening to your story I can develop a solution that is right for you and your business. \\\n\\\nWith knowledge and skill in a range of media, I am honoured to provide a variety of services to simplify the experience for my clients.  This means I am available to provide and support you with an entire package, without outsourcing various areas of the project. \\\n\\\nAs a creative, with energy and passion for design I look forward to working with you on your upcoming projects.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "e5a45fd539777dd1a571f5f8c181fc25",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Jayden Szekely",
-        "templateKey": "home",
-        "image": "/img/me_rocks_photography.jpg",
-        "imageOne": "/img/katesmith.jpg",
-        "imageTwo": "/img/stranger-home-web-res.jpg",
-        "imageThree": "/img/medusa-full-page-smaller-res.jpg",
-        "imageFour": "/img/zeal-hospitality-logo-square.png",
-        "imageFive": "/img/vous-mockup-checkin-web.jpg",
-        "imageSix": "/img/hhf-book.png",
-        "imageSeven": "/img/bodyaware-laptop-mockup.jpg",
-        "imageEight": "/img/tesla-model-s-navigation-web.jpg",
-        "imageNine": "/img/wtc-light-story-quote.jpg",
-        "imageTen": "img/home.jpg",
-        "imageEleven": "img/anthony-intraversato-455600-unsplash.jpg",
-        "imageTwelve": "img/home.jpg",
-        "imageThirteen": "img/anthony-intraversato-455600-unsplash.jpg",
-        "imageFourteen": "img/home.jpg",
-        "imageFifteen": "img/anthony-intraversato-455600-unsplash.jpg",
-        "announcementBlurb": "View my Portfolio",
-        "announcementLink": "/portfolio",
-        "announcementImage": "img/anthony-intraversato-455600-unsplash.jpg",
-        "_PARENT": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Hi, I'm Jayden Szekely an experienced multi-disciplined creative, I am an independent freelancer ready to support you with your creative projects. \\\n\\\nPushing the boundaries in creative design and producing aesthetically pleasing digital products is my speciality.\\\n\\\nI aim to take the complexity out of website design and development for my clients.  Through consultation and listening to your story I can develop a solution that is right for you and your business. \\\n\\\nWith knowledge and skill in a range of media, I am honoured to provide a variety of services to simplify the experience for my clients.  This means I am available to provide and support you with an entire package, without outsourcing various areas of the project. \\\n\\\nAs a creative, with energy and passion for design I look forward to working with you on your upcoming projects.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
-      "fields": {
-        "slug": "/"
-      }
-    },
-    "df0b2ad0-0419-5d6e-9631-999c911f3931": {
-      "id": "df0b2ad0-0419-5d6e-9631-999c911f3931",
-      "children": [],
-      "parent": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7",
-      "internal": {
-        "content": "I am an accomplished multi-disciplined creative with a vast range of experience.  Currently situated in Whangarei, New Zealand.  I am working with a range of clients in different locations throughout New Zealand.  For the previous six years I have gained valuable experience in web design, front-end development, graphic design, video production and editing.\\\n\\\nGraduating from one of the most sought after creative Universities in the Southern Hemisphere, Media Design School, I am working with clients to create outstanding creative solutions.   Solutions that are both graphically attractive but functional to meet my clients needs. \\\n\\\nMy passion of UI / UX design and front end development ensures that websites and digital media created by myself are aesthetically pleasing to the viewer but easy to navigate for multi-generational use. \\\n\\\nI am honoured to have worked with clients creating their brand identity,  Listening to the needs of my clients to ensure the results are just as they imagined, whilst pushing the boundaries in design to share alternative possibilities. \\\n\\\nSupporting a diverse range of businesses, managing their social media marketing campaigns and building their social media profile to connect with existing and new clients is another area of expertise. \\\n\\\nI am a keen photographer who enjoys telling stories through powerful images,  I have experience with photography for various projects, plus video production and editing.\\\n\\\nIf you are wanting someone who enjoys pushing the boundaries in design and has up to date skill and knowledge of creative techniques, be sure to get in touch today!\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "b813c004b038e9cc278d779a227c31f1",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Jayden Szekely",
-        "templateKey": "about-page",
-        "discoverable": "no",
-        "full_image": "/img/portfoliopic.jpg",
-        "leftBackground": "/img/portfoliopic.jpg",
-        "leftTitle": "DOWNLOAD MY CV",
-        "leftLink": "/work-with-me/cv",
-        "rightTitle": "MY PORTFOLIO",
-        "rightDescription": "View it now",
-        "rightUrl": "/portfolio",
-        "_PARENT": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "I am an accomplished multi-disciplined creative with a vast range of experience.  Currently situated in Whangarei, New Zealand.  I am working with a range of clients in different locations throughout New Zealand.  For the previous six years I have gained valuable experience in web design, front-end development, graphic design, video production and editing.\\\n\\\nGraduating from one of the most sought after creative Universities in the Southern Hemisphere, Media Design School, I am working with clients to create outstanding creative solutions.   Solutions that are both graphically attractive but functional to meet my clients needs. \\\n\\\nMy passion of UI / UX design and front end development ensures that websites and digital media created by myself are aesthetically pleasing to the viewer but easy to navigate for multi-generational use. \\\n\\\nI am honoured to have worked with clients creating their brand identity,  Listening to the needs of my clients to ensure the results are just as they imagined, whilst pushing the boundaries in design to share alternative possibilities. \\\n\\\nSupporting a diverse range of businesses, managing their social media marketing campaigns and building their social media profile to connect with existing and new clients is another area of expertise. \\\n\\\nI am a keen photographer who enjoys telling stories through powerful images,  I have experience with photography for various projects, plus video production and editing.\\\n\\\nIf you are wanting someone who enjoys pushing the boundaries in design and has up to date skill and knowledge of creative techniques, be sure to get in touch today!\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden/index.md",
-      "fields": {
-        "slug": "/jayden/"
-      }
-    },
-    "f5ef53ab-11a2-5e12-b9a1-535e25912966": {
-      "id": "f5ef53ab-11a2-5e12-b9a1-535e25912966",
-      "children": [],
-      "parent": "e96904ec-bbfc-5908-a210-1a3b8b4dec61",
-      "internal": {
-        "content": "Coming Soon\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "4c844b921de899c16a03ea546175791b",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Stranger",
-        "templateKey": "portfolio",
-        "date": "2019-06-17T06:24:20.474Z",
-        "discoverable": "yes",
-        "image": "/img/stranger-menu-full-res.jpg",
-        "description": "Stranger",
-        "jobDate": "SEP 2018",
-        "leftColumn": "UI / UX Design Concept",
-        "portfolioDescription": "This design was a concept piece I did to share with my Instagram followers and to try a new \"Clean-Brutalism\" style which is often an oxymoron.  This design is for a urban streetwear fashion boutique for a male demographic between 16 & 30 and by the choice of layout, typography and colour, this design achieved that.",
-        "bigImageOne": "/img/stranger-home-web-res.jpg",
-        "portfolioQuote": "This design pushed the boundaries of modern design, something I aim to do with every project.",
-        "bigImageTwo": "/img/stranger-collection-page-web-res.jpg",
-        "portfolioName": "Stranger",
-        "portfolioImage": "/img/stranger-menu-full-res.jpg",
-        "portfolioLink": "/stranger",
-        "tags": [
-          "UI / UX",
-          "Web Design",
-          "Concept"
-        ],
-        "_PARENT": "e96904ec-bbfc-5908-a210-1a3b8b4dec61"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Coming Soon\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/stranger.md",
-      "fields": {
-        "slug": "/portfolio/stranger/"
-      }
-    },
-    "f3874ce4-c1d7-5d72-b53d-1f8993821fea": {
-      "id": "f3874ce4-c1d7-5d72-b53d-1f8993821fea",
-      "children": [
-        "1acdcee0-19c1-52d1-9255-7fef527ca1c0"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "1150a6699414b0c3f3f1c3bf46bcec70",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/portfolio/kate-smith.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/kate-smith.md",
-      "relativePath": "portfolio/kate-smith.md",
-      "extension": "md",
-      "size": 1870,
-      "prettySize": "1.87 kB",
-      "modifiedTime": "2019-06-17T07:29:42.822Z",
-      "accessTime": "2019-06-17T07:29:42.958Z",
-      "changeTime": "2019-06-17T07:29:42.822Z",
-      "birthTime": "2019-06-17T07:29:42.821Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio",
-      "base": "kate-smith.md",
-      "ext": ".md",
-      "name": "kate-smith",
-      "relativeDirectory": "portfolio",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22563271,
-      "blocks": 8,
-      "atimeMs": 1560756582957.5134,
-      "mtimeMs": 1560756582821.5378,
-      "ctimeMs": 1560756582821.5378,
-      "birthtimeMs": 1560756582821.2468,
-      "atime": "2019-06-17T07:29:42.958Z",
-      "mtime": "2019-06-17T07:29:42.822Z",
-      "ctime": "2019-06-17T07:29:42.822Z",
-      "birthtime": "2019-06-17T07:29:42.821Z"
-    },
-    "1acdcee0-19c1-52d1-9255-7fef527ca1c0": {
-      "id": "1acdcee0-19c1-52d1-9255-7fef527ca1c0",
-      "children": [],
-      "parent": "f3874ce4-c1d7-5d72-b53d-1f8993821fea",
-      "internal": {
-        "content": "In 2017, Kate came to me needing a logo and a business card designed for her new marriage celebrant business.  Kate wanted something minimal yet functional and appropriate for a wide range of celebrant services including funerals.  The design needed to be sensitive for every occasion and be uplifting whilst professional. After a series of concepts, we settled on this design as it encompassed all these elements.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "63d8ff854a060001a0a6bd6d6b8e49a7",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Kate Smith",
-        "templateKey": "portfolio",
-        "date": "2019-06-17T06:57:20.665Z",
-        "discoverable": "yes",
-        "image": "/img/katesmith.jpg",
-        "description": "In 2017, Kate came to me needing a logo and a business card designed for her new marriage celebrant business.  Kate wanted something minimal yet functional and appropriate for a wide range of celebrant services including funerals.  The design needed to be sensitive for every occasion and be uplifting whilst professional. After a series of concepts, we settled on this design as it encompassed all these elements.",
-        "jobDate": "NOV 2017",
-        "leftColumn": "Logo Design & Business Card Design",
-        "portfolioDescription": "In 2017, Kate came to me needing a logo and a business card designed for her new marriage celebrant business.  Kate wanted something minimal yet functional and appropriate for a wide range of celebrant services including funerals.  The design needed to be sensitive for every occasion and be uplifting whilst professional. After a series of concepts, we settled on this design as it encompassed all these elements.",
-        "bigImageOne": "/img/katesmithlogo.jpg",
-        "portfolioQuote": "This project needed to be designed to suit future endeavours other than marriage celebrancy",
-        "bigImageTwo": "/img/kate-smith-businesscard-wrapping-web.jpg",
-        "portfolioName": "Kate Smith",
-        "portfolioImage": "/img/katesmith.jpg",
-        "portfolioLink": "kate-smith",
-        "tags": [
-          "Logo",
-          "Business Cards",
-          "Graphic Design",
-          "Brand Identity"
-        ],
-        "_PARENT": "f3874ce4-c1d7-5d72-b53d-1f8993821fea"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "In 2017, Kate came to me needing a logo and a business card designed for her new marriage celebrant business.  Kate wanted something minimal yet functional and appropriate for a wide range of celebrant services including funerals.  The design needed to be sensitive for every occasion and be uplifting whilst professional. After a series of concepts, we settled on this design as it encompassed all these elements.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/kate-smith.md",
-      "fields": {
-        "slug": "/portfolio/kate-smith/"
-      }
-    },
-    "SitePage /portfolio/kate-smith/": {
-      "jsonName": "portfolio-kate-smith-4eb",
-      "internalComponentName": "ComponentPortfolioKateSmith",
-      "path": "/portfolio/kate-smith/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
-      "componentChunkName": "component---src-templates-portfolio-js",
-      "context": {
-        "id": "1acdcee0-19c1-52d1-9255-7fef527ca1c0"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
-      "id": "SitePage /portfolio/kate-smith/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "579694b23a05a9d1d79073a5e75ad6f5",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/logo/": {
-      "jsonName": "tags-logo-371",
-      "internalComponentName": "ComponentTagsLogo",
-      "path": "/tags/logo/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Logo"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "id": "SitePage /tags/logo/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "74b831099a405abb1a0d502a6c0af0c9",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/business-cards/": {
-      "jsonName": "tags-business-cards-27d",
-      "internalComponentName": "ComponentTagsBusinessCards",
-      "path": "/tags/business-cards/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Business Cards"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "id": "SitePage /tags/business-cards/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e5ff1a97546688232be4899b1a71f8d7",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/brand-identity/": {
-      "jsonName": "tags-brand-identity-a93",
-      "internalComponentName": "ComponentTagsBrandIdentity",
-      "path": "/tags/brand-identity/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Brand Identity"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "id": "SitePage /tags/brand-identity/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "03df3324ce0e8419288743ca31023931",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
     }
   },
   "status": {
@@ -4440,19 +4440,22 @@
       "Site": [
         "/tags/",
         "/tags/home/",
-        "/tags/graphic-design/",
-        "/tags/web-design/",
-        "/tags/podcast/",
-        "/tags/videography/",
-        "/tags/social-media/",
         "/tags/ui-ux/",
+        "/tags/web-design/",
         "/tags/concept/",
         "/tags/logo/",
         "/tags/business-cards/",
-        "/tags/brand-identity/"
+        "/tags/graphic-design/",
+        "/tags/brand-identity/",
+        "/tags/podcast/",
+        "/tags/videography/",
+        "/tags/social-media/"
       ],
       "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": [
         "/about/"
+      ],
+      "576c1608-0625-5c33-b071-c0b97ccc8337": [
+        "/jargon/"
       ],
       "ca250394-f2f2-5e21-b3f6-c6f6605f5fcb": [
         "/course/"
@@ -4460,29 +4463,26 @@
       "df0b2ad0-0419-5d6e-9631-999c911f3931": [
         "/jayden/"
       ],
-      "576c1608-0625-5c33-b071-c0b97ccc8337": [
-        "/jargon/"
-      ],
       "effd6241-b3d4-5665-81be-52ae3477106f": [
         "/blog/mobile-first/"
-      ],
-      "f63e7d4d-db64-50b7-b1c5-3d7fca33130d": [
-        "/work-with-me/cv/"
       ],
       "4935f1f2-85c2-59a1-acba-03677e785625": [
         "/"
       ],
-      "c5cfc1ee-382e-5b44-b49f-1471895d5a30": [
-        "/portfolio/what-the-cancer/"
-      ],
-      "344f5167-e029-5481-a3eb-30f1d2f0cf53": [
-        "/work-with-me/"
+      "f63e7d4d-db64-50b7-b1c5-3d7fca33130d": [
+        "/work-with-me/cv/"
       ],
       "f5ef53ab-11a2-5e12-b9a1-535e25912966": [
         "/portfolio/stranger/"
       ],
       "1acdcee0-19c1-52d1-9255-7fef527ca1c0": [
         "/portfolio/kate-smith/"
+      ],
+      "c5cfc1ee-382e-5b44-b49f-1471895d5a30": [
+        "/portfolio/what-the-cancer/"
+      ],
+      "344f5167-e029-5481-a3eb-30f1d2f0cf53": [
+        "/work-with-me/"
       ]
     },
     "connections": {
@@ -4490,76 +4490,76 @@
         null,
         "/tags/",
         "/blog/",
-        "/portfolio/",
         "/tags/home/",
-        "/tags/graphic-design/",
-        "/tags/web-design/",
-        "/tags/podcast/",
-        "/tags/videography/",
-        "/tags/social-media/",
         "/tags/ui-ux/",
+        "/tags/web-design/",
         "/tags/concept/",
         "/tags/logo/",
         "/tags/business-cards/",
-        "/tags/brand-identity/"
+        "/tags/graphic-design/",
+        "/tags/brand-identity/",
+        "/tags/podcast/",
+        "/tags/videography/",
+        "/tags/social-media/",
+        "/portfolio/"
       ]
     }
   },
   "jsonDataPaths": {
     "tags-275": "40/path---tags-275-fc0-ZQovEfcot4ygfGjMC5XDe3rW0",
-    "course-33d": "783/path---course-33-d-7dd-yZpj53NucNGiyou11wYJ0FaXo",
     "about-f34": "162/path---about-f-34-4c2-nPswOlM0eJ6KgxFbRYYx7aK5V1c",
-    "jayden-efd": "401/path---jayden-efd-f34-DBLbxa2NgB8LzXsVYIZ53PQtiT0",
-    "blog-f7a": "623/path---blog-f-7-a-05d-btnAFJZwYWq2ScuYSGYwXyWZ1g",
     "jargon-12a": "295/path---jargon-12-a-e0d-27Q4FnPNgXdzZYozX2CGButUYPQ",
+    "course-33d": "783/path---course-33-d-7dd-yZpj53NucNGiyou11wYJ0FaXo",
+    "blog-f7a": "623/path---blog-f-7-a-05d-btnAFJZwYWq2ScuYSGYwXyWZ1g",
+    "jayden-efd": "401/path---jayden-efd-f34-DBLbxa2NgB8LzXsVYIZ53PQtiT0",
     "blog-mobile-first-301": "530/path---blog-mobile-first-301-372-HkYPxpjptnunYTrcH2HQ5Dq7i8",
-    "work-with-me-cv-4f8": "837/path---work-with-me-cv-4-f-8-d93-SCHJPeZ6yRd4HT1dDiZGKx4mrc",
-    "portfolio-964": "629/path---portfolio-964-7f6-kW2R42Xi0Snll6NxODPG6zCpnU",
     "index": "772/path---index-6a9-4ST5DA74QvD6LFmJWkhlQzc",
-    "portfolio-what-the-cancer-4c7": "691/path---portfolio-what-the-cancer-4-c-7-157-UsuI0Wn8WQ706wZQ6Rxevl77MJQ",
-    "tags-home-8b5": "682/path---tags-home-8-b-5-d7e-GnNFxqqbSD9zTQTr2NjI5pgLy14",
-    "work-with-me-b37": "31/path---work-with-me-b-37-f8b-Qao70vMD2TggomkZsifQKBnSPbc",
-    "tags-graphic-design-3a2": "521/path---tags-graphic-design-3-a-2-3cf-IV1fVbpjax9oot4eNRKIpu4bwc",
-    "tags-web-design-14d": "882/path---tags-web-design-14-d-e34-Ghmp3Y3OUWn1GLDGy7ReJxYpxQ",
-    "tags-podcast-852": "424/path---tags-podcast-852-151-oX64yKSFUWLeQCegLzhTEG0K514",
-    "tags-videography-059": "824/path---tags-videography-059-2b5-ndNa7avEZhkDemotl54AgLMp43g",
-    "tags-social-media-15a": "474/path---tags-social-media-15-a-f81-CXJyYDFFmbKy7v3fDoeenIMuSGg",
-    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
-    "listen-498": "738/path---listen-498-c78-NZuapzHg3X9TaN1iIixfv1W23E",
-    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "tags-concept-d00": "704/path---tags-concept-d-00-924-8E5jlfMHb84LUkTqG8cvjDKwvI",
-    "tags-ui-ux-dfc": "24/path---tags-ui-ux-dfc-12e-wrneBQERucvp8Y0P3bAE8ayFo",
+    "portfolio-964": "629/path---portfolio-964-7f6-kW2R42Xi0Snll6NxODPG6zCpnU",
+    "work-with-me-cv-4f8": "837/path---work-with-me-cv-4-f-8-d93-SCHJPeZ6yRd4HT1dDiZGKx4mrc",
     "portfolio-stranger-25d": "46/path---portfolio-stranger-25-d-97b-0SR3W5Ip40LO8w7e5tlP2AWxXTg",
+    "portfolio-kate-smith-4eb": "509/path---portfolio-kate-smith-4-eb-c83-wh8E7cSroEfEalecq5lFY4YbFI",
+    "tags-home-8b5": "682/path---tags-home-8-b-5-d7e-GnNFxqqbSD9zTQTr2NjI5pgLy14",
+    "tags-ui-ux-dfc": "24/path---tags-ui-ux-dfc-12e-wrneBQERucvp8Y0P3bAE8ayFo",
+    "portfolio-what-the-cancer-4c7": "691/path---portfolio-what-the-cancer-4-c-7-157-UsuI0Wn8WQ706wZQ6Rxevl77MJQ",
+    "work-with-me-b37": "31/path---work-with-me-b-37-f8b-Qao70vMD2TggomkZsifQKBnSPbc",
+    "tags-web-design-14d": "882/path---tags-web-design-14-d-e34-Ghmp3Y3OUWn1GLDGy7ReJxYpxQ",
+    "tags-concept-d00": "704/path---tags-concept-d-00-924-8E5jlfMHb84LUkTqG8cvjDKwvI",
     "tags-logo-371": "302/path---tags-logo-371-d3f-4rAQ1zouM2Lc9ULRieodnuNTwWQ",
     "tags-business-cards-27d": "700/path---tags-business-cards-27-d-354-7PdXmViTvUgLYfQ2kdpCLJeFSY",
+    "tags-graphic-design-3a2": "521/path---tags-graphic-design-3-a-2-3cf-IV1fVbpjax9oot4eNRKIpu4bwc",
     "tags-brand-identity-a93": "365/path---tags-brand-identity-a-93-805-RlSnN3RXupZ3z2Y1yzHBGu0RBno",
-    "portfolio-kate-smith-4eb": "509/path---portfolio-kate-smith-4-eb-c83-wh8E7cSroEfEalecq5lFY4YbFI"
+    "tags-podcast-852": "424/path---tags-podcast-852-151-oX64yKSFUWLeQCegLzhTEG0K514",
+    "tags-videography-059": "824/path---tags-videography-059-2b5-ndNa7avEZhkDemotl54AgLMp43g",
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "tags-social-media-15a": "474/path---tags-social-media-15-a-f81-CXJyYDFFmbKy7v3fDoeenIMuSGg",
+    "listen-498": "738/path---listen-498-c78-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js": {
-      "query": "query HomePage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      image\n      announcementBlurb\n      announcementLink\n      announcementImage\n      imageOne\n      imageTwo\n      imageThree\n      imageFour\n      imageFive\n      imageSix\n      imageSeven\n      imageEight\n      imageNine\n      imageTen\n      imageEleven\n      imageTwelve\n      imageThirteen\n      imageFourteen\n      imageFifteen\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js"
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js": {
+      "query": "query BlogPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      title\n      description\n      tags\n      header\n      recommendedName\n      recommendedImage\n      recommendedLink\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js": {
       "query": "query IndexQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {templateKey: {eq: \"blog-post\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          title\n          templateKey\n          header\n          description\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js"
     },
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js": {
+      "query": "query HomePage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      image\n      announcementBlurb\n      announcementLink\n      announcementImage\n      imageOne\n      imageTwo\n      imageThree\n      imageFour\n      imageFive\n      imageSix\n      imageSeven\n      imageEight\n      imageNine\n      imageTen\n      imageEleven\n      imageTwelve\n      imageThirteen\n      imageFourteen\n      imageFifteen\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js"
+    },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js": {
       "query": "query AboutPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      full_image\n      leftBackground\n      leftTitle\n      leftLink\n      rightTitle\n      rightDescription\n      rightUrl\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js"
     },
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js": {
-      "query": "query BlogPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      title\n      description\n      tags\n      header\n      recommendedName\n      recommendedImage\n      recommendedLink\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js"
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js": {
+      "query": "query PortfolioQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {discoverable: {eq: \"yes\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          portfolioDescription\n          discoverable\n          image\n          portfolioName\n          portfolioImage\n          jobDate\n          portfolioLink\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js": {
       "query": "query PortfolioPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      tags\n      portfolioDescription\n      image\n      title\n      jobDate\n      leftColumn\n      bigImageOne\n      portfolioQuote\n      bigImageTwo\n      portfolioName\n      portfolioImage\n      portfolioLink\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js"
-    },
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js": {
-      "query": "query PortfolioQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {discoverable: {eq: \"yes\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          portfolioDescription\n          discoverable\n          image\n          portfolioName\n          portfolioImage\n          jobDate\n          portfolioLink\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/cv.js": {
       "query": "query CvPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      tags\n      cvDescription\n      image\n      title\n      jobDate\n      leftColumn\n      bigImageOne\n      cvQuote\n      bigImageTwo\n      cvName\n      cvImage\n      cvLink\n    }\n  }\n}\n",

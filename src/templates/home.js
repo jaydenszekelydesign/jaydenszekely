@@ -46,14 +46,17 @@ export const HomePageTemplate = ({
       </Helmet>
       <Banner background={image}>{title}</Banner>
       <div className="article big-padding secondary" >
-        <div className="full-portfolio">
-          <PageContent content={content}/><br /><br />
-          <Link className="accent" to="work-with-me">Work With Me</Link>
+        <div className="left">
+          <h1>01.<br />About:</h1>
+        </div>
+        <div className="right">
+          <PageContent content={content}/>
+          <Link to="work-with-me"><br /><h4 className="accent" >Work With Me</h4></Link>
         </div>
       </div>
       <div className="article primary big-padding">
         <div className="left">
-            <h1>Skills:</h1>
+            <h1>02.<br />Skills:</h1>
         </div>
         <div className="right">
             <ul>
@@ -84,18 +87,19 @@ export const HomePageTemplate = ({
             </ul>
         </div>
       </div>
-      <img src={image} alt="image" className="full" />
-      <div className="article primary big-padding">
+      <div className="article secondary big-padding">
         <div className="left">
-            <h1>Clients:</h1>
+            <h1>03.<br />Clients:</h1>
         </div>
         <div className="right">
           <p>
           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
           </p>
+          <Link to="work-with-me"><br /><h4 className="accent" >Work With Me</h4></Link>
+          
         </div>
       </div>
-      <div className="article big-padding">
+      <div className="article primary big-padding">
         <Quote quoteContents="Great design is fundamental in a digital age to communicate a message / a story through websites, video, print, social media and more" />
       </div>
       <Link to={announcementLink}>

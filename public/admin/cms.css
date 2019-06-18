@@ -69,7 +69,6 @@ table {
 
 h1 {
   font-size: 4.5em;
-  font-family: essonnes-headline,serif;
   font-weight: 400;
   font-style: normal;
   line-height: 120%;
@@ -123,11 +122,12 @@ p {
   line-height: 165%; }
 
 .splitHeader {
-  width: 100%; }
+  width: 100%;
+  overflow: hidden; }
   .splitHeader .left {
     background-color: #2B3325;
     padding-left: 10.75%;
-    width: calc(78.5% / 8 * 6);
+    width: calc(78.5% / 8 * 5);
     height: 100vh;
     color: #F4F4F4;
     float: left;
@@ -147,7 +147,8 @@ p {
     transition: 0.8s;
     z-index: 900;
     display: block;
-    position: relative; }
+    position: relative;
+    overflow: hidden; }
     .splitHeader .right .contents {
       margin-top: 35vh;
       position: relative; }
@@ -193,7 +194,6 @@ p {
 
 h1 {
   font-size: 4.5em;
-  font-family: essonnes-headline,serif;
   font-weight: 400;
   font-style: normal;
   line-height: 120%;
@@ -270,7 +270,6 @@ p {
 
 h1 {
   font-size: 4.5em;
-  font-family: essonnes-headline,serif;
   font-weight: 400;
   font-style: normal;
   line-height: 120%;
@@ -470,7 +469,7 @@ body {
 
 html,
 body {
-  overflow: hidden; }
+  overflow-x: hidden; }
 
 .content .taglist {
   list-style: none;

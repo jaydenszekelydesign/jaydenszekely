@@ -3,7 +3,7 @@ import { graphql, Link } from 'gatsby'
 
 const Footer = ({children, background, recommendedTitle, authorName, authorBio}) => (
     <section className="splitHeader">
-        <div className="left">
+        <div className="full">
             <div className="contents">
                 <h1>Get in Touch</h1>
                 <br />
@@ -17,13 +17,6 @@ const Footer = ({children, background, recommendedTitle, authorName, authorBio})
             </div>
             
         </div>
-        <Link to="/work-with-me/cv">
-        <div className="right">
-            <div className="contents">
-                    <center><h1>My CV</h1></center>
-            </div>
-        </div>
-        </Link>
     </section>
 )
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Banner from './components/banner'
 import Split from './components/split'
@@ -20,13 +20,15 @@ export const AboutPageTemplate = ({ title, content, contentComponent, full_image
         <meta name="description" content={"About Me – Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
       </Helmet>
       <Banner background={full_image}>{title}</Banner>
-      <div className="article big-padding">
-      <div className="full-portfolio">
-        <p>
+      <div className="article big-padding secondary" >
+        <div className="left">
+          <h1>01.<br />About:</h1>
+        </div>
+        <div className="right">
           <PageContent content={content}/>
-        </p>
+          <Link to="work-with-me"><br /><h4 className="accent" >Work With Me</h4></Link>
         </div>
-        </div>
+      </div>
       <Footer />
     </Layout>
               

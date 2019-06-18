@@ -14,10 +14,21 @@ export default class Portfolio extends React.Component {
       <Layout>
         <Helmet>
           <meta charSet="utf-8" />
-          <title>Portfolio - Jayden Szekey - Creative Media</title>
+          <title>My Work (Portfolio) - Jayden Szekey - Creative Media</title>
           <meta name="description" content={"View my Portfolio – Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
         </Helmet>
-        <Banner>Portfolio</Banner>
+        <Banner>My Work</Banner>
+        <div className="article big-padding secondary" >
+        <div className="left">
+          <h1>01.</h1>
+        </div>
+        <div className="right">
+          <p>
+            I have a passion to create stunning and functional solutions for my clients.  This collection highlights only a handful of my work and I am happy to provide further samples of my work if there is something in particular you would like to see.  
+          </p>
+          <Link to="work-with-me"><br /><h4 className="accent" >Work With Me</h4></Link>
+        </div>
+      </div>
         <div className="article">
 
             {posts
