@@ -48,16 +48,16 @@ export const HomePageTemplate = ({
       <Banner background={image}>{title}</Banner>
       <div className="article big-padding secondary" >
         <div className="left">
-          <h1>01.<br />About:</h1>
+          <h1>About:</h1>
         </div>
         <div className="right">
           <PageContent content={content}/>
           <Link to="work-with-me"><br /><h4 className="accent" >Work With Me</h4></Link>
         </div>
       </div>
-      <div className="article primary big-padding">
+      <div className="article tertiary big-padding">
         <div className="left">
-            <h1>02.<br />Skills:</h1>
+            <h1>Skills:</h1>
         </div>
         <div className="right">
             <ul>
@@ -90,11 +90,11 @@ export const HomePageTemplate = ({
       </div>
       <div className="article secondary big-padding">
         <div className="left">
-            <h1>03.<br />Clients:</h1>
+            <h1>Clients:</h1>
         </div>
         <div className="right">
           <p>
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+          I have had the privelege to work with a variety of clients from small start-ups to large non-profit organisations.  I can not wait to work with you.
           </p>
           <Link to="work-with-me"><br /><h4 className="accent" >Work With Me</h4></Link>
           

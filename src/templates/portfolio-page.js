@@ -24,7 +24,7 @@ export default class Portfolio extends React.Component {
         </div>
         <div className="right">
           <p>
-            I have a passion to create stunning and functional solutions for my clients.  This collection highlights only a handful of my work and I am happy to provide further samples of my work if there is something in particular you would like to see.  
+            I have a passion to create stunning and functional solutions for my clients.  This collection highlights only a handful of my work and I am happy to provide further samples of my work if there is something in particular you would like to see. <h4>Please Note that I am still adding content to my new portfolio, please check back in a couple of days for an updated curation.</h4> 
           </p>
           <Link to="work-with-me"><br /><h4 className="accent" >Work With Me</h4></Link>
         </div>

@@ -46,30 +46,47 @@ table {
   border-spacing: 0; }
 
 .primary {
-  background-color: #2B3325;
-  color: #F4F4F4; }
+  background-color: #18181E;
+  color: #f4f4f4; }
 
 .secondary {
   background-color: #ffffff;
-  color: #000000; }
+  color: #18181E; }
+
+.tertiary {
+  background-color: #f4f4f4;
+  color: #18181E; }
 
 .accent {
-  color: #2B3325; }
+  color: #FF2121; }
+
+.accent-back {
+  color: #18181E;
+  background-color: #FF2121; }
 
 .primary {
-  background-color: #2B3325;
-  color: #F4F4F4; }
+  background-color: #18181E;
+  color: #f4f4f4; }
 
 .secondary {
   background-color: #ffffff;
-  color: #000000; }
+  color: #18181E; }
+
+.tertiary {
+  background-color: #f4f4f4;
+  color: #18181E; }
 
 .accent {
-  color: #2B3325; }
+  color: #FF2121; }
+
+.accent-back {
+  color: #18181E;
+  background-color: #FF2121; }
 
 h1 {
   font-size: 4.5em;
-  font-weight: 400;
+  font-family: nunito-sans,sans-serif;
+  font-weight: 700;
   font-style: normal;
   line-height: 120%;
   color: inherit;
@@ -79,7 +96,8 @@ h2 {
   font-size: 2em;
   font-weight: bold;
   color: inherit;
-  line-height: 150%; }
+  line-height: 150%;
+  margin-bottom: 7.5vh; }
 
 h3 {
   font-size: 1.4em;
@@ -90,14 +108,20 @@ h3 {
 h4 {
   font-size: 1.1em;
   font-weight: 700;
-  color: #000000;
+  color: inherit;
   line-height: 150%; }
 
 h5 {
   font-size: 1.1em;
   font-weight: 700;
-  color: #000000;
+  color: inherit;
   line-height: 200%; }
+
+h6 {
+  font-size: 1.1em;
+  font-weight: 400;
+  color: inherit;
+  line-height: 150%; }
 
 a {
   color: inherit;
@@ -125,11 +149,11 @@ p {
   width: 100%;
   overflow: hidden; }
   .splitHeader .left {
-    background-color: #2B3325;
+    background-color: #18181E;
     padding-left: 10.75%;
     width: calc(78.5% / 8 * 5);
     height: 100vh;
-    color: #F4F4F4;
+    color: #f4f4f4;
     float: left;
     display: block;
     position: absolute;
@@ -138,11 +162,11 @@ p {
       margin-top: 35vh;
       z-index: 920; }
   .splitHeader .right {
-    background-color: #2B3325;
+    background-color: #18181E;
     padding-right: 10.75%;
     width: calc(78.5% / 8 * 3);
     height: 100vh;
-    color: #F4F4F4;
+    color: #f4f4f4;
     float: right;
     transition: 0.8s;
     z-index: 900;
@@ -155,6 +179,22 @@ p {
   .splitHeader .right:hover {
     background-position: 100%, 0;
     width: calc(78.5% / 8 * 7); }
+  .splitHeader .full {
+    background-color: #18181E;
+    padding-left: 10.75%;
+    padding-right: 10.75%;
+    width: calc(78.5% / 8 * 8);
+    height: 100vh;
+    color: #f4f4f4;
+    float: left;
+    transition: 0.8s;
+    z-index: 900;
+    display: block;
+    position: relative;
+    overflow: hidden; }
+    .splitHeader .full .contents {
+      margin-top: 35vh;
+      position: relative; }
 
 @media screen and (max-width: 700px) {
   .splitHeader .left {
@@ -171,30 +211,47 @@ p {
     width: calc(78.5% / 8 * 8); } }
 
 .primary {
-  background-color: #2B3325;
-  color: #F4F4F4; }
+  background-color: #18181E;
+  color: #f4f4f4; }
 
 .secondary {
   background-color: #ffffff;
-  color: #000000; }
+  color: #18181E; }
+
+.tertiary {
+  background-color: #f4f4f4;
+  color: #18181E; }
 
 .accent {
-  color: #2B3325; }
+  color: #FF2121; }
+
+.accent-back {
+  color: #18181E;
+  background-color: #FF2121; }
 
 .primary {
-  background-color: #2B3325;
-  color: #F4F4F4; }
+  background-color: #18181E;
+  color: #f4f4f4; }
 
 .secondary {
   background-color: #ffffff;
-  color: #000000; }
+  color: #18181E; }
+
+.tertiary {
+  background-color: #f4f4f4;
+  color: #18181E; }
 
 .accent {
-  color: #2B3325; }
+  color: #FF2121; }
+
+.accent-back {
+  color: #18181E;
+  background-color: #FF2121; }
 
 h1 {
   font-size: 4.5em;
-  font-weight: 400;
+  font-family: nunito-sans,sans-serif;
+  font-weight: 700;
   font-style: normal;
   line-height: 120%;
   color: inherit;
@@ -204,7 +261,8 @@ h2 {
   font-size: 2em;
   font-weight: bold;
   color: inherit;
-  line-height: 150%; }
+  line-height: 150%;
+  margin-bottom: 7.5vh; }
 
 h3 {
   font-size: 1.4em;
@@ -215,14 +273,20 @@ h3 {
 h4 {
   font-size: 1.1em;
   font-weight: 700;
-  color: #000000;
+  color: inherit;
   line-height: 150%; }
 
 h5 {
   font-size: 1.1em;
   font-weight: 700;
-  color: #000000;
+  color: inherit;
   line-height: 200%; }
+
+h6 {
+  font-size: 1.1em;
+  font-weight: 400;
+  color: inherit;
+  line-height: 150%; }
 
 a {
   color: inherit;
@@ -247,30 +311,47 @@ p {
   line-height: 165%; }
 
 .primary {
-  background-color: #2B3325;
-  color: #F4F4F4; }
+  background-color: #18181E;
+  color: #f4f4f4; }
 
 .secondary {
   background-color: #ffffff;
-  color: #000000; }
+  color: #18181E; }
+
+.tertiary {
+  background-color: #f4f4f4;
+  color: #18181E; }
 
 .accent {
-  color: #2B3325; }
+  color: #FF2121; }
+
+.accent-back {
+  color: #18181E;
+  background-color: #FF2121; }
 
 .primary {
-  background-color: #2B3325;
-  color: #F4F4F4; }
+  background-color: #18181E;
+  color: #f4f4f4; }
 
 .secondary {
   background-color: #ffffff;
-  color: #000000; }
+  color: #18181E; }
+
+.tertiary {
+  background-color: #f4f4f4;
+  color: #18181E; }
 
 .accent {
-  color: #2B3325; }
+  color: #FF2121; }
+
+.accent-back {
+  color: #18181E;
+  background-color: #FF2121; }
 
 h1 {
   font-size: 4.5em;
-  font-weight: 400;
+  font-family: nunito-sans,sans-serif;
+  font-weight: 700;
   font-style: normal;
   line-height: 120%;
   color: inherit;
@@ -280,7 +361,8 @@ h2 {
   font-size: 2em;
   font-weight: bold;
   color: inherit;
-  line-height: 150%; }
+  line-height: 150%;
+  margin-bottom: 7.5vh; }
 
 h3 {
   font-size: 1.4em;
@@ -291,14 +373,20 @@ h3 {
 h4 {
   font-size: 1.1em;
   font-weight: 700;
-  color: #000000;
+  color: inherit;
   line-height: 150%; }
 
 h5 {
   font-size: 1.1em;
   font-weight: 700;
-  color: #000000;
+  color: inherit;
   line-height: 200%; }
+
+h6 {
+  font-size: 1.1em;
+  font-weight: 400;
+  color: inherit;
+  line-height: 150%; }
 
 a {
   color: inherit;
@@ -333,7 +421,8 @@ p {
   z-index: 0;
   align-content: center;
   display: inline-block;
-  position: relative; }
+  position: relative;
+  overflow: hidden; }
   .article .left {
     width: calc(78.5% / 8 * 2);
     float: left;
@@ -341,7 +430,7 @@ p {
     margin-left: calc(78.5% / 8); }
     .article .left a {
       font-size: 0.9em;
-      color: #F4F4F4;
+      color: #f4f4f4;
       cursor: pointer;
       line-height: 1.5em; }
     .article .left img {
@@ -352,20 +441,23 @@ p {
       -o-object-fit: cover;
          object-fit: cover;
       position: relative;
-      display: inline-block; }
+      display: inline-block;
+      overflow: hidden; }
   .article .right {
     width: calc(78.5% / 8 * 3);
     margin-left: calc(78.5% / 8);
     float: left;
     display: inline-block;
-    font-weight: 200; }
+    font-weight: 200;
+    overflow: hidden; }
   .article .full-portfolio {
     width: calc(78.5% / 8 * 6);
     padding-left: calc(78.5% / 8);
     padding-right: calc(78.5% / 8);
     float: left;
     display: inline-block;
-    font-weight: 200; }
+    font-weight: 200;
+    overflow: hidden; }
   .article p {
     color: inherit;
     font-weight: 300;
@@ -390,7 +482,8 @@ p {
       width: calc(78.5% / 8 * 8);
       padding-right: 0;
       padding-left: 0;
-      padding-top: 1em; }
+      padding-top: 1em;
+      margin-left: 0; }
     .article .half-left {
       width: calc(78.5% / 8 * 8);
       padding-right: 0;
@@ -411,14 +504,19 @@ p {
 
 .big-padding {
   padding-top: 30vh;
-  padding-bottom: 30vh; }
+  padding-bottom: 30vh;
+  overflow: hidden; }
 
 .med-padding {
   padding-top: 20vh;
-  padding-bottom: 20vh; }
+  padding-bottom: 20vh;
+  overflow: hidden; }
 
 .top-padding {
   margin-top: 7.5vh; }
+
+.half-top-padding {
+  margin-top: 4vh; }
 
 @media screen and (max-width: 700px) {
   .big-padding {
@@ -457,7 +555,7 @@ span {
   background-position: center; }
 
 .accent {
-  color: #2B3325; }
+  color: #FF2121; }
 
 body {
   padding: 0;
@@ -497,7 +595,8 @@ body {
   background-position: bottom;
   display: flex;
   justify-content: center;
-  align-items: center; }
+  align-items: center;
+  overflow: hidden; }
 
 .margin-top-0 {
   margin-top: 0 !important; }
@@ -514,7 +613,7 @@ span.bm-cross {
 
 header {
   width: 100vw;
-  background: #2B3325;
+  background: #18181E;
   color: #ffffff;
   padding: 0, 0, 0, 0;
   margin: 0, 0, 0, 0;
@@ -522,7 +621,8 @@ header {
   display: inline-block;
   z-index: 0;
   background-position: center;
-  background-size: cover; }
+  background-size: cover;
+  overflow: hidden; }
 
 .bannerTitle {
   font-size: 2em;
@@ -564,7 +664,7 @@ header {
   .slim-strip input {
     background: transparent;
     border: 0px solid white;
-    border-bottom: 2px solid #2B3325;
+    border-bottom: 2px solid #FF2121;
     font-size: 0.8em;
     width: 70%;
     text-align: left;
@@ -591,29 +691,33 @@ header {
   background-position: center;
   margin-bottom: 75px;
   text-align: center;
-  display: flex;
-  width: calc(78.5% / 8 * 6);
-  margin-left: 10.75%;
-  margin-right: 10.75%; }
+  display: inline-block;
+  width: calc(78.5% / 8 * 8);
+  overflow: hidden; }
 
 .glaze {
-  background-color: rgba(0, 0, 0, 0.25);
-  padding-top: 100px;
-  padding-bottom: 100px;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding-top: 30vh;
+  padding-bottom: 30vh;
   padding-left: 20px;
   padding-right: 20px;
   font-size: inherit;
   color: #fff;
   display: relative;
-  width: 100%; }
-  .glaze h1 {
-    color: #fff; }
-  .glaze .trans-out {
-    color: black;
-    -webkit-text-fill-color: black;
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: white;
-    font-size: 7.5em; }
+  width: calc(100% - 40px);
+  transition-duration: 0.8s; }
+
+.no-margin-bottom {
+  margin-bottom: 0; }
+
+@media screen and (min-width: 1000px) {
+  .glaze:hover {
+    background-color: rgba(0, 0, 0, 0.1); } }
+
+@media screen and (max-width: 700px) {
+  .glaze {
+    padding-top: 75px;
+    padding-bottom: 75px; } }
 
 .secondHalf {
   background-color: #ffffff;
@@ -640,13 +744,13 @@ header {
   position: relative;
   z-index: 0;
   align-content: left;
-  color: #000000;
+  color: #18181E;
   z-index: 1000;
   font-size: 1.2em;
   text-align: left;
   overflow-x: scroll; }
   .floatingTags a {
-    color: #2B3325;
+    color: #FF2121;
     font-size: 1.2em;
     text-decoration: none; }
 
@@ -658,7 +762,7 @@ header {
   position: absolute;
   top: 0;
   background: transparent;
-  color: #000000; }
+  color: #18181E; }
   .navbar .logo {
     margin-left: 35px;
     margin-top: 35px;
@@ -678,10 +782,10 @@ header {
     display: inline-block;
     background-size: cover;
     background-position: center;
-    color: #F4F4F4;
+    color: #f4f4f4;
     font-weight: 600;
     text-align: center;
-    background-color: #2B3325; }
+    background-color: #18181E; }
   @media screen and (max-width: 700px) {
     .split .left {
       float: left;
@@ -692,7 +796,7 @@ header {
       display: inline-block;
       background-size: cover;
       background-position: center;
-      color: #F4F4F4;
+      color: #f4f4f4;
       font-weight: 600; } }
   .split .left-fifty {
     float: left;
@@ -713,8 +817,8 @@ header {
     display: inline-block;
     text-align: center;
     background-position: center;
-    background-color: #2B3325;
-    color: #F4F4F4; }
+    background-color: #18181E;
+    color: #f4f4f4; }
   @media screen and (max-width: 700px) {
     .split .right {
       float: right;
@@ -775,12 +879,12 @@ footer {
   /* Our sidebar item styling */
   text-decoration: none;
   margin-bottom: 10px;
-  color: #000000;
+  color: #18181E;
   transition: color 0.5s; }
 
 /* Change color on hover */
 .bm-item:hover {
-  color: #2B3325; }
+  color: #18181E; }
 
 /* The rest copied directly from react-burger-menu docs */
 /* Position and sizing of burger button */
@@ -809,7 +913,7 @@ footer {
 /* General sidebar styles */
 .bm-menu {
   background: #ffffff;
-  color: #000000;
+  color: #18181E;
   z-index: 1200;
   margin: 0;
   top: 0px;
@@ -821,7 +925,7 @@ footer {
   .bm-menu a {
     display: block; }
   .bm-menu a:hover {
-    color: #000000; }
+    color: #18181E; }
 
 /* Morph shape necessary with bubble or elastic */
 .bm-morph-shape {
@@ -829,7 +933,7 @@ footer {
 
 /* Wrapper for item list */
 .bm-item-list {
-  color: #000000; }
+  color: #18181E; }
 
 .bm-menu-wrap {
   height: calc(70vh + 2em);
@@ -854,6 +958,7 @@ footer {
   left: -80vw;
   background-size: cover;
   background-position: center;
+  background-color: #ffffff;
   position: absolute;
   display: flex;
   z-index: 0;
@@ -869,7 +974,7 @@ footer {
   min-height: 335px;
   padding: 0;
   left: 0vw;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.2);
   position: relative;
   display: inline-block;
   z-index: 50;

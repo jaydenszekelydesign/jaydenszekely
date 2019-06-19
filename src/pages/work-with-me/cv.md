@@ -11,12 +11,12 @@ jobDate: DEC – 2018
 cvName: My CV
 cvQuote: This is great
 cvDescription: >-
-  Hi! my name is Jayden Szekely, I am an audacious creative with
-  experience in graphic design, web / UI design, as well as video
-  editing & design. I see design as more than text, images and
-  colour, I see design as the best opportunity to tell a story to the
-  world. I look forward to having the opportunity to talking to see
-  how I can be a part of writing the next chapter in your story.
+  My name is Jayden Szekely, I am an audacious, multi-disciplined creative
+  with experience in graphic design, web / UI design, as well as video editing
+  & design. I see design as more than text, images and colour, I see design as
+  the best opportunity to tell a story to the world. I look forward to having the
+  opportunity to talking with you, to see how I can be a part of writing the
+  next chapter in your story.
 cvImage: /img/portfolioPic.jpg
 cvLink: /
 ---

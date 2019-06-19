@@ -1472,12 +1472,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-06-18T03:01:35.272Z",
+      "buildTime": "2019-06-19T08:54:29.814Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "64e4e4011b1bbd890e6c5168b78dfad4",
+        "contentDigest": "188ce05276d5cc7faac1d5618587ca4f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1487,7 +1487,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "743386d2a90972d4713c7eff5cef5574",
+        "contentDigest": "bf541b2bca84ce6a3dcd3f2d780e162c",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1498,9 +1498,9 @@
       "extension": "",
       "size": 416,
       "prettySize": "416 B",
-      "modifiedTime": "2019-06-17T07:29:42.820Z",
-      "accessTime": "2019-06-18T03:01:39.895Z",
-      "changeTime": "2019-06-17T07:29:42.820Z",
+      "modifiedTime": "2019-06-19T05:16:13.647Z",
+      "accessTime": "2019-06-19T08:54:34.317Z",
+      "changeTime": "2019-06-19T05:16:13.647Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src",
@@ -1517,57 +1517,13 @@
       "blksize": 4194304,
       "ino": 21954363,
       "blocks": 0,
-      "atimeMs": 1560826899894.8677,
-      "mtimeMs": 1560756582820.3757,
-      "ctimeMs": 1560756582820.3757,
+      "atimeMs": 1560934474316.9248,
+      "mtimeMs": 1560921373646.6458,
+      "ctimeMs": 1560921373646.6458,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-18T03:01:39.895Z",
-      "mtime": "2019-06-17T07:29:42.820Z",
-      "ctime": "2019-06-17T07:29:42.820Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "f88ba54b-1190-587d-9196-6e79633f18cc": {
-      "id": "f88ba54b-1190-587d-9196-6e79633f18cc",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "4b9a9cff1fccb95a6322a75ee3d8a9f1",
-        "type": "Directory",
-        "description": "Directory \"src/pages/blog\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
-      "relativePath": "blog",
-      "extension": "",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2019-06-13T18:29:30.004Z",
-      "accessTime": "2019-06-18T03:01:39.899Z",
-      "changeTime": "2019-06-13T18:29:30.004Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
-      "base": "blog",
-      "ext": "",
-      "name": "blog",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 16877,
-      "nlink": 4,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954367,
-      "blocks": 0,
-      "atimeMs": 1560826899899.1714,
-      "mtimeMs": 1560450570003.8635,
-      "ctimeMs": 1560450570003.8635,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-18T03:01:39.899Z",
-      "mtime": "2019-06-13T18:29:30.004Z",
-      "ctime": "2019-06-13T18:29:30.004Z",
+      "atime": "2019-06-19T08:54:34.317Z",
+      "mtime": "2019-06-19T05:16:13.647Z",
+      "ctime": "2019-06-19T05:16:13.647Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "f49b3d41-8450-5332-977a-6487361b7694": {
@@ -1575,7 +1531,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8b4336e0635d734b895960c6a6935b58",
+        "contentDigest": "83d3b1b65f09e9b13499422f6c5783c3",
         "type": "Directory",
         "description": "Directory \"src/pages/about\"",
         "owner": "gatsby-source-filesystem"
@@ -1587,7 +1543,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-18T03:01:39.899Z",
+      "accessTime": "2019-06-19T08:54:34.321Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1605,13 +1561,57 @@
       "blksize": 4194304,
       "ino": 21954365,
       "blocks": 0,
-      "atimeMs": 1560826899899.179,
+      "atimeMs": 1560934474320.5713,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.965,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-18T03:01:39.899Z",
+      "atime": "2019-06-19T08:54:34.321Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "f88ba54b-1190-587d-9196-6e79633f18cc": {
+      "id": "f88ba54b-1190-587d-9196-6e79633f18cc",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fa548765f162ac57b1d639de5f5665e5",
+        "type": "Directory",
+        "description": "Directory \"src/pages/blog\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
+      "relativePath": "blog",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2019-06-13T18:29:30.004Z",
+      "accessTime": "2019-06-19T08:54:34.321Z",
+      "changeTime": "2019-06-13T18:29:30.004Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
+      "base": "blog",
+      "ext": "",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954367,
+      "blocks": 0,
+      "atimeMs": 1560934474320.5842,
+      "mtimeMs": 1560450570003.8635,
+      "ctimeMs": 1560450570003.8635,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-19T08:54:34.321Z",
+      "mtime": "2019-06-13T18:29:30.004Z",
+      "ctime": "2019-06-13T18:29:30.004Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "df0e24e0-06d7-5fa2-8cbb-523ec0d67585": {
@@ -1619,7 +1619,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "74653acbf8e0c90f1aa0a1a4fa90afd0",
+        "contentDigest": "67e0e5d2b6a9ec5c078b5519282ccc71",
         "type": "Directory",
         "description": "Directory \"src/pages/course\"",
         "owner": "gatsby-source-filesystem"
@@ -1631,7 +1631,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-06-12T03:16:40.515Z",
-      "accessTime": "2019-06-18T03:01:39.899Z",
+      "accessTime": "2019-06-19T08:54:34.321Z",
       "changeTime": "2019-06-15T06:04:35.222Z",
       "birthTime": "2019-06-12T03:16:40.514Z",
       "root": "/",
@@ -1649,11 +1649,11 @@
       "blksize": 4194304,
       "ino": 22376650,
       "blocks": 0,
-      "atimeMs": 1560826899899.2454,
+      "atimeMs": 1560934474320.6042,
       "mtimeMs": 1560309400514.8252,
       "ctimeMs": 1560578675222.0308,
       "birthtimeMs": 1560309400513.8855,
-      "atime": "2019-06-18T03:01:39.899Z",
+      "atime": "2019-06-19T08:54:34.321Z",
       "mtime": "2019-06-12T03:16:40.515Z",
       "ctime": "2019-06-15T06:04:35.222Z",
       "birthtime": "2019-06-12T03:16:40.514Z"
@@ -1663,7 +1663,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ba731871d92d597adc66b14ddd9bfee6",
+        "contentDigest": "968476eb02d8205ba55328f4b92f6f34",
         "type": "Directory",
         "description": "Directory \"src/pages/jargon\"",
         "owner": "gatsby-source-filesystem"
@@ -1675,7 +1675,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-18T03:01:39.899Z",
+      "accessTime": "2019-06-19T08:54:34.321Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1693,11 +1693,11 @@
       "blksize": 4194304,
       "ino": 21954374,
       "blocks": 0,
-      "atimeMs": 1560826899899.1965,
+      "atimeMs": 1560934474320.613,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.5466,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-18T03:01:39.899Z",
+      "atime": "2019-06-19T08:54:34.321Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1707,7 +1707,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8d95f5b542d87c6b5f91afdc5e8c042a",
+        "contentDigest": "a481c812bd33819ab4e1868f24186a76",
         "type": "Directory",
         "description": "Directory \"src/pages/jayden\"",
         "owner": "gatsby-source-filesystem"
@@ -1719,7 +1719,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-06-17T07:29:42.821Z",
-      "accessTime": "2019-06-18T03:01:39.899Z",
+      "accessTime": "2019-06-19T08:54:34.321Z",
       "changeTime": "2019-06-17T07:29:42.821Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1737,11 +1737,11 @@
       "blksize": 4194304,
       "ino": 21954376,
       "blocks": 0,
-      "atimeMs": 1560826899899.2974,
+      "atimeMs": 1560934474320.6484,
       "mtimeMs": 1560756582820.9316,
       "ctimeMs": 1560756582820.9316,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-18T03:01:39.899Z",
+      "atime": "2019-06-19T08:54:34.321Z",
       "mtime": "2019-06-17T07:29:42.821Z",
       "ctime": "2019-06-17T07:29:42.821Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1751,7 +1751,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2d8b7b6cf319d7798d2148a389ba9b58",
+        "contentDigest": "78957ca4f5046f88dd227c4806002878",
         "type": "Directory",
         "description": "Directory \"src/pages/listen\"",
         "owner": "gatsby-source-filesystem"
@@ -1763,7 +1763,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-18T03:01:39.899Z",
+      "accessTime": "2019-06-19T08:54:34.321Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1781,11 +1781,11 @@
       "blksize": 4194304,
       "ino": 21954378,
       "blocks": 0,
-      "atimeMs": 1560826899899.305,
+      "atimeMs": 1560934474320.64,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.8938,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-18T03:01:39.899Z",
+      "atime": "2019-06-19T08:54:34.321Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1795,7 +1795,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "683875102bb775f744b709b4eb73049a",
+        "contentDigest": "772b92533d144cc4ff2bf951d4a70a17",
         "type": "Directory",
         "description": "Directory \"src/pages/portfolio\"",
         "owner": "gatsby-source-filesystem"
@@ -1807,7 +1807,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-06-17T07:29:42.822Z",
-      "accessTime": "2019-06-18T03:01:39.899Z",
+      "accessTime": "2019-06-19T08:54:34.321Z",
       "changeTime": "2019-06-17T07:29:42.822Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1825,11 +1825,11 @@
       "blksize": 4194304,
       "ino": 21954380,
       "blocks": 0,
-      "atimeMs": 1560826899899.3328,
+      "atimeMs": 1560934474320.6716,
       "mtimeMs": 1560756582821.9502,
       "ctimeMs": 1560756582821.9502,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-18T03:01:39.899Z",
+      "atime": "2019-06-19T08:54:34.321Z",
       "mtime": "2019-06-17T07:29:42.822Z",
       "ctime": "2019-06-17T07:29:42.822Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1839,7 +1839,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "23701efb3478c481912109c05804e72a",
+        "contentDigest": "8453fe8ff552d682588c149b87ba5e91",
         "type": "Directory",
         "description": "Directory \"src/pages/tags\"",
         "owner": "gatsby-source-filesystem"
@@ -1851,7 +1851,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-18T03:01:39.899Z",
+      "accessTime": "2019-06-19T08:54:34.321Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1869,11 +1869,11 @@
       "blksize": 4194304,
       "ino": 21954387,
       "blocks": 0,
-      "atimeMs": 1560826899899.343,
+      "atimeMs": 1560934474320.677,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.2158,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-18T03:01:39.899Z",
+      "atime": "2019-06-19T08:54:34.321Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1883,7 +1883,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7f51719f2f79f54a9ba0480ffa8b7196",
+        "contentDigest": "4bdd5078a3b0ea1393584402545393cb",
         "type": "Directory",
         "description": "Directory \"src/pages/work-with-me\"",
         "owner": "gatsby-source-filesystem"
@@ -1894,9 +1894,9 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2019-06-12T08:00:40.649Z",
-      "accessTime": "2019-06-18T03:01:39.899Z",
-      "changeTime": "2019-06-12T08:00:40.649Z",
+      "modifiedTime": "2019-06-19T05:25:31.633Z",
+      "accessTime": "2019-06-19T08:54:34.321Z",
+      "changeTime": "2019-06-19T05:25:31.633Z",
       "birthTime": "2019-06-12T03:29:59.932Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
@@ -1913,108 +1913,14 @@
       "blksize": 4194304,
       "ino": 22377181,
       "blocks": 0,
-      "atimeMs": 1560826899899.3926,
-      "mtimeMs": 1560326440648.836,
-      "ctimeMs": 1560326440648.836,
+      "atimeMs": 1560934474320.6946,
+      "mtimeMs": 1560921931632.9478,
+      "ctimeMs": 1560921931632.9478,
       "birthtimeMs": 1560310199932.096,
-      "atime": "2019-06-18T03:01:39.899Z",
-      "mtime": "2019-06-12T08:00:40.649Z",
-      "ctime": "2019-06-12T08:00:40.649Z",
+      "atime": "2019-06-19T08:54:34.321Z",
+      "mtime": "2019-06-19T05:25:31.633Z",
+      "ctime": "2019-06-19T05:25:31.633Z",
       "birthtime": "2019-06-12T03:29:59.932Z"
-    },
-    "bed7b729-3986-53e8-a668-06af6fdc22fd": {
-      "id": "bed7b729-3986-53e8-a668-06af6fdc22fd",
-      "children": [
-        "effd6241-b3d4-5665-81be-52ae3477106f"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "5dbb603929a3aea7b9a580896cb938ed",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/blog/mobile-first.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
-      "relativePath": "blog/mobile-first.md",
-      "extension": "md",
-      "size": 414,
-      "prettySize": "414 B",
-      "modifiedTime": "2019-06-16T04:56:27.563Z",
-      "accessTime": "2019-06-17T06:10:27.093Z",
-      "changeTime": "2019-06-16T04:56:27.563Z",
-      "birthTime": "2019-06-13T18:28:58.201Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
-      "base": "mobile-first.md",
-      "ext": ".md",
-      "name": "mobile-first",
-      "relativeDirectory": "blog",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22478358,
-      "blocks": 8,
-      "atimeMs": 1560751827093.3909,
-      "mtimeMs": 1560660987563.4194,
-      "ctimeMs": 1560660987563.4194,
-      "birthtimeMs": 1560450538201.3699,
-      "atime": "2019-06-17T06:10:27.093Z",
-      "mtime": "2019-06-16T04:56:27.563Z",
-      "ctime": "2019-06-16T04:56:27.563Z",
-      "birthtime": "2019-06-13T18:28:58.201Z"
-    },
-    "176ecdb8-8f9c-53f2-82af-1e462266530e": {
-      "id": "176ecdb8-8f9c-53f2-82af-1e462266530e",
-      "children": [
-        "54141124-6550-5118-92fb-35e9134a6bde"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "0a5eac95346b8056acda2704e28fe5b1",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/blog/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
-      "relativePath": "blog/index.md",
-      "extension": "md",
-      "size": 408,
-      "prettySize": "408 B",
-      "modifiedTime": "2019-06-13T18:27:34.526Z",
-      "accessTime": "2019-06-13T18:27:34.676Z",
-      "changeTime": "2019-06-13T18:27:34.526Z",
-      "birthTime": "2019-06-13T18:27:34.525Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "blog",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22478070,
-      "blocks": 8,
-      "atimeMs": 1560450454675.956,
-      "mtimeMs": 1560450454525.7568,
-      "ctimeMs": 1560450454525.7568,
-      "birthtimeMs": 1560450454525.4192,
-      "atime": "2019-06-13T18:27:34.676Z",
-      "mtime": "2019-06-13T18:27:34.526Z",
-      "ctime": "2019-06-13T18:27:34.526Z",
-      "birthtime": "2019-06-13T18:27:34.525Z"
     },
     "3e45e112-d43b-5a81-a2c4-8b354f85f7f1": {
       "id": "3e45e112-d43b-5a81-a2c4-8b354f85f7f1",
@@ -2034,7 +1940,7 @@
       "size": 588,
       "prettySize": "588 B",
       "modifiedTime": "2019-06-17T23:11:39.751Z",
-      "accessTime": "2019-06-17T23:14:29.054Z",
+      "accessTime": "2019-06-19T08:50:38.378Z",
       "changeTime": "2019-06-17T23:11:39.751Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2052,61 +1958,14 @@
       "blksize": 4194304,
       "ino": 21954364,
       "blocks": 8,
-      "atimeMs": 1560813269053.7996,
+      "atimeMs": 1560934238377.8306,
       "mtimeMs": 1560813099750.874,
       "ctimeMs": 1560813099750.874,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T23:14:29.054Z",
+      "atime": "2019-06-19T08:50:38.378Z",
       "mtime": "2019-06-17T23:11:39.751Z",
       "ctime": "2019-06-17T23:11:39.751Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff": {
-      "id": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
-      "children": [
-        "4935f1f2-85c2-59a1-acba-03677e785625"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9dc53fc9a2657bad14ee5cb228b7743b",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
-      "relativePath": "index.md",
-      "extension": "md",
-      "size": 1698,
-      "prettySize": "1.7 kB",
-      "modifiedTime": "2019-06-17T07:29:42.821Z",
-      "accessTime": "2019-06-17T07:30:26.975Z",
-      "changeTime": "2019-06-17T07:29:42.821Z",
-      "birthTime": "2019-06-17T07:29:42.820Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22563269,
-      "blocks": 8,
-      "atimeMs": 1560756626975.4736,
-      "mtimeMs": 1560756582820.6514,
-      "ctimeMs": 1560756582820.6514,
-      "birthtimeMs": 1560756582820.358,
-      "atime": "2019-06-17T07:30:26.975Z",
-      "mtime": "2019-06-17T07:29:42.821Z",
-      "ctime": "2019-06-17T07:29:42.821Z",
-      "birthtime": "2019-06-17T07:29:42.820Z"
     },
     "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f": {
       "id": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f",
@@ -2128,7 +1987,7 @@
       "size": 1155,
       "prettySize": "1.16 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-17T07:27:01.135Z",
+      "accessTime": "2019-06-19T04:58:44.390Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2146,13 +2005,246 @@
       "blksize": 4194304,
       "ino": 21954366,
       "blocks": 8,
-      "atimeMs": 1560756421135.3003,
+      "atimeMs": 1560920324389.7166,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.0078,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T07:27:01.135Z",
+      "atime": "2019-06-19T04:58:44.390Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "176ecdb8-8f9c-53f2-82af-1e462266530e": {
+      "id": "176ecdb8-8f9c-53f2-82af-1e462266530e",
+      "children": [
+        "54141124-6550-5118-92fb-35e9134a6bde"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0a5eac95346b8056acda2704e28fe5b1",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
+      "relativePath": "blog/index.md",
+      "extension": "md",
+      "size": 408,
+      "prettySize": "408 B",
+      "modifiedTime": "2019-06-13T18:27:34.526Z",
+      "accessTime": "2019-06-19T04:58:44.390Z",
+      "changeTime": "2019-06-13T18:27:34.526Z",
+      "birthTime": "2019-06-13T18:27:34.525Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "blog",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22478070,
+      "blocks": 8,
+      "atimeMs": 1560920324390.0237,
+      "mtimeMs": 1560450454525.7568,
+      "ctimeMs": 1560450454525.7568,
+      "birthtimeMs": 1560450454525.4192,
+      "atime": "2019-06-19T04:58:44.390Z",
+      "mtime": "2019-06-13T18:27:34.526Z",
+      "ctime": "2019-06-13T18:27:34.526Z",
+      "birthtime": "2019-06-13T18:27:34.525Z"
+    },
+    "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff": {
+      "id": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
+      "children": [
+        "4935f1f2-85c2-59a1-acba-03677e785625"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9dc53fc9a2657bad14ee5cb228b7743b",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
+      "relativePath": "index.md",
+      "extension": "md",
+      "size": 1698,
+      "prettySize": "1.7 kB",
+      "modifiedTime": "2019-06-17T07:29:42.821Z",
+      "accessTime": "2019-06-19T04:58:44.387Z",
+      "changeTime": "2019-06-17T07:29:42.821Z",
+      "birthTime": "2019-06-17T07:29:42.820Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22563269,
+      "blocks": 8,
+      "atimeMs": 1560920324386.6848,
+      "mtimeMs": 1560756582820.6514,
+      "ctimeMs": 1560756582820.6514,
+      "birthtimeMs": 1560756582820.358,
+      "atime": "2019-06-19T04:58:44.387Z",
+      "mtime": "2019-06-17T07:29:42.821Z",
+      "ctime": "2019-06-17T07:29:42.821Z",
+      "birthtime": "2019-06-17T07:29:42.820Z"
+    },
+    "3f64b991-1d6d-5992-8051-42858abe9880": {
+      "id": "3f64b991-1d6d-5992-8051-42858abe9880",
+      "children": [
+        "ca250394-f2f2-5e21-b3f6-c6f6605f5fcb"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7889a38a1624b0d3238138c5aacb62f5",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/course/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/course/index.md",
+      "relativePath": "course/index.md",
+      "extension": "md",
+      "size": 1129,
+      "prettySize": "1.13 kB",
+      "modifiedTime": "2019-06-15T06:04:45.960Z",
+      "accessTime": "2019-06-19T04:58:44.390Z",
+      "changeTime": "2019-06-15T06:04:45.960Z",
+      "birthTime": "2019-06-12T03:16:40.515Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/course",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "course",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22376651,
+      "blocks": 8,
+      "atimeMs": 1560920324390.4019,
+      "mtimeMs": 1560578685959.616,
+      "ctimeMs": 1560578685959.616,
+      "birthtimeMs": 1560309400514.8137,
+      "atime": "2019-06-19T04:58:44.390Z",
+      "mtime": "2019-06-15T06:04:45.960Z",
+      "ctime": "2019-06-15T06:04:45.960Z",
+      "birthtime": "2019-06-12T03:16:40.515Z"
+    },
+    "bed7b729-3986-53e8-a668-06af6fdc22fd": {
+      "id": "bed7b729-3986-53e8-a668-06af6fdc22fd",
+      "children": [
+        "effd6241-b3d4-5665-81be-52ae3477106f"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5dbb603929a3aea7b9a580896cb938ed",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/mobile-first.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
+      "relativePath": "blog/mobile-first.md",
+      "extension": "md",
+      "size": 414,
+      "prettySize": "414 B",
+      "modifiedTime": "2019-06-16T04:56:27.563Z",
+      "accessTime": "2019-06-19T04:58:44.390Z",
+      "changeTime": "2019-06-16T04:56:27.563Z",
+      "birthTime": "2019-06-13T18:28:58.201Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
+      "base": "mobile-first.md",
+      "ext": ".md",
+      "name": "mobile-first",
+      "relativeDirectory": "blog",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22478358,
+      "blocks": 8,
+      "atimeMs": 1560920324390.079,
+      "mtimeMs": 1560660987563.4194,
+      "ctimeMs": 1560660987563.4194,
+      "birthtimeMs": 1560450538201.3699,
+      "atime": "2019-06-19T04:58:44.390Z",
+      "mtime": "2019-06-16T04:56:27.563Z",
+      "ctime": "2019-06-16T04:56:27.563Z",
+      "birthtime": "2019-06-13T18:28:58.201Z"
+    },
+    "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0": {
+      "id": "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "62130dbdcc87340c0940bc61ace27232",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/listen/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen/index.js",
+      "relativePath": "listen/index.js",
+      "extension": "js",
+      "size": 1705,
+      "prettySize": "1.71 kB",
+      "modifiedTime": "2019-06-04T02:59:06.917Z",
+      "accessTime": "2019-06-19T08:50:38.378Z",
+      "changeTime": "2019-06-04T02:59:06.917Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "listen",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954379,
+      "blocks": 8,
+      "atimeMs": 1560934238377.9875,
+      "mtimeMs": 1559617146917.3357,
+      "ctimeMs": 1559617146917.3357,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-19T08:50:38.378Z",
+      "mtime": "2019-06-04T02:59:06.917Z",
+      "ctime": "2019-06-04T02:59:06.917Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b": {
@@ -2175,7 +2267,7 @@
       "size": 920,
       "prettySize": "920 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-17T06:10:27.094Z",
+      "accessTime": "2019-06-19T04:58:44.391Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2193,61 +2285,14 @@
       "blksize": 4194304,
       "ino": 21954375,
       "blocks": 8,
-      "atimeMs": 1560751827093.76,
+      "atimeMs": 1560920324390.734,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.5928,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:27.094Z",
+      "atime": "2019-06-19T04:58:44.391Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "3f64b991-1d6d-5992-8051-42858abe9880": {
-      "id": "3f64b991-1d6d-5992-8051-42858abe9880",
-      "children": [
-        "ca250394-f2f2-5e21-b3f6-c6f6605f5fcb"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "7889a38a1624b0d3238138c5aacb62f5",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/course/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/course/index.md",
-      "relativePath": "course/index.md",
-      "extension": "md",
-      "size": 1129,
-      "prettySize": "1.13 kB",
-      "modifiedTime": "2019-06-15T06:04:45.960Z",
-      "accessTime": "2019-06-17T06:10:27.094Z",
-      "changeTime": "2019-06-15T06:04:45.960Z",
-      "birthTime": "2019-06-12T03:16:40.515Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/course",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "course",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22376651,
-      "blocks": 8,
-      "atimeMs": 1560751827093.6047,
-      "mtimeMs": 1560578685959.616,
-      "ctimeMs": 1560578685959.616,
-      "birthtimeMs": 1560309400514.8137,
-      "atime": "2019-06-17T06:10:27.094Z",
-      "mtime": "2019-06-15T06:04:45.960Z",
-      "ctime": "2019-06-15T06:04:45.960Z",
-      "birthtime": "2019-06-12T03:16:40.515Z"
     },
     "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7": {
       "id": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7",
@@ -2269,7 +2314,7 @@
       "size": 1904,
       "prettySize": "1.9 kB",
       "modifiedTime": "2019-06-17T07:29:42.821Z",
-      "accessTime": "2019-06-17T07:30:26.976Z",
+      "accessTime": "2019-06-19T04:58:44.391Z",
       "changeTime": "2019-06-17T07:29:42.821Z",
       "birthTime": "2019-06-17T07:29:42.821Z",
       "root": "/",
@@ -2287,59 +2332,14 @@
       "blksize": 4194304,
       "ino": 22563270,
       "blocks": 8,
-      "atimeMs": 1560756626975.5066,
+      "atimeMs": 1560920324391.446,
       "mtimeMs": 1560756582821.0938,
       "ctimeMs": 1560756582821.0938,
       "birthtimeMs": 1560756582820.924,
-      "atime": "2019-06-17T07:30:26.976Z",
+      "atime": "2019-06-19T04:58:44.391Z",
       "mtime": "2019-06-17T07:29:42.821Z",
       "ctime": "2019-06-17T07:29:42.821Z",
       "birthtime": "2019-06-17T07:29:42.821Z"
-    },
-    "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0": {
-      "id": "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "62130dbdcc87340c0940bc61ace27232",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/listen/index.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen/index.js",
-      "relativePath": "listen/index.js",
-      "extension": "js",
-      "size": 1705,
-      "prettySize": "1.71 kB",
-      "modifiedTime": "2019-06-04T02:59:06.917Z",
-      "accessTime": "2019-06-17T07:28:04.518Z",
-      "changeTime": "2019-06-04T02:59:06.917Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "listen",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954379,
-      "blocks": 8,
-      "atimeMs": 1560756484518.124,
-      "mtimeMs": 1559617146917.3357,
-      "ctimeMs": 1559617146917.3357,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T07:28:04.518Z",
-      "mtime": "2019-06-04T02:59:06.917Z",
-      "ctime": "2019-06-04T02:59:06.917Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "b32e1cb2-eacb-5c4d-8641-e23fc35da015": {
       "id": "b32e1cb2-eacb-5c4d-8641-e23fc35da015",
@@ -2361,7 +2361,7 @@
       "size": 212,
       "prettySize": "212 B",
       "modifiedTime": "2019-06-04T01:49:46.130Z",
-      "accessTime": "2019-06-17T06:10:27.094Z",
+      "accessTime": "2019-06-19T04:58:44.393Z",
       "changeTime": "2019-06-04T01:49:46.130Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2379,13 +2379,58 @@
       "blksize": 4194304,
       "ino": 21954382,
       "blocks": 8,
-      "atimeMs": 1560751827094.0737,
+      "atimeMs": 1560920324392.9182,
       "mtimeMs": 1559612986129.838,
       "ctimeMs": 1559612986129.838,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:27.094Z",
+      "atime": "2019-06-19T04:58:44.393Z",
       "mtime": "2019-06-04T01:49:46.130Z",
       "ctime": "2019-06-04T01:49:46.130Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2": {
+      "id": "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e34e12071614cc43efd48477e277b6f7",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/tags/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags/index.js",
+      "relativePath": "tags/index.js",
+      "extension": "js",
+      "size": 1275,
+      "prettySize": "1.27 kB",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-19T08:50:38.378Z",
+      "changeTime": "2019-06-02T02:01:33.367Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "tags",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954388,
+      "blocks": 8,
+      "atimeMs": 1560934238378.0676,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893367.2795,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-19T08:50:38.378Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "f3874ce4-c1d7-5d72-b53d-1f8993821fea": {
@@ -2408,7 +2453,7 @@
       "size": 1870,
       "prettySize": "1.87 kB",
       "modifiedTime": "2019-06-17T07:29:42.822Z",
-      "accessTime": "2019-06-17T07:29:42.958Z",
+      "accessTime": "2019-06-19T04:58:44.393Z",
       "changeTime": "2019-06-17T07:29:42.822Z",
       "birthTime": "2019-06-17T07:29:42.821Z",
       "root": "/",
@@ -2426,14 +2471,61 @@
       "blksize": 4194304,
       "ino": 22563271,
       "blocks": 8,
-      "atimeMs": 1560756582957.5134,
+      "atimeMs": 1560920324393.0315,
       "mtimeMs": 1560756582821.5378,
       "ctimeMs": 1560756582821.5378,
       "birthtimeMs": 1560756582821.2468,
-      "atime": "2019-06-17T07:29:42.958Z",
+      "atime": "2019-06-19T04:58:44.393Z",
       "mtime": "2019-06-17T07:29:42.822Z",
       "ctime": "2019-06-17T07:29:42.822Z",
       "birthtime": "2019-06-17T07:29:42.821Z"
+    },
+    "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4": {
+      "id": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4",
+      "children": [
+        "f63e7d4d-db64-50b7-b1c5-3d7fca33130d"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a519aa916ebb3ef5bb01ec9cc71e3c71",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/work-with-me/cv.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/cv.md",
+      "relativePath": "work-with-me/cv.md",
+      "extension": "md",
+      "size": 1311,
+      "prettySize": "1.31 kB",
+      "modifiedTime": "2019-06-19T07:49:15.122Z",
+      "accessTime": "2019-06-19T07:49:15.238Z",
+      "changeTime": "2019-06-19T07:49:15.122Z",
+      "birthTime": "2019-06-12T03:29:59.936Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me",
+      "base": "cv.md",
+      "ext": ".md",
+      "name": "cv",
+      "relativeDirectory": "work-with-me",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22377183,
+      "blocks": 8,
+      "atimeMs": 1560930555238.275,
+      "mtimeMs": 1560930555121.872,
+      "ctimeMs": 1560930555121.872,
+      "birthtimeMs": 1560310199936.0076,
+      "atime": "2019-06-19T07:49:15.238Z",
+      "mtime": "2019-06-19T07:49:15.122Z",
+      "ctime": "2019-06-19T07:49:15.122Z",
+      "birthtime": "2019-06-12T03:29:59.936Z"
     },
     "e96904ec-bbfc-5908-a210-1a3b8b4dec61": {
       "id": "e96904ec-bbfc-5908-a210-1a3b8b4dec61",
@@ -2455,7 +2547,7 @@
       "size": 935,
       "prettySize": "935 B",
       "modifiedTime": "2019-06-17T07:29:42.822Z",
-      "accessTime": "2019-06-17T07:30:26.996Z",
+      "accessTime": "2019-06-19T04:58:44.393Z",
       "changeTime": "2019-06-17T07:29:42.822Z",
       "birthTime": "2019-06-17T07:29:42.822Z",
       "root": "/",
@@ -2473,59 +2565,14 @@
       "blksize": 4194304,
       "ino": 22563272,
       "blocks": 8,
-      "atimeMs": 1560756626996.1506,
+      "atimeMs": 1560920324393.12,
       "mtimeMs": 1560756582822.185,
       "ctimeMs": 1560756582822.185,
       "birthtimeMs": 1560756582821.933,
-      "atime": "2019-06-17T07:30:26.996Z",
+      "atime": "2019-06-19T04:58:44.393Z",
       "mtime": "2019-06-17T07:29:42.822Z",
       "ctime": "2019-06-17T07:29:42.822Z",
       "birthtime": "2019-06-17T07:29:42.822Z"
-    },
-    "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2": {
-      "id": "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e34e12071614cc43efd48477e277b6f7",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/tags/index.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags/index.js",
-      "relativePath": "tags/index.js",
-      "extension": "js",
-      "size": 1275,
-      "prettySize": "1.27 kB",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-17T07:28:04.518Z",
-      "changeTime": "2019-06-02T02:01:33.367Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "tags",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954388,
-      "blocks": 8,
-      "atimeMs": 1560756484518.1863,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893367.2795,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T07:28:04.518Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.367Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "04a5bc5f-4bc6-51ba-9df5-931f11ea9086": {
       "id": "04a5bc5f-4bc6-51ba-9df5-931f11ea9086",
@@ -2547,7 +2594,7 @@
       "size": 1377,
       "prettySize": "1.38 kB",
       "modifiedTime": "2019-06-14T09:18:53.273Z",
-      "accessTime": "2019-06-17T06:10:27.094Z",
+      "accessTime": "2019-06-19T04:58:44.393Z",
       "changeTime": "2019-06-14T09:18:53.273Z",
       "birthTime": "2019-06-12T21:24:24.460Z",
       "root": "/",
@@ -2565,61 +2612,14 @@
       "blksize": 4194304,
       "ino": 22426774,
       "blocks": 8,
-      "atimeMs": 1560751827094.0938,
+      "atimeMs": 1560920324393.2598,
       "mtimeMs": 1560503933272.936,
       "ctimeMs": 1560503933272.936,
       "birthtimeMs": 1560374664459.6716,
-      "atime": "2019-06-17T06:10:27.094Z",
+      "atime": "2019-06-19T04:58:44.393Z",
       "mtime": "2019-06-14T09:18:53.273Z",
       "ctime": "2019-06-14T09:18:53.273Z",
       "birthtime": "2019-06-12T21:24:24.460Z"
-    },
-    "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4": {
-      "id": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4",
-      "children": [
-        "f63e7d4d-db64-50b7-b1c5-3d7fca33130d"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "3a9289968131b7f9c7609a99397a54f4",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/work-with-me/cv.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/cv.md",
-      "relativePath": "work-with-me/cv.md",
-      "extension": "md",
-      "size": 1286,
-      "prettySize": "1.29 kB",
-      "modifiedTime": "2019-06-14T23:22:42.543Z",
-      "accessTime": "2019-06-17T06:10:27.095Z",
-      "changeTime": "2019-06-14T23:22:42.543Z",
-      "birthTime": "2019-06-12T03:29:59.936Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me",
-      "base": "cv.md",
-      "ext": ".md",
-      "name": "cv",
-      "relativeDirectory": "work-with-me",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22377183,
-      "blocks": 8,
-      "atimeMs": 1560751827094.71,
-      "mtimeMs": 1560554562543.154,
-      "ctimeMs": 1560554562543.154,
-      "birthtimeMs": 1560310199936.0076,
-      "atime": "2019-06-17T06:10:27.095Z",
-      "mtime": "2019-06-14T23:22:42.543Z",
-      "ctime": "2019-06-14T23:22:42.543Z",
-      "birthtime": "2019-06-12T03:29:59.936Z"
     },
     "e8a90122-3d0e-544c-8bd4-33a6e48f09d8": {
       "id": "e8a90122-3d0e-544c-8bd4-33a6e48f09d8",
@@ -2628,7 +2628,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "01456e0b0363c95a4e6f9310b122ed1b",
+        "contentDigest": "a519aa916ebb3ef5bb01ec9cc71e3c71",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/work-with-me/index.md\"",
@@ -2638,11 +2638,11 @@
       "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/index.md",
       "relativePath": "work-with-me/index.md",
       "extension": "md",
-      "size": 1301,
-      "prettySize": "1.3 kB",
-      "modifiedTime": "2019-06-14T08:30:37.507Z",
-      "accessTime": "2019-06-14T09:21:25.425Z",
-      "changeTime": "2019-06-14T08:30:37.507Z",
+      "size": 1311,
+      "prettySize": "1.31 kB",
+      "modifiedTime": "2019-06-19T08:52:07.167Z",
+      "accessTime": "2019-06-19T08:52:08.178Z",
+      "changeTime": "2019-06-19T08:52:07.167Z",
       "birthTime": "2019-06-12T08:00:40.649Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me",
@@ -2659,48 +2659,45 @@
       "blksize": 4194304,
       "ino": 22384084,
       "blocks": 8,
-      "atimeMs": 1560504085425.3364,
-      "mtimeMs": 1560501037507.4082,
-      "ctimeMs": 1560501037507.4082,
+      "atimeMs": 1560934328178.0532,
+      "mtimeMs": 1560934327166.864,
+      "ctimeMs": 1560934327166.864,
       "birthtimeMs": 1560326440648.812,
-      "atime": "2019-06-14T09:21:25.425Z",
-      "mtime": "2019-06-14T08:30:37.507Z",
-      "ctime": "2019-06-14T08:30:37.507Z",
+      "atime": "2019-06-19T08:52:08.178Z",
+      "mtime": "2019-06-19T08:52:07.167Z",
+      "ctime": "2019-06-19T08:52:07.167Z",
       "birthtime": "2019-06-12T08:00:40.649Z"
     },
-    "effd6241-b3d4-5665-81be-52ae3477106f": {
-      "id": "effd6241-b3d4-5665-81be-52ae3477106f",
+    "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": {
+      "id": "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc",
       "children": [],
-      "parent": "bed7b729-3986-53e8-a668-06af6fdc22fd",
+      "parent": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f",
       "internal": {
-        "content": "# Get Reading\n",
+        "content": "**What can I do? **This is the most common question I am asked by someone facing a cancer journey. This inspired a booklet I wrote called **\"What can I do?'** to help patients change their lifestyle to maximize their chance of a good outcome. The website will be an expanded resource to help you on your cancer journey. \n\nThrough the blog I will bring you the science and practical advice you need to make changes. On the resources page you will find links to books, articles and websites that can help you. If there is a cost attached I try to find the cheapest price for you. I make no money from the resources.\n\nYou can follow us on Aacebook and Instagrgam. If you like listening to the articles you can find them on apple podcast and Spotify. If you would like notifications of when a new article is written, you can submit your name and email on the front page.\n",
         "type": "MarkdownRemark",
-        "contentDigest": "e994ab5b390f79970f5c971f309902de",
+        "contentDigest": "839131d622df773ab3ba026203c613cc",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
         }
       },
       "frontmatter": {
-        "title": "Mobile First",
-        "templateKey": "blog-post",
-        "date": "2019-06-13T18:25:05.431Z",
-        "discoverable": "no",
-        "header": "/img/hhf-book.png",
-        "description": "This blog will share the latest trends and ideas in the design world keeping you informed with your design decisions.",
-        "recommendedName": "What Is Cancer?",
-        "recommendedImage": "/img/sleep.jpg",
-        "recommendedLink": "https://www.jaydenszekely.com/jayden",
-        "tags": [
-          "home"
-        ],
-        "_PARENT": "bed7b729-3986-53e8-a668-06af6fdc22fd"
+        "title": "About What The Cancer",
+        "templateKey": "about-page",
+        "full_image": "/img/about-two.jpg",
+        "leftBackground": "/img/39748560_10157016425674369_11675533586726912_n-2-.jpg",
+        "leftTitle": "Our Resources",
+        "leftLink": "/resources",
+        "rightTitle": "Meet Lisa",
+        "rightDescription": "Medical Oncologist",
+        "rightUrl": "/lisa",
+        "_PARENT": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f"
       },
       "excerpt": "",
-      "rawMarkdownBody": "# Get Reading\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
+      "rawMarkdownBody": "**What can I do? **This is the most common question I am asked by someone facing a cancer journey. This inspired a booklet I wrote called **\"What can I do?'** to help patients change their lifestyle to maximize their chance of a good outcome. The website will be an expanded resource to help you on your cancer journey. \n\nThrough the blog I will bring you the science and practical advice you need to make changes. On the resources page you will find links to books, articles and websites that can help you. If there is a cost attached I try to find the cheapest price for you. I make no money from the resources.\n\nYou can follow us on Aacebook and Instagrgam. If you like listening to the articles you can find them on apple podcast and Spotify. If you would like notifications of when a new article is written, you can submit your name and email on the front page.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/about/index.md",
       "fields": {
-        "slug": "/blog/mobile-first/"
+        "slug": "/about/"
       }
     },
     "54141124-6550-5118-92fb-35e9134a6bde": {
@@ -2781,68 +2778,39 @@
         "slug": "/"
       }
     },
-    "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": {
-      "id": "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc",
+    "effd6241-b3d4-5665-81be-52ae3477106f": {
+      "id": "effd6241-b3d4-5665-81be-52ae3477106f",
       "children": [],
-      "parent": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f",
+      "parent": "bed7b729-3986-53e8-a668-06af6fdc22fd",
       "internal": {
-        "content": "**What can I do? **This is the most common question I am asked by someone facing a cancer journey. This inspired a booklet I wrote called **\"What can I do?'** to help patients change their lifestyle to maximize their chance of a good outcome. The website will be an expanded resource to help you on your cancer journey. \n\nThrough the blog I will bring you the science and practical advice you need to make changes. On the resources page you will find links to books, articles and websites that can help you. If there is a cost attached I try to find the cheapest price for you. I make no money from the resources.\n\nYou can follow us on Aacebook and Instagrgam. If you like listening to the articles you can find them on apple podcast and Spotify. If you would like notifications of when a new article is written, you can submit your name and email on the front page.\n",
+        "content": "# Get Reading\n",
         "type": "MarkdownRemark",
-        "contentDigest": "839131d622df773ab3ba026203c613cc",
+        "contentDigest": "e994ab5b390f79970f5c971f309902de",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
         }
       },
       "frontmatter": {
-        "title": "About What The Cancer",
-        "templateKey": "about-page",
-        "full_image": "/img/about-two.jpg",
-        "leftBackground": "/img/39748560_10157016425674369_11675533586726912_n-2-.jpg",
-        "leftTitle": "Our Resources",
-        "leftLink": "/resources",
-        "rightTitle": "Meet Lisa",
-        "rightDescription": "Medical Oncologist",
-        "rightUrl": "/lisa",
-        "_PARENT": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f"
+        "title": "Mobile First",
+        "templateKey": "blog-post",
+        "date": "2019-06-13T18:25:05.431Z",
+        "discoverable": "no",
+        "header": "/img/hhf-book.png",
+        "description": "This blog will share the latest trends and ideas in the design world keeping you informed with your design decisions.",
+        "recommendedName": "What Is Cancer?",
+        "recommendedImage": "/img/sleep.jpg",
+        "recommendedLink": "https://www.jaydenszekely.com/jayden",
+        "tags": [
+          "home"
+        ],
+        "_PARENT": "bed7b729-3986-53e8-a668-06af6fdc22fd"
       },
       "excerpt": "",
-      "rawMarkdownBody": "**What can I do? **This is the most common question I am asked by someone facing a cancer journey. This inspired a booklet I wrote called **\"What can I do?'** to help patients change their lifestyle to maximize their chance of a good outcome. The website will be an expanded resource to help you on your cancer journey. \n\nThrough the blog I will bring you the science and practical advice you need to make changes. On the resources page you will find links to books, articles and websites that can help you. If there is a cost attached I try to find the cheapest price for you. I make no money from the resources.\n\nYou can follow us on Aacebook and Instagrgam. If you like listening to the articles you can find them on apple podcast and Spotify. If you would like notifications of when a new article is written, you can submit your name and email on the front page.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/about/index.md",
+      "rawMarkdownBody": "# Get Reading\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
       "fields": {
-        "slug": "/about/"
-      }
-    },
-    "576c1608-0625-5c33-b071-c0b97ccc8337": {
-      "id": "576c1608-0625-5c33-b071-c0b97ccc8337",
-      "children": [],
-      "parent": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
-      "internal": {
-        "content": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "9b54e05febe5981f75b3c28beb175e11",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Jargon Dictionary",
-        "templateKey": "about-page",
-        "full_image": "/img/resource-splash.jpg",
-        "leftBackground": "/img/resource-splash.jpg",
-        "leftTitle": "View All Our Resources",
-        "leftLink": "https://www.whatthecancer.com/resources",
-        "rightTitle": "Read our Blog",
-        "rightDescription": "Read, Listen or Watch articles on topics relating to fighting and prevention of cancer",
-        "rightUrl": "/blog",
-        "_PARENT": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
-      "fields": {
-        "slug": "/jargon/"
+        "slug": "/blog/mobile-first/"
       }
     },
     "ca250394-f2f2-5e21-b3f6-c6f6605f5fcb": {
@@ -2875,6 +2843,38 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/course/index.md",
       "fields": {
         "slug": "/course/"
+      }
+    },
+    "576c1608-0625-5c33-b071-c0b97ccc8337": {
+      "id": "576c1608-0625-5c33-b071-c0b97ccc8337",
+      "children": [],
+      "parent": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
+      "internal": {
+        "content": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "9b54e05febe5981f75b3c28beb175e11",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Jargon Dictionary",
+        "templateKey": "about-page",
+        "full_image": "/img/resource-splash.jpg",
+        "leftBackground": "/img/resource-splash.jpg",
+        "leftTitle": "View All Our Resources",
+        "leftLink": "https://www.whatthecancer.com/resources",
+        "rightTitle": "Read our Blog",
+        "rightDescription": "Read, Listen or Watch articles on topics relating to fighting and prevention of cancer",
+        "rightUrl": "/blog",
+        "_PARENT": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
+      "fields": {
+        "slug": "/jargon/"
       }
     },
     "df0b2ad0-0419-5d6e-9631-999c911f3931": {
@@ -2938,49 +2938,6 @@
         "slug": "/portfolio/"
       }
     },
-    "f5ef53ab-11a2-5e12-b9a1-535e25912966": {
-      "id": "f5ef53ab-11a2-5e12-b9a1-535e25912966",
-      "children": [],
-      "parent": "e96904ec-bbfc-5908-a210-1a3b8b4dec61",
-      "internal": {
-        "content": "Coming Soon\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "4c844b921de899c16a03ea546175791b",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Stranger",
-        "templateKey": "portfolio",
-        "date": "2019-06-17T06:24:20.474Z",
-        "discoverable": "yes",
-        "image": "/img/stranger-menu-full-res.jpg",
-        "description": "Stranger",
-        "jobDate": "SEP 2018",
-        "leftColumn": "UI / UX Design Concept",
-        "portfolioDescription": "This design was a concept piece I did to share with my Instagram followers and to try a new \"Clean-Brutalism\" style which is often an oxymoron.  This design is for a urban streetwear fashion boutique for a male demographic between 16 & 30 and by the choice of layout, typography and colour, this design achieved that.",
-        "bigImageOne": "/img/stranger-home-web-res.jpg",
-        "portfolioQuote": "This design pushed the boundaries of modern design, something I aim to do with every project.",
-        "bigImageTwo": "/img/stranger-collection-page-web-res.jpg",
-        "portfolioName": "Stranger",
-        "portfolioImage": "/img/stranger-menu-full-res.jpg",
-        "portfolioLink": "/stranger",
-        "tags": [
-          "UI / UX",
-          "Web Design",
-          "Concept"
-        ],
-        "_PARENT": "e96904ec-bbfc-5908-a210-1a3b8b4dec61"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Coming Soon\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/stranger.md",
-      "fields": {
-        "slug": "/portfolio/stranger/"
-      }
-    },
     "1acdcee0-19c1-52d1-9255-7fef527ca1c0": {
       "id": "1acdcee0-19c1-52d1-9255-7fef527ca1c0",
       "children": [],
@@ -3023,6 +2980,41 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/kate-smith.md",
       "fields": {
         "slug": "/portfolio/kate-smith/"
+      }
+    },
+    "f63e7d4d-db64-50b7-b1c5-3d7fca33130d": {
+      "id": "f63e7d4d-db64-50b7-b1c5-3d7fca33130d",
+      "children": [],
+      "parent": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4",
+      "internal": {
+        "content": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "43b416f5ec476b899797f54d82c1fec4",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "My CV",
+        "templateKey": "cv",
+        "discoverable": "no",
+        "date": "2018-12-18T06:43:47.603Z",
+        "image": "/img/resource-splash.jpg",
+        "description": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read ",
+        "jobDate": "DEC – 2018",
+        "cvName": "My CV",
+        "cvQuote": "This is great",
+        "cvDescription": "My name is Jayden Szekely, I am an audacious, multi-disciplined creative with experience in graphic design, web / UI design, as well as video editing & design. I see design as more than text, images and colour, I see design as the best opportunity to tell a story to the world. I look forward to having the opportunity to talking with you, to see how I can be a part of writing the next chapter in your story.",
+        "cvImage": "/img/portfolioPic.jpg",
+        "cvLink": "/",
+        "_PARENT": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/cv.md",
+      "fields": {
+        "slug": "/work-with-me/cv/"
       }
     },
     "c5cfc1ee-382e-5b44-b49f-1471895d5a30": {
@@ -3070,14 +3062,57 @@
         "slug": "/portfolio/what-the-cancer/"
       }
     },
-    "f63e7d4d-db64-50b7-b1c5-3d7fca33130d": {
-      "id": "f63e7d4d-db64-50b7-b1c5-3d7fca33130d",
+    "f5ef53ab-11a2-5e12-b9a1-535e25912966": {
+      "id": "f5ef53ab-11a2-5e12-b9a1-535e25912966",
       "children": [],
-      "parent": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4",
+      "parent": "e96904ec-bbfc-5908-a210-1a3b8b4dec61",
+      "internal": {
+        "content": "Coming Soon\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "4c844b921de899c16a03ea546175791b",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Stranger",
+        "templateKey": "portfolio",
+        "date": "2019-06-17T06:24:20.474Z",
+        "discoverable": "yes",
+        "image": "/img/stranger-menu-full-res.jpg",
+        "description": "Stranger",
+        "jobDate": "SEP 2018",
+        "leftColumn": "UI / UX Design Concept",
+        "portfolioDescription": "This design was a concept piece I did to share with my Instagram followers and to try a new \"Clean-Brutalism\" style which is often an oxymoron.  This design is for a urban streetwear fashion boutique for a male demographic between 16 & 30 and by the choice of layout, typography and colour, this design achieved that.",
+        "bigImageOne": "/img/stranger-home-web-res.jpg",
+        "portfolioQuote": "This design pushed the boundaries of modern design, something I aim to do with every project.",
+        "bigImageTwo": "/img/stranger-collection-page-web-res.jpg",
+        "portfolioName": "Stranger",
+        "portfolioImage": "/img/stranger-menu-full-res.jpg",
+        "portfolioLink": "/stranger",
+        "tags": [
+          "UI / UX",
+          "Web Design",
+          "Concept"
+        ],
+        "_PARENT": "e96904ec-bbfc-5908-a210-1a3b8b4dec61"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Coming Soon\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/portfolio/stranger.md",
+      "fields": {
+        "slug": "/portfolio/stranger/"
+      }
+    },
+    "344f5167-e029-5481-a3eb-30f1d2f0cf53": {
+      "id": "344f5167-e029-5481-a3eb-30f1d2f0cf53",
+      "children": [],
+      "parent": "e8a90122-3d0e-544c-8bd4-33a6e48f09d8",
       "internal": {
         "content": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
         "type": "MarkdownRemark",
-        "contentDigest": "406dcfa5df408e38d854d7a1c1530fe5",
+        "contentDigest": "9432bfbb12aa9ce8e8e941c0c73ec8a1",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
@@ -3093,48 +3128,13 @@
         "jobDate": "DEC – 2018",
         "cvName": "My CV",
         "cvQuote": "This is great",
-        "cvDescription": "Hi! my name is Jayden Szekely, I am an audacious creative with experience in graphic design, web / UI design, as well as video editing & design. I see design as more than text, images and colour, I see design as the best opportunity to tell a story to the world. I look forward to having the opportunity to talking to see how I can be a part of writing the next chapter in your story.",
+        "cvDescription": "My name is Jayden Szekely, I am an audacious, multi-disciplined creative with experience in graphic design, web / UI design, as well as video editing & design. I see design as more than text, images and colour, I see design as the best opportunity to tell a story to the world. I look forward to having the opportunity to talking with you, to see how I can be a part of writing the next chapter in your story.",
         "cvImage": "/img/portfolioPic.jpg",
         "cvLink": "/",
-        "_PARENT": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/cv.md",
-      "fields": {
-        "slug": "/work-with-me/cv/"
-      }
-    },
-    "344f5167-e029-5481-a3eb-30f1d2f0cf53": {
-      "id": "344f5167-e029-5481-a3eb-30f1d2f0cf53",
-      "children": [],
-      "parent": "e8a90122-3d0e-544c-8bd4-33a6e48f09d8",
-      "internal": {
-        "content": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "660e9801f5e738534e5fc8f607ed93ef",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Work With Me",
-        "templateKey": "portfolio",
-        "discoverable": "no",
-        "date": "2018-12-18T06:43:47.603Z",
-        "image": "/img/portfolioPic.jpg",
-        "description": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read ",
-        "jobDate": "6 Years Experience",
-        "portfolioName": "Work With Me",
-        "portfolioDescription": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.",
-        "portfolioImage": "/img/portfolioPic.jpg",
-        "portfolioPrice": null,
-        "portfolioLink": "/",
         "_PARENT": "e8a90122-3d0e-544c-8bd4-33a6e48f09d8"
       },
       "excerpt": "",
-      "rawMarkdownBody": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n\n",
+      "rawMarkdownBody": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/index.md",
       "fields": {
         "slug": "/work-with-me/"
@@ -3145,7 +3145,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "72dd74c6009bc022f851b6167fa3c6e7",
+        "contentDigest": "6b2ea16ee808f60a225ffd439f726556",
         "type": "Directory",
         "description": "Directory \"src/img\"",
         "owner": "gatsby-source-filesystem"
@@ -3154,11 +3154,11 @@
       "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
       "relativePath": "",
       "extension": "",
-      "size": 480,
-      "prettySize": "480 B",
-      "modifiedTime": "2019-06-16T22:11:02.150Z",
-      "accessTime": "2019-06-18T03:01:40.006Z",
-      "changeTime": "2019-06-16T22:11:02.150Z",
+      "size": 544,
+      "prettySize": "544 B",
+      "modifiedTime": "2019-06-19T05:28:29.854Z",
+      "accessTime": "2019-06-19T08:54:34.430Z",
+      "changeTime": "2019-06-19T05:28:29.854Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src",
@@ -3168,20 +3168,20 @@
       "relativeDirectory": "..",
       "dev": 16777221,
       "mode": 16877,
-      "nlink": 15,
+      "nlink": 17,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 21954356,
       "blocks": 0,
-      "atimeMs": 1560826900005.6306,
-      "mtimeMs": 1560723062149.5466,
-      "ctimeMs": 1560723062149.5466,
+      "atimeMs": 1560934474430.0476,
+      "mtimeMs": 1560922109854.05,
+      "ctimeMs": 1560922109854.05,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-18T03:01:40.006Z",
-      "mtime": "2019-06-16T22:11:02.150Z",
-      "ctime": "2019-06-16T22:11:02.150Z",
+      "atime": "2019-06-19T08:54:34.430Z",
+      "mtime": "2019-06-19T05:28:29.854Z",
+      "ctime": "2019-06-19T05:28:29.854Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "3dfeb698-8689-535b-a8d0-daba3d216ad9": {
@@ -3204,7 +3204,7 @@
       "size": 19592,
       "prettySize": "19.6 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-17T06:10:27.132Z",
+      "accessTime": "2019-06-19T04:58:44.688Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3222,56 +3222,11 @@
       "blksize": 4194304,
       "ino": 21954357,
       "blocks": 40,
-      "atimeMs": 1560751827132.4202,
+      "atimeMs": 1560920324687.6133,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.8884,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:27.132Z",
-      "mtime": "2019-01-20T07:10:56.000Z",
-      "ctime": "2019-06-02T02:01:33.365Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "1dfec910-db7a-54e4-9572-37596969be79": {
-      "id": "1dfec910-db7a-54e4-9572-37596969be79",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9e6df2f4ff081c07a8799e9fa2f3ec90",
-        "type": "File",
-        "mediaType": "image/svg+xml",
-        "description": "File \"src/img/github-icon.svg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/github-icon.svg",
-      "relativePath": "github-icon.svg",
-      "extension": "svg",
-      "size": 2694,
-      "prettySize": "2.69 kB",
-      "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-17T06:10:34.148Z",
-      "changeTime": "2019-06-02T02:01:33.365Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
-      "base": "github-icon.svg",
-      "ext": ".svg",
-      "name": "github-icon",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954358,
-      "blocks": 8,
-      "atimeMs": 1560751834148.4226,
-      "mtimeMs": 1547968256000,
-      "ctimeMs": 1559440893364.7832,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:34.148Z",
+      "atime": "2019-06-19T04:58:44.688Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3294,7 +3249,7 @@
       "size": 494,
       "prettySize": "494 B",
       "modifiedTime": "2019-06-02T02:34:08.137Z",
-      "accessTime": "2019-06-17T06:10:27.133Z",
+      "accessTime": "2019-06-19T04:58:44.688Z",
       "changeTime": "2019-06-02T02:34:08.771Z",
       "birthTime": "2019-06-02T02:34:08.137Z",
       "root": "/",
@@ -3312,11 +3267,11 @@
       "blksize": 4194304,
       "ino": 22122980,
       "blocks": 8,
-      "atimeMs": 1560751827132.584,
+      "atimeMs": 1560920324687.781,
       "mtimeMs": 1559442848137.235,
       "ctimeMs": 1559442848771.2979,
       "birthtimeMs": 1559442848137.11,
-      "atime": "2019-06-17T06:10:27.133Z",
+      "atime": "2019-06-19T04:58:44.688Z",
       "mtime": "2019-06-02T02:34:08.137Z",
       "ctime": "2019-06-02T02:34:08.771Z",
       "birthtime": "2019-06-02T02:34:08.137Z"
@@ -3341,7 +3296,7 @@
       "size": 17612,
       "prettySize": "17.6 kB",
       "modifiedTime": "2019-06-02T02:34:08.124Z",
-      "accessTime": "2019-06-17T06:10:27.132Z",
+      "accessTime": "2019-06-19T04:58:44.688Z",
       "changeTime": "2019-06-02T02:34:08.790Z",
       "birthTime": "2019-06-02T02:34:08.124Z",
       "root": "/",
@@ -3359,34 +3314,104 @@
       "blksize": 4194304,
       "ino": 22122979,
       "blocks": 40,
-      "atimeMs": 1560751827132.496,
+      "atimeMs": 1560920324687.6965,
       "mtimeMs": 1559442848123.7708,
       "ctimeMs": 1559442848789.7805,
       "birthtimeMs": 1559442848123.6472,
-      "atime": "2019-06-17T06:10:27.132Z",
+      "atime": "2019-06-19T04:58:44.688Z",
       "mtime": "2019-06-02T02:34:08.124Z",
       "ctime": "2019-06-02T02:34:08.790Z",
       "birthtime": "2019-06-02T02:34:08.124Z"
     },
-    "f371c1b4-45cb-537f-b403-85ad15e15f8a": {
-      "id": "f371c1b4-45cb-537f-b403-85ad15e15f8a",
+    "1dfec910-db7a-54e4-9572-37596969be79": {
+      "id": "1dfec910-db7a-54e4-9572-37596969be79",
       "children": [],
-      "parent": "3dfeb698-8689-535b-a8d0-daba3d216ad9",
+      "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f1553e261c09d6300d461dcdb8d07290",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
+        "contentDigest": "9e6df2f4ff081c07a8799e9fa2f3ec90",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/img/github-icon.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/github-icon.svg",
+      "relativePath": "github-icon.svg",
+      "extension": "svg",
+      "size": 2694,
+      "prettySize": "2.69 kB",
+      "modifiedTime": "2019-01-20T07:10:56.000Z",
+      "accessTime": "2019-06-19T04:58:52.745Z",
+      "changeTime": "2019-06-02T02:01:33.365Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
+      "base": "github-icon.svg",
+      "ext": ".svg",
+      "name": "github-icon",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954358,
+      "blocks": 8,
+      "atimeMs": 1560920332744.8394,
+      "mtimeMs": 1547968256000,
+      "ctimeMs": 1559440893364.7832,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-06-19T04:58:52.745Z",
+      "mtime": "2019-01-20T07:10:56.000Z",
+      "ctime": "2019-06-02T02:01:33.365Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
     },
-    "a0b4565c-5a0b-5093-a9d0-e61d123e90d5": {
-      "id": "a0b4565c-5a0b-5093-a9d0-e61d123e90d5",
+    "472045f1-48bc-5723-8a99-a7681c30f5dd": {
+      "id": "472045f1-48bc-5723-8a99-a7681c30f5dd",
       "children": [],
-      "parent": "d671afb4-d329-5d09-a770-cf5ae30ace37",
+      "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
+        "contentDigest": "e3b8187424b58cd724c91a1b4dd9924b",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/img/jayden-outline copy.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/jayden-outline copy.svg",
+      "relativePath": "jayden-outline copy.svg",
+      "extension": "svg",
+      "size": 2929,
+      "prettySize": "2.93 kB",
+      "modifiedTime": "2019-06-18T03:31:49.984Z",
+      "accessTime": "2019-06-19T04:58:06.344Z",
+      "changeTime": "2019-06-18T08:38:03.406Z",
+      "birthTime": "2019-06-09T05:37:43.311Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
+      "base": "jayden-outline copy.svg",
+      "ext": ".svg",
+      "name": "jayden-outline copy",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22602967,
+      "blocks": 8,
+      "atimeMs": 1560920286343.978,
+      "mtimeMs": 1560828709984.1006,
+      "ctimeMs": 1560847083405.8247,
+      "birthtimeMs": 1560058663311.3105,
+      "atime": "2019-06-19T04:58:06.344Z",
+      "mtime": "2019-06-18T03:31:49.984Z",
+      "ctime": "2019-06-18T08:38:03.406Z",
+      "birthtime": "2019-06-09T05:37:43.311Z"
     },
     "bf7ba5fc-310a-590f-9280-bc71ddb9f5b8": {
       "id": "bf7ba5fc-310a-590f-9280-bc71ddb9f5b8",
@@ -3406,7 +3431,7 @@
       "size": 2929,
       "prettySize": "2.93 kB",
       "modifiedTime": "2019-06-18T03:31:49.984Z",
-      "accessTime": "2019-06-18T03:31:49.983Z",
+      "accessTime": "2019-06-19T04:58:52.745Z",
       "changeTime": "2019-06-18T03:31:49.984Z",
       "birthTime": "2019-06-09T05:37:43.311Z",
       "root": "/",
@@ -3424,11 +3449,11 @@
       "blksize": 4194304,
       "ino": 22291106,
       "blocks": 8,
-      "atimeMs": 1560828709983.4165,
+      "atimeMs": 1560920332744.9524,
       "mtimeMs": 1560828709984.1006,
       "ctimeMs": 1560828709984.1006,
       "birthtimeMs": 1560058663311.3105,
-      "atime": "2019-06-18T03:31:49.983Z",
+      "atime": "2019-06-19T04:58:52.745Z",
       "mtime": "2019-06-18T03:31:49.984Z",
       "ctime": "2019-06-18T03:31:49.984Z",
       "birthtime": "2019-06-09T05:37:43.311Z"
@@ -3453,7 +3478,7 @@
       "size": 17612,
       "prettySize": "17.6 kB",
       "modifiedTime": "2019-06-02T02:34:25.106Z",
-      "accessTime": "2019-06-17T06:10:27.133Z",
+      "accessTime": "2019-06-19T04:58:44.688Z",
       "changeTime": "2019-06-02T02:34:25.106Z",
       "birthTime": "2019-06-02T02:32:36.466Z",
       "root": "/",
@@ -3471,14 +3496,44 @@
       "blksize": 4194304,
       "ino": 22122903,
       "blocks": 40,
-      "atimeMs": 1560751827133.1272,
+      "atimeMs": 1560920324688.162,
       "mtimeMs": 1559442865106.3806,
       "ctimeMs": 1559442865106.3806,
       "birthtimeMs": 1559442756465.6877,
-      "atime": "2019-06-17T06:10:27.133Z",
+      "atime": "2019-06-19T04:58:44.688Z",
       "mtime": "2019-06-02T02:34:25.106Z",
       "ctime": "2019-06-02T02:34:25.106Z",
       "birthtime": "2019-06-02T02:32:36.466Z"
+    },
+    "f371c1b4-45cb-537f-b403-85ad15e15f8a": {
+      "id": "f371c1b4-45cb-537f-b403-85ad15e15f8a",
+      "children": [],
+      "parent": "3dfeb698-8689-535b-a8d0-daba3d216ad9",
+      "internal": {
+        "contentDigest": "f1553e261c09d6300d461dcdb8d07290",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "a0b4565c-5a0b-5093-a9d0-e61d123e90d5": {
+      "id": "a0b4565c-5a0b-5093-a9d0-e61d123e90d5",
+      "children": [],
+      "parent": "d671afb4-d329-5d09-a770-cf5ae30ace37",
+      "internal": {
+        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9": {
+      "id": "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9",
+      "children": [],
+      "parent": "ac0ec5d6-bf14-52f1-a5b3-a119620a81e9",
+      "internal": {
+        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "7864f2f5-0020-5b57-8035-4abcc149d5b4": {
       "id": "7864f2f5-0020-5b57-8035-4abcc149d5b4",
@@ -3498,7 +3553,7 @@
       "size": 23908,
       "prettySize": "23.9 kB",
       "modifiedTime": "2019-06-02T02:35:09.435Z",
-      "accessTime": "2019-06-17T06:10:27.133Z",
+      "accessTime": "2019-06-19T04:58:44.688Z",
       "changeTime": "2019-06-02T02:35:09.435Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3516,24 +3571,59 @@
       "blksize": 4194304,
       "ino": 21954361,
       "blocks": 48,
-      "atimeMs": 1560751827133.1777,
+      "atimeMs": 1560920324688.2148,
       "mtimeMs": 1559442909434.891,
       "ctimeMs": 1559442909434.891,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:27.133Z",
+      "atime": "2019-06-19T04:58:44.688Z",
       "mtime": "2019-06-02T02:35:09.435Z",
       "ctime": "2019-06-02T02:35:09.435Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
-    "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9": {
-      "id": "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9",
+    "53cfd370-b48a-5265-966c-c7ab14cd4040": {
+      "id": "53cfd370-b48a-5265-966c-c7ab14cd4040",
       "children": [],
-      "parent": "ac0ec5d6-bf14-52f1-a5b3-a119620a81e9",
+      "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
+        "contentDigest": "3c0e9ec3332feddc185dc3e57125c8c8",
+        "type": "File",
+        "mediaType": "application/pdf",
+        "description": "File \"src/img/cv.pdf\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/cv.pdf",
+      "relativePath": "cv.pdf",
+      "extension": "pdf",
+      "size": 76573,
+      "prettySize": "76.6 kB",
+      "modifiedTime": "2019-06-19T05:28:29.855Z",
+      "accessTime": "2019-06-19T05:28:29.854Z",
+      "changeTime": "2019-06-19T05:28:29.855Z",
+      "birthTime": "2019-06-19T05:28:29.854Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
+      "base": "cv.pdf",
+      "ext": ".pdf",
+      "name": "cv",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33279,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22620870,
+      "blocks": 152,
+      "atimeMs": 1560922109854.0334,
+      "mtimeMs": 1560922109854.6147,
+      "ctimeMs": 1560922109855.015,
+      "birthtimeMs": 1560922109854.0334,
+      "atime": "2019-06-19T05:28:29.854Z",
+      "mtime": "2019-06-19T05:28:29.855Z",
+      "ctime": "2019-06-19T05:28:29.855Z",
+      "birthtime": "2019-06-19T05:28:29.854Z"
     },
     "d08ffc82-69b8-5d9b-9ce7-79405d121b15": {
       "id": "d08ffc82-69b8-5d9b-9ce7-79405d121b15",
@@ -3555,7 +3645,7 @@
       "size": 122717,
       "prettySize": "123 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-17T06:10:27.133Z",
+      "accessTime": "2019-06-19T04:58:44.688Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3573,11 +3663,11 @@
       "blksize": 4194304,
       "ino": 21954360,
       "blocks": 240,
-      "atimeMs": 1560751827133.0354,
+      "atimeMs": 1560920324688.1104,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.9353,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:27.133Z",
+      "atime": "2019-06-19T04:58:44.688Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3612,7 +3702,7 @@
       "size": 266109,
       "prettySize": "266 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-06-17T06:10:27.133Z",
+      "accessTime": "2019-06-19T04:58:44.688Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3630,11 +3720,11 @@
       "blksize": 4194304,
       "ino": 21954362,
       "blocks": 520,
-      "atimeMs": 1560751827133.248,
+      "atimeMs": 1560920324688.2673,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.823,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:27.133Z",
+      "atime": "2019-06-19T04:58:44.688Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3669,7 +3759,7 @@
       "size": 420820,
       "prettySize": "421 kB",
       "modifiedTime": "2019-06-16T22:11:02.143Z",
-      "accessTime": "2019-06-17T06:10:27.133Z",
+      "accessTime": "2019-06-19T04:58:44.688Z",
       "changeTime": "2019-06-16T22:11:02.150Z",
       "birthTime": "2019-06-16T22:11:01.888Z",
       "root": "/",
@@ -3687,11 +3777,11 @@
       "blksize": 4194304,
       "ino": 22552278,
       "blocks": 824,
-      "atimeMs": 1560751827133.321,
+      "atimeMs": 1560920324688.3025,
       "mtimeMs": 1560723062143.3875,
       "ctimeMs": 1560723062149.5464,
       "birthtimeMs": 1560723061887.9783,
-      "atime": "2019-06-17T06:10:27.133Z",
+      "atime": "2019-06-19T04:58:44.688Z",
       "mtime": "2019-06-16T22:11:02.143Z",
       "ctime": "2019-06-16T22:11:02.150Z",
       "birthtime": "2019-06-16T22:11:01.888Z"
@@ -3726,7 +3816,7 @@
       "size": 1085216,
       "prettySize": "1.09 MB",
       "modifiedTime": "2019-06-02T02:30:48.369Z",
-      "accessTime": "2019-06-17T06:10:27.133Z",
+      "accessTime": "2019-06-19T04:58:44.688Z",
       "changeTime": "2019-06-02T02:30:48.369Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3744,11 +3834,11 @@
       "blksize": 4194304,
       "ino": 21954359,
       "blocks": 2120,
-      "atimeMs": 1560751827132.7722,
+      "atimeMs": 1560920324687.8804,
       "mtimeMs": 1559442648369.1064,
       "ctimeMs": 1559442648369.1064,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-06-17T06:10:27.133Z",
+      "atime": "2019-06-19T04:58:44.688Z",
       "mtime": "2019-06-02T02:30:48.369Z",
       "ctime": "2019-06-02T02:30:48.369Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3783,7 +3873,7 @@
       "size": 3543638,
       "prettySize": "3.54 MB",
       "modifiedTime": "2019-06-02T02:30:48.455Z",
-      "accessTime": "2019-06-17T06:10:27.133Z",
+      "accessTime": "2019-06-19T04:58:44.688Z",
       "changeTime": "2019-06-02T02:30:48.455Z",
       "birthTime": "2019-06-02T02:30:48.323Z",
       "root": "/",
@@ -3801,11 +3891,11 @@
       "blksize": 4194304,
       "ino": 22122828,
       "blocks": 6928,
-      "atimeMs": 1560751827132.885,
+      "atimeMs": 1560920324687.9338,
       "mtimeMs": 1559442648455.294,
       "ctimeMs": 1559442648455.294,
       "birthtimeMs": 1559442648323.497,
-      "atime": "2019-06-17T06:10:27.133Z",
+      "atime": "2019-06-19T04:58:44.688Z",
       "mtime": "2019-06-02T02:30:48.455Z",
       "ctime": "2019-06-02T02:30:48.455Z",
       "birthtime": "2019-06-02T02:30:48.323Z"
@@ -3820,24 +3910,24 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /blog/mobile-first/": {
-      "jsonName": "blog-mobile-first-301",
-      "internalComponentName": "ComponentBlogMobileFirst",
-      "path": "/blog/mobile-first/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
       "context": {
-        "id": "effd6241-b3d4-5665-81be-52ae3477106f"
+        "id": "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
-      "id": "SitePage /blog/mobile-first/",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "id": "SitePage /about/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fce378860f4db3abdaff616d187e951b",
+        "contentDigest": "275a6e1399b10206a0bee85ef1f09842",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3886,46 +3976,24 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /about/": {
-      "jsonName": "about-f34",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "componentChunkName": "component---src-templates-about-page-js",
+    "SitePage /blog/mobile-first/": {
+      "jsonName": "blog-mobile-first-301",
+      "internalComponentName": "ComponentBlogMobileFirst",
+      "path": "/blog/mobile-first/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "id": "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc"
+        "id": "effd6241-b3d4-5665-81be-52ae3477106f"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "id": "SitePage /about/",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
+      "id": "SitePage /blog/mobile-first/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "275a6e1399b10206a0bee85ef1f09842",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /jargon/": {
-      "jsonName": "jargon-12a",
-      "internalComponentName": "ComponentJargon",
-      "path": "/jargon/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "componentChunkName": "component---src-templates-about-page-js",
-      "context": {
-        "id": "576c1608-0625-5c33-b071-c0b97ccc8337"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "id": "SitePage /jargon/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fa6168c1298d6fcf2b8890ab556a590d",
+        "contentDigest": "fce378860f4db3abdaff616d187e951b",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3948,6 +4016,28 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "02a48716b2542ca4dcada290956feb08",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /jargon/": {
+      "jsonName": "jargon-12a",
+      "internalComponentName": "ComponentJargon",
+      "path": "/jargon/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
+      "context": {
+        "id": "576c1608-0625-5c33-b071-c0b97ccc8337"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "id": "SitePage /jargon/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fa6168c1298d6fcf2b8890ab556a590d",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3996,28 +4086,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /portfolio/stranger/": {
-      "jsonName": "portfolio-stranger-25d",
-      "internalComponentName": "ComponentPortfolioStranger",
-      "path": "/portfolio/stranger/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
-      "componentChunkName": "component---src-templates-portfolio-js",
-      "context": {
-        "id": "f5ef53ab-11a2-5e12-b9a1-535e25912966"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
-      "id": "SitePage /portfolio/stranger/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fa6451b250b0394becf9809dc375c66c",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /portfolio/kate-smith/": {
       "jsonName": "portfolio-kate-smith-4eb",
       "internalComponentName": "ComponentPortfolioKateSmith",
@@ -4036,28 +4104,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "579694b23a05a9d1d79073a5e75ad6f5",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /portfolio/what-the-cancer/": {
-      "jsonName": "portfolio-what-the-cancer-4c7",
-      "internalComponentName": "ComponentPortfolioWhatTheCancer",
-      "path": "/portfolio/what-the-cancer/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
-      "componentChunkName": "component---src-templates-portfolio-js",
-      "context": {
-        "id": "c5cfc1ee-382e-5b44-b49f-1471895d5a30"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
-      "id": "SitePage /portfolio/what-the-cancer/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "501be200ffc3708d03305294df6dd37a",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -4084,24 +4130,68 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /portfolio/what-the-cancer/": {
+      "jsonName": "portfolio-what-the-cancer-4c7",
+      "internalComponentName": "ComponentPortfolioWhatTheCancer",
+      "path": "/portfolio/what-the-cancer/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "componentChunkName": "component---src-templates-portfolio-js",
+      "context": {
+        "id": "c5cfc1ee-382e-5b44-b49f-1471895d5a30"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "id": "SitePage /portfolio/what-the-cancer/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "501be200ffc3708d03305294df6dd37a",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /portfolio/stranger/": {
+      "jsonName": "portfolio-stranger-25d",
+      "internalComponentName": "ComponentPortfolioStranger",
+      "path": "/portfolio/stranger/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "componentChunkName": "component---src-templates-portfolio-js",
+      "context": {
+        "id": "f5ef53ab-11a2-5e12-b9a1-535e25912966"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "id": "SitePage /portfolio/stranger/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fa6451b250b0394becf9809dc375c66c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /work-with-me/": {
       "jsonName": "work-with-me-b37",
       "internalComponentName": "ComponentWorkWithMe",
       "path": "/work-with-me/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
-      "componentChunkName": "component---src-templates-portfolio-js",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/cv.js",
+      "componentChunkName": "component---src-templates-cv-js",
       "context": {
         "id": "344f5167-e029-5481-a3eb-30f1d2f0cf53"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio.js",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/cv.js",
       "id": "SitePage /work-with-me/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "70a8555d300ac34cb6d81814ed12866f",
+        "contentDigest": "eface1c9b6125a4f0827160a856f20b4",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -4124,72 +4214,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "5154ea2860481ce64dc0c8351967c884",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/ui-ux/": {
-      "jsonName": "tags-ui-ux-dfc",
-      "internalComponentName": "ComponentTagsUiUx",
-      "path": "/tags/ui-ux/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "UI / UX"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "id": "SitePage /tags/ui-ux/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "052151b81456e986388e8038d8021add",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/web-design/": {
-      "jsonName": "tags-web-design-14d",
-      "internalComponentName": "ComponentTagsWebDesign",
-      "path": "/tags/web-design/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Web Design"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "id": "SitePage /tags/web-design/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "856b675be0e60fc13938034d03ccfab8",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/concept/": {
-      "jsonName": "tags-concept-d00",
-      "internalComponentName": "ComponentTagsConcept",
-      "path": "/tags/concept/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "Concept"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
-      "id": "SitePage /tags/concept/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ae7e61237b48978e57525bd327ae42ae",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -4282,6 +4306,28 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /tags/web-design/": {
+      "jsonName": "tags-web-design-14d",
+      "internalComponentName": "ComponentTagsWebDesign",
+      "path": "/tags/web-design/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Web Design"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/web-design/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "856b675be0e60fc13938034d03ccfab8",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /tags/podcast/": {
       "jsonName": "tags-podcast-852",
       "internalComponentName": "ComponentTagsPodcast",
@@ -4344,6 +4390,50 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "f4a2b678f3eaa203131634db73fe496c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/ui-ux/": {
+      "jsonName": "tags-ui-ux-dfc",
+      "internalComponentName": "ComponentTagsUiUx",
+      "path": "/tags/ui-ux/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "UI / UX"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/ui-ux/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "052151b81456e986388e8038d8021add",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/concept/": {
+      "jsonName": "tags-concept-d00",
+      "internalComponentName": "ComponentTagsConcept",
+      "path": "/tags/concept/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "Concept"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/tags.js",
+      "id": "SitePage /tags/concept/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ae7e61237b48978e57525bd327ae42ae",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -4429,51 +4519,6 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
-    },
-    "472045f1-48bc-5723-8a99-a7681c30f5dd": {
-      "id": "472045f1-48bc-5723-8a99-a7681c30f5dd",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e3b8187424b58cd724c91a1b4dd9924b",
-        "type": "File",
-        "mediaType": "image/svg+xml",
-        "description": "File \"src/img/jayden-outline copy.svg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/img/jayden-outline copy.svg",
-      "relativePath": "jayden-outline copy.svg",
-      "extension": "svg",
-      "size": 2929,
-      "prettySize": "2.93 kB",
-      "modifiedTime": "2019-06-18T03:31:49.984Z",
-      "accessTime": "2019-06-18T04:06:45.422Z",
-      "changeTime": "2019-06-18T08:38:03.406Z",
-      "birthTime": "2019-06-09T05:37:43.311Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/img",
-      "base": "jayden-outline copy.svg",
-      "ext": ".svg",
-      "name": "jayden-outline copy",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22602967,
-      "blocks": 8,
-      "atimeMs": 1560830805422.0105,
-      "mtimeMs": 1560828709984.1006,
-      "ctimeMs": 1560847083405.8247,
-      "birthtimeMs": 1560058663311.3105,
-      "atime": "2019-06-18T04:06:45.422Z",
-      "mtime": "2019-06-18T03:31:49.984Z",
-      "ctime": "2019-06-18T08:38:03.406Z",
-      "birthtime": "2019-06-09T05:37:43.311Z"
     }
   },
   "status": {
@@ -4485,25 +4530,25 @@
       "Site": [
         "/tags/",
         "/tags/home/",
-        "/tags/ui-ux/",
-        "/tags/web-design/",
-        "/tags/concept/",
         "/tags/logo/",
         "/tags/business-cards/",
         "/tags/graphic-design/",
         "/tags/brand-identity/",
+        "/tags/web-design/",
         "/tags/podcast/",
         "/tags/videography/",
-        "/tags/social-media/"
+        "/tags/social-media/",
+        "/tags/ui-ux/",
+        "/tags/concept/"
       ],
       "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": [
         "/about/"
       ],
-      "576c1608-0625-5c33-b071-c0b97ccc8337": [
-        "/jargon/"
-      ],
       "ca250394-f2f2-5e21-b3f6-c6f6605f5fcb": [
         "/course/"
+      ],
+      "576c1608-0625-5c33-b071-c0b97ccc8337": [
+        "/jargon/"
       ],
       "df0b2ad0-0419-5d6e-9631-999c911f3931": [
         "/jayden/"
@@ -4511,14 +4556,14 @@
       "effd6241-b3d4-5665-81be-52ae3477106f": [
         "/blog/mobile-first/"
       ],
-      "4935f1f2-85c2-59a1-acba-03677e785625": [
-        "/"
-      ],
       "f63e7d4d-db64-50b7-b1c5-3d7fca33130d": [
         "/work-with-me/cv/"
       ],
-      "f5ef53ab-11a2-5e12-b9a1-535e25912966": [
-        "/portfolio/stranger/"
+      "344f5167-e029-5481-a3eb-30f1d2f0cf53": [
+        "/work-with-me/"
+      ],
+      "4935f1f2-85c2-59a1-acba-03677e785625": [
+        "/"
       ],
       "1acdcee0-19c1-52d1-9255-7fef527ca1c0": [
         "/portfolio/kate-smith/"
@@ -4526,8 +4571,8 @@
       "c5cfc1ee-382e-5b44-b49f-1471895d5a30": [
         "/portfolio/what-the-cancer/"
       ],
-      "344f5167-e029-5481-a3eb-30f1d2f0cf53": [
-        "/work-with-me/"
+      "f5ef53ab-11a2-5e12-b9a1-535e25912966": [
+        "/portfolio/stranger/"
       ]
     },
     "connections": {
@@ -4535,18 +4580,18 @@
         null,
         "/tags/",
         "/blog/",
+        "/portfolio/",
         "/tags/home/",
-        "/tags/ui-ux/",
-        "/tags/web-design/",
-        "/tags/concept/",
         "/tags/logo/",
         "/tags/business-cards/",
         "/tags/graphic-design/",
         "/tags/brand-identity/",
+        "/tags/web-design/",
         "/tags/podcast/",
         "/tags/videography/",
         "/tags/social-media/",
-        "/portfolio/"
+        "/tags/ui-ux/",
+        "/tags/concept/"
       ]
     }
   },
@@ -4555,36 +4600,36 @@
     "about-f34": "162/path---about-f-34-4c2-nPswOlM0eJ6KgxFbRYYx7aK5V1c",
     "jargon-12a": "295/path---jargon-12-a-e0d-27Q4FnPNgXdzZYozX2CGButUYPQ",
     "course-33d": "783/path---course-33-d-7dd-yZpj53NucNGiyou11wYJ0FaXo",
-    "blog-f7a": "623/path---blog-f-7-a-05d-btnAFJZwYWq2ScuYSGYwXyWZ1g",
     "jayden-efd": "401/path---jayden-efd-f34-DBLbxa2NgB8LzXsVYIZ53PQtiT0",
+    "blog-f7a": "623/path---blog-f-7-a-05d-btnAFJZwYWq2ScuYSGYwXyWZ1g",
     "blog-mobile-first-301": "530/path---blog-mobile-first-301-372-HkYPxpjptnunYTrcH2HQ5Dq7i8",
-    "index": "772/path---index-6a9-4ST5DA74QvD6LFmJWkhlQzc",
+    "work-with-me-cv-4f8": "20/path---work-with-me-cv-4-f-8-d93-rx1pS76OrkNoauTHj9EhRtX30",
     "portfolio-964": "629/path---portfolio-964-7f6-kW2R42Xi0Snll6NxODPG6zCpnU",
-    "work-with-me-cv-4f8": "837/path---work-with-me-cv-4-f-8-d93-SCHJPeZ6yRd4HT1dDiZGKx4mrc",
-    "portfolio-stranger-25d": "46/path---portfolio-stranger-25-d-97b-0SR3W5Ip40LO8w7e5tlP2AWxXTg",
+    "work-with-me-b37": "754/path---work-with-me-b-37-f8b-mx72DYEySDvsH7C9OLRWgbxSSk",
+    "index": "772/path---index-6a9-4ST5DA74QvD6LFmJWkhlQzc",
     "portfolio-kate-smith-4eb": "509/path---portfolio-kate-smith-4-eb-c83-wh8E7cSroEfEalecq5lFY4YbFI",
     "tags-home-8b5": "682/path---tags-home-8-b-5-d7e-GnNFxqqbSD9zTQTr2NjI5pgLy14",
-    "tags-ui-ux-dfc": "24/path---tags-ui-ux-dfc-12e-wrneBQERucvp8Y0P3bAE8ayFo",
     "portfolio-what-the-cancer-4c7": "691/path---portfolio-what-the-cancer-4-c-7-157-UsuI0Wn8WQ706wZQ6Rxevl77MJQ",
-    "work-with-me-b37": "31/path---work-with-me-b-37-f8b-Qao70vMD2TggomkZsifQKBnSPbc",
-    "tags-web-design-14d": "882/path---tags-web-design-14-d-e34-Ghmp3Y3OUWn1GLDGy7ReJxYpxQ",
-    "tags-concept-d00": "704/path---tags-concept-d-00-924-8E5jlfMHb84LUkTqG8cvjDKwvI",
+    "portfolio-stranger-25d": "46/path---portfolio-stranger-25-d-97b-0SR3W5Ip40LO8w7e5tlP2AWxXTg",
     "tags-logo-371": "302/path---tags-logo-371-d3f-4rAQ1zouM2Lc9ULRieodnuNTwWQ",
     "tags-business-cards-27d": "700/path---tags-business-cards-27-d-354-7PdXmViTvUgLYfQ2kdpCLJeFSY",
     "tags-graphic-design-3a2": "521/path---tags-graphic-design-3-a-2-3cf-IV1fVbpjax9oot4eNRKIpu4bwc",
     "tags-brand-identity-a93": "365/path---tags-brand-identity-a-93-805-RlSnN3RXupZ3z2Y1yzHBGu0RBno",
+    "tags-web-design-14d": "882/path---tags-web-design-14-d-e34-Ghmp3Y3OUWn1GLDGy7ReJxYpxQ",
     "tags-podcast-852": "424/path---tags-podcast-852-151-oX64yKSFUWLeQCegLzhTEG0K514",
     "tags-videography-059": "824/path---tags-videography-059-2b5-ndNa7avEZhkDemotl54AgLMp43g",
-    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
-    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "tags-ui-ux-dfc": "24/path---tags-ui-ux-dfc-12e-wrneBQERucvp8Y0P3bAE8ayFo",
     "tags-social-media-15a": "474/path---tags-social-media-15-a-f81-CXJyYDFFmbKy7v3fDoeenIMuSGg",
+    "tags-concept-d00": "704/path---tags-concept-d-00-924-8E5jlfMHb84LUkTqG8cvjDKwvI",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "listen-498": "738/path---listen-498-c78-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js": {
-      "query": "query BlogPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      title\n      description\n      tags\n      header\n      recommendedName\n      recommendedImage\n      recommendedLink\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js"
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js": {
+      "query": "query AboutPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      full_image\n      leftBackground\n      leftTitle\n      leftLink\n      rightTitle\n      rightDescription\n      rightUrl\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js": {
       "query": "query IndexQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {templateKey: {eq: \"blog-post\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          title\n          templateKey\n          header\n          description\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
@@ -4594,9 +4639,9 @@
       "query": "query HomePage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      image\n      announcementBlurb\n      announcementLink\n      announcementImage\n      imageOne\n      imageTwo\n      imageThree\n      imageFour\n      imageFive\n      imageSix\n      imageSeven\n      imageEight\n      imageNine\n      imageTen\n      imageEleven\n      imageTwelve\n      imageThirteen\n      imageFourteen\n      imageFifteen\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js"
     },
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js": {
-      "query": "query AboutPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      full_image\n      leftBackground\n      leftTitle\n      leftLink\n      rightTitle\n      rightDescription\n      rightUrl\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js"
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js": {
+      "query": "query BlogPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      title\n      description\n      tags\n      header\n      recommendedName\n      recommendedImage\n      recommendedLink\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js": {
       "query": "query PortfolioQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {discoverable: {eq: \"yes\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          portfolioDescription\n          discoverable\n          image\n          portfolioName\n          portfolioImage\n          jobDate\n          portfolioLink\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",

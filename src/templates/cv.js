@@ -30,7 +30,7 @@ export const CvPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <div>
+    <div className="page">
       <Helmet>
         <meta charSet="utf-8" />
         <title>{title} - Jayden Szekey - Creative Media</title>
@@ -39,42 +39,65 @@ export const CvPostTemplate = ({
       <Banner background={cvImage}>
         {cvName}
       </Banner>
-      <div className="article big-padding">
+      <div className="article big-padding secondary" >
         <div className="left">
-          <h4 className="accent">
-            {jobDate}
-          </h4>
-          {leftColumn}
+          <h1 className="accent">Hello!</h1>
         </div>
         <div className="right">
-          <h5>OVERVIEW</h5>
-          <p>
-            {cvDescription}
-          </p>
-          <br /><br />
+          <p>{cvDescription}</p>
+          <a href="https://drive.google.com/open?id=1rNDI_6OPdE0XdYBa3ODBMfN8dWtPmRxW" target="_blank"><br /><h4 className="accent" >Download my CV</h4></a>
         </div>
-
       </div>
       <img src={cvImage} className="full"/>
       <div className="article big-padding">
-      <div className="full-portfolio">
-          <h5>PERSONAL QUALITIES</h5>
+      <div className="left">
+          <h2>Personal Qualities:</h2>
+      </div>
+      <div className="right">
           <p>
-          Loyal, self motivated, goal driven, enthusiastic, creative, problem solver, quick learner, out-of-the-box thinker, excellent communicator, leader, and most importantly - passionate about design.
+          Loyal, self motivated, goal driven, enthusiastic, creative, problem solver,
+quick learner, out-of-the-box thinker, excellent communicator, leader, and
+most importantly - passionate about great (whilst functional) design.
           </p>
         </div>
-        <div className="full-portfolio top-padding">
-          <h5>EXPERIENCE</h5>
+      </div>
+      <div className="article tertiary big-padding">
+        <div className="left">
+          <h2>Experience:</h2>
+        </div>
+        <div className="right">
           <p>
-          For the last 3.5 years, I have
-freelanced under the name
-‘Deslab Creative’ (Formally
-‘Next Level Design’) and have
-worked with many different
-people from start-ups to larger
-organisations.
+            I have experience working with a range of clients and in-house positions for
+            independent ventures, small companies and large non-profit organisations
+            and I am now looking for my next challenge.
           </p>
-          <br /><br />
+          <h4 className="half-top-padding">Freelance Creative</h4>
+          <p>
+            2015 to Current<br />
+            Freelance – NZ
+          </p>
+          <h4 className="half-top-padding">Marketing Manager</h4>
+          <p>
+            May 2019 to Current (Part Time)<br />
+            The Outdoor Room Company – Whangarei, NZ
+          </p>
+          <h4 className="half-top-padding">Design &amp; Production Intern</h4>
+          <p>
+            Feb 2019 to June 2019<br />
+            ARISE Church – Whangarei, NZ
+          </p>
+        </div>
+      </div>
+      <div className="article big-padding">
+      <div className="left">
+          <h2>Qualifications &amp; Awards:</h2>
+      </div>
+      <div className="right">
+          <p>
+            New Zealand Certificate in Arts and Design<br />
+            New Zealand Certificate in Digital Media<br />
+            Honours from the Awwwards & Nomination from CSS Nectar<br />
+          </p>
         </div>
       </div>
       <div className="article primary big-padding">
@@ -109,16 +132,16 @@ organisations.
             </ul>
         </div>
       </div>
-      <div className="article big-padding">
-        <Quote quoteContents={cvQuote} />
-      </div>
-      <div className="article">
-        <div className="full-portfolio">
-            <PostContent content={content}/>
-          <br /><br />
+      <div className="article big-padding secondary" >
+        <div className="left">
+          <h1 className="accent">Thanks!</h1>
+        </div>
+        <div className="right">
+          <p>I look forward to working with you.  Please feel free to get in touch if you have any questions, I can't wait to meet you!</p>
+          <a href="https://drive.google.com/open?id=1rNDI_6OPdE0XdYBa3ODBMfN8dWtPmRxW" target="_blank"><br /><h4 className="accent" >Download my CV</h4></a>
         </div>
       </div>
-      <Split background="" recommendedTitle="DOWNLOAD MY CV" link='/cv.pdf' authorName="VIEW MY PORTFOLIO" rightLink="/portfolio" rightImage="" />  
+      <Footer />
     </div>
     
   )
