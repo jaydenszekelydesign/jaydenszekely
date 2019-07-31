@@ -1,7 +1,7 @@
 ---
 templateKey: home
 title: Jayden Szekely
-image: /img/me_rocks_photography.jpg
+image: /img/gradient-web.jpg
 imageOne: /img/katesmith.jpg
 imageTwo: /img/stranger-home-web-res.jpg
 imageThree: /img/medusa-full-page-smaller-res.jpg

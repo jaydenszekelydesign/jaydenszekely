@@ -14,7 +14,7 @@ const TagsPage = ({
       <meta charSet="utf-8" />
       <title>Tags - What the Cancer</title>
     </Helmet>
-    <Banner>Find Articles by Tag</Banner>
+    <Banner background="img/blog-header.jpg" subCaption="Stories about the world and being a digital nomad">Find Articles by Category</Banner>
     <div className="article">
       
             <ul className="taglist">

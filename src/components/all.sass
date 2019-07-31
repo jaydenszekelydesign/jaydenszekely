@@ -37,8 +37,8 @@ span
   
 
 body
-  padding: 0
-  margin: 0
+  padding: 0 auto
+  margin: 0 auto
   font-family: nunito-sans,sans-serif
   font-weight: 300
   font-style: normal
@@ -47,6 +47,10 @@ body
 html,
 body
     overflow-x: hidden
+
+div
+   overflow-y: hidden
+   overflow-x: hidden
 
 
 
@@ -191,22 +195,25 @@ header
   color: $white
   background-size: cover
   background-position: center
-  margin-bottom: 75px
-  text-align: center
+  margin-bottom: 0px
+  margin-top: 0px
+  text-align: left
   display: inline-block
   width: $w-o8
+  padding-left: $w-gutter
+  padding-right: $w-gutter
   overflow: hidden
 
 .glaze
   background-color: rgba(0,0,0,0.4)
-  padding-top: 30vh
-  padding-bottom: 30vh
-  padding-left: 20px
-  padding-right: 20px
+  padding-top: 20vh
+  padding-bottom: 20vh
   font-size: inherit
   color: #fff
   display: relative
-  width: calc(100% - 40px)
+  width: 100%
+  padding-left: $w-gutter
+  padding-right: $w-gutter
   transition-duration: 0.8s
 
 .no-margin-bottom
@@ -273,18 +280,33 @@ header
   position: fixed
 
 .navbar
-  z-index: 1100
+  z-index: 1050
   position: absolute
   top: 0
   background: transparent
   color: $black
 
   .logo
-    margin-left: 35px
+    margin-left: 70px
     margin-top: 35px
     z-index: 1100
     position: fixed
     // box-shadow: 1px 5px 10px rgba(0, 0, 0, .1)
+
+.navigation-links
+  right: 0
+  position: fixed
+  text-align: right
+  margin-top: 35px
+  margin-right: 70px
+  z-index: 1100
+
+  .navigation-item
+    padding-left: 20px
+    font-size: $sizeFour
+    font-weight: 400
+    color: white
+    line-height: 150%
 
 
 

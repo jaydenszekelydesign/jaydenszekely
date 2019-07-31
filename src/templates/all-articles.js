@@ -18,9 +18,9 @@ export default class Blog extends React.Component {
       <Layout>
         <Helmet>
           <meta charSet="utf-8" />
-          <title>All Articles Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad</title>
+          <title>Galavanting With Jayden - Digital Nomad and Travel Blogger – Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand</title>
         </Helmet>
-        <Banner>Blog</Banner>
+        <Banner background="img/blog-header.jpg" subCaption="Introducing Galavanting with Jayden">Stories of Earth</Banner>
         <div className="article big-padding">
           <div className="left">
             <h3>Read my blog on all things design and what great Creative Solutions can do for your business</h3>

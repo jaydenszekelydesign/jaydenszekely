@@ -65,7 +65,7 @@ export const PortfolioPostTemplate = ({
       <img src={bigImageTwo} className="full"/>
       <div className="article">
         <div className="full-portfolio big-padding">
-          <p>
+          <p className="split">
             <PostContent content={content}/>
           </p>
           <br /><br />

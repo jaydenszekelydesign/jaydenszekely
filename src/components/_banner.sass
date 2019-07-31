@@ -5,17 +5,17 @@
   
 .splitHeader
   width: 100%
-  overflow: hidden
+  overflow-x: hidden
 
   .left
     background-color: $primary
     padding-left: $w-gutter
-    width: $w-o5
-    height: 100vh
+    width: $w-o4
+    height: 75vh
     color: $primary-invert
     float: left
     display: block
-    position: absolute
+    position: relative
     z-index: 0
 
     .contents
@@ -25,12 +25,12 @@
   .right
     background-color: $primary
     padding-right: $w-gutter
-    width: $w-o3
-    height: 100vh
+    width: $w-o4
+    height: 75vh
     color: $primary-invert
     float: right
     transition: 0.8s
-    z-index: 900
+    z-index: 1050
     display: block
     position: relative
     overflow: hidden
@@ -39,17 +39,15 @@
       margin-top: 35vh
       position: relative
 
-  .right:hover
-    background-position: 100%, 0
-    width: $w-o7
+
 
   .full
-    background-color: $primary
+    background-color: $secondary
     padding-left: $w-gutter
     padding-right: $w-gutter
     width: $w-o8
-    height: 100vh
-    color: $primary-invert
+    height: 80vh
+    color: $secondary
     float: left
     transition: 0.8s
     z-index: 900
@@ -58,8 +56,34 @@
     overflow: hidden
 
     .contents
-      margin-top: 35vh
+      margin-top: 30vh
       position: relative
+
+
+  .bottom-bar
+    width: $w-o8
+    height: calc(16vh)
+    background: $white
+    display: block
+    position: relative
+    float: left
+    margin-top: -8vh
+    margin-left: $w-gutter
+    z-index: 2000
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .1);
+    border-radius: 5px
+
+    .right-button
+      width: $w-o2
+      float: left
+      padding-top: calc(8vh - 0.6em)
+      padding-bottom: calc(8vh - 0.6em)
+      font-size: 1.2em
+      text-align: center
+      color: $accent
+      
+      
+      background-color: $black
 
   
 

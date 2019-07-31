@@ -100,7 +100,7 @@ export const HomePageTemplate = ({
           
         </div>
       </div>
-      <div className="article primary big-padding">
+      <div className="article accent-back big-padding">
         <Quote quoteContents="Great design is fundamental in a digital age to communicate a message / a story through websites, video, print, social media and more" />
       </div>
       <Link to={announcementLink}>

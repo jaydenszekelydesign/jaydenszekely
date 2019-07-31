@@ -29,7 +29,7 @@ export default class Portfolio extends React.Component {
           <Link to="work-with-me"><br /><h4 className="accent" >Work With Me</h4></Link>
         </div>
       </div>
-        <div className="article">
+        <div>
 
             {posts
               .map(({ node: post }) => (

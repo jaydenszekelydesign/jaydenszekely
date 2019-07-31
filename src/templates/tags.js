@@ -27,11 +27,11 @@ class TagRoute extends React.Component {
       <Layout>
   
           <Helmet title={`${tag} | ${title}`} />
-          <Banner>{tagHeader}</Banner>
+          <Banner background="img/blog-header.jpg" subCaption="Introducing Galavanting with Jayden">{tag}</Banner>
           <div className="article">
   
               <div className="content">
-                <Link to="/blog/" className="green"><h1 className="green">View all Articles</h1></Link>
+                <Link to="/blog" className="green"><h1 className="green">View all Articles</h1></Link>
                 <hr />
                 {postLinks}
               </div>

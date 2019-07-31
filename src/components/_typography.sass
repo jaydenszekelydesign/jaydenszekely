@@ -6,29 +6,38 @@
 @import jaydenStrap
 
 // Font Sizes
-$primaryTitle: 4.5em
-$secondaryTitle: 2em
+$primaryTitle: 2.5em
+$secondaryTitle: 1.7em
 $sizeThree: 1.4em
 $sizeFour: 1.1em
 $sizeFive: 1.1em
 $sizeSix: 1em
 
 @media screen and (max-width: $break-small) 
-    $primaryTitle: 4em
-    $secondaryTitle: 1.8em
+    $primaryTitle: 2.5em
+    $secondaryTitle: 1.5em
     $sizeThree: 1.25em
     $sizeFour: 1em
     $sizeFive: 1em
     $sizeSix: 1em
 
+.header-link
+  font-size: $sizeThree
+  font-weight: 400
+  color: inherit
+  line-height: 150%
+  margin-bottom: 5vh
+  display: block
+  font-style: italic
+
 h1
     font-size: $primaryTitle
     font-family: nunito-sans,sans-serif
-    font-weight: 700
+    font-weight: 600
     font-style: normal
     line-height: 120%
     color: inherit
-    margin-bottom: 40px
+    margin-bottom: 20px
 
 h2
   font-size: $secondaryTitle
