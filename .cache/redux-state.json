@@ -2076,7 +2076,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5dbb603929a3aea7b9a580896cb938ed",
+        "contentDigest": "d1e6d7768a14feec218a9b7d1b340010",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/blog/mobile-first.md\"",
@@ -2086,11 +2086,11 @@
       "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
       "relativePath": "blog/mobile-first.md",
       "extension": "md",
-      "size": 414,
-      "prettySize": "414 B",
-      "modifiedTime": "2019-06-16T04:56:27.563Z",
-      "accessTime": "2019-07-31T23:54:57.878Z",
-      "changeTime": "2019-06-16T04:56:27.563Z",
+      "size": 7872,
+      "prettySize": "7.87 kB",
+      "modifiedTime": "2019-08-01T00:08:38.278Z",
+      "accessTime": "2019-08-01T00:08:38.277Z",
+      "changeTime": "2019-08-01T00:08:38.278Z",
       "birthTime": "2019-06-13T18:28:58.201Z",
       "root": "/",
       "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
@@ -2106,14 +2106,14 @@
       "rdev": 0,
       "blksize": 4194304,
       "ino": 22478358,
-      "blocks": 8,
-      "atimeMs": 1564617297878.0222,
-      "mtimeMs": 1560660987563.4194,
-      "ctimeMs": 1560660987563.4194,
+      "blocks": 16,
+      "atimeMs": 1564618118277.003,
+      "mtimeMs": 1564618118277.7444,
+      "ctimeMs": 1564618118277.7444,
       "birthtimeMs": 1560450538201.3699,
-      "atime": "2019-07-31T23:54:57.878Z",
-      "mtime": "2019-06-16T04:56:27.563Z",
-      "ctime": "2019-06-16T04:56:27.563Z",
+      "atime": "2019-08-01T00:08:38.277Z",
+      "mtime": "2019-08-01T00:08:38.278Z",
+      "ctime": "2019-08-01T00:08:38.278Z",
       "birthtime": "2019-06-13T18:28:58.201Z"
     },
     "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f": {
@@ -2752,41 +2752,6 @@
       "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
       "fields": {
         "slug": "/blog/"
-      }
-    },
-    "effd6241-b3d4-5665-81be-52ae3477106f": {
-      "id": "effd6241-b3d4-5665-81be-52ae3477106f",
-      "children": [],
-      "parent": "bed7b729-3986-53e8-a668-06af6fdc22fd",
-      "internal": {
-        "content": "# Get Reading\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "e994ab5b390f79970f5c971f309902de",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Mobile First",
-        "templateKey": "blog-post",
-        "date": "2019-06-13T18:25:05.431Z",
-        "discoverable": "no",
-        "header": "/img/hhf-book.png",
-        "description": "This blog will share the latest trends and ideas in the design world keeping you informed with your design decisions.",
-        "recommendedName": "What Is Cancer?",
-        "recommendedImage": "/img/sleep.jpg",
-        "recommendedLink": "https://www.jaydenszekely.com/jayden",
-        "tags": [
-          "home"
-        ],
-        "_PARENT": "bed7b729-3986-53e8-a668-06af6fdc22fd"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "# Get Reading\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
-      "fields": {
-        "slug": "/blog/mobile-first/"
       }
     },
     "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": {
@@ -4584,6 +4549,41 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "effd6241-b3d4-5665-81be-52ae3477106f": {
+      "id": "effd6241-b3d4-5665-81be-52ae3477106f",
+      "children": [],
+      "parent": "bed7b729-3986-53e8-a668-06af6fdc22fd",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam nulla, dignissim non lacus a, volutpat efficitur lorem. Fusce non ligula cursus, luctus urna non, convallis libero. Maecenas odio orci, iaculis sit amet fringilla a, condimentum eu nisl. Duis lacinia arcu ac ipsum pretium eleifend. Vivamus magna magna, condimentum vulputate suscipit eu, consectetur quis quam. Integer ex dui, mattis sed feugiat vel, consectetur in metus. Vestibulum pharetra justo tellus, eu sagittis eros imperdiet vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor ac felis sit amet consectetur. Maecenas id aliquet lorem, at blandit nulla. Sed sollicitudin, dui vitae posuere maximus, magna augue porta orci, et fringilla sem felis vitae erat. Duis pharetra leo id euismod faucibus. Integer non pulvinar metus, in gravida mi. Donec in tellus egestas, pharetra odio eget, rhoncus nulla.\n\nQuisque semper augue nec faucibus vestibulum. Mauris in felis ultricies, aliquet sapien in, feugiat libero. Etiam maximus eros risus, eu placerat nibh congue tristique. Vestibulum tincidunt bibendum elit, eget vestibulum enim aliquet at. Maecenas maximus velit nisl. Suspendisse rhoncus, orci in sagittis iaculis, est quam porta urna, et condimentum magna purus sit amet arcu. Quisque eu rutrum nibh, nec tincidunt orci. Sed quis augue dolor. Cras lobortis, ex eu porttitor scelerisque, lorem elit bibendum metus, et porttitor ex nunc sollicitudin arcu.\n\nPhasellus sit amet finibus leo. Nunc lobortis, augue eget blandit faucibus, velit ante interdum justo, vestibulum rhoncus risus dui at velit. Nullam convallis consectetur nunc, sed feugiat arcu consectetur eu. Sed ac fringilla tellus. Duis auctor, lectus sit amet vestibulum finibus, est magna semper nisi, porta aliquet leo mi vel libero. In aliquam tincidunt cursus. Nullam laoreet dapibus quam, ut dignissim neque vehicula ut. Suspendisse at ante sit amet libero dictum placerat et vel est. Morbi fermentum nisl venenatis posuere sagittis. Aliquam eget mi quis velit maximus pellentesque sit amet a ex.\n\nOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent tristique felis nec congue lacinia. Aliquam ullamcorper, lorem nec bibendum suscipit, ligula sapien pellentesque metus, et vehicula nulla ante elementum erat. Curabitur in elit vitae eros consequat suscipit in et lectus. Mauris mauris quam, cursus id malesuada in, ultricies ac lacus. Fusce et tortor vitae nunc pellentesque tincidunt. Maecenas commodo a tellus vel faucibus. Nunc id vehicula urna. Nunc venenatis dui lacus, aliquet imperdiet enim ultricies eu. Ut at aliquam lectus. Maecenas placerat finibus facilisis. Curabitur tempus dapibus ex, sed tincidunt lacus dignissim ut. Vestibulum at aliquet libero.\n\nFusce at ligula ultricies, ultrices est in, accumsan magna. Aliquam consectetur eget libero quis efficitur. Maecenas posuere facilisis nisl, vitae fringilla diam iaculis eu. Nullam tempor in lectus in convallis. Pellentesque est sem, imperdiet vitae rutrum ac, convallis in urna. Vestibulum lacinia ante et nunc mollis, sit amet bibendum quam tincidunt. Praesent convallis leo et dui lacinia, vel sollicitudin est condimentum. Nullam euismod felis vitae interdum feugiat. Sed venenatis tristique magna, in porta eros sodales quis. Ut ut laoreet nunc. Proin sed velit turpis. Donec lobortis interdum mollis. Sed semper viverra magna sagittis tempor. Fusce vehicula, tellus nec vulputate sodales, sapien lectus consectetur nisi, vitae dictum magna libero id dui. Sed ut est vitae purus mollis condimentum. Aliquam tristique ante quis aliquam sodales.\n\nDuis nec scelerisque quam. Nullam ac pharetra nisi, eu elementum justo. Fusce facilisis turpis sit amet tortor semper suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla mattis dictum erat id dapibus. Vivamus vitae laoreet felis. Pellentesque sollicitudin libero sem, ac tincidunt libero dignissim eget. Donec dapibus efficitur ligula, vitae porta enim commodo a. Curabitur nisl nibh, tempor eget luctus sit amet, iaculis vel diam. Proin rutrum molestie efficitur. Vivamus at volutpat quam. Phasellus eu lectus a nibh congue auctor. Aenean erat turpis, sodales non posuere nec, feugiat non ligula. Vivamus semper scelerisque mattis. Nulla placerat massa tortor, sit amet luctus nunc rhoncus vulputate.\n\n\n![](/img/youtube-cover-ep-1.jpg)\n\nProin orci tellus, porta in dapibus vel, pretium et nunc. Cras semper et eros vestibulum cursus. Nam interdum dapibus enim, ac scelerisque nisi pharetra nec. Fusce vestibulum aliquet iaculis. Donec non consectetur nulla. Fusce congue, sem quis posuere luctus, quam lectus efficitur eros, vitae viverra sapien orci quis neque. Donec vitae velit eget risus feugiat blandit a quis elit. Curabitur convallis eros nec elit tincidunt tempor. Nulla justo tortor, congue ut elementum vel, scelerisque ut nisi. Pellentesque nec neque magna. In ultrices tortor sit amet velit mollis, quis cursus sapien rhoncus. Fusce ut tellus sed felis gravida tempus. Pellentesque vitae elit vel sapien posuere blandit maximus vitae magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur risus massa, dignissim convallis finibus nec, luctus in libero. Sed finibus, arcu ut ultrices aliquet, felis arcu sodales odio, ac consequat ipsum ex non massa.\n\nVivamus sollicitudin libero at augue vestibulum, id elementum urna molestie. Praesent nisl ante, tristique et varius rutrum, faucibus id lacus. Quisque cursus sapien mauris, at cursus metus tempor vel. Maecenas tempus nisi et est molestie cursus. Maecenas luctus augue sem, elementum viverra magna aliquam in. Phasellus lacinia ligula ac quam volutpat, ac mollis mauris sodales. Vivamus tempor varius felis at feugiat. Nulla vel ipsum semper, egestas mi at, lobortis sem. Integer orci enim, tempor non blandit nec, aliquet hendrerit nibh. Cras nisl neque, sollicitudin in rutrum vel, bibendum et felis. Duis sed accumsan ante. Nunc nec dignissim dolor.\n\nPhasellus elementum erat in rhoncus lobortis. Curabitur feugiat, est non accumsan laoreet, turpis ligula ultricies sapien, in convallis purus massa sed dui. Praesent semper, purus eget condimentum cursus, est dui fermentum leo, eget pellentesque lorem dolor interdum augue. Ut imperdiet, augue eu aliquet tincidunt, elit sem tempor neque, nec mollis leo ligula ultricies dui. Vestibulum facilisis ac velit quis blandit. Pellentesque fringilla, mi eu finibus suscipit, augue leo interdum ipsum, eget tincidunt massa urna elementum mauris. Praesent mauris diam, egestas sit amet lobortis nec, commodo ut sapien. Curabitur tincidunt non eros a egestas. Proin sit amet tellus id orci blandit mollis. Nam ut lacinia lectus, vitae dignissim ipsum. Ut nec risus finibus, efficitur orci et, sodales justo. Curabitur odio dolor, feugiat sed hendrerit at, lacinia vel leo. Vivamus vel tortor augue.\n\nFusce maximus lobortis sapien vel dignissim. Cras non ipsum volutpat, consequat nunc sit amet, hendrerit lacus. Quisque tempus tortor ut ex pulvinar semper. Maecenas eget sagittis orci, nec rhoncus risus. Nulla posuere efficitur lobortis. Maecenas egestas nunc diam, nec pulvinar libero pharetra eu. Vestibulum a nisi semper augue rutrum consectetur et vitae leo. In eu neque ultricies, tempor augue vitae, mattis odio. Nam varius imperdiet lorem, nec maximus massa consectetur sollicitudin. Maecenas sem leo, pharetra lobortis mi vitae, rhoncus imperdiet dolor.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "87eecccf600c34d8c00c711cc74980ab",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Mobile First",
+        "templateKey": "blog-post",
+        "date": "2019-06-13T18:25:05.431Z",
+        "discoverable": "no",
+        "header": "/img/hhf-book.png",
+        "description": "This blog will share the latest trends and ideas in the design world keeping you informed with your design decisions.",
+        "recommendedName": "What Is Cancer?",
+        "recommendedImage": "/img/sleep.jpg",
+        "recommendedLink": "https://www.jaydenszekely.com/jayden",
+        "tags": [
+          "home"
+        ],
+        "_PARENT": "bed7b729-3986-53e8-a668-06af6fdc22fd"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam nulla, dignissim non lacus a, volutpat efficitur lorem. Fusce non ligula cursus, luctus urna non, convallis libero. Maecenas odio orci, iaculis sit amet fringilla a, condimentum eu nisl. Duis lacinia arcu ac ipsum pretium eleifend. Vivamus magna magna, condimentum vulputate suscipit eu, consectetur quis quam. Integer ex dui, mattis sed feugiat vel, consectetur in metus. Vestibulum pharetra justo tellus, eu sagittis eros imperdiet vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor ac felis sit amet consectetur. Maecenas id aliquet lorem, at blandit nulla. Sed sollicitudin, dui vitae posuere maximus, magna augue porta orci, et fringilla sem felis vitae erat. Duis pharetra leo id euismod faucibus. Integer non pulvinar metus, in gravida mi. Donec in tellus egestas, pharetra odio eget, rhoncus nulla.\n\nQuisque semper augue nec faucibus vestibulum. Mauris in felis ultricies, aliquet sapien in, feugiat libero. Etiam maximus eros risus, eu placerat nibh congue tristique. Vestibulum tincidunt bibendum elit, eget vestibulum enim aliquet at. Maecenas maximus velit nisl. Suspendisse rhoncus, orci in sagittis iaculis, est quam porta urna, et condimentum magna purus sit amet arcu. Quisque eu rutrum nibh, nec tincidunt orci. Sed quis augue dolor. Cras lobortis, ex eu porttitor scelerisque, lorem elit bibendum metus, et porttitor ex nunc sollicitudin arcu.\n\nPhasellus sit amet finibus leo. Nunc lobortis, augue eget blandit faucibus, velit ante interdum justo, vestibulum rhoncus risus dui at velit. Nullam convallis consectetur nunc, sed feugiat arcu consectetur eu. Sed ac fringilla tellus. Duis auctor, lectus sit amet vestibulum finibus, est magna semper nisi, porta aliquet leo mi vel libero. In aliquam tincidunt cursus. Nullam laoreet dapibus quam, ut dignissim neque vehicula ut. Suspendisse at ante sit amet libero dictum placerat et vel est. Morbi fermentum nisl venenatis posuere sagittis. Aliquam eget mi quis velit maximus pellentesque sit amet a ex.\n\nOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent tristique felis nec congue lacinia. Aliquam ullamcorper, lorem nec bibendum suscipit, ligula sapien pellentesque metus, et vehicula nulla ante elementum erat. Curabitur in elit vitae eros consequat suscipit in et lectus. Mauris mauris quam, cursus id malesuada in, ultricies ac lacus. Fusce et tortor vitae nunc pellentesque tincidunt. Maecenas commodo a tellus vel faucibus. Nunc id vehicula urna. Nunc venenatis dui lacus, aliquet imperdiet enim ultricies eu. Ut at aliquam lectus. Maecenas placerat finibus facilisis. Curabitur tempus dapibus ex, sed tincidunt lacus dignissim ut. Vestibulum at aliquet libero.\n\nFusce at ligula ultricies, ultrices est in, accumsan magna. Aliquam consectetur eget libero quis efficitur. Maecenas posuere facilisis nisl, vitae fringilla diam iaculis eu. Nullam tempor in lectus in convallis. Pellentesque est sem, imperdiet vitae rutrum ac, convallis in urna. Vestibulum lacinia ante et nunc mollis, sit amet bibendum quam tincidunt. Praesent convallis leo et dui lacinia, vel sollicitudin est condimentum. Nullam euismod felis vitae interdum feugiat. Sed venenatis tristique magna, in porta eros sodales quis. Ut ut laoreet nunc. Proin sed velit turpis. Donec lobortis interdum mollis. Sed semper viverra magna sagittis tempor. Fusce vehicula, tellus nec vulputate sodales, sapien lectus consectetur nisi, vitae dictum magna libero id dui. Sed ut est vitae purus mollis condimentum. Aliquam tristique ante quis aliquam sodales.\n\nDuis nec scelerisque quam. Nullam ac pharetra nisi, eu elementum justo. Fusce facilisis turpis sit amet tortor semper suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla mattis dictum erat id dapibus. Vivamus vitae laoreet felis. Pellentesque sollicitudin libero sem, ac tincidunt libero dignissim eget. Donec dapibus efficitur ligula, vitae porta enim commodo a. Curabitur nisl nibh, tempor eget luctus sit amet, iaculis vel diam. Proin rutrum molestie efficitur. Vivamus at volutpat quam. Phasellus eu lectus a nibh congue auctor. Aenean erat turpis, sodales non posuere nec, feugiat non ligula. Vivamus semper scelerisque mattis. Nulla placerat massa tortor, sit amet luctus nunc rhoncus vulputate.\n\n\n![](/img/youtube-cover-ep-1.jpg)\n\nProin orci tellus, porta in dapibus vel, pretium et nunc. Cras semper et eros vestibulum cursus. Nam interdum dapibus enim, ac scelerisque nisi pharetra nec. Fusce vestibulum aliquet iaculis. Donec non consectetur nulla. Fusce congue, sem quis posuere luctus, quam lectus efficitur eros, vitae viverra sapien orci quis neque. Donec vitae velit eget risus feugiat blandit a quis elit. Curabitur convallis eros nec elit tincidunt tempor. Nulla justo tortor, congue ut elementum vel, scelerisque ut nisi. Pellentesque nec neque magna. In ultrices tortor sit amet velit mollis, quis cursus sapien rhoncus. Fusce ut tellus sed felis gravida tempus. Pellentesque vitae elit vel sapien posuere blandit maximus vitae magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur risus massa, dignissim convallis finibus nec, luctus in libero. Sed finibus, arcu ut ultrices aliquet, felis arcu sodales odio, ac consequat ipsum ex non massa.\n\nVivamus sollicitudin libero at augue vestibulum, id elementum urna molestie. Praesent nisl ante, tristique et varius rutrum, faucibus id lacus. Quisque cursus sapien mauris, at cursus metus tempor vel. Maecenas tempus nisi et est molestie cursus. Maecenas luctus augue sem, elementum viverra magna aliquam in. Phasellus lacinia ligula ac quam volutpat, ac mollis mauris sodales. Vivamus tempor varius felis at feugiat. Nulla vel ipsum semper, egestas mi at, lobortis sem. Integer orci enim, tempor non blandit nec, aliquet hendrerit nibh. Cras nisl neque, sollicitudin in rutrum vel, bibendum et felis. Duis sed accumsan ante. Nunc nec dignissim dolor.\n\nPhasellus elementum erat in rhoncus lobortis. Curabitur feugiat, est non accumsan laoreet, turpis ligula ultricies sapien, in convallis purus massa sed dui. Praesent semper, purus eget condimentum cursus, est dui fermentum leo, eget pellentesque lorem dolor interdum augue. Ut imperdiet, augue eu aliquet tincidunt, elit sem tempor neque, nec mollis leo ligula ultricies dui. Vestibulum facilisis ac velit quis blandit. Pellentesque fringilla, mi eu finibus suscipit, augue leo interdum ipsum, eget tincidunt massa urna elementum mauris. Praesent mauris diam, egestas sit amet lobortis nec, commodo ut sapien. Curabitur tincidunt non eros a egestas. Proin sit amet tellus id orci blandit mollis. Nam ut lacinia lectus, vitae dignissim ipsum. Ut nec risus finibus, efficitur orci et, sodales justo. Curabitur odio dolor, feugiat sed hendrerit at, lacinia vel leo. Vivamus vel tortor augue.\n\nFusce maximus lobortis sapien vel dignissim. Cras non ipsum volutpat, consequat nunc sit amet, hendrerit lacus. Quisque tempus tortor ut ex pulvinar semper. Maecenas eget sagittis orci, nec rhoncus risus. Nulla posuere efficitur lobortis. Maecenas egestas nunc diam, nec pulvinar libero pharetra eu. Vestibulum a nisi semper augue rutrum consectetur et vitae leo. In eu neque ultricies, tempor augue vitae, mattis odio. Nam varius imperdiet lorem, nec maximus massa consectetur sollicitudin. Maecenas sem leo, pharetra lobortis mi vitae, rhoncus imperdiet dolor.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
+      "fields": {
+        "slug": "/blog/mobile-first/"
+      }
     }
   },
   "status": {
@@ -4666,8 +4666,8 @@
     "jayden-efd": "401/path---jayden-efd-f34-DBLbxa2NgB8LzXsVYIZ53PQtiT0",
     "course-33d": "783/path---course-33-d-7dd-yZpj53NucNGiyou11wYJ0FaXo",
     "tags-275": "40/path---tags-275-fc0-ZQovEfcot4ygfGjMC5XDe3rW0",
-    "blog-f7a": "623/path---blog-f-7-a-05d-btnAFJZwYWq2ScuYSGYwXyWZ1g",
-    "blog-mobile-first-301": "530/path---blog-mobile-first-301-372-HkYPxpjptnunYTrcH2HQ5Dq7i8",
+    "blog-f7a": "195/path---blog-f-7-a-05d-D5EFFVGRAfVKvBhjVT08UidW1U",
+    "blog-mobile-first-301": "707/path---blog-mobile-first-301-372-BLRYsEpgKpHrgrHiAEcbHg18YE",
     "work-with-me-cv-4f8": "20/path---work-with-me-cv-4-f-8-d93-rx1pS76OrkNoauTHj9EhRtX30",
     "work-with-me-b37": "754/path---work-with-me-b-37-f8b-mx72DYEySDvsH7C9OLRWgbxSSk",
     "portfolio-964": "629/path---portfolio-964-7f6-kW2R42Xi0Snll6NxODPG6zCpnU",

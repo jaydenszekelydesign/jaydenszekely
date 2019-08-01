@@ -22,10 +22,7 @@ export default class Blog extends React.Component {
         </Helmet>
         <Banner background="img/blog-header.jpg" subCaption="Introducing Galavanting with Jayden">Stories of Earth</Banner>
         <div className="article big-padding">
-          <div className="left">
-            <h3>Read my blog on all things design and what great Creative Solutions can do for your business</h3>
-          </div>
-          <div className="right">
+          <div className="full-portfolio">
               {posts
                 .map(({ node: post }) => (
                   <Link to={post.fields.slug}>
@@ -38,7 +35,6 @@ export default class Blog extends React.Component {
                 ))}
           </div>
       </div>
-      <Footer />
       </Layout>
     )
   }
