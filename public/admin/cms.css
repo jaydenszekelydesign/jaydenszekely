@@ -46,42 +46,42 @@ table {
   border-spacing: 0; }
 
 .primary {
-  background-color: #000;
+  background-color: #1F725C;
   color: #f4f4f4; }
 
 .secondary {
   background-color: #ffffff;
-  color: #000; }
+  color: #1F725C; }
 
 .tertiary {
-  background-color: #f4f4f4;
-  color: #000; }
+  background-color: #1F725C;
+  color: #ffffff; }
 
 .accent {
-  color: #FF2121; }
+  color: #B9E80F; }
 
 .accent-back {
   color: #ffffff;
-  background-color: #FF2121; }
+  background-color: #B9E80F; }
 
 .primary {
-  background-color: #000;
+  background-color: #1F725C;
   color: #f4f4f4; }
 
 .secondary {
   background-color: #ffffff;
-  color: #000; }
+  color: #1F725C; }
 
 .tertiary {
-  background-color: #f4f4f4;
-  color: #000; }
+  background-color: #1F725C;
+  color: #ffffff; }
 
 .accent {
-  color: #FF2121; }
+  color: #B9E80F; }
 
 .accent-back {
   color: #ffffff;
-  background-color: #FF2121; }
+  background-color: #B9E80F; }
 
 .header-link {
   font-size: 1.4em;
@@ -156,9 +156,11 @@ p {
 
 .splitHeader {
   width: 100%;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  background-attachment: fixed;
+  background-position: center; }
   .splitHeader .left {
-    background-color: #000;
+    background-color: #1F725C;
     padding-left: 8.5%;
     width: calc(83% / 8 * 4);
     height: 75vh;
@@ -171,7 +173,7 @@ p {
       margin-top: 35vh;
       z-index: 920; }
   .splitHeader .right {
-    background-color: #000;
+    background-color: #1F725C;
     padding-right: 8.5%;
     width: calc(83% / 8 * 4);
     height: 75vh;
@@ -186,7 +188,7 @@ p {
       margin-top: 35vh;
       position: relative; }
   .splitHeader .full {
-    background-color: #000;
+    background-color: #1F725C;
     padding-left: 8.5%;
     padding-right: 8.5%;
     width: calc(83% / 8 * 8);
@@ -197,7 +199,10 @@ p {
     z-index: 900;
     display: block;
     position: relative;
-    overflow: hidden; }
+    overflow: hidden;
+    background-attachment: fixed;
+    background-position-x: 50%;
+    background-position-y: -15vh; }
     .splitHeader .full .contents {
       margin-top: 30vh;
       position: relative; }
@@ -220,7 +225,7 @@ p {
       padding-bottom: calc(8vh - 0.6em);
       font-size: 1.2em;
       text-align: center;
-      color: #FF2121;
+      color: #B9E80F;
       background-color: #000; }
 
 @media screen and (max-width: 700px) {
@@ -238,42 +243,42 @@ p {
     width: calc(83% / 8 * 8); } }
 
 .primary {
-  background-color: #000;
+  background-color: #1F725C;
   color: #f4f4f4; }
 
 .secondary {
   background-color: #ffffff;
-  color: #000; }
+  color: #1F725C; }
 
 .tertiary {
-  background-color: #f4f4f4;
-  color: #000; }
+  background-color: #1F725C;
+  color: #ffffff; }
 
 .accent {
-  color: #FF2121; }
+  color: #B9E80F; }
 
 .accent-back {
   color: #ffffff;
-  background-color: #FF2121; }
+  background-color: #B9E80F; }
 
 .primary {
-  background-color: #000;
+  background-color: #1F725C;
   color: #f4f4f4; }
 
 .secondary {
   background-color: #ffffff;
-  color: #000; }
+  color: #1F725C; }
 
 .tertiary {
-  background-color: #f4f4f4;
-  color: #000; }
+  background-color: #1F725C;
+  color: #ffffff; }
 
 .accent {
-  color: #FF2121; }
+  color: #B9E80F; }
 
 .accent-back {
   color: #ffffff;
-  background-color: #FF2121; }
+  background-color: #B9E80F; }
 
 .header-link {
   font-size: 1.4em;
@@ -347,42 +352,42 @@ p {
   line-height: 165%; }
 
 .primary {
-  background-color: #000;
+  background-color: #1F725C;
   color: #f4f4f4; }
 
 .secondary {
   background-color: #ffffff;
-  color: #000; }
+  color: #1F725C; }
 
 .tertiary {
-  background-color: #f4f4f4;
-  color: #000; }
+  background-color: #1F725C;
+  color: #ffffff; }
 
 .accent {
-  color: #FF2121; }
+  color: #B9E80F; }
 
 .accent-back {
   color: #ffffff;
-  background-color: #FF2121; }
+  background-color: #B9E80F; }
 
 .primary {
-  background-color: #000;
+  background-color: #1F725C;
   color: #f4f4f4; }
 
 .secondary {
   background-color: #ffffff;
-  color: #000; }
+  color: #1F725C; }
 
 .tertiary {
-  background-color: #f4f4f4;
-  color: #000; }
+  background-color: #1F725C;
+  color: #ffffff; }
 
 .accent {
-  color: #FF2121; }
+  color: #B9E80F; }
 
 .accent-back {
   color: #ffffff;
-  background-color: #FF2121; }
+  background-color: #B9E80F; }
 
 .header-link {
   font-size: 1.4em;
@@ -472,7 +477,8 @@ p {
     width: calc(83% / 8 * 2);
     float: left;
     display: inline-block;
-    margin-left: calc(83% / 8); }
+    margin-left: calc(83% / 8);
+    margin-bottom: 60px; }
     .article .left a {
       font-size: 0.9em;
       color: #f4f4f4;
@@ -487,7 +493,8 @@ p {
          object-fit: cover;
       position: relative;
       display: inline-block;
-      overflow: hidden; }
+      overflow: hidden;
+      box-shadow: 0px 0px 0px rgba(0, 0, 0, 0); }
   .article .right {
     width: calc(83% / 8 * 3);
     margin-left: calc(83% / 8);
@@ -505,6 +512,24 @@ p {
     display: inline-block;
     font-weight: 200;
     overflow: hidden; }
+  .article .thin-article {
+    width: calc(83% / 8 * 4);
+    padding-left: calc(83% / 8 * 2);
+    padding-right: calc(83% / 8 * 2);
+    float: left;
+    display: inline-block;
+    font-weight: 200;
+    overflow: hidden;
+    text-align: justify; }
+  .article .thin-article-left {
+    width: calc(83% / 8 * 4);
+    padding-left: calc(83% / 8 * 2);
+    padding-right: calc(83% / 8 * 2);
+    float: left;
+    display: inline-block;
+    font-weight: 200;
+    overflow: hidden;
+    text-align: left; }
   .article .split {
     -webkit-column-count: 2;
             column-count: 2;
@@ -609,7 +634,7 @@ span {
   background-position: center; }
 
 .accent {
-  color: #FF2121; }
+  color: #B9E80F; }
 
 body {
   padding: 0 auto;
@@ -671,7 +696,7 @@ span.bm-cross {
 
 header {
   width: 100vw;
-  background: #000;
+  background: #1F725C;
   color: #ffffff;
   padding: 0, 0, 0, 0;
   margin: 0, 0, 0, 0;
@@ -722,7 +747,7 @@ header {
   .slim-strip input {
     background: transparent;
     border: 0px solid white;
-    border-bottom: 2px solid #FF2121;
+    border-bottom: 2px solid #B9E80F;
     font-size: 0.8em;
     width: 70%;
     text-align: left;
@@ -751,21 +776,23 @@ header {
   margin-top: 0px;
   text-align: left;
   display: inline-block;
-  width: calc(83% / 8 * 8);
-  padding-left: 8.5%;
-  padding-right: 8.5%;
+  width: calc(83% / 8 * 3);
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: calc(83% / 8);
+  margin-bottom: 40px;
   overflow: hidden; }
 
 .glaze {
   background-color: rgba(0, 0, 0, 0.4);
-  padding-top: 20vh;
-  padding-bottom: 20vh;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
   font-size: inherit;
   color: #fff;
   display: relative;
   width: 100%;
-  padding-left: 8.5%;
-  padding-right: 8.5%;
+  padding-left: calc(83% / 8 * 2);
+  padding-right: calc(83% / 8 * 2);
   transition-duration: 0.8s; }
 
 .no-margin-bottom {
@@ -805,13 +832,13 @@ header {
   position: relative;
   z-index: 0;
   align-content: left;
-  color: #000;
+  color: #1F725C;
   z-index: 1000;
   font-size: 1.2em;
   text-align: left;
   overflow-x: scroll; }
   .floatingTags a {
-    color: #FF2121;
+    color: #B9E80F;
     font-size: 1.2em;
     text-decoration: none; }
 
@@ -860,7 +887,7 @@ header {
     color: #f4f4f4;
     font-weight: 600;
     text-align: center;
-    background-color: #000; }
+    background-color: #1F725C; }
   @media screen and (max-width: 700px) {
     .split .left {
       float: left;
@@ -892,7 +919,7 @@ header {
     display: inline-block;
     text-align: center;
     background-position: center;
-    background-color: #000;
+    background-color: #1F725C;
     color: #f4f4f4; }
   @media screen and (max-width: 700px) {
     .split .right {
@@ -954,12 +981,12 @@ footer {
   /* Our sidebar item styling */
   text-decoration: none;
   margin-bottom: 10px;
-  color: #000;
+  color: #1F725C;
   transition: color 0.5s; }
 
 /* Change color on hover */
 .bm-item:hover {
-  color: #000; }
+  color: #1F725C; }
 
 /* The rest copied directly from react-burger-menu docs */
 /* Position and sizing of burger button */
@@ -988,7 +1015,7 @@ footer {
 /* General sidebar styles */
 .bm-menu {
   background: #ffffff;
-  color: #000;
+  color: #1F725C;
   z-index: 1200;
   margin: 0;
   top: 0px;
@@ -1000,7 +1027,7 @@ footer {
   .bm-menu a {
     display: block; }
   .bm-menu a:hover {
-    color: #000; }
+    color: #1F725C; }
 
 /* Morph shape necessary with bubble or elastic */
 .bm-morph-shape {
@@ -1008,7 +1035,7 @@ footer {
 
 /* Wrapper for item list */
 .bm-item-list {
-  color: #000; }
+  color: #1F725C; }
 
 .bm-menu-wrap {
   height: calc(70vh + 2em);
@@ -1088,3 +1115,5 @@ footer {
   height: auto;
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3); }
 
+
+/*# sourceMappingURL=cms.css.map*/
