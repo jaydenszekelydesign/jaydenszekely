@@ -28,7 +28,7 @@ export const BlogPostTemplate = ({
       </Helmet>
       <Banner background={header}>{title}</Banner>
       <div className="article">
-        <div className="full-portfolio">
+        <div className="thin-article">
           <div>
           <PostContent content={content}/>
           </div>

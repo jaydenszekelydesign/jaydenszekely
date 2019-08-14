@@ -21,16 +21,18 @@ export default class Blog extends React.Component {
           <title>Galavanting With Jayden - Digital Nomad and Travel Blogger – Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand</title>
         </Helmet>
         <Banner background="img/blog-header.jpg" subCaption="Introducing Galavanting with Jayden">Stories of Earth</Banner>
-        <div className="article big-padding">
+        <div className="big-padding">
           <div className="full-portfolio">
               {posts
                 .map(({ node: post }) => (
                   <Link to={post.fields.slug}>
                     <div className="listing" key={post.id} style={{backgroundImage: 'url("'+post.frontmatter.header+'")'}}>
                       <div className="glaze">
-                        <h2>{post.frontmatter.title}</h2>{post.frontmatter.date}
+                        <h2 className="no-margin-bottom">{post.frontmatter.title}</h2>
+                        {post.frontmatter.date}
                       </div>
-                    </div>
+                    
+                  </div>
                   </Link>
                 ))}
           </div>

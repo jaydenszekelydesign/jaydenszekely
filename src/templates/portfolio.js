@@ -42,10 +42,18 @@ export const PortfolioPostTemplate = ({
       </Banner>
       <div className="article big-padding">
         <div className="left">
-        <h1>01.</h1>
-        
+          <h4>
+            {jobDate}
+          </h4>
+          <h6>
+            {leftColumn}<br /><br />
+          </h6>
+          <p>
+            {portfolioDescription}
+          </p>
+          <br /><br />
         </div>
-        <div className="right">
+        <div className="left">
           <h4>
             {jobDate}
           </h4>
@@ -72,7 +80,6 @@ export const PortfolioPostTemplate = ({
         </div>
       </div>
       <Split background="" recommendedTitle="DOWNLOAD MY CV" link='/work-with-me/cv' authorName="VIEW MY PORTFOLIO" rightLink="/portfolio" rightImage="" />  
-      <Footer />
     </div>
   )
 }

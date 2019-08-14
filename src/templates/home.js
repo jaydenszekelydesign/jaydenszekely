@@ -47,10 +47,7 @@ export const HomePageTemplate = ({
       </Helmet>
       <Banner background={image}>{title}</Banner>
       <div className="article big-padding secondary" >
-        <div className="left">
-          <h1>About:</h1>
-        </div>
-        <div className="right">
+        <div className="thin-article-left">
           <PageContent content={content}/>
           <Link to="work-with-me"><br /><h4 className="accent" >Work With Me</h4></Link>
         </div>
@@ -88,25 +85,16 @@ export const HomePageTemplate = ({
             </ul>
         </div>
       </div>
-      <div className="article secondary big-padding">
-        <div className="left">
-            <h1>Clients:</h1>
-        </div>
-        <div className="right">
+      <div className="article big-padding secondary" >
+        <div className="thin-article-left">
           <p>
-          I have had the privelege to work with a variety of clients from small start-ups to large non-profit organisations.  I can not wait to work with you.
+        I have had the privelege to work with a variety of clients from small start-ups to large non-profit organisations.  I can not wait to work with you.
           </p>
-          <Link to="work-with-me"><br /><h4 className="accent" >Work With Me</h4></Link>
           
+          <Link to="work-with-me"><br /><h4 className="accent" >Work With Me</h4></Link>
         </div>
       </div>
-      <div className="article accent-back big-padding">
-        <Quote quoteContents="Great design is fundamental in a digital age to communicate a message / a story through websites, video, print, social media and more" />
-      </div>
-      <Link to={announcementLink}>
-        <Montage montageTitle={announcementBlurb} imgOne={imageOne} imgTwo={imageTwo} imgThree={imageThree} imgFour={imageFour} imgFive={imageFive} imgSix={imageSix} imgSeven={imageSeven} imgEight={imageEight} imgNine={imageNine} imgTen={imageTen} imgEleven={imageEleven} imgTwelve={imageTwelve} imgThirteen={imageThirteen} imgFourteen={imageFourteen} imgFifteen={imageFifteen}/> 
-      </Link>
-      <Footer />
+      
     </Layout>
               
   )

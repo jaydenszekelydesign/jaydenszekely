@@ -30,6 +30,11 @@
         "path": "/blog/mobile-first/"
     },
     {
+        "componentChunkName": "component---src-pages-comingsoon-js",
+        "jsonName": "comingsoon-3a9",
+        "path": "/comingsoon/"
+    },
+    {
         "componentChunkName": "component---src-templates-about-page-js",
         "jsonName": "course-33d",
         "path": "/course/"

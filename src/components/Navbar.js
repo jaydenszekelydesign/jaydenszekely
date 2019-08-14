@@ -21,7 +21,7 @@ const Navbar = () => (
               </div>
             ) : (
               <div className="navigation-links">
-                <Link className="navigation-item" to="/blog">Blog</Link><Link className="navigation-item" to="/gallery">Gallery</Link><Link className="navigation-item" to="/contact">Contact</Link>
+                <Link className="navigation-item" to="/blog">Blog</Link><Link className="navigation-item" to="/comingsoon">Gallery</Link><Link className="navigation-item" to="/comingsoon">Contact</Link>
               </div>
             )
           }

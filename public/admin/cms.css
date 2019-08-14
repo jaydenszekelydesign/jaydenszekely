@@ -186,7 +186,7 @@ p {
       margin-top: 35vh;
       position: relative; }
   .splitHeader .full {
-    background-color: #ffffff;
+    background-color: #000;
     padding-left: 8.5%;
     padding-right: 8.5%;
     width: calc(83% / 8 * 8);
@@ -549,9 +549,9 @@ p {
       padding-left: 0;
       padding-top: 1em; }
     .article .full-portfolio {
-      width: calc(83% / 8 * 8);
-      padding-left: 0;
-      padding-right: 0;
+      width: calc(83% / 8 * 6);
+      padding-left: calc(83% / 8);
+      padding-right: calc(83% / 8);
       float: left;
       display: inline-block;
       font-weight: 200; } }

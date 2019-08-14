@@ -29,7 +29,6 @@ export const AboutPageTemplate = ({ title, content, contentComponent, full_image
           <Link to="work-with-me"><br /><h4 className="accent" >Work With Me</h4></Link>
         </div>
       </div>
-      <Footer />
     </Layout>
               
   )

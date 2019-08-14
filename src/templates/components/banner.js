@@ -8,10 +8,11 @@ const Banner = ({children, background, subCaption}) => (
 <section className="splitHeader">
     <div className="full" style={{backgroundImage: 'url("'+background+'")'}}>
         <div className="contents">
-            <h1>{children}</h1>
+            <center><h1>{children}</h1>
             <span className="header-link">
                 {subCaption}
             </span>
+            </center>
         </div>
     </div>
 </section>

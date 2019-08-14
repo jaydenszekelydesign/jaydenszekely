@@ -1480,12 +1480,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-07-31T23:56:00.838Z",
+      "buildTime": "2019-08-11T06:42:44.374Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5ddae1cd18650c95cfffc00ca4e8be2e",
+        "contentDigest": "e8b66164e9a90cc8e63865d13cbcd69d",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1495,7 +1495,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "eaeced6605ef9e2eed923624ad30101c",
+        "contentDigest": "e57b90bf82b60f5368595819da151510",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1507,7 +1507,7 @@
       "size": 416,
       "prettySize": "416 B",
       "modifiedTime": "2019-06-19T05:16:13.647Z",
-      "accessTime": "2019-07-31T23:56:03.765Z",
+      "accessTime": "2019-08-11T06:42:56.157Z",
       "changeTime": "2019-06-19T05:16:13.647Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1525,57 +1525,13 @@
       "blksize": 4194304,
       "ino": 21954363,
       "blocks": 0,
-      "atimeMs": 1564617363765.01,
+      "atimeMs": 1565505776157.1096,
       "mtimeMs": 1560921373646.6458,
       "ctimeMs": 1560921373646.6458,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:03.765Z",
+      "atime": "2019-08-11T06:42:56.157Z",
       "mtime": "2019-06-19T05:16:13.647Z",
       "ctime": "2019-06-19T05:16:13.647Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "f88ba54b-1190-587d-9196-6e79633f18cc": {
-      "id": "f88ba54b-1190-587d-9196-6e79633f18cc",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "6d1c1d007cfadc4b148ec920c2de84aa",
-        "type": "Directory",
-        "description": "Directory \"src/pages/blog\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
-      "relativePath": "blog",
-      "extension": "",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2019-06-13T18:29:30.004Z",
-      "accessTime": "2019-07-31T23:56:03.769Z",
-      "changeTime": "2019-06-13T18:29:30.004Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
-      "base": "blog",
-      "ext": "",
-      "name": "blog",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 4,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954367,
-      "blocks": 0,
-      "atimeMs": 1564617363768.753,
-      "mtimeMs": 1560450570003.8635,
-      "ctimeMs": 1560450570003.8635,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:03.769Z",
-      "mtime": "2019-06-13T18:29:30.004Z",
-      "ctime": "2019-06-13T18:29:30.004Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "f49b3d41-8450-5332-977a-6487361b7694": {
@@ -1583,7 +1539,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "782b064e79204db19031ed4f1d4bcad6",
+        "contentDigest": "3cace3db67ccc25478216de0ae64bdc5",
         "type": "Directory",
         "description": "Directory \"src/pages/about\"",
         "owner": "gatsby-source-filesystem"
@@ -1595,7 +1551,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-07-31T23:56:03.769Z",
+      "accessTime": "2019-08-11T06:42:56.163Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1613,13 +1569,57 @@
       "blksize": 4194304,
       "ino": 21954365,
       "blocks": 0,
-      "atimeMs": 1564617363768.7686,
+      "atimeMs": 1565505776162.7346,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.965,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:03.769Z",
+      "atime": "2019-08-11T06:42:56.163Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "f88ba54b-1190-587d-9196-6e79633f18cc": {
+      "id": "f88ba54b-1190-587d-9196-6e79633f18cc",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a9806755beff46a7847b994f33af0d2b",
+        "type": "Directory",
+        "description": "Directory \"src/pages/blog\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
+      "relativePath": "blog",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2019-06-13T18:29:30.004Z",
+      "accessTime": "2019-08-11T06:42:56.163Z",
+      "changeTime": "2019-06-13T18:29:30.004Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
+      "base": "blog",
+      "ext": "",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954367,
+      "blocks": 0,
+      "atimeMs": 1565505776162.7932,
+      "mtimeMs": 1560450570003.8635,
+      "ctimeMs": 1560450570003.8635,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-08-11T06:42:56.163Z",
+      "mtime": "2019-06-13T18:29:30.004Z",
+      "ctime": "2019-06-13T18:29:30.004Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "df0e24e0-06d7-5fa2-8cbb-523ec0d67585": {
@@ -1627,7 +1627,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7a730c813a33f32795428b903e6b6cd7",
+        "contentDigest": "199ea07a775a4ffc1eb56773aad369e3",
         "type": "Directory",
         "description": "Directory \"src/pages/course\"",
         "owner": "gatsby-source-filesystem"
@@ -1639,7 +1639,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-06-12T03:16:40.515Z",
-      "accessTime": "2019-07-31T23:56:03.769Z",
+      "accessTime": "2019-08-11T06:42:56.163Z",
       "changeTime": "2019-06-15T06:04:35.222Z",
       "birthTime": "2019-06-12T03:16:40.514Z",
       "root": "/",
@@ -1657,11 +1657,11 @@
       "blksize": 4194304,
       "ino": 22376650,
       "blocks": 0,
-      "atimeMs": 1564617363768.784,
+      "atimeMs": 1565505776162.7617,
       "mtimeMs": 1560309400514.8252,
       "ctimeMs": 1560578675222.0308,
       "birthtimeMs": 1560309400513.8855,
-      "atime": "2019-07-31T23:56:03.769Z",
+      "atime": "2019-08-11T06:42:56.163Z",
       "mtime": "2019-06-12T03:16:40.515Z",
       "ctime": "2019-06-15T06:04:35.222Z",
       "birthtime": "2019-06-12T03:16:40.514Z"
@@ -1671,7 +1671,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6b338d0af7723aeda35fda5c930f9658",
+        "contentDigest": "65c2760fe72acaeaf91d51570d9b5f42",
         "type": "Directory",
         "description": "Directory \"src/pages/jargon\"",
         "owner": "gatsby-source-filesystem"
@@ -1683,7 +1683,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-07-31T23:56:03.769Z",
+      "accessTime": "2019-08-11T06:42:56.163Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1701,11 +1701,11 @@
       "blksize": 4194304,
       "ino": 21954374,
       "blocks": 0,
-      "atimeMs": 1564617363768.8196,
+      "atimeMs": 1565505776162.8188,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.5466,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:03.769Z",
+      "atime": "2019-08-11T06:42:56.163Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1715,7 +1715,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "266010c3e5c85fb0cf8ed06bf562a927",
+        "contentDigest": "85b823bad5c50895c8633749407ea145",
         "type": "Directory",
         "description": "Directory \"src/pages/jayden\"",
         "owner": "gatsby-source-filesystem"
@@ -1727,7 +1727,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-06-17T07:29:42.821Z",
-      "accessTime": "2019-07-31T23:56:03.769Z",
+      "accessTime": "2019-08-11T06:42:56.163Z",
       "changeTime": "2019-06-17T07:29:42.821Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1745,11 +1745,11 @@
       "blksize": 4194304,
       "ino": 21954376,
       "blocks": 0,
-      "atimeMs": 1564617363768.7988,
+      "atimeMs": 1565505776162.8464,
       "mtimeMs": 1560756582820.9316,
       "ctimeMs": 1560756582820.9316,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:03.769Z",
+      "atime": "2019-08-11T06:42:56.163Z",
       "mtime": "2019-06-17T07:29:42.821Z",
       "ctime": "2019-06-17T07:29:42.821Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1759,7 +1759,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "feca87cadd0d670a45e020f4e8135d5c",
+        "contentDigest": "82e46a927692fdc47f47a3b32dd0b12d",
         "type": "Directory",
         "description": "Directory \"src/pages/listen\"",
         "owner": "gatsby-source-filesystem"
@@ -1771,7 +1771,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-07-31T23:56:03.769Z",
+      "accessTime": "2019-08-11T06:42:56.163Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1789,11 +1789,11 @@
       "blksize": 4194304,
       "ino": 21954378,
       "blocks": 0,
-      "atimeMs": 1564617363768.85,
+      "atimeMs": 1565505776162.8816,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.8938,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:03.769Z",
+      "atime": "2019-08-11T06:42:56.163Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1803,7 +1803,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "771a6bf8d38420b8eda556935e0966b6",
+        "contentDigest": "8f920c36ef4a4c169cc69744f4549bce",
         "type": "Directory",
         "description": "Directory \"src/pages/portfolio\"",
         "owner": "gatsby-source-filesystem"
@@ -1815,7 +1815,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-06-17T07:29:42.822Z",
-      "accessTime": "2019-07-31T23:56:03.769Z",
+      "accessTime": "2019-08-11T06:42:56.163Z",
       "changeTime": "2019-06-17T07:29:42.822Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1833,11 +1833,11 @@
       "blksize": 4194304,
       "ino": 21954380,
       "blocks": 0,
-      "atimeMs": 1564617363768.835,
+      "atimeMs": 1565505776162.9048,
       "mtimeMs": 1560756582821.9502,
       "ctimeMs": 1560756582821.9502,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:03.769Z",
+      "atime": "2019-08-11T06:42:56.163Z",
       "mtime": "2019-06-17T07:29:42.822Z",
       "ctime": "2019-06-17T07:29:42.822Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1847,7 +1847,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7626a84d28a76de564d6a1d906fa236e",
+        "contentDigest": "8bb74c0b8941daf9f8cfb52505daa18a",
         "type": "Directory",
         "description": "Directory \"src/pages/tags\"",
         "owner": "gatsby-source-filesystem"
@@ -1859,7 +1859,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-07-31T23:56:03.769Z",
+      "accessTime": "2019-08-11T06:42:56.163Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1877,11 +1877,11 @@
       "blksize": 4194304,
       "ino": 21954387,
       "blocks": 0,
-      "atimeMs": 1564617363768.8652,
+      "atimeMs": 1565505776162.937,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.2158,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:03.769Z",
+      "atime": "2019-08-11T06:42:56.163Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -1891,7 +1891,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9612a5a36b4c07a1920548577a146f5a",
+        "contentDigest": "3dc3b12a2328512084fdc09628cd2398",
         "type": "Directory",
         "description": "Directory \"src/pages/work-with-me\"",
         "owner": "gatsby-source-filesystem"
@@ -1903,7 +1903,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-06-19T05:25:31.633Z",
-      "accessTime": "2019-07-31T23:56:03.769Z",
+      "accessTime": "2019-08-11T06:42:56.163Z",
       "changeTime": "2019-06-19T05:25:31.633Z",
       "birthTime": "2019-06-12T03:29:59.932Z",
       "root": "/",
@@ -1921,11 +1921,11 @@
       "blksize": 4194304,
       "ino": 22377181,
       "blocks": 0,
-      "atimeMs": 1564617363768.8804,
+      "atimeMs": 1565505776162.962,
       "mtimeMs": 1560921931632.9478,
       "ctimeMs": 1560921931632.9478,
       "birthtimeMs": 1560310199932.096,
-      "atime": "2019-07-31T23:56:03.769Z",
+      "atime": "2019-08-11T06:42:56.163Z",
       "mtime": "2019-06-19T05:25:31.633Z",
       "ctime": "2019-06-19T05:25:31.633Z",
       "birthtime": "2019-06-12T03:29:59.932Z"
@@ -1948,7 +1948,7 @@
       "size": 588,
       "prettySize": "588 B",
       "modifiedTime": "2019-06-17T23:11:39.751Z",
-      "accessTime": "2019-07-31T23:56:02.428Z",
+      "accessTime": "2019-07-18T04:53:20.073Z",
       "changeTime": "2019-06-17T23:11:39.751Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -1966,155 +1966,14 @@
       "blksize": 4194304,
       "ino": 21954364,
       "blocks": 8,
-      "atimeMs": 1564617362428.0427,
+      "atimeMs": 1563425600073.048,
       "mtimeMs": 1560813099750.874,
       "ctimeMs": 1560813099750.874,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:02.428Z",
+      "atime": "2019-07-18T04:53:20.073Z",
       "mtime": "2019-06-17T23:11:39.751Z",
       "ctime": "2019-06-17T23:11:39.751Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff": {
-      "id": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
-      "children": [
-        "4935f1f2-85c2-59a1-acba-03677e785625"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "2b5b2ff55e2d193cfb4766ae600069b7",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
-      "relativePath": "index.md",
-      "extension": "md",
-      "size": 1690,
-      "prettySize": "1.69 kB",
-      "modifiedTime": "2019-07-01T01:41:08.479Z",
-      "accessTime": "2019-07-31T23:54:57.876Z",
-      "changeTime": "2019-07-01T01:41:08.479Z",
-      "birthTime": "2019-06-17T07:29:42.820Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22563269,
-      "blocks": 8,
-      "atimeMs": 1564617297876.1638,
-      "mtimeMs": 1561945268478.8386,
-      "ctimeMs": 1561945268478.8386,
-      "birthtimeMs": 1560756582820.358,
-      "atime": "2019-07-31T23:54:57.876Z",
-      "mtime": "2019-07-01T01:41:08.479Z",
-      "ctime": "2019-07-01T01:41:08.479Z",
-      "birthtime": "2019-06-17T07:29:42.820Z"
-    },
-    "176ecdb8-8f9c-53f2-82af-1e462266530e": {
-      "id": "176ecdb8-8f9c-53f2-82af-1e462266530e",
-      "children": [
-        "54141124-6550-5118-92fb-35e9134a6bde"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "0a5eac95346b8056acda2704e28fe5b1",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/blog/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
-      "relativePath": "blog/index.md",
-      "extension": "md",
-      "size": 408,
-      "prettySize": "408 B",
-      "modifiedTime": "2019-07-31T23:22:36.608Z",
-      "accessTime": "2019-07-31T23:54:57.878Z",
-      "changeTime": "2019-07-31T23:22:36.608Z",
-      "birthTime": "2019-06-13T18:27:34.525Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "blog",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22478070,
-      "blocks": 8,
-      "atimeMs": 1564617297877.987,
-      "mtimeMs": 1564615356608.4539,
-      "ctimeMs": 1564615356608.4539,
-      "birthtimeMs": 1560450454525.4192,
-      "atime": "2019-07-31T23:54:57.878Z",
-      "mtime": "2019-07-31T23:22:36.608Z",
-      "ctime": "2019-07-31T23:22:36.608Z",
-      "birthtime": "2019-06-13T18:27:34.525Z"
-    },
-    "bed7b729-3986-53e8-a668-06af6fdc22fd": {
-      "id": "bed7b729-3986-53e8-a668-06af6fdc22fd",
-      "children": [
-        "effd6241-b3d4-5665-81be-52ae3477106f"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "d1e6d7768a14feec218a9b7d1b340010",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/blog/mobile-first.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
-      "relativePath": "blog/mobile-first.md",
-      "extension": "md",
-      "size": 7872,
-      "prettySize": "7.87 kB",
-      "modifiedTime": "2019-08-01T00:08:38.278Z",
-      "accessTime": "2019-08-01T00:08:38.277Z",
-      "changeTime": "2019-08-01T00:08:38.278Z",
-      "birthTime": "2019-06-13T18:28:58.201Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
-      "base": "mobile-first.md",
-      "ext": ".md",
-      "name": "mobile-first",
-      "relativeDirectory": "blog",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22478358,
-      "blocks": 16,
-      "atimeMs": 1564618118277.003,
-      "mtimeMs": 1564618118277.7444,
-      "ctimeMs": 1564618118277.7444,
-      "birthtimeMs": 1560450538201.3699,
-      "atime": "2019-08-01T00:08:38.277Z",
-      "mtime": "2019-08-01T00:08:38.278Z",
-      "ctime": "2019-08-01T00:08:38.278Z",
-      "birthtime": "2019-06-13T18:28:58.201Z"
     },
     "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f": {
       "id": "d9ae3f57-bcbb-57ef-904a-94e9e3e0a12f",
@@ -2136,7 +1995,7 @@
       "size": 1155,
       "prettySize": "1.16 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-07-31T23:54:57.878Z",
+      "accessTime": "2019-07-31T20:00:13.061Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2154,11 +2013,11 @@
       "blksize": 4194304,
       "ino": 21954366,
       "blocks": 8,
-      "atimeMs": 1564617297877.7869,
+      "atimeMs": 1564603213060.8293,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893367.0078,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:54:57.878Z",
+      "atime": "2019-07-31T20:00:13.061Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2183,7 +2042,7 @@
       "size": 1129,
       "prettySize": "1.13 kB",
       "modifiedTime": "2019-06-15T06:04:45.960Z",
-      "accessTime": "2019-07-31T23:54:57.878Z",
+      "accessTime": "2019-07-31T20:02:34.704Z",
       "changeTime": "2019-06-15T06:04:45.960Z",
       "birthTime": "2019-06-12T03:16:40.515Z",
       "root": "/",
@@ -2201,44 +2060,44 @@
       "blksize": 4194304,
       "ino": 22376651,
       "blocks": 8,
-      "atimeMs": 1564617297878.2427,
+      "atimeMs": 1564603354703.621,
       "mtimeMs": 1560578685959.616,
       "ctimeMs": 1560578685959.616,
       "birthtimeMs": 1560309400514.8137,
-      "atime": "2019-07-31T23:54:57.878Z",
+      "atime": "2019-07-31T20:02:34.704Z",
       "mtime": "2019-06-15T06:04:45.960Z",
       "ctime": "2019-06-15T06:04:45.960Z",
       "birthtime": "2019-06-12T03:16:40.515Z"
     },
-    "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7": {
-      "id": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7",
+    "176ecdb8-8f9c-53f2-82af-1e462266530e": {
+      "id": "176ecdb8-8f9c-53f2-82af-1e462266530e",
       "children": [
-        "df0b2ad0-0419-5d6e-9631-999c911f3931"
+        "54141124-6550-5118-92fb-35e9134a6bde"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a10100359277866bfef2358f2a3d574e",
+        "contentDigest": "0a5eac95346b8056acda2704e28fe5b1",
         "type": "File",
         "mediaType": "text/markdown",
-        "description": "File \"src/pages/jayden/index.md\"",
+        "description": "File \"src/pages/blog/index.md\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden/index.md",
-      "relativePath": "jayden/index.md",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
+      "relativePath": "blog/index.md",
       "extension": "md",
-      "size": 1904,
-      "prettySize": "1.9 kB",
-      "modifiedTime": "2019-06-17T07:29:42.821Z",
-      "accessTime": "2019-07-31T23:54:57.879Z",
-      "changeTime": "2019-06-17T07:29:42.821Z",
-      "birthTime": "2019-06-17T07:29:42.821Z",
+      "size": 408,
+      "prettySize": "408 B",
+      "modifiedTime": "2019-07-31T23:22:36.608Z",
+      "accessTime": "2019-07-31T23:22:37.899Z",
+      "changeTime": "2019-07-31T23:22:36.608Z",
+      "birthTime": "2019-06-13T18:27:34.525Z",
       "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
-      "relativeDirectory": "jayden",
+      "relativeDirectory": "blog",
       "dev": 16777220,
       "mode": 33261,
       "nlink": 1,
@@ -2246,16 +2105,63 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 22563270,
+      "ino": 22478070,
       "blocks": 8,
-      "atimeMs": 1564617297878.5627,
-      "mtimeMs": 1560756582821.0938,
-      "ctimeMs": 1560756582821.0938,
-      "birthtimeMs": 1560756582820.924,
-      "atime": "2019-07-31T23:54:57.879Z",
-      "mtime": "2019-06-17T07:29:42.821Z",
-      "ctime": "2019-06-17T07:29:42.821Z",
-      "birthtime": "2019-06-17T07:29:42.821Z"
+      "atimeMs": 1564615357899.239,
+      "mtimeMs": 1564615356608.4539,
+      "ctimeMs": 1564615356608.4539,
+      "birthtimeMs": 1560450454525.4192,
+      "atime": "2019-07-31T23:22:37.899Z",
+      "mtime": "2019-07-31T23:22:36.608Z",
+      "ctime": "2019-07-31T23:22:36.608Z",
+      "birthtime": "2019-06-13T18:27:34.525Z"
+    },
+    "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff": {
+      "id": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
+      "children": [
+        "4935f1f2-85c2-59a1-acba-03677e785625"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2b5b2ff55e2d193cfb4766ae600069b7",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
+      "relativePath": "index.md",
+      "extension": "md",
+      "size": 1690,
+      "prettySize": "1.69 kB",
+      "modifiedTime": "2019-07-01T01:41:08.479Z",
+      "accessTime": "2019-07-31T23:59:33.257Z",
+      "changeTime": "2019-07-01T01:41:08.479Z",
+      "birthTime": "2019-06-17T07:29:42.820Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22563269,
+      "blocks": 8,
+      "atimeMs": 1564617573257.4595,
+      "mtimeMs": 1561945268478.8386,
+      "ctimeMs": 1561945268478.8386,
+      "birthtimeMs": 1560756582820.358,
+      "atime": "2019-07-31T23:59:33.257Z",
+      "mtime": "2019-07-01T01:41:08.479Z",
+      "ctime": "2019-07-01T01:41:08.479Z",
+      "birthtime": "2019-06-17T07:29:42.820Z"
     },
     "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b": {
       "id": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
@@ -2277,7 +2183,7 @@
       "size": 920,
       "prettySize": "920 B",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-07-31T23:54:57.878Z",
+      "accessTime": "2019-07-31T20:00:13.068Z",
       "changeTime": "2019-06-02T02:01:33.367Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2295,13 +2201,152 @@
       "blksize": 4194304,
       "ino": 21954375,
       "blocks": 8,
-      "atimeMs": 1564617297878.401,
+      "atimeMs": 1564603213067.8748,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893366.5928,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:54:57.878Z",
+      "atime": "2019-07-31T20:00:13.068Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.367Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
+    },
+    "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7": {
+      "id": "de0cffca-5b4e-5cd8-94a5-bbfc9411fcd7",
+      "children": [
+        "df0b2ad0-0419-5d6e-9631-999c911f3931"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a10100359277866bfef2358f2a3d574e",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/jayden/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden/index.md",
+      "relativePath": "jayden/index.md",
+      "extension": "md",
+      "size": 1904,
+      "prettySize": "1.9 kB",
+      "modifiedTime": "2019-06-17T07:29:42.821Z",
+      "accessTime": "2019-07-31T20:02:34.779Z",
+      "changeTime": "2019-06-17T07:29:42.821Z",
+      "birthTime": "2019-06-17T07:29:42.821Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jayden",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "jayden",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22563270,
+      "blocks": 8,
+      "atimeMs": 1564603354779.2124,
+      "mtimeMs": 1560756582821.0938,
+      "ctimeMs": 1560756582821.0938,
+      "birthtimeMs": 1560756582820.924,
+      "atime": "2019-07-31T20:02:34.779Z",
+      "mtime": "2019-06-17T07:29:42.821Z",
+      "ctime": "2019-06-17T07:29:42.821Z",
+      "birthtime": "2019-06-17T07:29:42.821Z"
+    },
+    "bed7b729-3986-53e8-a668-06af6fdc22fd": {
+      "id": "bed7b729-3986-53e8-a668-06af6fdc22fd",
+      "children": [
+        "effd6241-b3d4-5665-81be-52ae3477106f"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d1e6d7768a14feec218a9b7d1b340010",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/mobile-first.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
+      "relativePath": "blog/mobile-first.md",
+      "extension": "md",
+      "size": 7872,
+      "prettySize": "7.87 kB",
+      "modifiedTime": "2019-08-01T00:08:38.278Z",
+      "accessTime": "2019-08-01T01:00:48.629Z",
+      "changeTime": "2019-08-01T00:08:38.278Z",
+      "birthTime": "2019-06-13T18:28:58.201Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog",
+      "base": "mobile-first.md",
+      "ext": ".md",
+      "name": "mobile-first",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22478358,
+      "blocks": 16,
+      "atimeMs": 1564621248629.0833,
+      "mtimeMs": 1564618118277.7444,
+      "ctimeMs": 1564618118277.7444,
+      "birthtimeMs": 1560450538201.3699,
+      "atime": "2019-08-01T01:00:48.629Z",
+      "mtime": "2019-08-01T00:08:38.278Z",
+      "ctime": "2019-08-01T00:08:38.278Z",
+      "birthtime": "2019-06-13T18:28:58.201Z"
+    },
+    "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0": {
+      "id": "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "62130dbdcc87340c0940bc61ace27232",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/listen/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen/index.js",
+      "relativePath": "listen/index.js",
+      "extension": "js",
+      "size": 1705,
+      "prettySize": "1.71 kB",
+      "modifiedTime": "2019-06-04T02:59:06.917Z",
+      "accessTime": "2019-07-31T20:02:08.081Z",
+      "changeTime": "2019-06-04T02:59:06.917Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "listen",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954379,
+      "blocks": 8,
+      "atimeMs": 1564603328080.9526,
+      "mtimeMs": 1559617146917.3357,
+      "ctimeMs": 1559617146917.3357,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-07-31T20:02:08.081Z",
+      "mtime": "2019-06-04T02:59:06.917Z",
+      "ctime": "2019-06-04T02:59:06.917Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "b32e1cb2-eacb-5c4d-8641-e23fc35da015": {
@@ -2324,7 +2369,7 @@
       "size": 212,
       "prettySize": "212 B",
       "modifiedTime": "2019-06-04T01:49:46.130Z",
-      "accessTime": "2019-07-31T23:54:57.879Z",
+      "accessTime": "2019-07-31T20:02:08.093Z",
       "changeTime": "2019-06-04T01:49:46.130Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -2342,11 +2387,11 @@
       "blksize": 4194304,
       "ino": 21954382,
       "blocks": 8,
-      "atimeMs": 1564617297878.9148,
+      "atimeMs": 1564603328092.815,
       "mtimeMs": 1559612986129.838,
       "ctimeMs": 1559612986129.838,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:54:57.879Z",
+      "atime": "2019-07-31T20:02:08.093Z",
       "mtime": "2019-06-04T01:49:46.130Z",
       "ctime": "2019-06-04T01:49:46.130Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -2371,7 +2416,7 @@
       "size": 1870,
       "prettySize": "1.87 kB",
       "modifiedTime": "2019-06-17T07:29:42.822Z",
-      "accessTime": "2019-07-31T23:54:57.879Z",
+      "accessTime": "2019-07-31T20:02:34.796Z",
       "changeTime": "2019-06-17T07:29:42.822Z",
       "birthTime": "2019-06-17T07:29:42.821Z",
       "root": "/",
@@ -2389,11 +2434,11 @@
       "blksize": 4194304,
       "ino": 22563271,
       "blocks": 8,
-      "atimeMs": 1564617297878.9434,
+      "atimeMs": 1564603354796.1167,
       "mtimeMs": 1560756582821.5378,
       "ctimeMs": 1560756582821.5378,
       "birthtimeMs": 1560756582821.2468,
-      "atime": "2019-07-31T23:54:57.879Z",
+      "atime": "2019-07-31T20:02:34.796Z",
       "mtime": "2019-06-17T07:29:42.822Z",
       "ctime": "2019-06-17T07:29:42.822Z",
       "birthtime": "2019-06-17T07:29:42.821Z"
@@ -2418,7 +2463,7 @@
       "size": 935,
       "prettySize": "935 B",
       "modifiedTime": "2019-06-17T07:29:42.822Z",
-      "accessTime": "2019-07-31T23:54:57.879Z",
+      "accessTime": "2019-07-31T20:02:34.798Z",
       "changeTime": "2019-06-17T07:29:42.822Z",
       "birthTime": "2019-06-17T07:29:42.822Z",
       "root": "/",
@@ -2436,11 +2481,11 @@
       "blksize": 4194304,
       "ino": 22563272,
       "blocks": 8,
-      "atimeMs": 1564617297878.9966,
+      "atimeMs": 1564603354797.5479,
       "mtimeMs": 1560756582822.185,
       "ctimeMs": 1560756582822.185,
       "birthtimeMs": 1560756582821.933,
-      "atime": "2019-07-31T23:54:57.879Z",
+      "atime": "2019-07-31T20:02:34.798Z",
       "mtime": "2019-06-17T07:29:42.822Z",
       "ctime": "2019-06-17T07:29:42.822Z",
       "birthtime": "2019-06-17T07:29:42.822Z"
@@ -2465,7 +2510,7 @@
       "size": 1377,
       "prettySize": "1.38 kB",
       "modifiedTime": "2019-06-14T09:18:53.273Z",
-      "accessTime": "2019-07-31T23:54:57.879Z",
+      "accessTime": "2019-07-31T20:02:21.917Z",
       "changeTime": "2019-06-14T09:18:53.273Z",
       "birthTime": "2019-06-12T21:24:24.460Z",
       "root": "/",
@@ -2483,151 +2528,14 @@
       "blksize": 4194304,
       "ino": 22426774,
       "blocks": 8,
-      "atimeMs": 1564617297879.0496,
+      "atimeMs": 1564603341916.7778,
       "mtimeMs": 1560503933272.936,
       "ctimeMs": 1560503933272.936,
       "birthtimeMs": 1560374664459.6716,
-      "atime": "2019-07-31T23:54:57.879Z",
+      "atime": "2019-07-31T20:02:21.917Z",
       "mtime": "2019-06-14T09:18:53.273Z",
       "ctime": "2019-06-14T09:18:53.273Z",
       "birthtime": "2019-06-12T21:24:24.460Z"
-    },
-    "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0": {
-      "id": "dfa1a3ff-7fc7-5ec1-a480-a5aef3b4eda0",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "62130dbdcc87340c0940bc61ace27232",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/listen/index.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen/index.js",
-      "relativePath": "listen/index.js",
-      "extension": "js",
-      "size": 1705,
-      "prettySize": "1.71 kB",
-      "modifiedTime": "2019-06-04T02:59:06.917Z",
-      "accessTime": "2019-07-31T23:56:03.769Z",
-      "changeTime": "2019-06-04T02:59:06.917Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/listen",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "listen",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954379,
-      "blocks": 8,
-      "atimeMs": 1564617363769.1755,
-      "mtimeMs": 1559617146917.3357,
-      "ctimeMs": 1559617146917.3357,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:03.769Z",
-      "mtime": "2019-06-04T02:59:06.917Z",
-      "ctime": "2019-06-04T02:59:06.917Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2": {
-      "id": "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "fb1dac9fde5c5763881b0b562982699a",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/tags/index.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags/index.js",
-      "relativePath": "tags/index.js",
-      "extension": "js",
-      "size": 1376,
-      "prettySize": "1.38 kB",
-      "modifiedTime": "2019-07-31T23:53:32.013Z",
-      "accessTime": "2019-07-31T23:56:02.440Z",
-      "changeTime": "2019-07-31T23:53:32.013Z",
-      "birthTime": "2019-01-20T07:10:56.000Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "tags",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 21954388,
-      "blocks": 8,
-      "atimeMs": 1564617362439.631,
-      "mtimeMs": 1564617212012.6482,
-      "ctimeMs": 1564617212012.6482,
-      "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:02.440Z",
-      "mtime": "2019-07-31T23:53:32.013Z",
-      "ctime": "2019-07-31T23:53:32.013Z",
-      "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4": {
-      "id": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4",
-      "children": [
-        "f63e7d4d-db64-50b7-b1c5-3d7fca33130d"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "a519aa916ebb3ef5bb01ec9cc71e3c71",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/work-with-me/cv.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/cv.md",
-      "relativePath": "work-with-me/cv.md",
-      "extension": "md",
-      "size": 1311,
-      "prettySize": "1.31 kB",
-      "modifiedTime": "2019-06-19T07:49:15.122Z",
-      "accessTime": "2019-07-31T23:54:57.880Z",
-      "changeTime": "2019-06-19T07:49:15.122Z",
-      "birthTime": "2019-06-12T03:29:59.936Z",
-      "root": "/",
-      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me",
-      "base": "cv.md",
-      "ext": ".md",
-      "name": "cv",
-      "relativeDirectory": "work-with-me",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 22377183,
-      "blocks": 8,
-      "atimeMs": 1564617297879.6863,
-      "mtimeMs": 1560930555121.872,
-      "ctimeMs": 1560930555121.872,
-      "birthtimeMs": 1560310199936.0076,
-      "atime": "2019-07-31T23:54:57.880Z",
-      "mtime": "2019-06-19T07:49:15.122Z",
-      "ctime": "2019-06-19T07:49:15.122Z",
-      "birthtime": "2019-06-12T03:29:59.936Z"
     },
     "e8a90122-3d0e-544c-8bd4-33a6e48f09d8": {
       "id": "e8a90122-3d0e-544c-8bd4-33a6e48f09d8",
@@ -2649,7 +2557,7 @@
       "size": 1311,
       "prettySize": "1.31 kB",
       "modifiedTime": "2019-06-19T08:52:07.167Z",
-      "accessTime": "2019-07-31T23:54:57.880Z",
+      "accessTime": "2019-07-31T20:02:34.889Z",
       "changeTime": "2019-06-19T08:52:07.167Z",
       "birthTime": "2019-06-12T08:00:40.649Z",
       "root": "/",
@@ -2667,92 +2575,106 @@
       "blksize": 4194304,
       "ino": 22384084,
       "blocks": 8,
-      "atimeMs": 1564617297879.7168,
+      "atimeMs": 1564603354889.4436,
       "mtimeMs": 1560934327166.864,
       "ctimeMs": 1560934327166.864,
       "birthtimeMs": 1560326440648.812,
-      "atime": "2019-07-31T23:54:57.880Z",
+      "atime": "2019-07-31T20:02:34.889Z",
       "mtime": "2019-06-19T08:52:07.167Z",
       "ctime": "2019-06-19T08:52:07.167Z",
       "birthtime": "2019-06-12T08:00:40.649Z"
     },
-    "4935f1f2-85c2-59a1-acba-03677e785625": {
-      "id": "4935f1f2-85c2-59a1-acba-03677e785625",
-      "children": [],
-      "parent": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
+    "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4": {
+      "id": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4",
+      "children": [
+        "f63e7d4d-db64-50b7-b1c5-3d7fca33130d"
+      ],
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "Hi, I'm Jayden Szekely an experienced multi-disciplined creative, I am an independent freelancer ready to support you with your creative projects. \\\n\\\nPushing the boundaries in creative design and producing aesthetically pleasing digital products is my speciality.\\\n\\\nI aim to take the complexity out of website design and development for my clients.  Through consultation and listening to your story I can develop a solution that is right for you and your business. \\\n\\\nWith knowledge and skill in a range of media, I am honoured to provide a variety of services to simplify the experience for my clients.  This means I am available to provide and support you with an entire package, without outsourcing various areas of the project. \\\n\\\nAs a creative, with energy and passion for design I look forward to working with you on your upcoming projects.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "e4d647f4894fac439c9125c611231d41",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
+        "contentDigest": "a519aa916ebb3ef5bb01ec9cc71e3c71",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/work-with-me/cv.md\"",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "Jayden Szekely",
-        "templateKey": "home",
-        "image": "/img/gradient-web.jpg",
-        "imageOne": "/img/katesmith.jpg",
-        "imageTwo": "/img/stranger-home-web-res.jpg",
-        "imageThree": "/img/medusa-full-page-smaller-res.jpg",
-        "imageFour": "/img/zeal-hospitality-logo-square.png",
-        "imageFive": "/img/vous-mockup-checkin-web.jpg",
-        "imageSix": "/img/hhf-book.png",
-        "imageSeven": "/img/bodyaware-laptop-mockup.jpg",
-        "imageEight": "/img/tesla-model-s-navigation-web.jpg",
-        "imageNine": "/img/wtc-light-story-quote.jpg",
-        "imageTen": "img/home.jpg",
-        "imageEleven": "img/anthony-intraversato-455600-unsplash.jpg",
-        "imageTwelve": "img/home.jpg",
-        "imageThirteen": "img/anthony-intraversato-455600-unsplash.jpg",
-        "imageFourteen": "img/home.jpg",
-        "imageFifteen": "img/anthony-intraversato-455600-unsplash.jpg",
-        "announcementBlurb": "View my Portfolio",
-        "announcementLink": "/portfolio",
-        "announcementImage": "img/anthony-intraversato-455600-unsplash.jpg",
-        "_PARENT": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Hi, I'm Jayden Szekely an experienced multi-disciplined creative, I am an independent freelancer ready to support you with your creative projects. \\\n\\\nPushing the boundaries in creative design and producing aesthetically pleasing digital products is my speciality.\\\n\\\nI aim to take the complexity out of website design and development for my clients.  Through consultation and listening to your story I can develop a solution that is right for you and your business. \\\n\\\nWith knowledge and skill in a range of media, I am honoured to provide a variety of services to simplify the experience for my clients.  This means I am available to provide and support you with an entire package, without outsourcing various areas of the project. \\\n\\\nAs a creative, with energy and passion for design I look forward to working with you on your upcoming projects.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
-      "fields": {
-        "slug": "/"
-      }
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/cv.md",
+      "relativePath": "work-with-me/cv.md",
+      "extension": "md",
+      "size": 1311,
+      "prettySize": "1.31 kB",
+      "modifiedTime": "2019-06-19T07:49:15.122Z",
+      "accessTime": "2019-07-31T20:02:34.857Z",
+      "changeTime": "2019-06-19T07:49:15.122Z",
+      "birthTime": "2019-06-12T03:29:59.936Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me",
+      "base": "cv.md",
+      "ext": ".md",
+      "name": "cv",
+      "relativeDirectory": "work-with-me",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 22377183,
+      "blocks": 8,
+      "atimeMs": 1564603354856.8157,
+      "mtimeMs": 1560930555121.872,
+      "ctimeMs": 1560930555121.872,
+      "birthtimeMs": 1560310199936.0076,
+      "atime": "2019-07-31T20:02:34.857Z",
+      "mtime": "2019-06-19T07:49:15.122Z",
+      "ctime": "2019-06-19T07:49:15.122Z",
+      "birthtime": "2019-06-12T03:29:59.936Z"
     },
-    "54141124-6550-5118-92fb-35e9134a6bde": {
-      "id": "54141124-6550-5118-92fb-35e9134a6bde",
+    "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2": {
+      "id": "a9ff66d2-ab71-57f9-878b-8c94a7a1eab2",
       "children": [],
-      "parent": "176ecdb8-8f9c-53f2-82af-1e462266530e",
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "# Get Reading\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "8023f3a83c00454385e3fef976aa946d",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
+        "contentDigest": "fb1dac9fde5c5763881b0b562982699a",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/tags/index.js\"",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "All Articles",
-        "templateKey": "all-articles",
-        "date": "2019-06-13T18:25:05.431Z",
-        "header": "/img/hhf-book.png",
-        "description": "This blog will share the latest trends and ideas in the design world keeping you informed with your design decisions.",
-        "recommendedName": "What Is Cancer?",
-        "recommendedImage": "/img/sleep.jpg",
-        "recommendedLink": "https://www.whatthecancer.com/what-is-cancer",
-        "tags": [
-          "home"
-        ],
-        "_PARENT": "176ecdb8-8f9c-53f2-82af-1e462266530e"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "# Get Reading\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
-      "fields": {
-        "slug": "/blog/"
-      }
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags/index.js",
+      "relativePath": "tags/index.js",
+      "extension": "js",
+      "size": 1376,
+      "prettySize": "1.38 kB",
+      "modifiedTime": "2019-07-31T23:53:32.013Z",
+      "accessTime": "2019-07-31T23:59:33.258Z",
+      "changeTime": "2019-07-31T23:53:32.013Z",
+      "birthTime": "2019-01-20T07:10:56.000Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "tags",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 21954388,
+      "blocks": 8,
+      "atimeMs": 1564617573257.5325,
+      "mtimeMs": 1564617212012.6482,
+      "ctimeMs": 1564617212012.6482,
+      "birthtimeMs": 1547968256000,
+      "atime": "2019-07-31T23:59:33.258Z",
+      "mtime": "2019-07-31T23:53:32.013Z",
+      "ctime": "2019-07-31T23:53:32.013Z",
+      "birthtime": "2019-01-20T07:10:56.000Z"
     },
     "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": {
       "id": "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc",
@@ -2818,6 +2740,116 @@
         "slug": "/course/"
       }
     },
+    "54141124-6550-5118-92fb-35e9134a6bde": {
+      "id": "54141124-6550-5118-92fb-35e9134a6bde",
+      "children": [],
+      "parent": "176ecdb8-8f9c-53f2-82af-1e462266530e",
+      "internal": {
+        "content": "# Get Reading\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "8023f3a83c00454385e3fef976aa946d",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "All Articles",
+        "templateKey": "all-articles",
+        "date": "2019-06-13T18:25:05.431Z",
+        "header": "/img/hhf-book.png",
+        "description": "This blog will share the latest trends and ideas in the design world keeping you informed with your design decisions.",
+        "recommendedName": "What Is Cancer?",
+        "recommendedImage": "/img/sleep.jpg",
+        "recommendedLink": "https://www.whatthecancer.com/what-is-cancer",
+        "tags": [
+          "home"
+        ],
+        "_PARENT": "176ecdb8-8f9c-53f2-82af-1e462266530e"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "# Get Reading\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/index.md",
+      "fields": {
+        "slug": "/blog/"
+      }
+    },
+    "4935f1f2-85c2-59a1-acba-03677e785625": {
+      "id": "4935f1f2-85c2-59a1-acba-03677e785625",
+      "children": [],
+      "parent": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff",
+      "internal": {
+        "content": "Hi, I'm Jayden Szekely an experienced multi-disciplined creative, I am an independent freelancer ready to support you with your creative projects. \\\n\\\nPushing the boundaries in creative design and producing aesthetically pleasing digital products is my speciality.\\\n\\\nI aim to take the complexity out of website design and development for my clients.  Through consultation and listening to your story I can develop a solution that is right for you and your business. \\\n\\\nWith knowledge and skill in a range of media, I am honoured to provide a variety of services to simplify the experience for my clients.  This means I am available to provide and support you with an entire package, without outsourcing various areas of the project. \\\n\\\nAs a creative, with energy and passion for design I look forward to working with you on your upcoming projects.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "e4d647f4894fac439c9125c611231d41",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Jayden Szekely",
+        "templateKey": "home",
+        "image": "/img/gradient-web.jpg",
+        "imageOne": "/img/katesmith.jpg",
+        "imageTwo": "/img/stranger-home-web-res.jpg",
+        "imageThree": "/img/medusa-full-page-smaller-res.jpg",
+        "imageFour": "/img/zeal-hospitality-logo-square.png",
+        "imageFive": "/img/vous-mockup-checkin-web.jpg",
+        "imageSix": "/img/hhf-book.png",
+        "imageSeven": "/img/bodyaware-laptop-mockup.jpg",
+        "imageEight": "/img/tesla-model-s-navigation-web.jpg",
+        "imageNine": "/img/wtc-light-story-quote.jpg",
+        "imageTen": "img/home.jpg",
+        "imageEleven": "img/anthony-intraversato-455600-unsplash.jpg",
+        "imageTwelve": "img/home.jpg",
+        "imageThirteen": "img/anthony-intraversato-455600-unsplash.jpg",
+        "imageFourteen": "img/home.jpg",
+        "imageFifteen": "img/anthony-intraversato-455600-unsplash.jpg",
+        "announcementBlurb": "View my Portfolio",
+        "announcementLink": "/portfolio",
+        "announcementImage": "img/anthony-intraversato-455600-unsplash.jpg",
+        "_PARENT": "b093cb1a-2f0a-5a11-abb3-7b8fc2640fff"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Hi, I'm Jayden Szekely an experienced multi-disciplined creative, I am an independent freelancer ready to support you with your creative projects. \\\n\\\nPushing the boundaries in creative design and producing aesthetically pleasing digital products is my speciality.\\\n\\\nI aim to take the complexity out of website design and development for my clients.  Through consultation and listening to your story I can develop a solution that is right for you and your business. \\\n\\\nWith knowledge and skill in a range of media, I am honoured to provide a variety of services to simplify the experience for my clients.  This means I am available to provide and support you with an entire package, without outsourcing various areas of the project. \\\n\\\nAs a creative, with energy and passion for design I look forward to working with you on your upcoming projects.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/index.md",
+      "fields": {
+        "slug": "/"
+      }
+    },
+    "576c1608-0625-5c33-b071-c0b97ccc8337": {
+      "id": "576c1608-0625-5c33-b071-c0b97ccc8337",
+      "children": [],
+      "parent": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
+      "internal": {
+        "content": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "9b54e05febe5981f75b3c28beb175e11",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Jargon Dictionary",
+        "templateKey": "about-page",
+        "full_image": "/img/resource-splash.jpg",
+        "leftBackground": "/img/resource-splash.jpg",
+        "leftTitle": "View All Our Resources",
+        "leftLink": "https://www.whatthecancer.com/resources",
+        "rightTitle": "Read our Blog",
+        "rightDescription": "Read, Listen or Watch articles on topics relating to fighting and prevention of cancer",
+        "rightUrl": "/blog",
+        "_PARENT": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
+      "fields": {
+        "slug": "/jargon/"
+      }
+    },
     "df0b2ad0-0419-5d6e-9631-999c911f3931": {
       "id": "df0b2ad0-0419-5d6e-9631-999c911f3931",
       "children": [],
@@ -2851,36 +2883,39 @@
         "slug": "/jayden/"
       }
     },
-    "576c1608-0625-5c33-b071-c0b97ccc8337": {
-      "id": "576c1608-0625-5c33-b071-c0b97ccc8337",
+    "effd6241-b3d4-5665-81be-52ae3477106f": {
+      "id": "effd6241-b3d4-5665-81be-52ae3477106f",
       "children": [],
-      "parent": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b",
+      "parent": "bed7b729-3986-53e8-a668-06af6fdc22fd",
       "internal": {
-        "content": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam nulla, dignissim non lacus a, volutpat efficitur lorem. Fusce non ligula cursus, luctus urna non, convallis libero. Maecenas odio orci, iaculis sit amet fringilla a, condimentum eu nisl. Duis lacinia arcu ac ipsum pretium eleifend. Vivamus magna magna, condimentum vulputate suscipit eu, consectetur quis quam. Integer ex dui, mattis sed feugiat vel, consectetur in metus. Vestibulum pharetra justo tellus, eu sagittis eros imperdiet vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor ac felis sit amet consectetur. Maecenas id aliquet lorem, at blandit nulla. Sed sollicitudin, dui vitae posuere maximus, magna augue porta orci, et fringilla sem felis vitae erat. Duis pharetra leo id euismod faucibus. Integer non pulvinar metus, in gravida mi. Donec in tellus egestas, pharetra odio eget, rhoncus nulla.\n\nQuisque semper augue nec faucibus vestibulum. Mauris in felis ultricies, aliquet sapien in, feugiat libero. Etiam maximus eros risus, eu placerat nibh congue tristique. Vestibulum tincidunt bibendum elit, eget vestibulum enim aliquet at. Maecenas maximus velit nisl. Suspendisse rhoncus, orci in sagittis iaculis, est quam porta urna, et condimentum magna purus sit amet arcu. Quisque eu rutrum nibh, nec tincidunt orci. Sed quis augue dolor. Cras lobortis, ex eu porttitor scelerisque, lorem elit bibendum metus, et porttitor ex nunc sollicitudin arcu.\n\nPhasellus sit amet finibus leo. Nunc lobortis, augue eget blandit faucibus, velit ante interdum justo, vestibulum rhoncus risus dui at velit. Nullam convallis consectetur nunc, sed feugiat arcu consectetur eu. Sed ac fringilla tellus. Duis auctor, lectus sit amet vestibulum finibus, est magna semper nisi, porta aliquet leo mi vel libero. In aliquam tincidunt cursus. Nullam laoreet dapibus quam, ut dignissim neque vehicula ut. Suspendisse at ante sit amet libero dictum placerat et vel est. Morbi fermentum nisl venenatis posuere sagittis. Aliquam eget mi quis velit maximus pellentesque sit amet a ex.\n\nOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent tristique felis nec congue lacinia. Aliquam ullamcorper, lorem nec bibendum suscipit, ligula sapien pellentesque metus, et vehicula nulla ante elementum erat. Curabitur in elit vitae eros consequat suscipit in et lectus. Mauris mauris quam, cursus id malesuada in, ultricies ac lacus. Fusce et tortor vitae nunc pellentesque tincidunt. Maecenas commodo a tellus vel faucibus. Nunc id vehicula urna. Nunc venenatis dui lacus, aliquet imperdiet enim ultricies eu. Ut at aliquam lectus. Maecenas placerat finibus facilisis. Curabitur tempus dapibus ex, sed tincidunt lacus dignissim ut. Vestibulum at aliquet libero.\n\nFusce at ligula ultricies, ultrices est in, accumsan magna. Aliquam consectetur eget libero quis efficitur. Maecenas posuere facilisis nisl, vitae fringilla diam iaculis eu. Nullam tempor in lectus in convallis. Pellentesque est sem, imperdiet vitae rutrum ac, convallis in urna. Vestibulum lacinia ante et nunc mollis, sit amet bibendum quam tincidunt. Praesent convallis leo et dui lacinia, vel sollicitudin est condimentum. Nullam euismod felis vitae interdum feugiat. Sed venenatis tristique magna, in porta eros sodales quis. Ut ut laoreet nunc. Proin sed velit turpis. Donec lobortis interdum mollis. Sed semper viverra magna sagittis tempor. Fusce vehicula, tellus nec vulputate sodales, sapien lectus consectetur nisi, vitae dictum magna libero id dui. Sed ut est vitae purus mollis condimentum. Aliquam tristique ante quis aliquam sodales.\n\nDuis nec scelerisque quam. Nullam ac pharetra nisi, eu elementum justo. Fusce facilisis turpis sit amet tortor semper suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla mattis dictum erat id dapibus. Vivamus vitae laoreet felis. Pellentesque sollicitudin libero sem, ac tincidunt libero dignissim eget. Donec dapibus efficitur ligula, vitae porta enim commodo a. Curabitur nisl nibh, tempor eget luctus sit amet, iaculis vel diam. Proin rutrum molestie efficitur. Vivamus at volutpat quam. Phasellus eu lectus a nibh congue auctor. Aenean erat turpis, sodales non posuere nec, feugiat non ligula. Vivamus semper scelerisque mattis. Nulla placerat massa tortor, sit amet luctus nunc rhoncus vulputate.\n\n\n![](/img/youtube-cover-ep-1.jpg)\n\nProin orci tellus, porta in dapibus vel, pretium et nunc. Cras semper et eros vestibulum cursus. Nam interdum dapibus enim, ac scelerisque nisi pharetra nec. Fusce vestibulum aliquet iaculis. Donec non consectetur nulla. Fusce congue, sem quis posuere luctus, quam lectus efficitur eros, vitae viverra sapien orci quis neque. Donec vitae velit eget risus feugiat blandit a quis elit. Curabitur convallis eros nec elit tincidunt tempor. Nulla justo tortor, congue ut elementum vel, scelerisque ut nisi. Pellentesque nec neque magna. In ultrices tortor sit amet velit mollis, quis cursus sapien rhoncus. Fusce ut tellus sed felis gravida tempus. Pellentesque vitae elit vel sapien posuere blandit maximus vitae magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur risus massa, dignissim convallis finibus nec, luctus in libero. Sed finibus, arcu ut ultrices aliquet, felis arcu sodales odio, ac consequat ipsum ex non massa.\n\nVivamus sollicitudin libero at augue vestibulum, id elementum urna molestie. Praesent nisl ante, tristique et varius rutrum, faucibus id lacus. Quisque cursus sapien mauris, at cursus metus tempor vel. Maecenas tempus nisi et est molestie cursus. Maecenas luctus augue sem, elementum viverra magna aliquam in. Phasellus lacinia ligula ac quam volutpat, ac mollis mauris sodales. Vivamus tempor varius felis at feugiat. Nulla vel ipsum semper, egestas mi at, lobortis sem. Integer orci enim, tempor non blandit nec, aliquet hendrerit nibh. Cras nisl neque, sollicitudin in rutrum vel, bibendum et felis. Duis sed accumsan ante. Nunc nec dignissim dolor.\n\nPhasellus elementum erat in rhoncus lobortis. Curabitur feugiat, est non accumsan laoreet, turpis ligula ultricies sapien, in convallis purus massa sed dui. Praesent semper, purus eget condimentum cursus, est dui fermentum leo, eget pellentesque lorem dolor interdum augue. Ut imperdiet, augue eu aliquet tincidunt, elit sem tempor neque, nec mollis leo ligula ultricies dui. Vestibulum facilisis ac velit quis blandit. Pellentesque fringilla, mi eu finibus suscipit, augue leo interdum ipsum, eget tincidunt massa urna elementum mauris. Praesent mauris diam, egestas sit amet lobortis nec, commodo ut sapien. Curabitur tincidunt non eros a egestas. Proin sit amet tellus id orci blandit mollis. Nam ut lacinia lectus, vitae dignissim ipsum. Ut nec risus finibus, efficitur orci et, sodales justo. Curabitur odio dolor, feugiat sed hendrerit at, lacinia vel leo. Vivamus vel tortor augue.\n\nFusce maximus lobortis sapien vel dignissim. Cras non ipsum volutpat, consequat nunc sit amet, hendrerit lacus. Quisque tempus tortor ut ex pulvinar semper. Maecenas eget sagittis orci, nec rhoncus risus. Nulla posuere efficitur lobortis. Maecenas egestas nunc diam, nec pulvinar libero pharetra eu. Vestibulum a nisi semper augue rutrum consectetur et vitae leo. In eu neque ultricies, tempor augue vitae, mattis odio. Nam varius imperdiet lorem, nec maximus massa consectetur sollicitudin. Maecenas sem leo, pharetra lobortis mi vitae, rhoncus imperdiet dolor.\n",
         "type": "MarkdownRemark",
-        "contentDigest": "9b54e05febe5981f75b3c28beb175e11",
+        "contentDigest": "87eecccf600c34d8c00c711cc74980ab",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
         }
       },
       "frontmatter": {
-        "title": "Jargon Dictionary",
-        "templateKey": "about-page",
-        "full_image": "/img/resource-splash.jpg",
-        "leftBackground": "/img/resource-splash.jpg",
-        "leftTitle": "View All Our Resources",
-        "leftLink": "https://www.whatthecancer.com/resources",
-        "rightTitle": "Read our Blog",
-        "rightDescription": "Read, Listen or Watch articles on topics relating to fighting and prevention of cancer",
-        "rightUrl": "/blog",
-        "_PARENT": "a84b42b0-e4ea-5e2c-ac57-d0f419ba051b"
+        "title": "Mobile First",
+        "templateKey": "blog-post",
+        "date": "2019-06-13T18:25:05.431Z",
+        "discoverable": "no",
+        "header": "/img/hhf-book.png",
+        "description": "This blog will share the latest trends and ideas in the design world keeping you informed with your design decisions.",
+        "recommendedName": "What Is Cancer?",
+        "recommendedImage": "/img/sleep.jpg",
+        "recommendedLink": "https://www.jaydenszekely.com/jayden",
+        "tags": [
+          "home"
+        ],
+        "_PARENT": "bed7b729-3986-53e8-a668-06af6fdc22fd"
       },
       "excerpt": "",
-      "rawMarkdownBody": "## A\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## B\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## C\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## D\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## E\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## F\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## G\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## H\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff \n\n\n\n## I\n\n  Amazing stuff \\\n  Amazing stuff \\\n  Amazing stuff\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/jargon/index.md",
+      "rawMarkdownBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam nulla, dignissim non lacus a, volutpat efficitur lorem. Fusce non ligula cursus, luctus urna non, convallis libero. Maecenas odio orci, iaculis sit amet fringilla a, condimentum eu nisl. Duis lacinia arcu ac ipsum pretium eleifend. Vivamus magna magna, condimentum vulputate suscipit eu, consectetur quis quam. Integer ex dui, mattis sed feugiat vel, consectetur in metus. Vestibulum pharetra justo tellus, eu sagittis eros imperdiet vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor ac felis sit amet consectetur. Maecenas id aliquet lorem, at blandit nulla. Sed sollicitudin, dui vitae posuere maximus, magna augue porta orci, et fringilla sem felis vitae erat. Duis pharetra leo id euismod faucibus. Integer non pulvinar metus, in gravida mi. Donec in tellus egestas, pharetra odio eget, rhoncus nulla.\n\nQuisque semper augue nec faucibus vestibulum. Mauris in felis ultricies, aliquet sapien in, feugiat libero. Etiam maximus eros risus, eu placerat nibh congue tristique. Vestibulum tincidunt bibendum elit, eget vestibulum enim aliquet at. Maecenas maximus velit nisl. Suspendisse rhoncus, orci in sagittis iaculis, est quam porta urna, et condimentum magna purus sit amet arcu. Quisque eu rutrum nibh, nec tincidunt orci. Sed quis augue dolor. Cras lobortis, ex eu porttitor scelerisque, lorem elit bibendum metus, et porttitor ex nunc sollicitudin arcu.\n\nPhasellus sit amet finibus leo. Nunc lobortis, augue eget blandit faucibus, velit ante interdum justo, vestibulum rhoncus risus dui at velit. Nullam convallis consectetur nunc, sed feugiat arcu consectetur eu. Sed ac fringilla tellus. Duis auctor, lectus sit amet vestibulum finibus, est magna semper nisi, porta aliquet leo mi vel libero. In aliquam tincidunt cursus. Nullam laoreet dapibus quam, ut dignissim neque vehicula ut. Suspendisse at ante sit amet libero dictum placerat et vel est. Morbi fermentum nisl venenatis posuere sagittis. Aliquam eget mi quis velit maximus pellentesque sit amet a ex.\n\nOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent tristique felis nec congue lacinia. Aliquam ullamcorper, lorem nec bibendum suscipit, ligula sapien pellentesque metus, et vehicula nulla ante elementum erat. Curabitur in elit vitae eros consequat suscipit in et lectus. Mauris mauris quam, cursus id malesuada in, ultricies ac lacus. Fusce et tortor vitae nunc pellentesque tincidunt. Maecenas commodo a tellus vel faucibus. Nunc id vehicula urna. Nunc venenatis dui lacus, aliquet imperdiet enim ultricies eu. Ut at aliquam lectus. Maecenas placerat finibus facilisis. Curabitur tempus dapibus ex, sed tincidunt lacus dignissim ut. Vestibulum at aliquet libero.\n\nFusce at ligula ultricies, ultrices est in, accumsan magna. Aliquam consectetur eget libero quis efficitur. Maecenas posuere facilisis nisl, vitae fringilla diam iaculis eu. Nullam tempor in lectus in convallis. Pellentesque est sem, imperdiet vitae rutrum ac, convallis in urna. Vestibulum lacinia ante et nunc mollis, sit amet bibendum quam tincidunt. Praesent convallis leo et dui lacinia, vel sollicitudin est condimentum. Nullam euismod felis vitae interdum feugiat. Sed venenatis tristique magna, in porta eros sodales quis. Ut ut laoreet nunc. Proin sed velit turpis. Donec lobortis interdum mollis. Sed semper viverra magna sagittis tempor. Fusce vehicula, tellus nec vulputate sodales, sapien lectus consectetur nisi, vitae dictum magna libero id dui. Sed ut est vitae purus mollis condimentum. Aliquam tristique ante quis aliquam sodales.\n\nDuis nec scelerisque quam. Nullam ac pharetra nisi, eu elementum justo. Fusce facilisis turpis sit amet tortor semper suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla mattis dictum erat id dapibus. Vivamus vitae laoreet felis. Pellentesque sollicitudin libero sem, ac tincidunt libero dignissim eget. Donec dapibus efficitur ligula, vitae porta enim commodo a. Curabitur nisl nibh, tempor eget luctus sit amet, iaculis vel diam. Proin rutrum molestie efficitur. Vivamus at volutpat quam. Phasellus eu lectus a nibh congue auctor. Aenean erat turpis, sodales non posuere nec, feugiat non ligula. Vivamus semper scelerisque mattis. Nulla placerat massa tortor, sit amet luctus nunc rhoncus vulputate.\n\n\n![](/img/youtube-cover-ep-1.jpg)\n\nProin orci tellus, porta in dapibus vel, pretium et nunc. Cras semper et eros vestibulum cursus. Nam interdum dapibus enim, ac scelerisque nisi pharetra nec. Fusce vestibulum aliquet iaculis. Donec non consectetur nulla. Fusce congue, sem quis posuere luctus, quam lectus efficitur eros, vitae viverra sapien orci quis neque. Donec vitae velit eget risus feugiat blandit a quis elit. Curabitur convallis eros nec elit tincidunt tempor. Nulla justo tortor, congue ut elementum vel, scelerisque ut nisi. Pellentesque nec neque magna. In ultrices tortor sit amet velit mollis, quis cursus sapien rhoncus. Fusce ut tellus sed felis gravida tempus. Pellentesque vitae elit vel sapien posuere blandit maximus vitae magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur risus massa, dignissim convallis finibus nec, luctus in libero. Sed finibus, arcu ut ultrices aliquet, felis arcu sodales odio, ac consequat ipsum ex non massa.\n\nVivamus sollicitudin libero at augue vestibulum, id elementum urna molestie. Praesent nisl ante, tristique et varius rutrum, faucibus id lacus. Quisque cursus sapien mauris, at cursus metus tempor vel. Maecenas tempus nisi et est molestie cursus. Maecenas luctus augue sem, elementum viverra magna aliquam in. Phasellus lacinia ligula ac quam volutpat, ac mollis mauris sodales. Vivamus tempor varius felis at feugiat. Nulla vel ipsum semper, egestas mi at, lobortis sem. Integer orci enim, tempor non blandit nec, aliquet hendrerit nibh. Cras nisl neque, sollicitudin in rutrum vel, bibendum et felis. Duis sed accumsan ante. Nunc nec dignissim dolor.\n\nPhasellus elementum erat in rhoncus lobortis. Curabitur feugiat, est non accumsan laoreet, turpis ligula ultricies sapien, in convallis purus massa sed dui. Praesent semper, purus eget condimentum cursus, est dui fermentum leo, eget pellentesque lorem dolor interdum augue. Ut imperdiet, augue eu aliquet tincidunt, elit sem tempor neque, nec mollis leo ligula ultricies dui. Vestibulum facilisis ac velit quis blandit. Pellentesque fringilla, mi eu finibus suscipit, augue leo interdum ipsum, eget tincidunt massa urna elementum mauris. Praesent mauris diam, egestas sit amet lobortis nec, commodo ut sapien. Curabitur tincidunt non eros a egestas. Proin sit amet tellus id orci blandit mollis. Nam ut lacinia lectus, vitae dignissim ipsum. Ut nec risus finibus, efficitur orci et, sodales justo. Curabitur odio dolor, feugiat sed hendrerit at, lacinia vel leo. Vivamus vel tortor augue.\n\nFusce maximus lobortis sapien vel dignissim. Cras non ipsum volutpat, consequat nunc sit amet, hendrerit lacus. Quisque tempus tortor ut ex pulvinar semper. Maecenas eget sagittis orci, nec rhoncus risus. Nulla posuere efficitur lobortis. Maecenas egestas nunc diam, nec pulvinar libero pharetra eu. Vestibulum a nisi semper augue rutrum consectetur et vitae leo. In eu neque ultricies, tempor augue vitae, mattis odio. Nam varius imperdiet lorem, nec maximus massa consectetur sollicitudin. Maecenas sem leo, pharetra lobortis mi vitae, rhoncus imperdiet dolor.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
       "fields": {
-        "slug": "/jargon/"
+        "slug": "/blog/mobile-first/"
       }
     },
     "23ba3013-fde7-5793-9118-028f022eeaae": {
@@ -3043,41 +3078,6 @@
         "slug": "/portfolio/what-the-cancer/"
       }
     },
-    "f63e7d4d-db64-50b7-b1c5-3d7fca33130d": {
-      "id": "f63e7d4d-db64-50b7-b1c5-3d7fca33130d",
-      "children": [],
-      "parent": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4",
-      "internal": {
-        "content": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "43b416f5ec476b899797f54d82c1fec4",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "My CV",
-        "templateKey": "cv",
-        "discoverable": "no",
-        "date": "2018-12-18T06:43:47.603Z",
-        "image": "/img/resource-splash.jpg",
-        "description": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read ",
-        "jobDate": "DEC – 2018",
-        "cvName": "My CV",
-        "cvQuote": "This is great",
-        "cvDescription": "My name is Jayden Szekely, I am an audacious, multi-disciplined creative with experience in graphic design, web / UI design, as well as video editing & design. I see design as more than text, images and colour, I see design as the best opportunity to tell a story to the world. I look forward to having the opportunity to talking with you, to see how I can be a part of writing the next chapter in your story.",
-        "cvImage": "/img/portfolioPic.jpg",
-        "cvLink": "/",
-        "_PARENT": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/cv.md",
-      "fields": {
-        "slug": "/work-with-me/cv/"
-      }
-    },
     "344f5167-e029-5481-a3eb-30f1d2f0cf53": {
       "id": "344f5167-e029-5481-a3eb-30f1d2f0cf53",
       "children": [],
@@ -3113,12 +3113,47 @@
         "slug": "/work-with-me/"
       }
     },
+    "f63e7d4d-db64-50b7-b1c5-3d7fca33130d": {
+      "id": "f63e7d4d-db64-50b7-b1c5-3d7fca33130d",
+      "children": [],
+      "parent": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4",
+      "internal": {
+        "content": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "43b416f5ec476b899797f54d82c1fec4",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "My CV",
+        "templateKey": "cv",
+        "discoverable": "no",
+        "date": "2018-12-18T06:43:47.603Z",
+        "image": "/img/resource-splash.jpg",
+        "description": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read ",
+        "jobDate": "DEC – 2018",
+        "cvName": "My CV",
+        "cvQuote": "This is great",
+        "cvDescription": "My name is Jayden Szekely, I am an audacious, multi-disciplined creative with experience in graphic design, web / UI design, as well as video editing & design. I see design as more than text, images and colour, I see design as the best opportunity to tell a story to the world. I look forward to having the opportunity to talking with you, to see how I can be a part of writing the next chapter in your story.",
+        "cvImage": "/img/portfolioPic.jpg",
+        "cvLink": "/",
+        "_PARENT": "2d8e2c8b-c114-53b8-81e2-8ff6b2a6d8c4"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "This great book shows you how to Relax, Eat, Move and Sleep your way to a longer, healthier life.easy to read.\n\n![](/img/photo-1519895387466-5fc5e7bf8b3c.jpg)\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.\n",
+      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/work-with-me/cv.md",
+      "fields": {
+        "slug": "/work-with-me/cv/"
+      }
+    },
     "b7423d2f-7d84-5f93-b118-9937c25add30": {
       "id": "b7423d2f-7d84-5f93-b118-9937c25add30",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "337df7862afd94d1c9d6ed23bc3279d0",
+        "contentDigest": "e738e194d16e773d758f2018fa080154",
         "type": "Directory",
         "description": "Directory \"src/img\"",
         "owner": "gatsby-source-filesystem"
@@ -3130,7 +3165,7 @@
       "size": 576,
       "prettySize": "576 B",
       "modifiedTime": "2019-07-31T23:16:40.397Z",
-      "accessTime": "2019-07-31T23:56:03.880Z",
+      "accessTime": "2019-08-11T06:42:56.338Z",
       "changeTime": "2019-07-31T23:16:40.397Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3148,11 +3183,11 @@
       "blksize": 4194304,
       "ino": 21954356,
       "blocks": 0,
-      "atimeMs": 1564617363880.0664,
+      "atimeMs": 1565505776337.5051,
       "mtimeMs": 1564615000397.4363,
       "ctimeMs": 1564615000397.4363,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:03.880Z",
+      "atime": "2019-08-11T06:42:56.338Z",
       "mtime": "2019-07-31T23:16:40.397Z",
       "ctime": "2019-07-31T23:16:40.397Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3177,7 +3212,7 @@
       "size": 17612,
       "prettySize": "17.6 kB",
       "modifiedTime": "2019-06-02T02:34:08.124Z",
-      "accessTime": "2019-07-31T23:54:58.057Z",
+      "accessTime": "2019-07-31T20:02:08.017Z",
       "changeTime": "2019-06-02T02:34:08.790Z",
       "birthTime": "2019-06-02T02:34:08.124Z",
       "root": "/",
@@ -3195,11 +3230,11 @@
       "blksize": 4194304,
       "ino": 22122979,
       "blocks": 40,
-      "atimeMs": 1564617298057.2422,
+      "atimeMs": 1564603328016.8257,
       "mtimeMs": 1559442848123.7708,
       "ctimeMs": 1559442848789.7805,
       "birthtimeMs": 1559442848123.6472,
-      "atime": "2019-07-31T23:54:58.057Z",
+      "atime": "2019-07-31T20:02:08.017Z",
       "mtime": "2019-06-02T02:34:08.124Z",
       "ctime": "2019-06-02T02:34:08.790Z",
       "birthtime": "2019-06-02T02:34:08.124Z"
@@ -3224,7 +3259,7 @@
       "size": 19592,
       "prettySize": "19.6 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-07-31T23:54:58.057Z",
+      "accessTime": "2019-07-31T20:00:13.066Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3242,11 +3277,11 @@
       "blksize": 4194304,
       "ino": 21954357,
       "blocks": 40,
-      "atimeMs": 1564617298057.214,
+      "atimeMs": 1564603213066.1726,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.8884,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:54:58.057Z",
+      "atime": "2019-07-31T20:00:13.066Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3269,7 +3304,7 @@
       "size": 494,
       "prettySize": "494 B",
       "modifiedTime": "2019-06-02T02:34:08.137Z",
-      "accessTime": "2019-07-31T23:54:58.057Z",
+      "accessTime": "2019-07-31T20:02:08.019Z",
       "changeTime": "2019-06-02T02:34:08.771Z",
       "birthTime": "2019-06-02T02:34:08.137Z",
       "root": "/",
@@ -3287,11 +3322,11 @@
       "blksize": 4194304,
       "ino": 22122980,
       "blocks": 8,
-      "atimeMs": 1564617298057.2703,
+      "atimeMs": 1564603328019.4753,
       "mtimeMs": 1559442848137.235,
       "ctimeMs": 1559442848771.2979,
       "birthtimeMs": 1559442848137.11,
-      "atime": "2019-07-31T23:54:58.057Z",
+      "atime": "2019-07-31T20:02:08.019Z",
       "mtime": "2019-06-02T02:34:08.137Z",
       "ctime": "2019-06-02T02:34:08.771Z",
       "birthtime": "2019-06-02T02:34:08.137Z"
@@ -3314,7 +3349,7 @@
       "size": 2694,
       "prettySize": "2.69 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-07-31T23:56:02.427Z",
+      "accessTime": "2019-07-31T20:00:13.072Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3332,11 +3367,11 @@
       "blksize": 4194304,
       "ino": 21954358,
       "blocks": 8,
-      "atimeMs": 1564617362427.169,
+      "atimeMs": 1564603213071.9263,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.7832,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:56:02.427Z",
+      "atime": "2019-07-31T20:00:13.072Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3359,7 +3394,7 @@
       "size": 2929,
       "prettySize": "2.93 kB",
       "modifiedTime": "2019-06-18T03:31:49.984Z",
-      "accessTime": "2019-07-31T23:54:58.057Z",
+      "accessTime": "2019-07-31T20:02:34.780Z",
       "changeTime": "2019-06-18T08:38:03.406Z",
       "birthTime": "2019-06-09T05:37:43.311Z",
       "root": "/",
@@ -3377,11 +3412,11 @@
       "blksize": 4194304,
       "ino": 22602967,
       "blocks": 8,
-      "atimeMs": 1564617298057.3813,
+      "atimeMs": 1564603354779.8762,
       "mtimeMs": 1560828709984.1006,
       "ctimeMs": 1560847083405.8247,
       "birthtimeMs": 1560058663311.3105,
-      "atime": "2019-07-31T23:54:58.057Z",
+      "atime": "2019-07-31T20:02:34.780Z",
       "mtime": "2019-06-18T03:31:49.984Z",
       "ctime": "2019-06-18T08:38:03.406Z",
       "birthtime": "2019-06-09T05:37:43.311Z"
@@ -3404,7 +3439,7 @@
       "size": 2929,
       "prettySize": "2.93 kB",
       "modifiedTime": "2019-07-31T22:49:16.615Z",
-      "accessTime": "2019-07-31T23:56:02.428Z",
+      "accessTime": "2019-07-31T23:59:33.257Z",
       "changeTime": "2019-07-31T22:49:16.615Z",
       "birthTime": "2019-06-09T05:37:43.311Z",
       "root": "/",
@@ -3422,14 +3457,34 @@
       "blksize": 4194304,
       "ino": 22291106,
       "blocks": 8,
-      "atimeMs": 1564617362427.5024,
+      "atimeMs": 1564617573257.3203,
       "mtimeMs": 1564613356614.8132,
       "ctimeMs": 1564613356614.8132,
       "birthtimeMs": 1560058663311.3105,
-      "atime": "2019-07-31T23:56:02.428Z",
+      "atime": "2019-07-31T23:59:33.257Z",
       "mtime": "2019-07-31T22:49:16.615Z",
       "ctime": "2019-07-31T22:49:16.615Z",
       "birthtime": "2019-06-09T05:37:43.311Z"
+    },
+    "a0b4565c-5a0b-5093-a9d0-e61d123e90d5": {
+      "id": "a0b4565c-5a0b-5093-a9d0-e61d123e90d5",
+      "children": [],
+      "parent": "d671afb4-d329-5d09-a770-cf5ae30ace37",
+      "internal": {
+        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "f371c1b4-45cb-537f-b403-85ad15e15f8a": {
+      "id": "f371c1b4-45cb-537f-b403-85ad15e15f8a",
+      "children": [],
+      "parent": "3dfeb698-8689-535b-a8d0-daba3d216ad9",
+      "internal": {
+        "contentDigest": "f1553e261c09d6300d461dcdb8d07290",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "ac0ec5d6-bf14-52f1-a5b3-a119620a81e9": {
       "id": "ac0ec5d6-bf14-52f1-a5b3-a119620a81e9",
@@ -3451,7 +3506,7 @@
       "size": 17612,
       "prettySize": "17.6 kB",
       "modifiedTime": "2019-06-02T02:34:25.106Z",
-      "accessTime": "2019-07-31T23:54:58.057Z",
+      "accessTime": "2019-07-31T20:02:08.021Z",
       "changeTime": "2019-06-02T02:34:25.106Z",
       "birthTime": "2019-06-02T02:32:36.466Z",
       "root": "/",
@@ -3469,11 +3524,11 @@
       "blksize": 4194304,
       "ino": 22122903,
       "blocks": 40,
-      "atimeMs": 1564617298057.4663,
+      "atimeMs": 1564603328021.416,
       "mtimeMs": 1559442865106.3806,
       "ctimeMs": 1559442865106.3806,
       "birthtimeMs": 1559442756465.6877,
-      "atime": "2019-07-31T23:54:58.057Z",
+      "atime": "2019-07-31T20:02:08.021Z",
       "mtime": "2019-06-02T02:34:25.106Z",
       "ctime": "2019-06-02T02:34:25.106Z",
       "birthtime": "2019-06-02T02:32:36.466Z"
@@ -3496,7 +3551,7 @@
       "size": 23908,
       "prettySize": "23.9 kB",
       "modifiedTime": "2019-06-02T02:35:09.435Z",
-      "accessTime": "2019-07-31T23:54:58.057Z",
+      "accessTime": "2019-07-31T20:02:08.022Z",
       "changeTime": "2019-06-02T02:35:09.435Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3514,44 +3569,14 @@
       "blksize": 4194304,
       "ino": 21954361,
       "blocks": 48,
-      "atimeMs": 1564617298057.4946,
+      "atimeMs": 1564603328021.823,
       "mtimeMs": 1559442909434.891,
       "ctimeMs": 1559442909434.891,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:54:58.057Z",
+      "atime": "2019-07-31T20:02:08.022Z",
       "mtime": "2019-06-02T02:35:09.435Z",
       "ctime": "2019-06-02T02:35:09.435Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "a0b4565c-5a0b-5093-a9d0-e61d123e90d5": {
-      "id": "a0b4565c-5a0b-5093-a9d0-e61d123e90d5",
-      "children": [],
-      "parent": "d671afb4-d329-5d09-a770-cf5ae30ace37",
-      "internal": {
-        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "f371c1b4-45cb-537f-b403-85ad15e15f8a": {
-      "id": "f371c1b4-45cb-537f-b403-85ad15e15f8a",
-      "children": [],
-      "parent": "3dfeb698-8689-535b-a8d0-daba3d216ad9",
-      "internal": {
-        "contentDigest": "f1553e261c09d6300d461dcdb8d07290",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9": {
-      "id": "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9",
-      "children": [],
-      "parent": "ac0ec5d6-bf14-52f1-a5b3-a119620a81e9",
-      "internal": {
-        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "53cfd370-b48a-5265-966c-c7ab14cd4040": {
       "id": "53cfd370-b48a-5265-966c-c7ab14cd4040",
@@ -3571,7 +3596,7 @@
       "size": 76573,
       "prettySize": "76.6 kB",
       "modifiedTime": "2019-06-19T05:28:29.855Z",
-      "accessTime": "2019-07-31T23:54:58.057Z",
+      "accessTime": "2019-07-31T23:59:32.162Z",
       "changeTime": "2019-07-13T21:13:43.772Z",
       "birthTime": "2019-06-19T05:28:29.854Z",
       "root": "/",
@@ -3589,14 +3614,24 @@
       "blksize": 4194304,
       "ino": 22620870,
       "blocks": 152,
-      "atimeMs": 1564617298057.1853,
+      "atimeMs": 1564617572162.2544,
       "mtimeMs": 1560922109854.6147,
       "ctimeMs": 1563052423771.6936,
       "birthtimeMs": 1560922109854.0334,
-      "atime": "2019-07-31T23:54:58.057Z",
+      "atime": "2019-07-31T23:59:32.162Z",
       "mtime": "2019-06-19T05:28:29.855Z",
       "ctime": "2019-07-13T21:13:43.772Z",
       "birthtime": "2019-06-19T05:28:29.854Z"
+    },
+    "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9": {
+      "id": "6eca9ef3-07e3-56a1-b38c-9dc2644cacf9",
+      "children": [],
+      "parent": "ac0ec5d6-bf14-52f1-a5b3-a119620a81e9",
+      "internal": {
+        "contentDigest": "afd33d9571380f267d69f944e09ccd2e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "d08ffc82-69b8-5d9b-9ce7-79405d121b15": {
       "id": "d08ffc82-69b8-5d9b-9ce7-79405d121b15",
@@ -3618,7 +3653,7 @@
       "size": 122717,
       "prettySize": "123 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-07-31T23:54:58.057Z",
+      "accessTime": "2019-07-31T20:00:13.074Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3636,11 +3671,11 @@
       "blksize": 4194304,
       "ino": 21954360,
       "blocks": 240,
-      "atimeMs": 1564617298057.4368,
+      "atimeMs": 1564603213073.575,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.9353,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:54:58.057Z",
+      "atime": "2019-07-31T20:00:13.074Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3675,7 +3710,7 @@
       "size": 266109,
       "prettySize": "266 kB",
       "modifiedTime": "2019-01-20T07:10:56.000Z",
-      "accessTime": "2019-07-31T23:54:58.058Z",
+      "accessTime": "2019-07-31T20:00:13.076Z",
       "changeTime": "2019-06-02T02:01:33.365Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3693,24 +3728,14 @@
       "blksize": 4194304,
       "ino": 21954362,
       "blocks": 520,
-      "atimeMs": 1564617298057.522,
+      "atimeMs": 1564603213075.8567,
       "mtimeMs": 1547968256000,
       "ctimeMs": 1559440893364.823,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:54:58.058Z",
+      "atime": "2019-07-31T20:00:13.076Z",
       "mtime": "2019-01-20T07:10:56.000Z",
       "ctime": "2019-06-02T02:01:33.365Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
-    },
-    "fd7328df-de1a-564b-b7fc-80eecfd3bce1": {
-      "id": "fd7328df-de1a-564b-b7fc-80eecfd3bce1",
-      "children": [],
-      "parent": "8ef95348-b3db-5e5e-8f96-ee07cd434719",
-      "internal": {
-        "contentDigest": "88e0b929daa3372f33219045887e48b0",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "b1e50617-f741-562b-b94d-e4f871584f55": {
       "id": "b1e50617-f741-562b-b94d-e4f871584f55",
@@ -3732,7 +3757,7 @@
       "size": 370831,
       "prettySize": "371 kB",
       "modifiedTime": "2019-07-31T23:16:26.055Z",
-      "accessTime": "2019-07-31T23:54:58.057Z",
+      "accessTime": "2019-07-31T23:59:33.257Z",
       "changeTime": "2019-07-31T23:16:40.398Z",
       "birthTime": "2019-07-01T01:38:23.932Z",
       "root": "/",
@@ -3750,14 +3775,24 @@
       "blksize": 4194304,
       "ino": 23770685,
       "blocks": 728,
-      "atimeMs": 1564617298057.1526,
+      "atimeMs": 1564617573257.1665,
       "mtimeMs": 1564614986054.8716,
       "ctimeMs": 1564615000398.012,
       "birthtimeMs": 1561945103932.1155,
-      "atime": "2019-07-31T23:54:58.057Z",
+      "atime": "2019-07-31T23:59:33.257Z",
       "mtime": "2019-07-31T23:16:26.055Z",
       "ctime": "2019-07-31T23:16:40.398Z",
       "birthtime": "2019-07-01T01:38:23.932Z"
+    },
+    "fd7328df-de1a-564b-b7fc-80eecfd3bce1": {
+      "id": "fd7328df-de1a-564b-b7fc-80eecfd3bce1",
+      "children": [],
+      "parent": "8ef95348-b3db-5e5e-8f96-ee07cd434719",
+      "internal": {
+        "contentDigest": "88e0b929daa3372f33219045887e48b0",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "07d5e9c5-b03c-5b82-83ee-4077287d59a5": {
       "id": "07d5e9c5-b03c-5b82-83ee-4077287d59a5",
@@ -3789,7 +3824,7 @@
       "size": 420820,
       "prettySize": "421 kB",
       "modifiedTime": "2019-06-16T22:11:02.143Z",
-      "accessTime": "2019-07-31T23:54:58.058Z",
+      "accessTime": "2019-07-31T20:02:34.690Z",
       "changeTime": "2019-06-16T22:11:02.150Z",
       "birthTime": "2019-06-16T22:11:01.888Z",
       "root": "/",
@@ -3807,11 +3842,11 @@
       "blksize": 4194304,
       "ino": 22552278,
       "blocks": 824,
-      "atimeMs": 1564617298057.5498,
+      "atimeMs": 1564603354690.107,
       "mtimeMs": 1560723062143.3875,
       "ctimeMs": 1560723062149.5464,
       "birthtimeMs": 1560723061887.9783,
-      "atime": "2019-07-31T23:54:58.058Z",
+      "atime": "2019-07-31T20:02:34.690Z",
       "mtime": "2019-06-16T22:11:02.143Z",
       "ctime": "2019-06-16T22:11:02.150Z",
       "birthtime": "2019-06-16T22:11:01.888Z"
@@ -3846,7 +3881,7 @@
       "size": 1085216,
       "prettySize": "1.09 MB",
       "modifiedTime": "2019-06-02T02:30:48.369Z",
-      "accessTime": "2019-07-31T23:54:58.057Z",
+      "accessTime": "2019-07-31T20:02:08.017Z",
       "changeTime": "2019-06-02T02:30:48.369Z",
       "birthTime": "2019-01-20T07:10:56.000Z",
       "root": "/",
@@ -3864,11 +3899,11 @@
       "blksize": 4194304,
       "ino": 21954359,
       "blocks": 2120,
-      "atimeMs": 1564617298057.3252,
+      "atimeMs": 1564603328016.7324,
       "mtimeMs": 1559442648369.1064,
       "ctimeMs": 1559442648369.1064,
       "birthtimeMs": 1547968256000,
-      "atime": "2019-07-31T23:54:58.057Z",
+      "atime": "2019-07-31T20:02:08.017Z",
       "mtime": "2019-06-02T02:30:48.369Z",
       "ctime": "2019-06-02T02:30:48.369Z",
       "birthtime": "2019-01-20T07:10:56.000Z"
@@ -3903,7 +3938,7 @@
       "size": 3543638,
       "prettySize": "3.54 MB",
       "modifiedTime": "2019-06-02T02:30:48.455Z",
-      "accessTime": "2019-07-31T23:54:58.057Z",
+      "accessTime": "2019-07-31T20:02:08.017Z",
       "changeTime": "2019-06-02T02:30:48.455Z",
       "birthTime": "2019-06-02T02:30:48.323Z",
       "root": "/",
@@ -3921,11 +3956,11 @@
       "blksize": 4194304,
       "ino": 22122828,
       "blocks": 6928,
-      "atimeMs": 1564617298057.3528,
+      "atimeMs": 1564603328016.7434,
       "mtimeMs": 1559442648455.294,
       "ctimeMs": 1559442648455.294,
       "birthtimeMs": 1559442648323.497,
-      "atime": "2019-07-31T23:54:58.057Z",
+      "atime": "2019-07-31T20:02:08.017Z",
       "mtime": "2019-06-02T02:30:48.455Z",
       "ctime": "2019-06-02T02:30:48.455Z",
       "birthtime": "2019-06-02T02:30:48.323Z"
@@ -3938,72 +3973,6 @@
         "contentDigest": "0e0f8736142ad58ad27f202e9acc94be",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "SitePage /": {
-      "jsonName": "index",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js",
-      "componentChunkName": "component---src-templates-home-js",
-      "context": {
-        "id": "4935f1f2-85c2-59a1-acba-03677e785625"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b4d20da8d3adf753f7458c579b6c686d",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/": {
-      "jsonName": "blog-f7a",
-      "internalComponentName": "ComponentBlog",
-      "path": "/blog/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js",
-      "componentChunkName": "component---src-templates-all-articles-js",
-      "context": {
-        "id": "54141124-6550-5118-92fb-35e9134a6bde"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js",
-      "id": "SitePage /blog/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "55a386399c5e1caf6b6d0c7c6dbb5889",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/mobile-first/": {
-      "jsonName": "blog-mobile-first-301",
-      "internalComponentName": "ComponentBlogMobileFirst",
-      "path": "/blog/mobile-first/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "effd6241-b3d4-5665-81be-52ae3477106f"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
-      "id": "SitePage /blog/mobile-first/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fce378860f4db3abdaff616d187e951b",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
       }
     },
     "SitePage /about/": {
@@ -4050,24 +4019,46 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /jayden/": {
-      "jsonName": "jayden-efd",
-      "internalComponentName": "ComponentJayden",
-      "path": "/jayden/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "componentChunkName": "component---src-templates-about-page-js",
+    "SitePage /blog/": {
+      "jsonName": "blog-f7a",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js",
+      "componentChunkName": "component---src-templates-all-articles-js",
       "context": {
-        "id": "df0b2ad0-0419-5d6e-9631-999c911f3931"
+        "id": "54141124-6550-5118-92fb-35e9134a6bde"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
-      "id": "SitePage /jayden/",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js",
+      "id": "SitePage /blog/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0dd88df9e02c88a31654e9eb501f0548",
+        "contentDigest": "55a386399c5e1caf6b6d0c7c6dbb5889",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js",
+      "componentChunkName": "component---src-templates-home-js",
+      "context": {
+        "id": "4935f1f2-85c2-59a1-acba-03677e785625"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b4d20da8d3adf753f7458c579b6c686d",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -4090,6 +4081,50 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "fa6168c1298d6fcf2b8890ab556a590d",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /jayden/": {
+      "jsonName": "jayden-efd",
+      "internalComponentName": "ComponentJayden",
+      "path": "/jayden/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
+      "context": {
+        "id": "df0b2ad0-0419-5d6e-9631-999c911f3931"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js",
+      "id": "SitePage /jayden/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0dd88df9e02c88a31654e9eb501f0548",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/mobile-first/": {
+      "jsonName": "blog-mobile-first-301",
+      "internalComponentName": "ComponentBlogMobileFirst",
+      "path": "/blog/mobile-first/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "effd6241-b3d4-5665-81be-52ae3477106f"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js",
+      "id": "SitePage /blog/mobile-first/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fce378860f4db3abdaff616d187e951b",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -4182,28 +4217,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /work-with-me/cv/": {
-      "jsonName": "work-with-me-cv-4f8",
-      "internalComponentName": "ComponentWorkWithMeCv",
-      "path": "/work-with-me/cv/",
-      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/cv.js",
-      "componentChunkName": "component---src-templates-cv-js",
-      "context": {
-        "id": "f63e7d4d-db64-50b7-b1c5-3d7fca33130d"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/cv.js",
-      "id": "SitePage /work-with-me/cv/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "41e5fe3f8eba533c5bae4e47d3b5af15",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /work-with-me/": {
       "jsonName": "work-with-me-b37",
       "internalComponentName": "ComponentWorkWithMe",
@@ -4222,6 +4235,28 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "eface1c9b6125a4f0827160a856f20b4",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /work-with-me/cv/": {
+      "jsonName": "work-with-me-cv-4f8",
+      "internalComponentName": "ComponentWorkWithMeCv",
+      "path": "/work-with-me/cv/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/cv.js",
+      "componentChunkName": "component---src-templates-cv-js",
+      "context": {
+        "id": "f63e7d4d-db64-50b7-b1c5-3d7fca33130d"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/cv.js",
+      "id": "SitePage /work-with-me/cv/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "41e5fe3f8eba533c5bae4e47d3b5af15",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -4550,40 +4585,70 @@
         "owner": "internal-data-bridge"
       }
     },
-    "effd6241-b3d4-5665-81be-52ae3477106f": {
-      "id": "effd6241-b3d4-5665-81be-52ae3477106f",
+    "SitePage /comingsoon/": {
+      "jsonName": "comingsoon-3a9",
+      "internalComponentName": "ComponentComingsoon",
+      "path": "/comingsoon/",
+      "component": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/comingsoon.js",
+      "componentChunkName": "component---src-pages-comingsoon-js",
+      "context": {},
+      "pluginCreator___NODE": "f6a3c2e6-0eb9-53cf-b18c-34f375369a99",
+      "pluginCreatorId": "f6a3c2e6-0eb9-53cf-b18c-34f375369a99",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/comingsoon.js",
+      "id": "SitePage /comingsoon/",
+      "parent": "SOURCE",
       "children": [],
-      "parent": "bed7b729-3986-53e8-a668-06af6fdc22fd",
       "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam nulla, dignissim non lacus a, volutpat efficitur lorem. Fusce non ligula cursus, luctus urna non, convallis libero. Maecenas odio orci, iaculis sit amet fringilla a, condimentum eu nisl. Duis lacinia arcu ac ipsum pretium eleifend. Vivamus magna magna, condimentum vulputate suscipit eu, consectetur quis quam. Integer ex dui, mattis sed feugiat vel, consectetur in metus. Vestibulum pharetra justo tellus, eu sagittis eros imperdiet vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor ac felis sit amet consectetur. Maecenas id aliquet lorem, at blandit nulla. Sed sollicitudin, dui vitae posuere maximus, magna augue porta orci, et fringilla sem felis vitae erat. Duis pharetra leo id euismod faucibus. Integer non pulvinar metus, in gravida mi. Donec in tellus egestas, pharetra odio eget, rhoncus nulla.\n\nQuisque semper augue nec faucibus vestibulum. Mauris in felis ultricies, aliquet sapien in, feugiat libero. Etiam maximus eros risus, eu placerat nibh congue tristique. Vestibulum tincidunt bibendum elit, eget vestibulum enim aliquet at. Maecenas maximus velit nisl. Suspendisse rhoncus, orci in sagittis iaculis, est quam porta urna, et condimentum magna purus sit amet arcu. Quisque eu rutrum nibh, nec tincidunt orci. Sed quis augue dolor. Cras lobortis, ex eu porttitor scelerisque, lorem elit bibendum metus, et porttitor ex nunc sollicitudin arcu.\n\nPhasellus sit amet finibus leo. Nunc lobortis, augue eget blandit faucibus, velit ante interdum justo, vestibulum rhoncus risus dui at velit. Nullam convallis consectetur nunc, sed feugiat arcu consectetur eu. Sed ac fringilla tellus. Duis auctor, lectus sit amet vestibulum finibus, est magna semper nisi, porta aliquet leo mi vel libero. In aliquam tincidunt cursus. Nullam laoreet dapibus quam, ut dignissim neque vehicula ut. Suspendisse at ante sit amet libero dictum placerat et vel est. Morbi fermentum nisl venenatis posuere sagittis. Aliquam eget mi quis velit maximus pellentesque sit amet a ex.\n\nOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent tristique felis nec congue lacinia. Aliquam ullamcorper, lorem nec bibendum suscipit, ligula sapien pellentesque metus, et vehicula nulla ante elementum erat. Curabitur in elit vitae eros consequat suscipit in et lectus. Mauris mauris quam, cursus id malesuada in, ultricies ac lacus. Fusce et tortor vitae nunc pellentesque tincidunt. Maecenas commodo a tellus vel faucibus. Nunc id vehicula urna. Nunc venenatis dui lacus, aliquet imperdiet enim ultricies eu. Ut at aliquam lectus. Maecenas placerat finibus facilisis. Curabitur tempus dapibus ex, sed tincidunt lacus dignissim ut. Vestibulum at aliquet libero.\n\nFusce at ligula ultricies, ultrices est in, accumsan magna. Aliquam consectetur eget libero quis efficitur. Maecenas posuere facilisis nisl, vitae fringilla diam iaculis eu. Nullam tempor in lectus in convallis. Pellentesque est sem, imperdiet vitae rutrum ac, convallis in urna. Vestibulum lacinia ante et nunc mollis, sit amet bibendum quam tincidunt. Praesent convallis leo et dui lacinia, vel sollicitudin est condimentum. Nullam euismod felis vitae interdum feugiat. Sed venenatis tristique magna, in porta eros sodales quis. Ut ut laoreet nunc. Proin sed velit turpis. Donec lobortis interdum mollis. Sed semper viverra magna sagittis tempor. Fusce vehicula, tellus nec vulputate sodales, sapien lectus consectetur nisi, vitae dictum magna libero id dui. Sed ut est vitae purus mollis condimentum. Aliquam tristique ante quis aliquam sodales.\n\nDuis nec scelerisque quam. Nullam ac pharetra nisi, eu elementum justo. Fusce facilisis turpis sit amet tortor semper suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla mattis dictum erat id dapibus. Vivamus vitae laoreet felis. Pellentesque sollicitudin libero sem, ac tincidunt libero dignissim eget. Donec dapibus efficitur ligula, vitae porta enim commodo a. Curabitur nisl nibh, tempor eget luctus sit amet, iaculis vel diam. Proin rutrum molestie efficitur. Vivamus at volutpat quam. Phasellus eu lectus a nibh congue auctor. Aenean erat turpis, sodales non posuere nec, feugiat non ligula. Vivamus semper scelerisque mattis. Nulla placerat massa tortor, sit amet luctus nunc rhoncus vulputate.\n\n\n![](/img/youtube-cover-ep-1.jpg)\n\nProin orci tellus, porta in dapibus vel, pretium et nunc. Cras semper et eros vestibulum cursus. Nam interdum dapibus enim, ac scelerisque nisi pharetra nec. Fusce vestibulum aliquet iaculis. Donec non consectetur nulla. Fusce congue, sem quis posuere luctus, quam lectus efficitur eros, vitae viverra sapien orci quis neque. Donec vitae velit eget risus feugiat blandit a quis elit. Curabitur convallis eros nec elit tincidunt tempor. Nulla justo tortor, congue ut elementum vel, scelerisque ut nisi. Pellentesque nec neque magna. In ultrices tortor sit amet velit mollis, quis cursus sapien rhoncus. Fusce ut tellus sed felis gravida tempus. Pellentesque vitae elit vel sapien posuere blandit maximus vitae magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur risus massa, dignissim convallis finibus nec, luctus in libero. Sed finibus, arcu ut ultrices aliquet, felis arcu sodales odio, ac consequat ipsum ex non massa.\n\nVivamus sollicitudin libero at augue vestibulum, id elementum urna molestie. Praesent nisl ante, tristique et varius rutrum, faucibus id lacus. Quisque cursus sapien mauris, at cursus metus tempor vel. Maecenas tempus nisi et est molestie cursus. Maecenas luctus augue sem, elementum viverra magna aliquam in. Phasellus lacinia ligula ac quam volutpat, ac mollis mauris sodales. Vivamus tempor varius felis at feugiat. Nulla vel ipsum semper, egestas mi at, lobortis sem. Integer orci enim, tempor non blandit nec, aliquet hendrerit nibh. Cras nisl neque, sollicitudin in rutrum vel, bibendum et felis. Duis sed accumsan ante. Nunc nec dignissim dolor.\n\nPhasellus elementum erat in rhoncus lobortis. Curabitur feugiat, est non accumsan laoreet, turpis ligula ultricies sapien, in convallis purus massa sed dui. Praesent semper, purus eget condimentum cursus, est dui fermentum leo, eget pellentesque lorem dolor interdum augue. Ut imperdiet, augue eu aliquet tincidunt, elit sem tempor neque, nec mollis leo ligula ultricies dui. Vestibulum facilisis ac velit quis blandit. Pellentesque fringilla, mi eu finibus suscipit, augue leo interdum ipsum, eget tincidunt massa urna elementum mauris. Praesent mauris diam, egestas sit amet lobortis nec, commodo ut sapien. Curabitur tincidunt non eros a egestas. Proin sit amet tellus id orci blandit mollis. Nam ut lacinia lectus, vitae dignissim ipsum. Ut nec risus finibus, efficitur orci et, sodales justo. Curabitur odio dolor, feugiat sed hendrerit at, lacinia vel leo. Vivamus vel tortor augue.\n\nFusce maximus lobortis sapien vel dignissim. Cras non ipsum volutpat, consequat nunc sit amet, hendrerit lacus. Quisque tempus tortor ut ex pulvinar semper. Maecenas eget sagittis orci, nec rhoncus risus. Nulla posuere efficitur lobortis. Maecenas egestas nunc diam, nec pulvinar libero pharetra eu. Vestibulum a nisi semper augue rutrum consectetur et vitae leo. In eu neque ultricies, tempor augue vitae, mattis odio. Nam varius imperdiet lorem, nec maximus massa consectetur sollicitudin. Maecenas sem leo, pharetra lobortis mi vitae, rhoncus imperdiet dolor.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "87eecccf600c34d8c00c711cc74980ab",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Mobile First",
-        "templateKey": "blog-post",
-        "date": "2019-06-13T18:25:05.431Z",
-        "discoverable": "no",
-        "header": "/img/hhf-book.png",
-        "description": "This blog will share the latest trends and ideas in the design world keeping you informed with your design decisions.",
-        "recommendedName": "What Is Cancer?",
-        "recommendedImage": "/img/sleep.jpg",
-        "recommendedLink": "https://www.jaydenszekely.com/jayden",
-        "tags": [
-          "home"
-        ],
-        "_PARENT": "bed7b729-3986-53e8-a668-06af6fdc22fd"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam nulla, dignissim non lacus a, volutpat efficitur lorem. Fusce non ligula cursus, luctus urna non, convallis libero. Maecenas odio orci, iaculis sit amet fringilla a, condimentum eu nisl. Duis lacinia arcu ac ipsum pretium eleifend. Vivamus magna magna, condimentum vulputate suscipit eu, consectetur quis quam. Integer ex dui, mattis sed feugiat vel, consectetur in metus. Vestibulum pharetra justo tellus, eu sagittis eros imperdiet vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor ac felis sit amet consectetur. Maecenas id aliquet lorem, at blandit nulla. Sed sollicitudin, dui vitae posuere maximus, magna augue porta orci, et fringilla sem felis vitae erat. Duis pharetra leo id euismod faucibus. Integer non pulvinar metus, in gravida mi. Donec in tellus egestas, pharetra odio eget, rhoncus nulla.\n\nQuisque semper augue nec faucibus vestibulum. Mauris in felis ultricies, aliquet sapien in, feugiat libero. Etiam maximus eros risus, eu placerat nibh congue tristique. Vestibulum tincidunt bibendum elit, eget vestibulum enim aliquet at. Maecenas maximus velit nisl. Suspendisse rhoncus, orci in sagittis iaculis, est quam porta urna, et condimentum magna purus sit amet arcu. Quisque eu rutrum nibh, nec tincidunt orci. Sed quis augue dolor. Cras lobortis, ex eu porttitor scelerisque, lorem elit bibendum metus, et porttitor ex nunc sollicitudin arcu.\n\nPhasellus sit amet finibus leo. Nunc lobortis, augue eget blandit faucibus, velit ante interdum justo, vestibulum rhoncus risus dui at velit. Nullam convallis consectetur nunc, sed feugiat arcu consectetur eu. Sed ac fringilla tellus. Duis auctor, lectus sit amet vestibulum finibus, est magna semper nisi, porta aliquet leo mi vel libero. In aliquam tincidunt cursus. Nullam laoreet dapibus quam, ut dignissim neque vehicula ut. Suspendisse at ante sit amet libero dictum placerat et vel est. Morbi fermentum nisl venenatis posuere sagittis. Aliquam eget mi quis velit maximus pellentesque sit amet a ex.\n\nOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent tristique felis nec congue lacinia. Aliquam ullamcorper, lorem nec bibendum suscipit, ligula sapien pellentesque metus, et vehicula nulla ante elementum erat. Curabitur in elit vitae eros consequat suscipit in et lectus. Mauris mauris quam, cursus id malesuada in, ultricies ac lacus. Fusce et tortor vitae nunc pellentesque tincidunt. Maecenas commodo a tellus vel faucibus. Nunc id vehicula urna. Nunc venenatis dui lacus, aliquet imperdiet enim ultricies eu. Ut at aliquam lectus. Maecenas placerat finibus facilisis. Curabitur tempus dapibus ex, sed tincidunt lacus dignissim ut. Vestibulum at aliquet libero.\n\nFusce at ligula ultricies, ultrices est in, accumsan magna. Aliquam consectetur eget libero quis efficitur. Maecenas posuere facilisis nisl, vitae fringilla diam iaculis eu. Nullam tempor in lectus in convallis. Pellentesque est sem, imperdiet vitae rutrum ac, convallis in urna. Vestibulum lacinia ante et nunc mollis, sit amet bibendum quam tincidunt. Praesent convallis leo et dui lacinia, vel sollicitudin est condimentum. Nullam euismod felis vitae interdum feugiat. Sed venenatis tristique magna, in porta eros sodales quis. Ut ut laoreet nunc. Proin sed velit turpis. Donec lobortis interdum mollis. Sed semper viverra magna sagittis tempor. Fusce vehicula, tellus nec vulputate sodales, sapien lectus consectetur nisi, vitae dictum magna libero id dui. Sed ut est vitae purus mollis condimentum. Aliquam tristique ante quis aliquam sodales.\n\nDuis nec scelerisque quam. Nullam ac pharetra nisi, eu elementum justo. Fusce facilisis turpis sit amet tortor semper suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla mattis dictum erat id dapibus. Vivamus vitae laoreet felis. Pellentesque sollicitudin libero sem, ac tincidunt libero dignissim eget. Donec dapibus efficitur ligula, vitae porta enim commodo a. Curabitur nisl nibh, tempor eget luctus sit amet, iaculis vel diam. Proin rutrum molestie efficitur. Vivamus at volutpat quam. Phasellus eu lectus a nibh congue auctor. Aenean erat turpis, sodales non posuere nec, feugiat non ligula. Vivamus semper scelerisque mattis. Nulla placerat massa tortor, sit amet luctus nunc rhoncus vulputate.\n\n\n![](/img/youtube-cover-ep-1.jpg)\n\nProin orci tellus, porta in dapibus vel, pretium et nunc. Cras semper et eros vestibulum cursus. Nam interdum dapibus enim, ac scelerisque nisi pharetra nec. Fusce vestibulum aliquet iaculis. Donec non consectetur nulla. Fusce congue, sem quis posuere luctus, quam lectus efficitur eros, vitae viverra sapien orci quis neque. Donec vitae velit eget risus feugiat blandit a quis elit. Curabitur convallis eros nec elit tincidunt tempor. Nulla justo tortor, congue ut elementum vel, scelerisque ut nisi. Pellentesque nec neque magna. In ultrices tortor sit amet velit mollis, quis cursus sapien rhoncus. Fusce ut tellus sed felis gravida tempus. Pellentesque vitae elit vel sapien posuere blandit maximus vitae magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur risus massa, dignissim convallis finibus nec, luctus in libero. Sed finibus, arcu ut ultrices aliquet, felis arcu sodales odio, ac consequat ipsum ex non massa.\n\nVivamus sollicitudin libero at augue vestibulum, id elementum urna molestie. Praesent nisl ante, tristique et varius rutrum, faucibus id lacus. Quisque cursus sapien mauris, at cursus metus tempor vel. Maecenas tempus nisi et est molestie cursus. Maecenas luctus augue sem, elementum viverra magna aliquam in. Phasellus lacinia ligula ac quam volutpat, ac mollis mauris sodales. Vivamus tempor varius felis at feugiat. Nulla vel ipsum semper, egestas mi at, lobortis sem. Integer orci enim, tempor non blandit nec, aliquet hendrerit nibh. Cras nisl neque, sollicitudin in rutrum vel, bibendum et felis. Duis sed accumsan ante. Nunc nec dignissim dolor.\n\nPhasellus elementum erat in rhoncus lobortis. Curabitur feugiat, est non accumsan laoreet, turpis ligula ultricies sapien, in convallis purus massa sed dui. Praesent semper, purus eget condimentum cursus, est dui fermentum leo, eget pellentesque lorem dolor interdum augue. Ut imperdiet, augue eu aliquet tincidunt, elit sem tempor neque, nec mollis leo ligula ultricies dui. Vestibulum facilisis ac velit quis blandit. Pellentesque fringilla, mi eu finibus suscipit, augue leo interdum ipsum, eget tincidunt massa urna elementum mauris. Praesent mauris diam, egestas sit amet lobortis nec, commodo ut sapien. Curabitur tincidunt non eros a egestas. Proin sit amet tellus id orci blandit mollis. Nam ut lacinia lectus, vitae dignissim ipsum. Ut nec risus finibus, efficitur orci et, sodales justo. Curabitur odio dolor, feugiat sed hendrerit at, lacinia vel leo. Vivamus vel tortor augue.\n\nFusce maximus lobortis sapien vel dignissim. Cras non ipsum volutpat, consequat nunc sit amet, hendrerit lacus. Quisque tempus tortor ut ex pulvinar semper. Maecenas eget sagittis orci, nec rhoncus risus. Nulla posuere efficitur lobortis. Maecenas egestas nunc diam, nec pulvinar libero pharetra eu. Vestibulum a nisi semper augue rutrum consectetur et vitae leo. In eu neque ultricies, tempor augue vitae, mattis odio. Nam varius imperdiet lorem, nec maximus massa consectetur sollicitudin. Maecenas sem leo, pharetra lobortis mi vitae, rhoncus imperdiet dolor.\n",
-      "fileAbsolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/blog/mobile-first.md",
-      "fields": {
-        "slug": "/blog/mobile-first/"
+        "type": "SitePage",
+        "contentDigest": "105b6f53a9490978d0e72004aadeb43f",
+        "description": "f6a3c2e6-0eb9-53cf-b18c-34f375369a99",
+        "owner": "internal-data-bridge"
       }
+    },
+    "334cd6b3-15bb-5dc3-b435-997aa460b5fa": {
+      "id": "334cd6b3-15bb-5dc3-b435-997aa460b5fa",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f0fc163c3673bc8c95a513b55aac58f9",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/comingsoon.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/comingsoon.js",
+      "relativePath": "comingsoon.js",
+      "extension": "js",
+      "size": 459,
+      "prettySize": "459 B",
+      "modifiedTime": "2019-08-14T02:25:24.708Z",
+      "accessTime": "2019-08-14T02:25:24.707Z",
+      "changeTime": "2019-08-14T02:25:24.708Z",
+      "birthTime": "2019-08-14T02:24:41.396Z",
+      "root": "/",
+      "dir": "/Users/jaydenszekely/Development/jaydenszekely/src/pages",
+      "base": "comingsoon.js",
+      "ext": ".js",
+      "name": "comingsoon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 23994356,
+      "blocks": 8,
+      "atimeMs": 1565749524707.3005,
+      "mtimeMs": 1565749524707.8574,
+      "ctimeMs": 1565749524707.8574,
+      "birthtimeMs": 1565749481395.9688,
+      "atime": "2019-08-14T02:25:24.707Z",
+      "mtime": "2019-08-14T02:25:24.708Z",
+      "ctime": "2019-08-14T02:25:24.708Z",
+      "birthtime": "2019-08-14T02:24:41.396Z"
     }
   },
   "status": {
@@ -4592,18 +4657,6 @@
   },
   "componentDataDependencies": {
     "nodes": {
-      "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": [
-        "/about/"
-      ],
-      "ca250394-f2f2-5e21-b3f6-c6f6605f5fcb": [
-        "/course/"
-      ],
-      "df0b2ad0-0419-5d6e-9631-999c911f3931": [
-        "/jayden/"
-      ],
-      "576c1608-0625-5c33-b071-c0b97ccc8337": [
-        "/jargon/"
-      ],
       "Site": [
         "/tags/",
         "/tags/home/",
@@ -4621,11 +4674,23 @@
       "effd6241-b3d4-5665-81be-52ae3477106f": [
         "/blog/mobile-first/"
       ],
-      "f63e7d4d-db64-50b7-b1c5-3d7fca33130d": [
-        "/work-with-me/cv/"
+      "1d45ef0a-ab11-53d4-9548-0cfbe3e1a9cc": [
+        "/about/"
+      ],
+      "ca250394-f2f2-5e21-b3f6-c6f6605f5fcb": [
+        "/course/"
+      ],
+      "576c1608-0625-5c33-b071-c0b97ccc8337": [
+        "/jargon/"
+      ],
+      "df0b2ad0-0419-5d6e-9631-999c911f3931": [
+        "/jayden/"
       ],
       "344f5167-e029-5481-a3eb-30f1d2f0cf53": [
         "/work-with-me/"
+      ],
+      "f63e7d4d-db64-50b7-b1c5-3d7fca33130d": [
+        "/work-with-me/cv/"
       ],
       "4935f1f2-85c2-59a1-acba-03677e785625": [
         "/"
@@ -4661,21 +4726,21 @@
     }
   },
   "jsonDataPaths": {
-    "jargon-12a": "295/path---jargon-12-a-e0d-27Q4FnPNgXdzZYozX2CGButUYPQ",
-    "about-f34": "162/path---about-f-34-4c2-nPswOlM0eJ6KgxFbRYYx7aK5V1c",
-    "jayden-efd": "401/path---jayden-efd-f34-DBLbxa2NgB8LzXsVYIZ53PQtiT0",
-    "course-33d": "783/path---course-33-d-7dd-yZpj53NucNGiyou11wYJ0FaXo",
     "tags-275": "40/path---tags-275-fc0-ZQovEfcot4ygfGjMC5XDe3rW0",
-    "blog-f7a": "195/path---blog-f-7-a-05d-D5EFFVGRAfVKvBhjVT08UidW1U",
     "blog-mobile-first-301": "707/path---blog-mobile-first-301-372-BLRYsEpgKpHrgrHiAEcbHg18YE",
-    "work-with-me-cv-4f8": "20/path---work-with-me-cv-4-f-8-d93-rx1pS76OrkNoauTHj9EhRtX30",
+    "about-f34": "162/path---about-f-34-4c2-nPswOlM0eJ6KgxFbRYYx7aK5V1c",
+    "course-33d": "783/path---course-33-d-7dd-yZpj53NucNGiyou11wYJ0FaXo",
+    "jargon-12a": "295/path---jargon-12-a-e0d-27Q4FnPNgXdzZYozX2CGButUYPQ",
+    "blog-f7a": "195/path---blog-f-7-a-05d-D5EFFVGRAfVKvBhjVT08UidW1U",
+    "jayden-efd": "401/path---jayden-efd-f34-DBLbxa2NgB8LzXsVYIZ53PQtiT0",
     "work-with-me-b37": "754/path---work-with-me-b-37-f8b-mx72DYEySDvsH7C9OLRWgbxSSk",
+    "work-with-me-cv-4f8": "20/path---work-with-me-cv-4-f-8-d93-rx1pS76OrkNoauTHj9EhRtX30",
     "portfolio-964": "629/path---portfolio-964-7f6-kW2R42Xi0Snll6NxODPG6zCpnU",
     "index": "194/path---index-6a9-qoMXWZNWHr7q6EB1fCM6S1glEo",
     "portfolio-kate-smith-4eb": "509/path---portfolio-kate-smith-4-eb-c83-wh8E7cSroEfEalecq5lFY4YbFI",
     "tags-home-8b5": "682/path---tags-home-8-b-5-d7e-GnNFxqqbSD9zTQTr2NjI5pgLy14",
-    "tags-logo-371": "302/path---tags-logo-371-d3f-4rAQ1zouM2Lc9ULRieodnuNTwWQ",
     "portfolio-stranger-25d": "46/path---portfolio-stranger-25-d-97b-0SR3W5Ip40LO8w7e5tlP2AWxXTg",
+    "tags-logo-371": "302/path---tags-logo-371-d3f-4rAQ1zouM2Lc9ULRieodnuNTwWQ",
     "portfolio-what-the-cancer-4c7": "691/path---portfolio-what-the-cancer-4-c-7-157-UsuI0Wn8WQ706wZQ6Rxevl77MJQ",
     "tags-business-cards-27d": "700/path---tags-business-cards-27-d-354-7PdXmViTvUgLYfQ2kdpCLJeFSY",
     "tags-graphic-design-3a2": "521/path---tags-graphic-design-3-a-2-3cf-IV1fVbpjax9oot4eNRKIpu4bwc",
@@ -4689,24 +4754,26 @@
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "listen-498": "738/path---listen-498-c78-NZuapzHg3X9TaN1iIixfv1W23E",
-    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-copy-069": "262/path---404-copy-069-835-NZuapzHg3X9TaN1iIixfv1W23E",
+    "comingsoon-3a9": "803/path---comingsoon-3-a-9-2da-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js": {
-      "query": "query HomePage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      image\n      announcementBlurb\n      announcementLink\n      announcementImage\n      imageOne\n      imageTwo\n      imageThree\n      imageFour\n      imageFive\n      imageSix\n      imageSeven\n      imageEight\n      imageNine\n      imageTen\n      imageEleven\n      imageTwelve\n      imageThirteen\n      imageFourteen\n      imageFifteen\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js"
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js": {
+      "query": "query AboutPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      full_image\n      leftBackground\n      leftTitle\n      leftLink\n      rightTitle\n      rightDescription\n      rightUrl\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js": {
       "query": "query IndexQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {templateKey: {eq: \"blog-post\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          title\n          templateKey\n          header\n          description\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/all-articles.js"
     },
+    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js": {
+      "query": "query HomePage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      image\n      announcementBlurb\n      announcementLink\n      announcementImage\n      imageOne\n      imageTwo\n      imageThree\n      imageFour\n      imageFive\n      imageSix\n      imageSeven\n      imageEight\n      imageNine\n      imageTen\n      imageEleven\n      imageTwelve\n      imageThirteen\n      imageFourteen\n      imageFifteen\n    }\n  }\n}\n",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/home.js"
+    },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js": {
       "query": "query BlogPostByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      title\n      description\n      tags\n      header\n      recommendedName\n      recommendedImage\n      recommendedLink\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/blog-post.js"
-    },
-    "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js": {
-      "query": "query AboutPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    frontmatter {\n      title\n      full_image\n      leftBackground\n      leftTitle\n      leftLink\n      rightTitle\n      rightDescription\n      rightUrl\n    }\n  }\n}\n",
-      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/templates/about-page.js"
     },
     "/Users/jaydenszekely/Development/jaydenszekely/src/templates/portfolio-page.js": {
       "query": "query PortfolioQuery {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {discoverable: {eq: \"yes\"}}}) {\n    edges {\n      node {\n        excerpt(pruneLength: 100)\n        id\n        fields {\n          slug\n        }\n        frontmatter {\n          portfolioDescription\n          discoverable\n          image\n          portfolioName\n          portfolioImage\n          jobDate\n          portfolioLink\n          date(formatString: \"MMMM DD, YYYY\")\n        }\n      }\n    }\n  }\n}\n",
@@ -4739,6 +4806,10 @@
     "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags/index.js": {
       "query": "query TagsQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(limit: 1000) {\n    group(field: frontmatter___tags) {\n      fieldValue\n      totalCount\n    }\n  }\n}\n",
       "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/tags/index.js"
+    },
+    "/Users/jaydenszekely/Development/jaydenszekely/src/pages/comingsoon.js": {
+      "query": "",
+      "componentPath": "/Users/jaydenszekely/Development/jaydenszekely/src/pages/comingsoon.js"
     }
   },
   "staticQueryComponents": {}
