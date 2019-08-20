@@ -1,11 +1,12 @@
 import React from 'react'
 import Helmet from 'react-helmet'
+import './all.sass'
 import Media from 'react-media'
 import Navbar from '../components/Navbar'
 import Sidebar from '../components/Sidebar'
 import Footer from '../templates/components/footer'
-import Banner from '../templates/components/banner'
-import './all.sass'
+// import Banner from '../templates/components/banner'
+
 
 const TemplateWrapper = ({ children, backgroundImg }) => (
   <div>

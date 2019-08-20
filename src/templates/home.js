@@ -83,7 +83,7 @@ export const HomePageTemplate = ({
                 Creating clear solutions for clients
               </li>
             </ul>
-        </div>
+      </div>
       </div>
       <div className="article big-padding secondary" >
         <div className="thin-article-left">
