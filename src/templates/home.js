@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Email from './components/email'
-import Banner from './components/banner'
+import TextBanner from './components/textBanner'
 import Footer from './components/footer'
 import Quote from './components/Quote'
 import Montage from '../components/Montage'
@@ -45,7 +45,13 @@ export const HomePageTemplate = ({
         <title>Jayden Szekey - Creative Media</title>
         <meta name="description" content={"Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
       </Helmet>
-      <Banner background={image}>{title}</Banner>
+      
+      <TextBanner background={image}>
+        Hi, I'm Jayden Szekely. <br />
+        An audacious visual designer<br />
+        & nomadic storyteller
+      </TextBanner>
+      <img src="/img/portfolioPic.jpg" className="full"/>
       <div className="article big-padding secondary" >
         <div className="thin-article-left">
           <PageContent content={content}/>

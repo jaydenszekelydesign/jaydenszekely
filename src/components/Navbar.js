@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
 import logo from '../img/jayden-outline.svg'
 import Media from 'react-media'
 
@@ -10,7 +9,7 @@ const Navbar = () => (
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <figure className="image">
-            <img src={logo} alt="Jayden Szekely" className="logo" style={{ width: '20px' }} />
+            <img src={logo} alt="Jayden Szekely" className="logo" style={{ width: '25px' }} />
           </figure>
         </Link>
         <Media query={{ maxWidth: 699 }}>
@@ -21,7 +20,7 @@ const Navbar = () => (
               </div>
             ) : (
               <div className="navigation-links">
-                <Link className="navigation-item" to="/blog">Blog</Link><Link className="navigation-item" to="/comingsoon">Gallery</Link><Link className="navigation-item" to="/comingsoon">Contact</Link>
+                <Link className="navigation-item" to="/blog">Blog</Link><br /><Link className="navigation-item" to="/comingsoon">Gallery</Link><br /><Link className="navigation-item" to="/portfolio">Portfolio</Link><br /><Link className="navigation-item" to="/comingsoon">Contact</Link>
               </div>
             )
           }

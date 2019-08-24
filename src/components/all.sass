@@ -5,6 +5,7 @@
 @import typography
 @import jaydenStrap
 @import bodyContent
+@import article_preview
 
 
 
@@ -190,45 +191,7 @@ header
 
 
 
-.listing
-  
-  color: $white
-  background-size: cover
-  background-position: center
-  margin-bottom: 0px
-  margin-top: 0px
-  text-align: left
-  display: inline-block
-  width: $w-o3
-  padding-left: 0
-  padding-right: 0
-  margin-left: $w-o1
-  margin-bottom: 40px
-  overflow: hidden
 
-.glaze
-  background-color: rgba(0,0,0,0.4)
-  padding-top: 10vh
-  padding-bottom: 10vh
-  font-size: inherit
-  color: #fff
-  display: relative
-  width: 100%
-  padding-left: $w-o2
-  padding-right: $w-o2
-  transition-duration: 0.8s
-
-.no-margin-bottom
-  margin-bottom: 0
-
-@media screen and (min-width: $break-large) 
-  .glaze:hover
-    background-color: rgba(0,0,0,0.1)
-
-@media screen and (max-width: $break-small) 
-  .glaze
-    padding-top: 75px
-    padding-bottom: 75px
 
 
 .secondHalf
@@ -238,7 +201,12 @@ header
   margin-top: -4em
   
 .full 
-  width: 100%
+  width: 85%
+  padding-left: 7.5%
+  padding-right: 7.5%
+  padding-top: 5%
+  padding-bottom: 5%
+  background: $tan
   margin-top: 0
   margin-bottom: 0
   display: block
@@ -299,15 +267,16 @@ header
   right: 0
   position: fixed
   text-align: right
-  margin-top: 35px
-  margin-right: 70px
+  margin-top: 10vh
+  margin-left: 0vw
+  margin-right: 7.5%
   z-index: 1100
 
   .navigation-item
-    padding-left: 20px
+    margin-left: 20px
     font-size: $sizeFour
-    font-weight: 400
-    color: white
+    font-weight: 300
+    color: $primary-invert
     line-height: 150%
 
 
@@ -386,7 +355,7 @@ header
 
   .full
     float: left
-    width: 100%
+    width: 90%
     padding: 0
     padding-top: 10vh
     padding-bottom: 10vh
@@ -401,7 +370,7 @@ header
   @media screen and (max-width: $break-small) 
     .full
     float: left
-    width: 100%
+    width: 90%
     padding: 0
     padding-top: 5vh
     padding-bottom: 5vh
@@ -441,6 +410,7 @@ footer
     float: right
     bottom: 0
     
+
 
 
 // Side Bar

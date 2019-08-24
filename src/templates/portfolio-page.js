@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import Helmet from 'react-helmet'
-import Banner from './components/banner'
+import TextBanner from './components/textBanner'
 import Layout from '../components/Layout'
 
 export default class Portfolio extends React.Component {
@@ -17,7 +17,7 @@ export default class Portfolio extends React.Component {
           <title>My Work (Portfolio) - Jayden Szekey - Creative Media</title>
           <meta name="description" content={"View my Portfolio – Jayden Szekely - Creative Media, Web Designer, UI Designer, Graphic Designer, Video Creator, Film Maker, Photographer, Whangarei, Northland, New Zealand + Digital Nomad"}/>
         </Helmet>
-        <Banner>My Work</Banner>
+        <TextBanner>My Work</TextBanner>
         <div className="article big-padding secondary" >
         <div className="left">
           <h1>01.</h1>

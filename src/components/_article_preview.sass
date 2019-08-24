@@ -1,0 +1,44 @@
+.listing
+  color: $white
+  background-size: cover
+  background-position: center
+  background-color: $primary-invert
+  margin-bottom: 0px
+  margin-top: 0px
+  text-align: left
+  display: inline-block
+  position: relative
+  width: 50vw
+  padding-left: 0
+  padding-right: 0
+  margin-left: 0
+  margin-bottom: 0px
+  margin-top: 0px
+  overflow: hidden
+
+.glaze
+  background-color: rgba(0,0,0,0.2)
+  padding-top: 25vw
+  padding-bottom: 25vw
+  font-size: inherit
+  text-align: center
+  text-transform: uppercase
+  color: #fff
+  display: absolute
+  width: 30vw
+  padding-left: 10vw
+  padding-right: 10vw
+   margin-bottom: 0px
+  transition-duration: 0.8s
+
+.no-margin-bottom
+  margin-bottom: 0
+
+@media screen and (min-width: $break-large) 
+  .glaze:hover
+    background-color: rgba(0,0,0,0.1)
+
+@media screen and (max-width: $break-small) 
+  .glaze
+    padding-top: 75px
+    padding-bottom: 75px

@@ -1,6 +1,6 @@
 ---
 templateKey: home
-title: Jayden Szekely
+title: Hi,  I'm Jayden Szekely. Audacious visual designer & nomadic story teller
 image: /img/gradient-web.jpg
 imageOne: /img/katesmith.jpg
 imageTwo: /img/stranger-home-web-res.jpg
